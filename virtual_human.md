@@ -12,8 +12,7 @@
 [arxiv 2025.01] PERSE: Personalized 3D Generative Avatars from A Single Portrait  [[PDF](https://arxiv.org/abs/2412.21206),[Page](https://hyunsoocha.github.io/perse/)] ![Code](https://img.shields.io/github/stars/snuvclab/perse?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
-
+[arxiv 2026.03] NBAvatar: Neural Billboards Avatars with Realistic Hand-Face Interaction  [[PDF](https://arxiv.org/abs/2603.12063)]
 
 ## Body 
 
@@ -154,7 +153,10 @@
 [arxiv 2026.03]  U-Mind: A Unified Framework for Real-Time Multimodal Interaction with Audiovisual Generation [[PDF](https://arxiv.org/abs/2602.23739)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
+[arxiv 2026.03] LaMoGen: Language to Motion Generation Through LLM-Guided Symbolic Inference  [[PDF](https://arxiv.org/abs/2603.11605),[Page](https://jjkislele.github.io/LaMoGen/)]
+[arxiv 2026.03] Learning to Assist: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning  [[PDF](https://arxiv.org/abs/2603.11346),[Page](https://yutoshibata07.github.io/AssistMimic-projectpage/)]
+[arxiv 2026.03] PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization  [[PDF](https://arxiv.org/abs/2603.13228),[Page](https://mael-zys.github.io/PhysMoDPO/)]
+[arxiv 2026.03] InterEdit: Navigating Text-Guided Multi-Human 3D Motion Editing  [[PDF](https://arxiv.org/abs/2603.13082),[Page](https://github.com/YNG916/InterEdit)] ![Code](https://img.shields.io/github/stars/YNG916/InterEdit?style=social&label=Star)
 
 ## audio-to-gesture 
 [arxiv 2024.10] Emphasizing Semantic Consistency of Salient Posture for Speech-Driven Gesture Generation  [[PDF](https://arxiv.org/abs/2410.13786)]
@@ -296,7 +298,7 @@
 [arxiv 2026.01]  InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions [[PDF](https://arxiv.org/abs/2602.06035),[Page](https://sirui-xu.github.io/InterPrior/)] 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
+[arxiv 2026.03] Hoi3DGen: Generating High-Quality Human-Object-Interactions in 3D  [[PDF](https://arxiv.org/abs/2603.12126)]
 
 ## Interaction Detection 
 
@@ -316,7 +318,7 @@
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
+[arxiv 2026.03] Show, Don't Tell: Detecting Novel Objects by Watching Human Videos  [[PDF](https://arxiv.org/abs/2603.12751)]
 
 ## environment 
 [arxiv 2024.10] DepthSplat：Connecting Gaussian Splatting and Depth  [[PDF](https://arxiv.org/abs/2410.13862),[Page](https://haofeixu.github.io/depthsplat/)]
@@ -359,3 +361,5 @@
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.03] Hierarchical Granularity Alignment and State Space Modeling for Robust Multimodal AU Detection in the Wild  [[PDF](https://arxiv.org/abs/2603.11306)]
+[arxiv 2026.03] A Two-Stage Dual-Modality Model for Facial Emotional Expression Recognition  [[PDF](https://arxiv.org/abs/2603.12221),[Page](https://affective-behavior-analysis-in-the-wild.github.io/10th/)]
