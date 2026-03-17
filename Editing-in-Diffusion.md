@@ -3712,6 +3712,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03]  BinaryAttention: One-Bit QK-Attention for Vision and Diffusion Transformers [[PDF](https://arxiv.org/abs/2603.09582),[Page](https://github.com/EdwardChasel/BinaryAttention)] ![Code](https://img.shields.io/github/stars/EdwardChasel/BinaryAttention?style=social&label=Star)
 
+[arxiv 2026.03] Just-in-Time: Training-Free Spatial Acceleration for Diffusion Transformers  [[PDF](https://arxiv.org/abs/2603.10744)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3888,6 +3889,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.01]  GenArena: How Can We Achieve Human-Aligned Evaluation for Visual Generation Tasks? [[PDF](https://arxiv.org/abs/2602.06013),[Page](https://genarena.github.io/)] ![Code](https://img.shields.io/github/stars/ruihanglix/genarena?style=social&label=Star)
 
 [arxiv 2026.01] RISE-Video: Can Video Generators Decode Implicit World Rules?  [[PDF](https://arxiv.org/abs/2602.05986),[Page](https://github.com/VisionXLab/RISE-Video)] ![Code](https://img.shields.io/github/stars/VisionXLab/RISE-Video?style=social&label=Star)
+
+[arxiv 2026.03] Too Vivid to Be Real? Benchmarking and Calibrating Generative Color Fidelity  [[PDF](https://arxiv.org/abs/2603.10990),[Page](https://github.com/ZhengyaoFang/CFM)] ![Code](https://img.shields.io/github/stars/ZhengyaoFang/CFM?style=social&label=Star)
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
