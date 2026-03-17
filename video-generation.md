@@ -525,6 +525,20 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.02] TeleBoost: A Systematic Alignment Framework for High-Fidelity, Controllable, and Robust Video Generation  [[PDF](https://arxiv.org/abs/2602.07595)]
 
+[arxiv 2026.03] ViFeEdit: A Video-Free Tuner of Your Video Diffusion Transformer  [[PDF](https://arxiv.org/abs/2603.15478)]
+[arxiv 2026.03] WiT: Waypoint Diffusion Transformers via Trajectory Conflict Navigation  [[PDF](https://arxiv.org/abs/2603.15132)]
+[arxiv 2026.03] Next-Frame Decoding for Ultra-Low-Bitrate Image Compression with Video Diffusion Priors  [[PDF](https://arxiv.org/abs/2603.15129)]
+[arxiv 2026.03] GeoNVS: Geometry Grounded Video Diffusion for Novel View Synthesis  [[PDF](https://arxiv.org/abs/2603.14965)]
+[arxiv 2026.03] FAR-Drive: Frame-AutoRegressive Video Generation in Closed-Loop Autonomous Driving  [[PDF](https://arxiv.org/abs/2603.14938)]
+[arxiv 2026.03] LatSearch: Latent Reward-Guided Search for Faster Inference-Time Scaling in Video Diffusion  [[PDF](https://arxiv.org/abs/2603.14526)]
+[arxiv 2026.03] GenState-AI: State-Aware Dataset for Text-to-Video Retrieval on AI-Generated Videos  [[PDF](https://arxiv.org/abs/2603.14426)]
+[arxiv 2026.03] Early Failure Detection and Intervention in Video Diffusion Models  [[PDF](https://arxiv.org/abs/2603.14320)]
+[arxiv 2026.03] PhysAlign: Physics-Coherent Image-to-Video Generation through Feature and 3D Representation Alignment  [[PDF](https://arxiv.org/abs/2603.13770)]
+[arxiv 2026.03] LibraGen: Playing a Balance Game in Subject-Driven Video Generation  [[PDF](https://arxiv.org/abs/2603.13506)]
+[arxiv 2026.03] Draft-and-Target Sampling for Video Generation Policy  [[PDF](https://arxiv.org/abs/2603.13438)]
+[arxiv 2026.03] Event-Driven Video Generation  [[PDF](https://arxiv.org/abs/2603.13402)]
+[arxiv 2026.03] EchoLVFM: One-Step Video Generation via Latent Flow Matching for Echocardiogram Synthesis  [[PDF](https://arxiv.org/abs/2603.13967)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -988,6 +1002,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] MemRoPE: Training-Free Infinite Video Generation via Evolving Memory Tokens  [[PDF](https://arxiv.org/abs/2603.12513)]
 
+[arxiv 2026.03] Anchor Forcing: Anchor Memory and Tri-Region RoPE for Interactive Streaming Video Diffusion  [[PDF](https://arxiv.org/abs/2603.13405)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## cot
@@ -1253,6 +1269,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] FlowMotion: Training-Free Flow Guidance for Video Motion Transfer  [[PDF](https://arxiv.org/pdf/2603.06289)]
 
 [arxiv 2026.03]  Video2LoRA: Unified Semantic-Controlled Video Generation via Per-Reference-Video LoRA [[PDF](https://arxiv.org/pdf/2603.08210),[Page](https://github.com/BerserkerVV/Video2LoRA/)] ![Code](https://img.shields.io/github/stars/BerserkerVV/Video2LoRA/?style=social&label=Star)
+
+[arxiv 2026.03] Tri-Prompting: Video Diffusion with Unified Control over Scene, Subject, and Motion  [[PDF](https://arxiv.org/abs/2603.15614)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1562,6 +1580,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation  [[PDF](https://arxiv.org/abs/2603.11421)]
 [arxiv 2026.03] Geometry-Guided Camera Motion Understanding in VideoLLMs  [[PDF](https://arxiv.org/abs/2603.13119)]
 
+[arxiv 2026.03] CamLit: Unified Video Diffusion with Explicit Camera and Lighting Control  [[PDF](https://arxiv.org/abs/2603.14241)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## lighting 
@@ -1732,6 +1752,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.10]  MoA-VR: A Mixture-of-Agents System Towards All-in-One Video Restoration [[PDF](https://arxiv.org/abs/2510.08508),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] V-Bridge: Bridging Video Generative Priors to Versatile Few-shot Image Restoration  [[PDF](https://arxiv.org/abs/2603.13089),[Page](https://github.com/Zhengsh123/V-Bridge)] ![Code](https://img.shields.io/github/stars/Zhengsh123/V-Bridge?style=social&label=Star)
+
+[arxiv 2026.03] DualTSR: Unified Dual-Diffusion Transformer for Scene Text Image Super-Resolution  [[PDF](https://arxiv.org/abs/2603.14207)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2199,6 +2221,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] SoulX-LiveAct: Towards Hour-Scale Real-Time Human Animation with Neighbor Forcing and ConvKV Memory  [[PDF](https://arxiv.org/abs/2603.11746),[Page](https://demopagedemo.github.io/LiveAct/)] ![Code](https://img.shields.io/github/stars/Soul-AILab/SoulX-LiveAct?style=social&label=Star)
 
+[arxiv 2026.03] FreeTalk: Emotional Topology-Free 3D Talking Heads  [[PDF](https://arxiv.org/abs/2603.15512)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Listen
@@ -2338,6 +2362,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.06]  PlayerOne: Egocentric World Simulator [[PDF](https://arxiv.org/pdf/2506.09995),[Page](https://playerone-hku.github.io/)] ![Code](https://img.shields.io/github/stars/yuanpengtu/PlayerOne?style=social&label=Star)
 [arxiv 2026.03] Controllable Egocentric Video Generation via Occlusion-Aware Sparse 3D Hand Joints  [[PDF](https://arxiv.org/abs/2603.11755)]
 
+[arxiv 2026.03] Towards Stable Self-Supervised Object Representations in Unconstrained Egocentric Video  [[PDF](https://arxiv.org/abs/2603.13912)]
 ## Face swapping 
 [arxiv 2024.12] HiFiVFS: High Fidelity Video Face Swapping  [[PDF](https://arxiv.org/abs/2411.18293),[Page](https://cxcx1996.github.io/HiFiVFS/)] 
 
@@ -3136,6 +3161,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] VQQA: An Agentic Approach for Video Evaluation and Quality Improvement  [[PDF](https://arxiv.org/abs/2603.12310),[Page](https://yiwen-song.github.io/vqqa/)]
 [arxiv 2026.03] VCBench: A Streaming Counting Benchmark for Spatial-Temporal State Maintenance in Long Videos  [[PDF](https://arxiv.org/abs/2603.12703),[Page](https://github.com/buaplay/VCBench)] ![Code](https://img.shields.io/github/stars/buaplay/VCBench?style=social&label=Star)
 
+[arxiv 2026.03] UniVid: Pyramid Diffusion Model for High Quality Video Generation  [[PDF](https://arxiv.org/abs/2603.13739)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Survey
@@ -3467,6 +3494,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] VGGT-World: Transforming VGGT into an Autoregressive Geometry World Model  [[PDF](https://arxiv.org/abs/2603.12655)]
 [arxiv 2026.03] Beyond Dense Futures: World Models as Structured Planners for Robotic Manipulation  [[PDF](https://arxiv.org/abs/2603.12553)]
 [arxiv 2026.03] RoboStereo: Dual-Tower 4D Embodied World Models for Unified Policy Optimization  [[PDF](https://arxiv.org/abs/2603.12639)]
+
+[arxiv 2026.03] TextOVSR: Text-Guided Real-World Opera Video Super-Resolution  [[PDF](https://arxiv.org/abs/2603.15153)]
+[arxiv 2026.03] Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation  [[PDF](https://arxiv.org/abs/2603.14948)]
+[arxiv 2026.03] EyeWorld: A Generative World Model of Ocular State and Dynamics  [[PDF](https://arxiv.org/abs/2603.14039)]
+[arxiv 2026.03] Egocentric World Model for Photorealistic Hand-Object Interaction Synthesis  [[PDF](https://arxiv.org/abs/2603.13615)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

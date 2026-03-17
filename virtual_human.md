@@ -13,6 +13,10 @@
 
 [arxiv 2026.03] NBAvatar: Neural Billboards Avatars with Realistic Hand-Face Interaction  [[PDF](https://arxiv.org/abs/2603.12063)]
 
+[arxiv 2026.03] High-Fidelity 3D Facial Avatar Synthesis with Controllable Fine-Grained Expressions  [[PDF](https://arxiv.org/abs/2603.14781)]
+[arxiv 2026.03] Zero-Shot Reconstruction of Animatable 3D Avatars with Cloth Dynamics from a Single Image  [[PDF](https://arxiv.org/abs/2603.14772)]
+[arxiv 2026.03] AvatarForcing: One-Step Streaming Talking Avatars via Local-Future Sliding-Window Denoising  [[PDF](https://arxiv.org/abs/2603.14331)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Body 
@@ -158,6 +162,18 @@
 [arxiv 2026.03] PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization  [[PDF](https://arxiv.org/abs/2603.13228),[Page](https://mael-zys.github.io/PhysMoDPO/)]
 [arxiv 2026.03] InterEdit: Navigating Text-Guided Multi-Human 3D Motion Editing  [[PDF](https://arxiv.org/abs/2603.13082),[Page](https://github.com/YNG916/InterEdit)] ![Code](https://img.shields.io/github/stars/YNG916/InterEdit?style=social&label=Star)
 
+[arxiv 2026.03] Severe Domain Shift in Skeleton-Based Action Recognition:A Study of Uncertainty Failure in Real-World Gym Environments  [[PDF](https://arxiv.org/abs/2603.15574)]
+[arxiv 2026.03] Kimodo: Scaling Controllable Human Motion Generation  [[PDF](https://arxiv.org/abs/2603.15546)]
+[arxiv 2026.03] Riemannian Motion Generation: A Unified Framework for Human Motion Representation and Generation via Riemannian Flow Matching  [[PDF](https://arxiv.org/abs/2603.15016)]
+[arxiv 2026.03] Enhancing Hands in 3D Whole-Body Pose Estimation with Conditional Hands Modulator  [[PDF](https://arxiv.org/abs/2603.14726)]
+[arxiv 2026.03] Expanding mmWave Datasets for Human Pose Estimation with Unlabeled Data and LiDAR Datasets  [[PDF](https://arxiv.org/abs/2603.14507)]
+[arxiv 2026.03] Wi-Spike: A Low-power WiFi Human Multi-action Recognition Model with Spiking Neural Networks  [[PDF](https://arxiv.org/abs/2603.14475)]
+[arxiv 2026.03] OAHuman: Occlusion-Aware 3D Human Reconstruction from Monocular Images  [[PDF](https://arxiv.org/abs/2603.14249)]
+[arxiv 2026.03] LingoMotion: An Interpretable and Unambiguous Symbolic Representation for Human Motion  [[PDF](https://arxiv.org/abs/2603.13578)]
+[arxiv 2026.03] ActionPlan: Future-Aware Streaming Motion Synthesis via Frame-Level Action Planning  [[PDF](https://arxiv.org/abs/2603.13500)]
+[arxiv 2026.03] InfiniteDance: Scalable 3D Dance Generation Towards in-the-wild Generalization  [[PDF](https://arxiv.org/abs/2603.13375)]
+[arxiv 2026.03] Gloss-Free Sign Language Translation: An Unbiased Evaluation of Progress in the Field  [[PDF](https://arxiv.org/abs/2603.13240)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## audio-to-gesture 
@@ -300,6 +316,9 @@
 [arxiv 2026.01]  InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions [[PDF](https://arxiv.org/abs/2602.06035),[Page](https://sirui-xu.github.io/InterPrior/)] 
 
 [arxiv 2026.03] Hoi3DGen: Generating High-Quality Human-Object-Interactions in 3D  [[PDF](https://arxiv.org/abs/2603.12126)]
+
+[arxiv 2026.03] MVHOI: Bridge Multi-view Condition to Complex Human-Object Interaction Video Reenactment via 3D Foundation Model  [[PDF](https://arxiv.org/abs/2603.14686)]
+[arxiv 2026.03] End-to-End Spatial-Temporal Transformer for Real-time 4D HOI Reconstruction  [[PDF](https://arxiv.org/abs/2603.14435)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

@@ -24,6 +24,23 @@
 [arxiv 2026.03] OARS: Process-Aware Online Alignment for Generative Real-World Image Super-Resolution  [[PDF](https://arxiv.org/abs/2603.12811)]
 [arxiv 2026.03] From Sparse to Dense: Multi-View GRPO for Flow Models via Augmented Condition Space  [[PDF](https://arxiv.org/abs/2603.12648),[Page](https://bujiazi.github.io/mvgrpo.github.io/)]
 
+[arxiv 2026.03] Clinically Aware Synthetic Image Generation for Concept Coverage in Chest X-ray Models  [[PDF](https://arxiv.org/abs/2603.15525)]
+[arxiv 2026.03] SNCE: Geometry-Aware Supervision for Scalable Discrete Image Generation  [[PDF](https://arxiv.org/abs/2603.15150)]
+[arxiv 2026.03] CyCLeGen: Cycle-Consistent Layout Prediction and Image Generation in Vision Foundation Models  [[PDF](https://arxiv.org/abs/2603.14957)]
+[arxiv 2026.03] AnyPhoto: Multi-Person Identity Preserving Image Generation with ID Adaptive Modulation on Location Canvas  [[PDF](https://arxiv.org/abs/2603.14770)]
+[arxiv 2026.03] Mapping Dark-Matter Clusters via Physics-Guided Diffusion Models  [[PDF](https://arxiv.org/abs/2603.14503)]
+[arxiv 2026.03] RL-ScanIQA: Reinforcement-Learned Scanpaths for Blind 360°Image Quality Assessment  [[PDF](https://arxiv.org/abs/2603.14297)]
+[arxiv 2026.03] DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization  [[PDF](https://arxiv.org/abs/2603.14267)]
+[arxiv 2026.03] TMPDiff: Temporal Mixed-Precision for Diffusion Models  [[PDF](https://arxiv.org/abs/2603.14062)]
+[arxiv 2026.03] Discriminative Flow Matching Via Local Generative Predictors  [[PDF](https://arxiv.org/abs/2603.13928)]
+[arxiv 2026.03] SHAMISA: SHAped Modeling of Implicit Structural Associations for Self-supervised No-Reference Image Quality Assessment  [[PDF](https://arxiv.org/abs/2603.13669)]
+[arxiv 2026.03] FMS$^2$: Unified Flow Matching for Segmentation and Synthesis of Thin Structures  [[PDF](https://arxiv.org/abs/2603.13659)]
+[arxiv 2026.03] Synthetic Melanoma Image Generation and Evaluation Using Generative Adversarial Networks  [[PDF](https://arxiv.org/abs/2603.13497)]
+[arxiv 2026.03] CtrlAttack: A Unified Attack on World-Model Control in Diffusion Models  [[PDF](https://arxiv.org/abs/2603.13435)]
+[arxiv 2026.03] Chain-of-Trajectories: Unlocking the Intrinsic Generative Optimality of Diffusion Models via Graph-Theoretic Planning  [[PDF](https://arxiv.org/abs/2603.14704)]
+[arxiv 2026.03] Steering Generative Models for Accessibility: EasyRead Image Generation  [[PDF](https://arxiv.org/abs/2603.13695)]
+[arxiv 2026.03] Generalization and Memorization in Rectified Flow  [[PDF](https://arxiv.org/abs/2603.13421)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## pixel 
@@ -36,6 +53,12 @@
 [arxiv 2025.11] PixelDiT: Pixel Diffusion Transformers for Image Generation  [[PDF](https://arxiv.org/pdf/2511.20645)]
 
 [arxiv 2026.03] UNet-AF: An alias-free UNet for image restoration  [[PDF](https://arxiv.org/abs/2603.11323)]
+
+[arxiv 2026.03] M2IR: Proactive All-in-One Image Restoration via Mamba-style Modulation and Mixture-of-Experts  [[PDF](https://arxiv.org/abs/2603.14816)]
+[arxiv 2026.03] Comparative Analysis of 3D Convolutional and 2.5D Slice-Conditioned U-Net Architectures for MRI Super-Resolution via Elucidated Diffusion Models  [[PDF](https://arxiv.org/abs/2603.14667)]
+[arxiv 2026.03] Low-Field Magnetic Resonance Image Quality Enhancement using Undersampled k-Space and Out-of-Distribution Generalisation  [[PDF](https://arxiv.org/abs/2603.14120)]
+[arxiv 2026.03] Revisiting the Perception-Distortion Trade-off with Spatial-Semantic Guided Super-Resolution  [[PDF](https://arxiv.org/abs/2603.14112)]
+[arxiv 2026.03] CT-Conditioned Diffusion Prior with Physics-Constrained Sampling for PET Super-Resolution  [[PDF](https://arxiv.org/abs/2603.13901)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -621,6 +644,11 @@
 [arxiv 2026.03] WeEdit: A Dataset, Benchmark and Glyph-Guided Framework for Text-centric Image Editing  [[PDF](https://arxiv.org/abs/2603.11593)]
 [arxiv 2026.03] SLICE: Semantic Latent Injection via Compartmentalized Embedding for Image Watermarking  [[PDF](https://arxiv.org/abs/2603.12749)]
 
+[arxiv 2026.03] Edit2Interp: Adapting Image Foundation Models from Spatial Editing to Video Frame Interpolation with Few-Shot Learning  [[PDF](https://arxiv.org/abs/2603.15003)]
+[arxiv 2026.03] EditHF-1M: A Million-Scale Rich Human Preference Feedback for Image Editing  [[PDF](https://arxiv.org/abs/2603.14916)]
+[arxiv 2026.03] RAZOR: Ratio-Aware Layer Editing for Targeted Unlearning in Vision Transformers and Diffusion Models  [[PDF](https://arxiv.org/abs/2603.14819)]
+[arxiv 2026.03] VeloEdit: Training-Free Consistent and Continuous Instruction-Based Image Editing via Velocity Field Decomposition  [[PDF](https://arxiv.org/abs/2603.13388)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## end of editing 
@@ -659,6 +687,8 @@
 
 
 [arxiv 2026.03] EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models  [[PDF](https://arxiv.org/abs/2603.12252)]
+
+[arxiv 2026.03] COT-FM: Cluster-wise Optimal Transport Flow Matching  [[PDF](https://arxiv.org/abs/2603.13395)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -799,6 +829,8 @@
 
 
 [arxiv 2026.03] Fractals made Practical: Denoising Diffusion as Partitioned Iterated Function Systems  [[PDF](https://arxiv.org/abs/2603.13069)]
+
+[arxiv 2026.03] High-Fidelity Text-to-Image Generation from Pre-Trained Vision-Language Models via Distribution-Conditioned Diffusion Decoding  [[PDF](https://arxiv.org/abs/2603.13389)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1223,6 +1255,8 @@
 
 [arxiv 2026.03] EvoTok: A Unified Image Tokenizer via Residual Latent Evolution for Visual Understanding and Generation  [[PDF](https://arxiv.org/abs/2603.12108),[Page](https://github.com/VisionXLab/EvoTok)] ![Code](https://img.shields.io/github/stars/VisionXLab/EvoTok?style=social&label=Star)
 
+[arxiv 2026.03] HYDRA: Unifying Multi-modal Generation and Understanding via Representation-Harmonized Tokenization  [[PDF](https://arxiv.org/abs/2603.15228)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## autoregressive
@@ -1422,6 +1456,18 @@
 [arxiv 2026.03] AccelAes: Accelerating Diffusion Transformers for Training-Free Aesthetic-Enhanced Image Generation  [[PDF](https://arxiv.org/abs/2603.12575),[Page](https://github.com/xuanhuayin/AccelAes)] ![Code](https://img.shields.io/github/stars/xuanhuayin/AccelAes?style=social&label=Star)
 [arxiv 2026.03] BiGain: Unified Token Compression for Joint Generation and Classification  [[PDF](https://arxiv.org/abs/2603.12240),[Page](https://github.com/Greenoso/BiGain)] ![Code](https://img.shields.io/github/stars/Greenoso/bigain?style=social&label=Star)
 
+[arxiv 2026.03] Self-Distillation of Hidden Layers for Self-Supervised Representation Learning  [[PDF](https://arxiv.org/abs/2603.15553)]
+[arxiv 2026.03] DAIT: Distillation from Vision-Language Models to Lightweight Classifiers with Adaptive Intermediate Teacher Transfer  [[PDF](https://arxiv.org/abs/2603.15166)]
+[arxiv 2026.03] From Artefact to Insight: Efficient Low-Rank Adaptation of BrushNet for Scanning Probe Microscopy Image Restoration  [[PDF](https://arxiv.org/abs/2603.14850)]
+[arxiv 2026.03] SemanticFace: Semantic Facial Action Estimation via Semantic Distillation in Interpretable Space  [[PDF](https://arxiv.org/abs/2603.14827)]
+[arxiv 2026.03] Distilling Latent Manifolds: Resolution Extrapolation by Variational Autoencoders  [[PDF](https://arxiv.org/abs/2603.14536)]
+[arxiv 2026.03] Diffusion Reinforcement Learning via Centered Reward Distillation  [[PDF](https://arxiv.org/abs/2603.14128)]
+[arxiv 2026.03] IMS3: Breaking Distributional Aggregation in Diffusion-Based Dataset Distillation  [[PDF](https://arxiv.org/abs/2603.13960)]
+[arxiv 2026.03] LADR: Locality-Aware Dynamic Rescue for Efficient Text-to-Image Generation with Diffusion Large Language Models  [[PDF](https://arxiv.org/abs/2603.13450)]
+[arxiv 2026.03] MAD: Microenvironment-Aware Distillation -- A Pretraining Strategy for Virtual Spatial Omics from Microscopy  [[PDF](https://arxiv.org/abs/2603.13401)]
+[arxiv 2026.03] SERUM: Simple, Efficient, Robust, and Unifying Marking for Diffusion-based Image Generation  [[PDF](https://arxiv.org/abs/2603.13396)]
+[arxiv 2026.03] WaveComm: Lightweight Communication for Collaborative Perception via Wavelet Feature Distillation  [[PDF](https://arxiv.org/abs/2603.13365)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Try-on 
@@ -1553,6 +1599,8 @@
 
 [arxiv 2026.03] VTEdit-Bench: A Comprehensive Benchmark for Multi-Reference Image Editing Models in Virtual Try-On  [[PDF](https://arxiv.org/abs/2603.11734)]
 
+[arxiv 2026.03] Garments2Look: A Multi-Reference Dataset for High-Fidelity Outfit-Level Virtual Try-On with Clothing and Accessories  [[PDF](https://arxiv.org/abs/2603.14153)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Model adapatation/Merge 
@@ -1625,6 +1673,8 @@
 
 
 [arxiv 2026.03] TRACE: Structure-Aware Character Encoding for Robust and Generalizable Document Watermarking  [[PDF](https://arxiv.org/abs/2603.12873)]
+
+[arxiv 2026.03] NumColor: Precise Numeric Color Control in Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2603.13547)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4020,6 +4070,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03] Finite Difference Flow Optimization for RL Post-Training of Text-to-Image Models  [[PDF](https://arxiv.org/abs/2603.12893),[Page](https://github.com/NVlabs/finite-difference-flow-optimization)] ![Code](https://img.shields.io/github/stars/NVlabs/finite-difference-flow-optimization?style=social&label=Star)
 [arxiv 2026.03] Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation  [[PDF](https://arxiv.org/abs/2603.12247)]
+
+[arxiv 2026.03] GlyphPrinter: Region-Grouped Direct Preference Optimization for Glyph-Accurate Visual Text Rendering  [[PDF](https://arxiv.org/abs/2603.15616)]
+[arxiv 2026.03] Relevance Feedback in Text-to-Image Diffusion: A Training-Free And Model-Agnostic Interactive Framework  [[PDF](https://arxiv.org/abs/2603.14936)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
