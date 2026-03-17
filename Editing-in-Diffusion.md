@@ -17,13 +17,13 @@
 
 [arxiv 2026.02] FireRed-Image-Edit-1.0 Techinical Report  [[PDF](https://arxiv.org/abs/2602.13344),[Page](https://github.com/FireRedTeam/FireRed-Image-Edit)] ![Code](https://img.shields.io/github/stars/FireRedTeam/FireRed-Image-Edit?style=social&label=Star)
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 [arxiv 2026.03] Enhancing Image Aesthetics with Dual-Conditioned Diffusion Models Guided by Multimodal Perception  [[PDF](https://arxiv.org/abs/2603.11556)]
 [arxiv 2026.03] OrthoEraser: Coupled-Neuron Orthogonal Projection for Concept Erasure  [[PDF](https://arxiv.org/abs/2603.11493)]
 [arxiv 2026.03] Naïve PAINE: Lightweight Text-to-Image Generation Improvement with Prompt Evaluation  [[PDF](https://arxiv.org/abs/2603.12506),[Page](https://github.com/LSU-ATHENA/Naive-PAINE)] ![Code](https://img.shields.io/github/stars/LSU-ATHENA/Naive-PAINE?style=social&label=Star)
 [arxiv 2026.03] Coarse-Guided Visual Generation via Weighted h-Transform Sampling  [[PDF](https://arxiv.org/abs/2603.12057),[Page](https://github.com/HKUST-LongGroup/Coarse-guided-Gen)] ![Code](https://img.shields.io/github/stars/HKUST-LongGroup/Coarse-guided-Gen?style=social&label=Star)
 [arxiv 2026.03] OARS: Process-Aware Online Alignment for Generative Real-World Image Super-Resolution  [[PDF](https://arxiv.org/abs/2603.12811)]
 [arxiv 2026.03] From Sparse to Dense: Multi-View GRPO for Flow Models via Augmented Condition Space  [[PDF](https://arxiv.org/abs/2603.12648),[Page](https://bujiazi.github.io/mvgrpo.github.io/)]
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## pixel 
 [arxiv 2025.11]  DeCo: Frequency-Decoupled Pixel Diffusion for End-to-End Image Generation [[PDF](https://arxiv.org/pdf/2511.19365),[Page](https://zehong-ma.github.io/DeCo/)] ![Code](https://img.shields.io/github/stars/Zehong-Ma/DeCo?style=social&label=Star)
@@ -34,8 +34,8 @@
 
 [arxiv 2025.11] PixelDiT: Pixel Diffusion Transformers for Image Generation  [[PDF](https://arxiv.org/pdf/2511.20645)]
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 [arxiv 2026.03] UNet-AF: An alias-free UNet for image restoration  [[PDF](https://arxiv.org/abs/2603.11323)]
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Editing 
 
@@ -616,9 +616,9 @@
 
 [arxiv 2026.03] CARE-Edit: Condition-Aware Routing of Experts for Contextual Image Editing  [[PDF](https://arxiv.org/abs/2603.08589),[Page](https://care-edit.github.io/)] ![Code](https://img.shields.io/github/stars/CARE-Edit/Code?style=social&label=Star)
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 [arxiv 2026.03] WeEdit: A Dataset, Benchmark and Glyph-Guided Framework for Text-centric Image Editing  [[PDF](https://arxiv.org/abs/2603.11593)]
 [arxiv 2026.03] SLICE: Semantic Latent Injection via Compartmentalized Embedding for Image Watermarking  [[PDF](https://arxiv.org/abs/2603.12749)]
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## end of editing 
 
@@ -655,8 +655,8 @@
 [arxiv 2026.03]  Generative Visual Chain-of-Thought for Image Editing [[PDF](https://arxiv.org/abs/2603.01893),[Page](https://pris-cv.github.io/GVCoT/)] ![Code](https://img.shields.io/github/stars/PRIS-CV/GVCoT?style=social&label=Star)
 
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 [arxiv 2026.03] EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models  [[PDF](https://arxiv.org/abs/2603.12252)]
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Unified Generation
 
@@ -794,8 +794,8 @@
 [arxiv 2025.12] Visual Generation Tuning  [[PDF](https://arxiv.org/pdf/2511.23469),[Page](https://github.com/hustvl/VGT)] ![Code](https://img.shields.io/github/stars/hustvl/VGT?style=social&label=Star)
 
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 [arxiv 2026.03] Fractals made Practical: Denoising Diffusion as Partitioned Iterated Function Systems  [[PDF](https://arxiv.org/abs/2603.13069)]
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Distribution 
 
@@ -1160,8 +1160,8 @@
 ## data augmentation
 [arxiv 2025.03] How far can we go with ImageNet for Text-to-Image generation?  [[PDF](https://arxiv.org/abs/2502.21318),[Page](https://lucasdegeorge.github.io/projects/t2i_imagenet/)] ![Code](https://img.shields.io/github/stars/lucasdegeorge/T2I-ImageNet?style=social&label=Star)
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 [arxiv 2026.03] Mitigating Memorization in Text-to-Image Diffusion via Region-Aware Prompt Augmentation and Multimodal Copy Detection  [[PDF](https://arxiv.org/abs/2603.13070)]
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## VAE /  tokenizer
 
@@ -1215,8 +1215,8 @@
 
 [arxiv 2026.03] CaTok: Taming Mean Flows for One-Dimensional Causal Image Tokenization  [[PDF](https://arxiv.org/abs/2603.06449),[Page](https://sharelab-sii.github.io/catok-web/)] ![Code](https://img.shields.io/github/stars/ShareLab-SII/CaTok?style=social&label=Star)
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 [arxiv 2026.03] EvoTok: A Unified Image Tokenizer via Residual Latent Evolution for Visual Understanding and Generation  [[PDF](https://arxiv.org/abs/2603.12108),[Page](https://github.com/VisionXLab/EvoTok)] ![Code](https://img.shields.io/github/stars/VisionXLab/EvoTok?style=social&label=Star)
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## autoregressive
 
@@ -1411,10 +1411,10 @@
 [arxiv 2025.08] Echo-4o: Harnessing the Power of GPT-4o Synthetic Images for Improved Image Generation  [[PDF](https://arxiv.org/abs/2508.09987),[Page](https://github.com/yejy53/Echo-4o)] ![Code](https://img.shields.io/github/stars/yejy53/Echo-4o?style=social&label=Star)
 
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 [arxiv 2026.03] DyWeight: Dynamic Gradient Weighting for Few-Step Diffusion Sampling  [[PDF](https://arxiv.org/abs/2603.11607),[Page](https://github.com/Westlake-AGI-Lab/DyWeight)] ![Code](https://img.shields.io/github/stars/Westlake-AGI-Lab/DyWeight?style=social&label=Star)
 [arxiv 2026.03] AccelAes: Accelerating Diffusion Transformers for Training-Free Aesthetic-Enhanced Image Generation  [[PDF](https://arxiv.org/abs/2603.12575),[Page](https://github.com/xuanhuayin/AccelAes)] ![Code](https://img.shields.io/github/stars/xuanhuayin/AccelAes?style=social&label=Star)
 [arxiv 2026.03] BiGain: Unified Token Compression for Joint Generation and Classification  [[PDF](https://arxiv.org/abs/2603.12240),[Page](https://github.com/Greenoso/BiGain)] ![Code](https://img.shields.io/github/stars/Greenoso/bigain?style=social&label=Star)
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Try-on 
 [arxiv 2024.03]Time-Efficient and Identity-Consistent Virtual Try-On Using A Variant of Altered Diffusion Models [[PDF](https://arxiv.org/abs/2403.07371)]
@@ -1543,8 +1543,8 @@
 
 [arxiv 2026.03] MOBILE-VTON: High-Fidelity On-Device Virtual Try-On  [[PDF](https://arxiv.org/pdf/2603.00947)]
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 [arxiv 2026.03] VTEdit-Bench: A Comprehensive Benchmark for Multi-Reference Image Editing Models in Virtual Try-On  [[PDF](https://arxiv.org/abs/2603.11734)]
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Model adapatation/Merge 
 [arxiv 2023.12]X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model [[PDF](https://arxiv.org/abs/2312.02238),[Page](https://showlab.github.io/X-Adapter/)]
@@ -1615,8 +1615,8 @@
 [arxiv 2025.10] OmniText: A Training-Free Generalist for Controllable Text-Image Manipulation  [[PDF](https://arxiv.org/abs/2510.24093)]
 
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 [arxiv 2026.03] TRACE: Structure-Aware Character Encoding for Robust and Generalizable Document Watermarking  [[PDF](https://arxiv.org/abs/2603.12873)]
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Caption 
 
@@ -4008,9 +4008,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.01]  PromptRL: Prompt Matters in RL for Flow-Based Image Generation [[PDF](https://arxiv.org/abs/2602.01382),[Page](https://github.com/G-U-N/UniRL)] ![Code](https://img.shields.io/github/stars/G-U-N/UniRL?style=social&label=Star)
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 [arxiv 2026.03] Finite Difference Flow Optimization for RL Post-Training of Text-to-Image Models  [[PDF](https://arxiv.org/abs/2603.12893),[Page](https://github.com/NVlabs/finite-difference-flow-optimization)] ![Code](https://img.shields.io/github/stars/NVlabs/finite-difference-flow-optimization?style=social&label=Star)
 [arxiv 2026.03] Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation  [[PDF](https://arxiv.org/abs/2603.12247)]
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## GPT4o evaluation 
 [arxiv 2025.05] Preliminary Explorations with GPT-4o(mni) Native Image Generation  [[PDF](https://arxiv.org/pdf/2505.05501)]

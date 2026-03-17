@@ -40,11 +40,11 @@
 [arxiv 2025.10]  NoisyGRPO: Incentivizing Multimodal CoT Reasoning via Noise Injection and Bayesian Estimation [[PDF](https://arxiv.org/abs/2510.21122),[Page](https://artanic30.github.io/project_pages/NoisyGRPO/)] ![Code](https://img.shields.io/github/stars/Artanic30/NoisyGRPO?style=social&label=Star) 
 
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 [arxiv 2026.03] Noise-aware few-shot learning through bi-directional multi-view prompt alignment  [[PDF](https://arxiv.org/abs/2603.11617)]
 [arxiv 2026.03] ReHARK: Refined Hybrid Adaptive RBF Kernels for Robust One-Shot Vision-Language Adaptation  [[PDF](https://arxiv.org/abs/2603.11542),[Page](https://github.com/Jahid12012021/ReHARK)] ![Code](https://img.shields.io/github/stars/Jahid12012021/ReHARK?style=social&label=Star)
 [arxiv 2026.03] BackdoorIDS: Zero-shot Backdoor Detection for Pretrained Vision Encoder  [[PDF](https://arxiv.org/abs/2603.11664),[Page](https://github.com/siquanhuang/BackdoorIDS)] ![Code](https://img.shields.io/github/stars/siquanhuang/BackdoorIDS?style=social&label=Star)
 [arxiv 2026.03] GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing  [[PDF](https://arxiv.org/abs/2603.12264),[Page](https://github.com/VisionXLab/GRADE)] ![Code](https://img.shields.io/github/stars/VisionXLab/GRADE?style=social&label=Star)
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## Agent
 
@@ -67,10 +67,10 @@
 [arxiv 2025.10]  MAT-Agent: Adaptive Multi-Agent Training Optimization [[PDF](https://arxiv.org/abs/2510.17845)]
 
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 [arxiv 2026.03] Detect Anything in Real Time: From Single-Prompt Segmentation to Multi-Class Detection  [[PDF](https://arxiv.org/abs/2603.11441),[Page](https://github.com/mkturkcan/DART)] ![Code](https://img.shields.io/github/stars/mkturkcan/DART?style=social&label=Star)
 [arxiv 2026.03] Towards High-Fidelity CAD Generation via LLM-Driven Program Generation and Text-Based B-Rep Primitive Grounding  [[PDF](https://arxiv.org/abs/2603.11831)]
 [arxiv 2026.03] coDrawAgents: A Multi-Agent Dialogue Framework for Compositional Image Generation  [[PDF](https://arxiv.org/abs/2603.12829),[Page](https://github.com/360CVGroup/PlanGen)] ![Code](https://img.shields.io/github/stars/360CVGroup/PlanGen?style=social&label=Star)
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## Understanding 
 
@@ -233,12 +233,12 @@
 
 [arxiv 2026.03] Phi-4-reasoning-vision-15B Technical Report  [[PDF](https://arxiv.org/pdf/2603.03975),[Page](https://huggingface.co/microsoft/Phi-4-reasoning-vision-15B)] ![Code](https://img.shields.io/github/stars/microsoft/phi-4-reasoning-vision-15B?style=social&label=Star) 
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 [arxiv 2026.03] Seeing Isn't Orienting: A Cognitively Grounded Benchmark Reveals Systematic Orientation Failures in MLLMs  [[PDF](https://arxiv.org/abs/2603.11410)]
 [arxiv 2026.03] DriveXQA: Cross-modal Visual Question Answering for Adverse Driving Scene Understanding  [[PDF](https://arxiv.org/abs/2603.11380)]
 [arxiv 2026.03] Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously  [[PDF](https://arxiv.org/abs/2603.12262),[Page](https://github.com/1ranGuan/VST)] ![Code](https://img.shields.io/github/stars/1ranGuan/VST?style=social&label=Star)
 [arxiv 2026.03] EgoIntent: An Egocentric Step-level Benchmark for Understanding What, Why, and Next  [[PDF](https://arxiv.org/abs/2603.12147)]
 [arxiv 2026.03] Do You See What I Am Pointing At? Gesture-Based Egocentric Video Question Answering  [[PDF](https://arxiv.org/abs/2603.12533),[Page](https://yuuraa.github.io/papers/choi2026egovqa)]
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## sound-video understanding 
 [arxiv 2025.12] JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation  [[PDF](https://arxiv.org/abs/2512.22905),[Page](https://github.com/JavisVerse/JavisGPT)] ![Code](https://img.shields.io/github/stars/JavisVerse/JavisGPT?style=social&label=Star) 
@@ -440,8 +440,8 @@
 [arxiv 2026.03] InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing  [[PDF](https://arxiv.org/abs/2603.09877),[Page](https://github.com/OpenGVLab/InternVL-U)] ![Code](https://img.shields.io/github/stars/OpenGVLab/InternVL-U?style=social&label=Star) 
 
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 [arxiv 2026.03] Tokenization Allows Multimodal Large Language Models to Understand, Generate and Edit Architectural Floor Plans  [[PDF](https://arxiv.org/abs/2603.11640)]
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## Omni
 [arxiv 2025.09] Qwen3-Omni Technical Report  [[PDF](https://arxiv.org/abs/2509.17765),[Page](https://github.com/QwenLM/Qwen3-Omni)] ![Code](https://img.shields.io/github/stars/QwenLM/Qwen3-Omni?style=social&label=Star) 
@@ -493,9 +493,9 @@
 [arxiv 2026.02] DreamZero: World Action Models are Zero-shot Policies  [[PDF](https://dreamzero0.github.io/DreamZero.pdf),[Page](https://dreamzero0.github.io/)] ![Code](https://img.shields.io/github/stars/dreamzero0/dreamzero?style=social&label=Star) 
 
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 [arxiv 2026.03] Senna-2: Aligning VLM and End-to-End Driving Policy for Consistent Decision Making and Planning  [[PDF](https://arxiv.org/abs/2603.11219),[Page](https://ambitious-idiot.github.io/senna2-project)] ![Code](https://img.shields.io/github/stars/hustvl/Senna?style=social&label=Star)
 [arxiv 2026.03] SVLL: Staged Vision-Language Learning for Physically Grounded Embodied Task Planning  [[PDF](https://arxiv.org/abs/2603.11563)]
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## reasoning
 
@@ -567,8 +567,8 @@
 
 [arxiv 2025.12] Video-CoM: Interactive Video Reasoning via Chain of Manipulations  [[PDF](https://arxiv.org/pdf/2511.23477),[Page](https://github.com/mbzuai-oryx/Video-CoM)] ![Code](https://img.shields.io/github/stars/mbzuai-oryx/Video-CoM?style=social&label=Star) 
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 [arxiv 2026.03] VisDoT: Enhancing Visual Reasoning through Human-Like Interpretation Grounding and Decomposition of Thought  [[PDF](https://arxiv.org/abs/2603.11631)]
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## Compression
 [arxiv 2025.02]  AdaSVD: Adaptive Singular Value Decomposition for Large Language Models [[PDF](https://arxiv.org/abs/2502.01403),[Page](https://github.com/ZHITENGLI/AdaSVD)] ![Code](https://img.shields.io/github/stars/ZHITENGLI/AdaSVD?style=social&label=Star) 
@@ -579,9 +579,9 @@
 
 [arxiv 2025.03]  Token-Efficient Long Video Understanding for Multimodal LLMs [[PDF](https://arxiv.org/pdf/2503.04130)]
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 [arxiv 2026.03] Beyond Single-Sample: Reliable Multi-Sample Distillation for Video Understanding  [[PDF](https://arxiv.org/abs/2603.11423)]
 [arxiv 2026.03] ZeroSense: How Vision matters in Long Context Compression  [[PDF](https://arxiv.org/abs/2603.11846)]
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## few-shot
 [arxiv 2025.02]  Efficient Few-Shot Continual Learning in Vision-Language Models [[PDF](https://arxiv.org/pdf/2502.04098)]
@@ -616,8 +616,8 @@
 [arxiv 2026.02]  UniWeTok: An Unified Binary Tokenizer with Codebook Size 2 up 128 for Unified Multimodal Large Language Model [[PDF](https://arxiv.org/abs/2602.14178)]
 
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 [arxiv 2026.03] Frequency-Modulated Visual Restoration for Matryoshka Large Multimodal Models  [[PDF](https://arxiv.org/abs/2603.11220),[Page](https://github.com/xiaoachen98/Open-LLaVA-NeXT)] ![Code](https://img.shields.io/github/stars/xiaoachen98/Open-LLaVA-NeXT?style=social&label=Star)
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## RoPE
 [arxiv 2025.05] Circle-RoPE: Cone-like Decoupled Rotary Positional Embedding for Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2505.16416),[Page](https://github.com/lose4578/CircleRoPE)] ![Code](https://img.shields.io/github/stars/lose4578/CircleRoPE?style=social&label=Star) 
@@ -631,14 +631,14 @@
 [arxiv 2024.11]Video-Guided Foley Sound Generation with Multimodal Controls [[PDF](https://arxiv.org/abs/2411.17698), [Page](https://ificl.github.io/MultiFoley/)]
 
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 [arxiv 2026.03] OmniForcing: Unleashing Real-time Joint Audio-Visual Generation  [[PDF](https://arxiv.org/abs/2603.11647)]
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## Study 
 [arxiv 2025.03] Should VLMs be Pre-trained with Image Data?  [[PDF](https://arxiv.org/abs/2503.07603)]
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 [arxiv 2026.03] Linking Perception, Confidence and Accuracy in MLLMs  [[PDF](https://arxiv.org/abs/2603.12149)]
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## agent
 [arxiv 2025.08]  OPENCUA: Open Foundations for Computer-Use Agents [[PDF](https://arxiv.org/abs/2508.09123),[Page](https://opencua.xlang.ai/)] ![Code](https://img.shields.io/github/stars/xlang-ai/OpenCUA?style=social&label=Star) 
@@ -683,8 +683,8 @@
 [arxiv 2025.10] AndesVL Technical Report: An Efficient Mobile-side Multimodal Large Language Model  [[PDF](https://arxiv.org/abs/2510.11496),[Page](https://github.com/OPPO-Mente-Lab/AndesVL_Evaluation)] ![Code](https://img.shields.io/github/stars/OPPO-Mente-Lab/AndesVL_Evaluation?style=social&label=Star) 
 
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 [arxiv 2026.03] Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing  [[PDF](https://arxiv.org/abs/2603.12254),[Page](https://autogaze.github.io/)]
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## Evaluation
 
