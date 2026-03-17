@@ -7,15 +7,13 @@
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
-
 ## Gaussian Face 
 [arxiv 2025.01] PERSE: Personalized 3D Generative Avatars from A Single Portrait  [[PDF](https://arxiv.org/abs/2412.21206),[Page](https://hyunsoocha.github.io/perse/)] ![Code](https://img.shields.io/github/stars/snuvclab/perse?style=social&label=Star)
 
-[arxiv 2026.03] NBAvatar: Neural Billboards Avatars with Realistic Hand-Face Interaction  [[PDF](https://arxiv.org/abs/2603.12063)]
 
 [arxiv 2026.03] High-Fidelity 3D Facial Avatar Synthesis with Controllable Fine-Grained Expressions  [[PDF](https://arxiv.org/abs/2603.14781)]
+
 [arxiv 2026.03] Zero-Shot Reconstruction of Animatable 3D Avatars with Cloth Dynamics from a Single Image  [[PDF](https://arxiv.org/abs/2603.14772)]
-[arxiv 2026.03] AvatarForcing: One-Step Streaming Talking Avatars via Local-Future Sliding-Window Denoising  [[PDF](https://arxiv.org/abs/2603.14331)]
 
 [arxiv 2026.03] U-Face: An Efficient and Generalizable Framework for Unsupervised Facial Attribute Editing via Subspace Learning  [[PDF](https://arxiv.org/abs/2603.14004)]
 
@@ -159,33 +157,44 @@
 
 [arxiv 2026.03]  U-Mind: A Unified Framework for Real-Time Multimodal Interaction with Audiovisual Generation [[PDF](https://arxiv.org/abs/2602.23739)]
 
-[arxiv 2026.03] LaMoGen: Language to Motion Generation Through LLM-Guided Symbolic Inference  [[PDF](https://arxiv.org/abs/2603.11605),[Page](https://jjkislele.github.io/LaMoGen/)]
-[arxiv 2026.03] Learning to Assist: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning  [[PDF](https://arxiv.org/abs/2603.11346),[Page](https://yutoshibata07.github.io/AssistMimic-projectpage/)]
-[arxiv 2026.03] PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization  [[PDF](https://arxiv.org/abs/2603.13228),[Page](https://mael-zys.github.io/PhysMoDPO/)]
-[arxiv 2026.03] InterEdit: Navigating Text-Guided Multi-Human 3D Motion Editing  [[PDF](https://arxiv.org/abs/2603.13082),[Page](https://github.com/YNG916/InterEdit)] ![Code](https://img.shields.io/github/stars/YNG916/InterEdit?style=social&label=Star)
-
-[arxiv 2026.03] Severe Domain Shift in Skeleton-Based Action Recognition:A Study of Uncertainty Failure in Real-World Gym Environments  [[PDF](https://arxiv.org/abs/2603.15574)]
-[arxiv 2026.03] Kimodo: Scaling Controllable Human Motion Generation  [[PDF](https://arxiv.org/abs/2603.15546)]
-[arxiv 2026.03] Riemannian Motion Generation: A Unified Framework for Human Motion Representation and Generation via Riemannian Flow Matching  [[PDF](https://arxiv.org/abs/2603.15016)]
-[arxiv 2026.03] Enhancing Hands in 3D Whole-Body Pose Estimation with Conditional Hands Modulator  [[PDF](https://arxiv.org/abs/2603.14726)]
-[arxiv 2026.03] Expanding mmWave Datasets for Human Pose Estimation with Unlabeled Data and LiDAR Datasets  [[PDF](https://arxiv.org/abs/2603.14507)]
-[arxiv 2026.03] Wi-Spike: A Low-power WiFi Human Multi-action Recognition Model with Spiking Neural Networks  [[PDF](https://arxiv.org/abs/2603.14475)]
-[arxiv 2026.03] OAHuman: Occlusion-Aware 3D Human Reconstruction from Monocular Images  [[PDF](https://arxiv.org/abs/2603.14249)]
-[arxiv 2026.03] LingoMotion: An Interpretable and Unambiguous Symbolic Representation for Human Motion  [[PDF](https://arxiv.org/abs/2603.13578)]
-[arxiv 2026.03] ActionPlan: Future-Aware Streaming Motion Synthesis via Frame-Level Action Planning  [[PDF](https://arxiv.org/abs/2603.13500)]
-[arxiv 2026.03] InfiniteDance: Scalable 3D Dance Generation Towards in-the-wild Generalization  [[PDF](https://arxiv.org/abs/2603.13375)]
-[arxiv 2026.03] Gloss-Free Sign Language Translation: An Unbiased Evaluation of Progress in the Field  [[PDF](https://arxiv.org/abs/2603.13240)]
 
 [arxiv 2026.03] Fast SAM 3D Body: Accelerating SAM 3D Body for Real-Time Full-Body Human Mesh Recovery  [[PDF](https://arxiv.org/abs/2603.15603)]
+
+[arxiv 2026.03] Kimodo: Scaling Controllable Human Motion Generation  [[PDF](https://arxiv.org/abs/2603.15546)]
+
 [arxiv 2026.03] Gym-V: A Unified Vision Environment System for Agentic Vision Research  [[PDF](https://arxiv.org/abs/2603.15432)]
+
 [arxiv 2026.03] ReactMotion: Generating Reactive Listener Motions from Speaker Utterance  [[PDF](https://arxiv.org/abs/2603.15083)]
+
+[arxiv 2026.03] Riemannian Motion Generation: A Unified Framework for Human Motion Representation and Generation via Riemannian Flow Matching  [[PDF](https://arxiv.org/abs/2603.15016)]
+
 [arxiv 2026.03] AdapterTune: Zero-Initialized Low-Rank Adapters for Frozen Vision Transformers  [[PDF](https://arxiv.org/abs/2603.14706)] ![Code](https://img.shields.io/github/stars/salimkhazem/adaptertune?style=social&label=Star)
+
+[arxiv 2026.03] Expanding mmWave Datasets for Human Pose Estimation with Unlabeled Data and LiDAR Datasets  [[PDF](https://arxiv.org/abs/2603.14507)]
+
+[arxiv 2026.03] Wi-Spike: A Low-power WiFi Human Multi-action Recognition Model with Spiking Neural Networks  [[PDF](https://arxiv.org/abs/2603.14475)]
+
 [arxiv 2026.03] BROTHER: Behavioral Recognition Optimized Through Heterogeneous Ensemble Regularization for Ambivalence and Hesitancy  [[PDF](https://arxiv.org/abs/2603.14361)]
+
 [arxiv 2026.03] A Physically-Grounded Attack and Adaptive Defense Framework for Real-World Low-Light Image Enhancement  [[PDF](https://arxiv.org/abs/2603.14304)] ![Code](https://img.shields.io/github/stars/bywlzts/Attack-defense-llie?style=social&label=Star)
+
 [arxiv 2026.03] RegFormer++: An Efficient Large-Scale 3D LiDAR Point Registration Network with Projection-Aware 2D Transformer  [[PDF](https://arxiv.org/abs/2603.14290)]
+
 [arxiv 2026.03] DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization  [[PDF](https://arxiv.org/abs/2603.14267)]
+
+[arxiv 2026.03] OAHuman: Occlusion-Aware 3D Human Reconstruction from Monocular Images  [[PDF](https://arxiv.org/abs/2603.14249)]
+
 [arxiv 2026.03] TSDCRF: Balancing Privacy and Multi-Object Tracking via Time-Series CRF and Normalized Control Penalty  [[PDF](https://arxiv.org/abs/2603.13667)] ![Code](https://img.shields.io/github/stars/mabo1215/TSDCRF?style=social&label=Star)
+
+[arxiv 2026.03] LingoMotion: An Interpretable and Unambiguous Symbolic Representation for Human Motion  [[PDF](https://arxiv.org/abs/2603.13578)]
+
 [arxiv 2026.03] Hide and Seek: Investigating Redundancy in Earth Observation Imagery  [[PDF](https://arxiv.org/abs/2603.13524)]
+
+[arxiv 2026.03] ActionPlan: Future-Aware Streaming Motion Synthesis via Frame-Level Action Planning  [[PDF](https://arxiv.org/abs/2603.13500)]
+
+[arxiv 2026.03] InfiniteDance: Scalable 3D Dance Generation Towards in-the-wild Generalization  [[PDF](https://arxiv.org/abs/2603.13375)]
+
+[arxiv 2026.03] Gloss-Free Sign Language Translation: An Unbiased Evaluation of Progress in the Field  [[PDF](https://arxiv.org/abs/2603.13240)] ![Code](https://img.shields.io/github/stars/ozgemercanoglu/sltbaselines?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -196,8 +205,6 @@
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
-
 
 
 ## Hands 
@@ -219,6 +226,8 @@
 
 [arxiv 2025.10] TOUCH: Text-gUided Controllable Generation of Free-Form Hand-Object Interactions  [[PDF](https://arxiv.org/abs/2510.14874),[Page](https://guangyid.github.io/hoi123touch/)] 
 
+
+[arxiv 2026.03] Enhancing Hands in 3D Whole-Body Pose Estimation with Conditional Hands Modulator  [[PDF](https://arxiv.org/abs/2603.14726)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -328,15 +337,19 @@
 
 [arxiv 2026.01]  InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions [[PDF](https://arxiv.org/abs/2602.06035),[Page](https://sirui-xu.github.io/InterPrior/)] 
 
-[arxiv 2026.03] Hoi3DGen: Generating High-Quality Human-Object-Interactions in 3D  [[PDF](https://arxiv.org/abs/2603.12126)]
-
-[arxiv 2026.03] MVHOI: Bridge Multi-view Condition to Complex Human-Object Interaction Video Reenactment via 3D Foundation Model  [[PDF](https://arxiv.org/abs/2603.14686)]
-[arxiv 2026.03] End-to-End Spatial-Temporal Transformer for Real-time 4D HOI Reconstruction  [[PDF](https://arxiv.org/abs/2603.14435)]
 
 [arxiv 2026.03] HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human-Scene Interactions  [[PDF](https://arxiv.org/abs/2603.15612)]
+
 [arxiv 2026.03] Face-to-Face: A Video Dataset for Multi-Person Interaction Modeling  [[PDF](https://arxiv.org/abs/2603.14794)]
+
+[arxiv 2026.03] MVHOI: Bridge Multi-view Condition to Complex Human-Object Interaction Video Reenactment via 3D Foundation Model  [[PDF](https://arxiv.org/abs/2603.14686)]
+
+[arxiv 2026.03] End-to-End Spatial-Temporal Transformer for Real-time 4D HOI Reconstruction  [[PDF](https://arxiv.org/abs/2603.14435),[Page](https://nianheng.github.io/THO-project/)]
+
 [arxiv 2026.03] Egocentric World Model for Photorealistic Hand-Object Interaction Synthesis  [[PDF](https://arxiv.org/abs/2603.13615)]
+
 [arxiv 2026.03] Sampling-guided exploration of active feature selection policies  [[PDF](https://arxiv.org/abs/2603.15110)]
+
 [arxiv 2026.03] Inclusive AI for Group Interactions: Predicting Gaze-Direction Behaviors in People with Intellectual and Developmental Disabilities  [[PDF](https://arxiv.org/abs/2603.14460)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -357,8 +370,6 @@
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
-[arxiv 2026.03] Show, Don't Tell: Detecting Novel Objects by Watching Human Videos  [[PDF](https://arxiv.org/abs/2603.12751)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -402,7 +413,6 @@
 [arxiv 2025.04] CoMotion: Concurrent Multi-person 3D Motion  [[PDF](https://arxiv.org/abs/2504.12186),[Page](https://github.com/apple/ml-comotion)] ![Code](https://img.shields.io/github/stars/apple/ml-comotion?style=social&label=Star)
 
 
-[arxiv 2026.03] Hierarchical Granularity Alignment and State Space Modeling for Robust Multimodal AU Detection in the Wild  [[PDF](https://arxiv.org/abs/2603.11306)]
-[arxiv 2026.03] A Two-Stage Dual-Modality Model for Facial Emotional Expression Recognition  [[PDF](https://arxiv.org/abs/2603.12221),[Page](https://affective-behavior-analysis-in-the-wild.github.io/10th/)]
+[arxiv 2026.03] Severe Domain Shift in Skeleton-Based Action Recognition:A Study of Uncertainty Failure in Real-World Gym Environments  [[PDF](https://arxiv.org/abs/2603.15574)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
