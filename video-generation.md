@@ -539,6 +539,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] Event-Driven Video Generation  [[PDF](https://arxiv.org/abs/2603.13402)]
 [arxiv 2026.03] EchoLVFM: One-Step Video Generation via Latent Flow Matching for Echocardiogram Synthesis  [[PDF](https://arxiv.org/abs/2603.13967)]
 
+[arxiv 2026.03] Representation Alignment for Just Image Transformers is not Easier than You Think  [[PDF](https://arxiv.org/abs/2603.14366)] ![Code](https://img.shields.io/github/stars/kaist-cvml/PixelREPA?style=social&label=Star)
+[arxiv 2026.03] MotionCFG: Boosting Motion Dynamics via Stochastic Concept Perturbation  [[PDF](https://arxiv.org/abs/2603.14073)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1272,6 +1275,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] Tri-Prompting: Video Diffusion with Unified Control over Scene, Subject, and Motion  [[PDF](https://arxiv.org/abs/2603.15614)]
 
+[arxiv 2026.03] AnyCrowd: Instance-Isolated Identity-Pose Binding for Arbitrary Multi-Character Animation  [[PDF](https://arxiv.org/abs/2603.15415)]
+[arxiv 2026.03] ChArtist: Generating Pictorial Charts with Unified Spatial and Subject Control  [[PDF](https://arxiv.org/abs/2603.14209),[Page](https://chartist-ai.github.io/)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1582,6 +1588,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] CamLit: Unified Video Diffusion with Explicit Camera and Lighting Control  [[PDF](https://arxiv.org/abs/2603.14241)]
 
+[arxiv 2026.03] Ego-1K -- A Large-Scale Multiview Video Dataset for Egocentric Vision  [[PDF](https://arxiv.org/abs/2603.13741),[Page](https://huggingface.co/datasets/facebook/ego-1k)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## lighting 
@@ -1754,6 +1762,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] V-Bridge: Bridging Video Generative Priors to Versatile Few-shot Image Restoration  [[PDF](https://arxiv.org/abs/2603.13089),[Page](https://github.com/Zhengsh123/V-Bridge)] ![Code](https://img.shields.io/github/stars/Zhengsh123/V-Bridge?style=social&label=Star)
 
 [arxiv 2026.03] DualTSR: Unified Dual-Diffusion Transformer for Scene Text Image Super-Resolution  [[PDF](https://arxiv.org/abs/2603.14207)]
+
+[arxiv 2026.03] Seeking Physics in Diffusion Noise  [[PDF](https://arxiv.org/abs/2603.14294)]
+[arxiv 2026.03] PerlAD: Towards Enhanced Closed-loop End-to-end Autonomous Driving with Pseudo-simulation-based Reinforcement Learning  [[PDF](https://arxiv.org/abs/2603.14908)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2498,6 +2509,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 [arxiv 2026.03] Catalyst4D: High-Fidelity 3D-to-4D Scene Editing via Dynamic Propagation  [[PDF](https://arxiv.org/abs/2603.12766),[Page](https://junliao2025.github.io/Catalyst4D-ProjectPage/)]
+
+[arxiv 2026.03] $\text{F}^2\text{HDR}$: Two-Stage HDR Video Reconstruction via Flow Adapter and Physical Motion Modeling  [[PDF](https://arxiv.org/abs/2603.14920)]
+[arxiv 2026.03] LoCAtion: Long-time Collaborative Attention Framework for High Dynamic Range Video Reconstruction  [[PDF](https://arxiv.org/abs/2603.14377)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3499,6 +3513,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation  [[PDF](https://arxiv.org/abs/2603.14948)]
 [arxiv 2026.03] EyeWorld: A Generative World Model of Ocular State and Dynamics  [[PDF](https://arxiv.org/abs/2603.14039)]
 [arxiv 2026.03] Egocentric World Model for Photorealistic Hand-Object Interaction Synthesis  [[PDF](https://arxiv.org/abs/2603.13615)]
+
+[arxiv 2026.03] Grounding World Simulation Models in a Real-World Metropolis  [[PDF](https://arxiv.org/abs/2603.15583)]
+[arxiv 2026.03] E2EGS: Event-to-Edge Gaussian Splatting for Pose-Free 3D Reconstruction  [[PDF](https://arxiv.org/abs/2603.14684)]
+[arxiv 2026.03] The Pulse of Motion: Measuring Physical Frame Rate from Visual Dynamics  [[PDF](https://arxiv.org/abs/2603.14375),[Page](https://xiangbogaobarry.github.io/Visual_Chronometer/)]
+[arxiv 2026.03] Scene Generation at Absolute Scale: Utilizing Semantic and Geometric Guidance From Text for Accurate and Interpretable 3D Indoor Scene Generation  [[PDF](https://arxiv.org/abs/2603.13910)]
+[arxiv 2026.03] CtrlAttack: A Unified Attack on World-Model Control in Diffusion Models  [[PDF](https://arxiv.org/abs/2603.13435)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

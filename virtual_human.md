@@ -17,6 +17,8 @@
 [arxiv 2026.03] Zero-Shot Reconstruction of Animatable 3D Avatars with Cloth Dynamics from a Single Image  [[PDF](https://arxiv.org/abs/2603.14772)]
 [arxiv 2026.03] AvatarForcing: One-Step Streaming Talking Avatars via Local-Future Sliding-Window Denoising  [[PDF](https://arxiv.org/abs/2603.14331)]
 
+[arxiv 2026.03] U-Face: An Efficient and Generalizable Framework for Unsupervised Facial Attribute Editing via Subspace Learning  [[PDF](https://arxiv.org/abs/2603.14004)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Body 
@@ -174,6 +176,17 @@
 [arxiv 2026.03] InfiniteDance: Scalable 3D Dance Generation Towards in-the-wild Generalization  [[PDF](https://arxiv.org/abs/2603.13375)]
 [arxiv 2026.03] Gloss-Free Sign Language Translation: An Unbiased Evaluation of Progress in the Field  [[PDF](https://arxiv.org/abs/2603.13240)]
 
+[arxiv 2026.03] Fast SAM 3D Body: Accelerating SAM 3D Body for Real-Time Full-Body Human Mesh Recovery  [[PDF](https://arxiv.org/abs/2603.15603)]
+[arxiv 2026.03] Gym-V: A Unified Vision Environment System for Agentic Vision Research  [[PDF](https://arxiv.org/abs/2603.15432)]
+[arxiv 2026.03] ReactMotion: Generating Reactive Listener Motions from Speaker Utterance  [[PDF](https://arxiv.org/abs/2603.15083)]
+[arxiv 2026.03] AdapterTune: Zero-Initialized Low-Rank Adapters for Frozen Vision Transformers  [[PDF](https://arxiv.org/abs/2603.14706)] ![Code](https://img.shields.io/github/stars/salimkhazem/adaptertune?style=social&label=Star)
+[arxiv 2026.03] BROTHER: Behavioral Recognition Optimized Through Heterogeneous Ensemble Regularization for Ambivalence and Hesitancy  [[PDF](https://arxiv.org/abs/2603.14361)]
+[arxiv 2026.03] A Physically-Grounded Attack and Adaptive Defense Framework for Real-World Low-Light Image Enhancement  [[PDF](https://arxiv.org/abs/2603.14304)] ![Code](https://img.shields.io/github/stars/bywlzts/Attack-defense-llie?style=social&label=Star)
+[arxiv 2026.03] RegFormer++: An Efficient Large-Scale 3D LiDAR Point Registration Network with Projection-Aware 2D Transformer  [[PDF](https://arxiv.org/abs/2603.14290)]
+[arxiv 2026.03] DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization  [[PDF](https://arxiv.org/abs/2603.14267)]
+[arxiv 2026.03] TSDCRF: Balancing Privacy and Multi-Object Tracking via Time-Series CRF and Normalized Control Penalty  [[PDF](https://arxiv.org/abs/2603.13667)] ![Code](https://img.shields.io/github/stars/mabo1215/TSDCRF?style=social&label=Star)
+[arxiv 2026.03] Hide and Seek: Investigating Redundancy in Earth Observation Imagery  [[PDF](https://arxiv.org/abs/2603.13524)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## audio-to-gesture 
@@ -319,6 +332,12 @@
 
 [arxiv 2026.03] MVHOI: Bridge Multi-view Condition to Complex Human-Object Interaction Video Reenactment via 3D Foundation Model  [[PDF](https://arxiv.org/abs/2603.14686)]
 [arxiv 2026.03] End-to-End Spatial-Temporal Transformer for Real-time 4D HOI Reconstruction  [[PDF](https://arxiv.org/abs/2603.14435)]
+
+[arxiv 2026.03] HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human-Scene Interactions  [[PDF](https://arxiv.org/abs/2603.15612)]
+[arxiv 2026.03] Face-to-Face: A Video Dataset for Multi-Person Interaction Modeling  [[PDF](https://arxiv.org/abs/2603.14794)]
+[arxiv 2026.03] Egocentric World Model for Photorealistic Hand-Object Interaction Synthesis  [[PDF](https://arxiv.org/abs/2603.13615)]
+[arxiv 2026.03] Sampling-guided exploration of active feature selection policies  [[PDF](https://arxiv.org/abs/2603.15110)]
+[arxiv 2026.03] Inclusive AI for Group Interactions: Predicting Gaze-Direction Behaviors in People with Intellectual and Developmental Disabilities  [[PDF](https://arxiv.org/abs/2603.14460)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

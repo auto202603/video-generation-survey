@@ -41,6 +41,13 @@
 [arxiv 2026.03] Steering Generative Models for Accessibility: EasyRead Image Generation  [[PDF](https://arxiv.org/abs/2603.13695)]
 [arxiv 2026.03] Generalization and Memorization in Rectified Flow  [[PDF](https://arxiv.org/abs/2603.13421)]
 
+[arxiv 2026.03] FIND: A Simple yet Effective Baseline for Diffusion-Generated Image Detection  [[PDF](https://arxiv.org/abs/2603.14220)]
+[arxiv 2026.03] Towards Stable Self-Supervised Object Representations in Unconstrained Egocentric Video  [[PDF](https://arxiv.org/abs/2603.13912)]
+[arxiv 2026.03] Multi-Object Advertisement Creative Generation  [[PDF](https://arxiv.org/abs/2603.13745)]
+[arxiv 2026.03] Opportunistic Cardiac Health Assessment: Estimating Phenotypes from Localizer MRI through Multi-Modal Representations  [[PDF](https://arxiv.org/abs/2603.13590)]
+[arxiv 2026.03] Self-Flow-Matching assisted Full Waveform Inversion  [[PDF](https://arxiv.org/abs/2603.13425)]
+[arxiv 2026.03] OpenClaw-RL: Train Any Agent Simply by Talking  [[PDF](https://arxiv.org/abs/2603.10165)] ![Code](https://img.shields.io/github/stars/Gen-Verse/OpenClaw-RL?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## pixel 
@@ -59,6 +66,15 @@
 [arxiv 2026.03] Low-Field Magnetic Resonance Image Quality Enhancement using Undersampled k-Space and Out-of-Distribution Generalisation  [[PDF](https://arxiv.org/abs/2603.14120)]
 [arxiv 2026.03] Revisiting the Perception-Distortion Trade-off with Spatial-Semantic Guided Super-Resolution  [[PDF](https://arxiv.org/abs/2603.14112)]
 [arxiv 2026.03] CT-Conditioned Diffusion Prior with Physics-Constrained Sampling for PET Super-Resolution  [[PDF](https://arxiv.org/abs/2603.13901)]
+
+[arxiv 2026.03] One CT Unified Model Training Framework to Rule All Scanning Protocols  [[PDF](https://arxiv.org/abs/2603.15025)]
+[arxiv 2026.03] AURORA-KITTI: Any-Weather Depth Completion and Denoising in the Wild  [[PDF](https://arxiv.org/abs/2603.14701)]
+[arxiv 2026.03] AvatarForcing: One-Step Streaming Talking Avatars via Local-Future Sliding-Window Denoising  [[PDF](https://arxiv.org/abs/2603.14331),[Page](https://cuiliyuan121.github.io/AvatarForcing/)]
+[arxiv 2026.03] DualTSR: Unified Dual-Diffusion Transformer for Scene Text Image Super-Resolution  [[PDF](https://arxiv.org/abs/2603.14207)]
+[arxiv 2026.03] Fair Benchmarking of Emerging One-Step Generative Models Against Multistep Diffusion and Flow Models  [[PDF](https://arxiv.org/abs/2603.14186)]
+[arxiv 2026.03] IAML: Illumination-Aware Mirror Loss for Progressive Learning in Low-Light Image Enhancement Auto-encoders  [[PDF](https://arxiv.org/abs/2603.13363)]
+[arxiv 2026.03] Safety-Guided Flow (SGF): A Unified Framework for Negative Guidance in Safe Generation  [[PDF](https://arxiv.org/abs/2603.13300)] ![Code](https://img.shields.io/github/stars/MingyuKim87/SGF?style=social&label=Star)
+[arxiv 2025.04] Learning Enhanced Structural Representations with Block-Based Uncertainties for Ocean Floor Mapping  [[PDF](https://arxiv.org/abs/2504.14372)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -649,6 +665,8 @@
 [arxiv 2026.03] RAZOR: Ratio-Aware Layer Editing for Targeted Unlearning in Vision Transformers and Diffusion Models  [[PDF](https://arxiv.org/abs/2603.14819)]
 [arxiv 2026.03] VeloEdit: Training-Free Consistent and Continuous Instruction-Based Image Editing via Velocity Field Decomposition  [[PDF](https://arxiv.org/abs/2603.13388)]
 
+[arxiv 2026.03] Workflow-Aware Structured Layer Decomposition for Illustration Production  [[PDF](https://arxiv.org/abs/2603.14925)] ![Code](https://img.shields.io/github/stars/zty0304/Anime-layer-decomposition?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## end of editing 
@@ -831,6 +849,9 @@
 [arxiv 2026.03] Fractals made Practical: Denoising Diffusion as Partitioned Iterated Function Systems  [[PDF](https://arxiv.org/abs/2603.13069)]
 
 [arxiv 2026.03] High-Fidelity Text-to-Image Generation from Pre-Trained Vision-Language Models via Distribution-Conditioned Diffusion Decoding  [[PDF](https://arxiv.org/abs/2603.13389)]
+
+[arxiv 2026.03] PHAC: Promptable Human Amodal Completion  [[PDF](https://arxiv.org/abs/2603.14741)]
+[arxiv 2026.03] Human-like Object Grouping in Self-supervised Vision Transformers  [[PDF](https://arxiv.org/abs/2603.13994)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1257,6 +1278,8 @@
 
 [arxiv 2026.03] HYDRA: Unifying Multi-modal Generation and Understanding via Representation-Harmonized Tokenization  [[PDF](https://arxiv.org/abs/2603.15228)]
 
+[arxiv 2026.03] Spectrum Matching: a Unified Perspective for Superior Diffusability in Latent Diffusion  [[PDF](https://arxiv.org/abs/2603.14645)] ![Code](https://img.shields.io/github/stars/forever208/SpectrumMatching?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## autoregressive
@@ -1468,6 +1491,14 @@
 [arxiv 2026.03] SERUM: Simple, Efficient, Robust, and Unifying Marking for Diffusion-based Image Generation  [[PDF](https://arxiv.org/abs/2603.13396)]
 [arxiv 2026.03] WaveComm: Lightweight Communication for Collaborative Perception via Wavelet Feature Distillation  [[PDF](https://arxiv.org/abs/2603.13365)]
 
+[arxiv 2026.03] MV2UV: Generating High-quality UV Texture Maps with Multiview Prompts  [[PDF](https://arxiv.org/abs/2603.15436)]
+[arxiv 2026.03] Flash-Unified: A Training-Free and Task-Aware Acceleration Framework for Native Unified Models  [[PDF](https://arxiv.org/abs/2603.15271)] ![Code](https://img.shields.io/github/stars/Rirayh/FlashU?style=social&label=Star)
+[arxiv 2026.03] Fractal Autoregressive Depth Estimation with Continuous Token Diffusion  [[PDF](https://arxiv.org/abs/2603.14702)]
+[arxiv 2026.03] Anchor Forcing: Anchor Memory and Tri-Region RoPE for Interactive Streaming Video Diffusion  [[PDF](https://arxiv.org/abs/2603.13405)] ![Code](https://img.shields.io/github/stars/vivoCameraResearch/Anchor-Forcing?style=social&label=Star)
+[arxiv 2026.03] Post Training Quantization for Efficient Dataset Condensation  [[PDF](https://arxiv.org/abs/2603.13346)]
+[arxiv 2026.03] Faster Inference of Flow-Based Generative Models via Improved Data-Noise Coupling  [[PDF](https://arxiv.org/abs/2603.15279)] ![Code](https://img.shields.io/github/stars/araachie/loom-cfm?style=social&label=Star)
+[arxiv 2026.03] RBF-Solver: A Multistep Sampler for Diffusion Probabilistic Models via Radial Basis Functions  [[PDF](https://arxiv.org/abs/2603.13330)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Try-on 
@@ -1675,6 +1706,9 @@
 [arxiv 2026.03] TRACE: Structure-Aware Character Encoding for Robust and Generalizable Document Watermarking  [[PDF](https://arxiv.org/abs/2603.12873)]
 
 [arxiv 2026.03] NumColor: Precise Numeric Color Control in Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2603.13547)]
+
+[arxiv 2026.03] Real-Time Human Frontal View Synthesis from a Single Image  [[PDF](https://arxiv.org/abs/2603.15433)]
+[arxiv 2026.03] Training-free Detection of Generated Videos via Spatial-Temporal Likelihoods  [[PDF](https://arxiv.org/abs/2603.15026),[Page](https://omerbenhayun.github.io/stall-video)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4073,6 +4107,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03] GlyphPrinter: Region-Grouped Direct Preference Optimization for Glyph-Accurate Visual Text Rendering  [[PDF](https://arxiv.org/abs/2603.15616)]
 [arxiv 2026.03] Relevance Feedback in Text-to-Image Diffusion: A Training-Free And Model-Agnostic Interactive Framework  [[PDF](https://arxiv.org/abs/2603.14936)]
+
+[arxiv 2026.03] VisionCoach: Reinforcing Grounded Video Reasoning via Visual-Perception Prompting  [[PDF](https://arxiv.org/abs/2603.14659)]
+[arxiv 2026.03] Trust-Region Noise Search for Black-Box Alignment of Diffusion and Flow Models  [[PDF](https://arxiv.org/abs/2603.14504)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
