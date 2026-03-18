@@ -20,6 +20,19 @@
 
 [arxiv 2026.03] InterEdit: Navigating Text-Guided Multi-Human 3D Motion Editing  [[PDF](https://arxiv.org/abs/2603.13082)] ![Code](https://img.shields.io/github/stars/YNG916/InterEdit?style=social&label=Star)
 
+[arxiv 2026.03] High-Precision 6DOF Pose Estimation via Global Phase Retrieval in Fringe Projection Profilometry for 3D Mapping  [[[PDF](https://arxiv.org/abs/2603.11389)]]
+
+[arxiv 2026.03] Real-time Rendering-based Surgical Instrument Tracking via Evolutionary Optimization  [[[PDF](https://arxiv.org/abs/2603.11404)]]
+
+[arxiv 2026.03] RADAR: Closed-Loop Robotic Data Generation via Semantic Planning and Autonomous Causal Environment Reset  [[[PDF](https://arxiv.org/abs/2603.11811)]]
+
+[arxiv 2026.03] Dense Dynamic Scene Reconstruction and Camera Pose Estimation from Multi-View Videos  [[[PDF](https://arxiv.org/abs/2603.12064)]]
+
+[arxiv 2026.03] Hoi3DGen: Generating High-Quality Human-Object-Interactions in 3D  [[[PDF](https://arxiv.org/abs/2603.12126)]]
+
+[arxiv 2026.03] BehaviorVLM: Unified Finetuning-Free Behavioral Understanding with Vision-Language Reasoning  [[[PDF](https://arxiv.org/abs/2603.12176)]]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 

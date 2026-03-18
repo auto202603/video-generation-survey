@@ -172,6 +172,81 @@
 
 [arxiv 2026.03] Opportunistic Cardiac Health Assessment: Estimating Phenotypes from Localizer MRI through Multi-Modal Representations  [[PDF](https://arxiv.org/abs/2603.13590)]
 
+[arxiv 2026.03] Seeing Isn't Orienting: A Cognitively Grounded Benchmark Reveals Systematic Orientation Failures in MLLMs Supplementary  [[[PDF](https://arxiv.org/abs/2603.11410)]]
+
+[arxiv 2026.03] Stay in your Lane: Role Specific Queries with Overlap Suppression Loss for Dense Video Captioning  [[[PDF](https://arxiv.org/abs/2603.11439)]]
+
+[arxiv 2026.03] Detect Anything in Real Time: From Single-Prompt Segmentation to Multi-Class Detection  [[[PDF](https://arxiv.org/abs/2603.11441)]]
+
+[arxiv 2026.03] GPT4o-Receipt: A Dataset and Human Study for AI-Generated Document Forensics  [[[PDF](https://arxiv.org/abs/2603.11442)]]
+
+[arxiv 2026.03] FBCIR: Balancing Cross-Modal Focuses in Composed Image Retrieval  [[[PDF](https://arxiv.org/abs/2603.11520)]]
+
+[arxiv 2026.03] ReHARK: Refined Hybrid Adaptive RBF Kernels for Robust One-Shot Vision-Language Adaptation  [[[PDF](https://arxiv.org/abs/2603.11542)]]
+
+[arxiv 2026.03] SVLL: Staged Vision-Language Learning for Physically Grounded Embodied Task Planning  [[[PDF](https://arxiv.org/abs/2603.11563)]]
+
+[arxiv 2026.03] WeEdit: A Dataset, Benchmark and Glyph-Guided Framework for Text-centric Image Editing  [[[PDF](https://arxiv.org/abs/2603.11593)]]
+
+[arxiv 2026.03] Noise-aware few-shot learning through bi-directional multi-view prompt alignment  [[[PDF](https://arxiv.org/abs/2603.11617)]]
+
+[arxiv 2026.03] MedPruner: Training-Free Hierarchical Token Pruning for Efficient 3D Medical Image Understanding in Vision-Language Models  [[[PDF](https://arxiv.org/abs/2603.11625)]]
+
+[arxiv 2026.03] VisDoT : Enhancing Visual Reasoning through Human-Like Interpretation Grounding and Decomposition of Thought  [[[PDF](https://arxiv.org/abs/2603.11631)]]
+
+[arxiv 2026.03] Tokenization Allows Multimodal Large Language Models to Understand, Generate and Edit Architectural Floor Plans  [[[PDF](https://arxiv.org/abs/2603.11640)]]
+
+[arxiv 2026.03] IDRL: An Individual-Aware Multimodal Depression-Related Representation Learning Framework for Depression Diagnosis  [[[PDF](https://arxiv.org/abs/2603.11644)]]
+
+[arxiv 2026.03] BackdoorIDS: Zero-shot Backdoor Detection for Pretrained Vision Encoder  [[[PDF](https://arxiv.org/abs/2603.11664)]]
+
+[arxiv 2026.03] VTEdit-Bench: A Comprehensive Benchmark for Multi-Reference Image Editing Models in Virtual Try-On  [[[PDF](https://arxiv.org/abs/2603.11734)]]
+
+[arxiv 2026.03] Multimodal classification of Radiation-Induced Contrast Enhancements and tumor recurrence using deep learning  [[[PDF](https://arxiv.org/abs/2603.11827)]]
+
+[arxiv 2026.03] ZeroSense:How Vision matters in Long Context Compression  [[[PDF](https://arxiv.org/abs/2603.11846)]]
+
+[arxiv 2026.03] Derain-Agent: A Plug-and-Play Agent Framework for Rainy Image Restoration  [[[PDF](https://arxiv.org/abs/2603.11866)]]
+
+[arxiv 2026.03] Preliminary analysis of RGB-NIR Image Registration techniques for off-road forestry environments  [[[PDF](https://arxiv.org/abs/2603.11952)]]
+
+[arxiv 2026.03] Multimodal Emotion Recognition via Bi-directional Cross-Attention and Temporal Modeling  [[[PDF](https://arxiv.org/abs/2603.11971)]]
+
+[arxiv 2026.03] HomeSafe-Bench: Evaluating Vision-Language Models on Unsafe Action Detection for Embodied Agents in Household Scenarios  [[[PDF](https://arxiv.org/abs/2603.11975)]]
+
+[arxiv 2026.03] Continual Learning with Vision-Language Models via Semantic-Geometry Preservation  [[[PDF](https://arxiv.org/abs/2603.12055)]]
+
+[arxiv 2026.03] LoV3D: Grounding Cognitive Prognosis Reasoning in Longitudinal 3D Brain MRI via Regional Volume Assessments  [[[PDF](https://arxiv.org/abs/2603.12071)]]
+
+[arxiv 2026.03] EvoTok: A Unified Image Tokenizer via Residual Latent Evolution for Visual Understanding and Generation  [[[PDF](https://arxiv.org/abs/2603.12108)]]
+
+[arxiv 2026.03] HATS: Hardness-Aware Trajectory Synthesis for GUI Agents  [[[PDF](https://arxiv.org/abs/2603.12138)]]
+
+[arxiv 2026.03] Linking Perception, Confidence and Accuracy in MLLMs  [[[PDF](https://arxiv.org/abs/2603.12149)]]
+
+[arxiv 2026.03] GlyphBanana: Advancing Precise Text Rendering Through Agentic Workflows  [[[PDF](https://arxiv.org/abs/2603.12155)]]
+
+[arxiv 2026.03] LatentGeo: Learnable Auxiliary Constructions in Latent Space for Multimodal Geometric Reasoning  [[[PDF](https://arxiv.org/abs/2603.12166)]]
+
+[arxiv 2026.03] ForensicZip: More Tokens are Better but Not Necessary in Forensic Vision-Language Models  [[[PDF](https://arxiv.org/abs/2603.12208)]]
+
+[arxiv 2026.03] SceneAssistant: A Visual Feedback Agent for Open-Vocabulary 3D Scene Generation  [[[PDF](https://arxiv.org/abs/2603.12238)]] ![Code](https://img.shields.io/github/stars/ROUJINN/SceneAssistant?style=social&label=Star)
+
+[arxiv 2026.03] SciMDR: Benchmarking and Advancing Scientific Multimodal Document Reasoning  [[[PDF](https://arxiv.org/abs/2603.12249)]]
+
+[arxiv 2026.03] EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models  [[[PDF](https://arxiv.org/abs/2603.12252),[Page](https://lennoxdai.github.io/EndoCoT-Webpage/)]]
+
+[arxiv 2026.03] GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing  [[[PDF](https://arxiv.org/abs/2603.12264),[Page](https://grade-bench.github.io/)]] ![Code](https://img.shields.io/github/stars/VisionXLab/GRADE?style=social&label=Star)
+
+[arxiv 2026.03] MM-CondChain: A Programmatically Verified Benchmark for Visually Grounded Deep Compositional Reasoning  [[[PDF](https://arxiv.org/abs/2603.12266),[Page](https://accio-lab.github.io/MM-CondChain)]]
+
+[arxiv 2026.03] SPARROW: Learning Spatial Precision and Temporal Referential Consistency in Pixel-Grounded Video MLLMs  [[[PDF](https://arxiv.org/abs/2603.12382),[Page](https://risys-lab.github.io/SPARROW;)]] ![Code](https://img.shields.io/github/stars/RISys-Lab/SPARROW?style=social&label=Star)
+
+[arxiv 2026.03] Surg-R1: A Hierarchical Reasoning Foundation Model for Scalable and Interpretable Surgical Decision Support with Multi-Center Clinical Validation  [[[PDF](https://arxiv.org/abs/2603.12430)]]
+
+[arxiv 2026.03] Less Data, Faster Convergence: Goal-Driven Data Optimization for Multimodal Instruction Tuning  [[[PDF](https://arxiv.org/abs/2603.12478)]]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 

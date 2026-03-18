@@ -277,6 +277,45 @@ A reading list of video generation
 
 [arxiv 2026.03] Egocentric World Model for Photorealistic Hand-Object Interaction Synthesis  [[PDF](https://arxiv.org/abs/2603.13615)]
 
+[arxiv 2026.03] ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation  [[[PDF](https://arxiv.org/abs/2603.11421)]]
+
+[arxiv 2026.03] Beyond Single-Sample: Reliable Multi-Sample Distillation for Video Understanding  [[[PDF](https://arxiv.org/abs/2603.11423)]]
+
+[arxiv 2026.03] LaMoGen: Language to Motion Generation Through LLM-Guided Symbolic Inference  [[[PDF](https://arxiv.org/abs/2603.11605),[Page](https://jjkislele.github.io/LaMoGen/)]]
+
+[arxiv 2026.03] Anchor Forcing: Anchor Memory and Tri-Region RoPE for Interactive Streaming Video Diffusion  [[[PDF](https://arxiv.org/abs/2603.13405)]]
+
+[arxiv 2026.03] OSCBench: Benchmarking Object State Change in Text-to-Video Generation  [[[PDF](https://arxiv.org/abs/2603.11698),[Page](https://hanxjing.github.io/OSCBench)]]
+
+[arxiv 2026.03] SoulX-LiveAct: Towards Hour-Scale Real-Time Human Animation with Neighbor Forcing and ConvKV Memory  [[[PDF](https://arxiv.org/abs/2603.11746)]]
+
+[arxiv 2026.03] Controllable Egocentric Video Generation via Occlusion-Aware Sparse 3D Hand Joints  [[[PDF](https://arxiv.org/abs/2603.11755)]]
+
+[arxiv 2026.03] Think While Watching: Online Streaming Segment-Level Memory for Multi-Turn Video Reasoning in Multimodal Large Language Models  [[[PDF](https://arxiv.org/abs/2603.11896)]]
+
+[arxiv 2026.03] InSpatio-WorldFM: An Open-Source Real-Time Generative Frame Model  [[[PDF](https://arxiv.org/abs/2603.11911),[Page](https://inspatio.github.io/worldfm/)]] ![Code](https://img.shields.io/github/stars/inspatio/worldfm?style=social&label=Star)
+
+[arxiv 2026.03] WAT: Online Video Understanding Needs Watching Before Thinking  [[[PDF](https://arxiv.org/abs/2603.13412)]]
+
+[arxiv 2026.03] FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance  [[[PDF](https://arxiv.org/abs/2603.12146)]]
+
+[arxiv 2026.03] EgoIntent: An Egocentric Step-level Benchmark for Understanding What, Why, and Next  [[[PDF](https://arxiv.org/abs/2603.12147)]]
+
+[arxiv 2026.03] SaPaVe: Towards Active Perception and Manipulation in Vision-Language-Action Models for Robotics  [[[PDF](https://arxiv.org/abs/2603.12193),[Page](https://lmzpai.github.io/SaPaVe)]]
+
+[arxiv 2026.03] DVD: Deterministic Video Depth Estimation with Generative Priors  [[[PDF](https://arxiv.org/abs/2603.12250),[Page](https://dvd-project.github.io/)]]
+
+[arxiv 2026.03] Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing  [[[PDF](https://arxiv.org/abs/2603.12254),[Page](https://autogaze.github.io/)]]
+
+[arxiv 2026.03] DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning  [[[PDF](https://arxiv.org/abs/2603.12257),[Page](https://dreamvideo-omni.github.io)]]
+
+[arxiv 2026.03] Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously  [[[PDF](https://arxiv.org/abs/2603.12262)]]
+
+[arxiv 2026.03] VQQA: An Agentic Approach for Video Evaluation and Quality Improvement  [[[PDF](https://arxiv.org/abs/2603.12310)]]
+
+[arxiv 2026.03] MemRoPE: Training-Free Infinite Video Generation via Evolving Memory Tokens  [[[PDF](https://arxiv.org/abs/2603.12513),[Page](https://memrope.github.io)]]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 

@@ -104,6 +104,57 @@
 
 [arxiv 2026.03] MIRAGE: Model-agnostic Industrial Realistic Anomaly Generation and Evaluation for Visual Anomaly Detection  [[PDF](https://arxiv.org/abs/2603.13507)]
 
+[arxiv 2026.03] OrthoEraser: Coupled-Neuron Orthogonal Projection for Concept Erasure  [[[PDF](https://arxiv.org/abs/2603.11493)]]
+
+[arxiv 2026.03] Gen-Fab: A Variation-Aware Generative Model for Predicting Fabrication Variations in Nanophotonic Devices  [[[PDF](https://arxiv.org/abs/2603.11505)]]
+
+[arxiv 2026.03] Mobile-GS: Real-time Gaussian Splatting for Mobile Devices  [[[PDF](https://arxiv.org/abs/2603.11531),[Page](https://xiaobiaodu.github.io/mobile-gs-project/)]]
+
+[arxiv 2026.03] Mango-GS: Enhancing Spatio-Temporal Consistency in Dynamic Scenes Reconstruction using Multi-Frame Node-Guided 4D Gaussian Splatting  [[[PDF](https://arxiv.org/abs/2603.11543)]]
+
+[arxiv 2026.03] Enhancing Image Aesthetics with Dual-Conditioned Diffusion Models Guided by Multimodal Perception  [[[PDF](https://arxiv.org/abs/2603.11556)]]
+
+[arxiv 2026.03] R4Det: 4D Radar-Camera Fusion for High-Performance 3D Object Detection  [[[PDF](https://arxiv.org/abs/2603.11566)]]
+
+[arxiv 2026.03] DyWeight: Dynamic Gradient Weighting for Few-Step Diffusion Sampling  [[[PDF](https://arxiv.org/abs/2603.11607)]] ![Code](https://img.shields.io/github/stars/Westlake-AGI-Lab/DyWeight?style=social&label=Star)
+
+[arxiv 2026.03] MV-SAM3D: Adaptive Multi-View Fusion for Layout-Aware 3D Generation  [[[PDF](https://arxiv.org/abs/2603.11633)]]
+
+[arxiv 2026.03] OmniForcing: Unleashing Real-time Joint Audio-Visual Generation  [[[PDF](https://arxiv.org/abs/2603.11647)]]
+
+[arxiv 2026.03] PROMO: Promptable Outfitting for Efficient High-Fidelity Virtual Try-On  [[[PDF](https://arxiv.org/abs/2603.11675)]]
+
+[arxiv 2026.03] UCAN: Unified Convolutional Attention Network for Expansive Receptive Fields in Lightweight Super-Resolution  [[[PDF](https://arxiv.org/abs/2603.11680)]]
+
+[arxiv 2026.03] PolyCrysDiff: Controllable Generation of Three-Dimensional Computable Polycrystalline Material Structures  [[[PDF](https://arxiv.org/abs/2603.11695)]]
+
+[arxiv 2026.03] Intrinsic Concept Extraction Based on Compositional Interpretability  [[[PDF](https://arxiv.org/abs/2603.11795)]]
+
+[arxiv 2026.03] AS-Bridge: A Bidirectional Generative Framework Bridging Next-Generation Astronomical Surveys  [[[PDF](https://arxiv.org/abs/2603.11928)]] ![Code](https://img.shields.io/github/stars/ZHANG7DC/AS-Bridge?style=social&label=Star)
+
+[arxiv 2026.03] AstroSplat: Physics-Based Gaussian Splatting for Rendering and Reconstruction of Small Celestial Bodies  [[[PDF](https://arxiv.org/abs/2603.11969)]]
+
+[arxiv 2026.03] Ada3Drift: Adaptive Training-Time Drifting for One-Step 3D Visuomotor Robotic Manipulation  [[[PDF](https://arxiv.org/abs/2603.11984)]]
+
+[arxiv 2026.03] Coarse-Guided Visual Generation via Weighted h-Transform Sampling  [[[PDF](https://arxiv.org/abs/2603.12057)]]
+
+[arxiv 2026.03] Node-RF: Learning Generalized Continuous Space-Time Scene Dynamics with Neural ODE-based NeRFs  [[[PDF](https://arxiv.org/abs/2603.12078)]]
+
+[arxiv 2026.03] BiGain: Unified Token Compression for Joint Generation and Classification  [[[PDF](https://arxiv.org/abs/2603.12240)]] ![Code](https://img.shields.io/github/stars/Greenoso/BiGain?style=social&label=Star)
+
+[arxiv 2026.03] Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation  [[[PDF](https://arxiv.org/abs/2603.12247)]]
+
+[arxiv 2026.03] The Latent Color Subspace: Emergent Order in High-Dimensional Chaos  [[[PDF](https://arxiv.org/abs/2603.12261)]]
+
+[arxiv 2026.03] EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation  [[[PDF](https://arxiv.org/abs/2603.12267),[Page](https://silentview.github.io/EVATok/)]]
+
+[arxiv 2026.03] RAW-Domain Degradation Models for Realistic Smartphone Super-Resolution  [[[PDF](https://arxiv.org/abs/2603.12493)]]
+
+[arxiv 2026.03] Naïve PAINE: Lightweight Text-to-Image Generation Improvement with Prompt Evaluation  [[[PDF](https://arxiv.org/abs/2603.12506)]] ![Code](https://img.shields.io/github/stars/LSU-ATHENA/Naive-PAINE?style=social&label=Star)
+
+[arxiv 2026.03] Curriculum Sampling: A Two-Phase Curriculum for Efficient Training of Flow Matching  [[[PDF](https://arxiv.org/abs/2603.12517)]]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## pixel 
