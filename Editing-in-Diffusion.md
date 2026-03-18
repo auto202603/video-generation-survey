@@ -72,6 +72,38 @@
 
 [arxiv 2026.03] V-Co: A Closer Look at Visual Representation Alignment via Co-Denoising  [[PDF](https://arxiv.org/abs/2603.16792)] ![Code](https://img.shields.io/github/stars/HL-hanlin/V-Co?style=social&label=Star)
 
+[arxiv 2026.03] AccelAes: Accelerating Diffusion Transformers for Training-Free Aesthetic-Enhanced Image Generation  [[PDF](https://arxiv.org/abs/2603.12575)]
+
+[arxiv 2026.03] UE5-Forest: A Photorealistic Synthetic Stereo Dataset for UAV Forestry Depth Estimation  [[PDF](https://arxiv.org/abs/2603.15304)]
+
+[arxiv 2026.03] LR-SGS: Robust LiDAR-Reflectance-Guided Salient Gaussian Splatting for Self-Driving Scene Reconstruction  [[PDF](https://arxiv.org/abs/2603.12647)]
+
+[arxiv 2026.03] From Sparse to Dense: Multi-View GRPO for Flow Models via Augmented Condition Space  [[PDF](https://arxiv.org/abs/2603.12648)]
+
+[arxiv 2026.03] CognitionCapturerPro: Towards High-Fidelity Visual Decoding from EEG/MEG via Multi-modal Information and Asymmetric Alignment  [[PDF](https://arxiv.org/abs/2603.12722)]
+
+[arxiv 2026.03] SLICE: Semantic Latent Injection via Compartmentalized Embedding for Image Watermarking  [[PDF](https://arxiv.org/abs/2603.12749)]
+
+[arxiv 2026.03] Catalyst4D: High-Fidelity 3D-to-4D Scene Editing via Dynamic Propagation  [[PDF](https://arxiv.org/abs/2603.12766),[Page](https://junliao2025.github.io/Catalyst4D-ProjectPage/)]
+
+[arxiv 2026.03] Coherent Human-Scene Reconstruction from Multi-Person Multi-View Video in a Single Pass  [[PDF](https://arxiv.org/abs/2603.12789),[Page](https://nstar1125.github.io/chromm)]
+
+[arxiv 2026.03] Spectral Defense Against Resource-Targeting Attack in 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2603.12796)]
+
+[arxiv 2026.03] coDrawAgents: A Multi-Agent Dialogue Framework for Compositional Image Generation  [[PDF](https://arxiv.org/abs/2603.12829)]
+
+[arxiv 2026.03] TRACE: Structure-Aware Character Encoding for Robust and Generalizable Document Watermarking  [[PDF](https://arxiv.org/abs/2603.12873)]
+
+[arxiv 2026.03] Finite Difference Flow Optimization for RL Post-Training of Text-to-Image Models  [[PDF](https://arxiv.org/abs/2603.12893)] ![Code](https://img.shields.io/github/stars/NVlabs/finite-difference-flow-optimization?style=social&label=Star)
+
+[arxiv 2026.03] Spectral-Geometric Neural Fields for Pose-Free LiDAR View Synthesis  [[PDF](https://arxiv.org/abs/2603.12903)]
+
+[arxiv 2026.03] LADR: Locality-Aware Dynamic Rescue for Efficient Text-to-Image Generation with Diffusion Large Language Models  [[PDF](https://arxiv.org/abs/2603.13450)]
+
+[arxiv 2026.03] Mitigating Memorization in Text-to-Image Diffusion via Region-Aware Prompt Augmentation and Multimodal Copy Detection  [[PDF](https://arxiv.org/abs/2603.13070)]
+
+[arxiv 2026.03] MIRAGE: Model-agnostic Industrial Realistic Anomaly Generation and Evaluation for Visual Anomaly Detection  [[PDF](https://arxiv.org/abs/2603.13507)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## pixel 

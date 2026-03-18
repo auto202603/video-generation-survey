@@ -92,6 +92,86 @@
 
 [arxiv 2026.03] WildDepth: A Multimodal Dataset for 3D Wildlife Perception and Depth Estimation  [[PDF](https://arxiv.org/abs/2603.16816),[Page](https://yunshin.github.io/WildDepth/)]
 
+[arxiv 2026.03] Do You See What I Am Pointing At? Gesture-Based Egocentric Video Question Answering  [[PDF](https://arxiv.org/abs/2603.12533)]
+
+[arxiv 2026.03] Spatio-Semantic Expert Routing Architecture with Mixture-of-Experts for Referring Image Segmentation  [[PDF](https://arxiv.org/abs/2603.12538)]
+
+[arxiv 2026.03] Spatial Reasoning is Not a Free Lunch: A Controlled Study on LLaVA  [[PDF](https://arxiv.org/abs/2603.12545)]
+
+[arxiv 2026.03] Multiscale Structure-Guided Latent Diffusion for Multimodal MRI Translation  [[PDF](https://arxiv.org/abs/2603.12581)]
+
+[arxiv 2026.03] Neural Gate: Mitigating Privacy Risks in LVLMs via Neuron-Level Gradient Gating  [[PDF](https://arxiv.org/abs/2603.12598)]
+
+[arxiv 2026.03] A2Z-10M+: Geometric Deep Learning with A-to-Z BRep Annotations for AI-Assisted CAD Modeling and Reverse Engineering  [[PDF](https://arxiv.org/abs/2603.12605)]
+
+[arxiv 2026.03] Mastering Negation: Boosting Grounding Models via Grouped Opposition-Based Learning  [[PDF](https://arxiv.org/abs/2603.12606)]
+
+[arxiv 2026.03] VLM4Rec: Multimodal Semantic Representation for Recommendation with Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2603.12625)]
+
+[arxiv 2026.03] Vision Verification Enhanced Fusion of VLMs for Efficient Visual Reasoning  [[PDF](https://arxiv.org/abs/2603.12669)]
+
+[arxiv 2026.03] HaltNav: Reactive Visual Halting over Lightweight Topological Priors for Robust Vision-Language Navigation  [[PDF](https://arxiv.org/abs/2603.12696)]
+
+[arxiv 2026.03] HIFICL: High-Fidelity In-Context Learning for Multimodal Tasks  [[PDF](https://arxiv.org/abs/2603.12760)] ![Code](https://img.shields.io/github/stars/bbbandari/HiFICL?style=social&label=Star)
+
+[arxiv 2026.03] TerraFlow: Multimodal, Multitemporal Representation Learning for Earth Observation  [[PDF](https://arxiv.org/abs/2603.12762)]
+
+[arxiv 2026.03] PVI: Plug-in Visual Injection for Vision-Language-Action Models  [[PDF](https://arxiv.org/abs/2603.12772)]
+
+[arxiv 2026.03] Empowering Semantic-Sensitive Underwater Image Enhancement with VLM  [[PDF](https://arxiv.org/abs/2603.12773)]
+
+[arxiv 2026.03] Generalized Recognition of Basic Surgical Actions Enables Skill Assessment and Vision-Language-Model-based Surgical Planning  [[PDF](https://arxiv.org/abs/2603.12787)]
+
+[arxiv 2026.03] Cheers: Decoupling Patch Details from Semantic Representations Enables Unified Multimodal Comprehension and Generation  [[PDF](https://arxiv.org/abs/2603.12793)]
+
+[arxiv 2026.03] What Makes VLMs Robust? Towards Reconciling Robustness and Accuracy in Vision-Language Models  [[PDF](https://arxiv.org/abs/2603.12799)]
+
+[arxiv 2026.03] OARS: Process-Aware Online Alignment for Generative Real-World Image Super-Resolution  [[PDF](https://arxiv.org/abs/2603.12811)]
+
+[arxiv 2026.03] Adaptive Vision-Language Model Routing for Computer Use Agents  [[PDF](https://arxiv.org/abs/2603.12823)]
+
+[arxiv 2026.03] NanoVDR: Distilling a 2B Vision-Language Retriever into a 70M Text-Only Encoder for Visual Document Retrieval  [[PDF](https://arxiv.org/abs/2603.12824)]
+
+[arxiv 2026.03] Multimodal Protein Language Models for Enzyme Kinetic Parameters: From Substrate Recognition to Conformational Adaptation  [[PDF](https://arxiv.org/abs/2603.12845)]
+
+[arxiv 2026.03] Team LEYA in 10th ABAW Competition: Multimodal Ambivalence/Hesitancy Recognition Approach  [[PDF](https://arxiv.org/abs/2603.12848)]
+
+[arxiv 2026.03] Rethinking VLMs for Image Forgery Detection and Localization  [[PDF](https://arxiv.org/abs/2603.12930)]
+
+[arxiv 2026.03] MotionAnymesh: Physics-Grounded Articulation for Simulation-Ready Digital Twins  [[PDF](https://arxiv.org/abs/2603.12936)]
+
+[arxiv 2026.03] Test-Time Attention Purification for Backdoored Large Vision Language Models  [[PDF](https://arxiv.org/abs/2603.12989)]
+
+[arxiv 2026.03] A Closed-Form Solution for Debiasing Vision-Language Models with Utility Guarantees Across Modalities and Tasks  [[PDF](https://arxiv.org/abs/2603.12998)]
+
+[arxiv 2026.03] Multimodal OCR: Parse Anything from Documents  [[PDF](https://arxiv.org/abs/2603.13032)]
+
+[arxiv 2026.03] ESPIRE: A Diagnostic Benchmark for Embodied Spatial Reasoning of Vision-Language Models  [[PDF](https://arxiv.org/abs/2603.13033)]
+
+[arxiv 2026.03] Are General-Purpose Vision Models All We Need for 2D Medical Image Segmentation? A Cross-Dataset Empirical Study  [[PDF](https://arxiv.org/abs/2603.13044)]
+
+[arxiv 2026.03] Topo-R1: Detecting Topological Anomalies via Vision-Language Models  [[PDF](https://arxiv.org/abs/2603.13054)]
+
+[arxiv 2026.03] Team RAS in 10th ABAW Competition: Multimodal Valence and Arousal Estimation Approach  [[PDF](https://arxiv.org/abs/2603.13056)]
+
+[arxiv 2026.03] Reasoning over Video: Evaluating How MLLMs Extract, Integrate, and Reconstruct Spatiotemporal Evidence  [[PDF](https://arxiv.org/abs/2603.13091)]
+
+[arxiv 2026.03] SldprtNet: A Large-Scale Multimodal Dataset for CAD Generation in Language-Driven 3D Design  [[PDF](https://arxiv.org/abs/2603.13098)]
+
+[arxiv 2026.03] Beyond Final Answers: CRYSTAL Benchmark for Transparent Multimodal Reasoning Evaluation  [[PDF](https://arxiv.org/abs/2603.13099)]
+
+[arxiv 2026.03] Panoramic Multimodal Semantic Occupancy Prediction for Quadruped Robots  [[PDF](https://arxiv.org/abs/2603.13108)] ![Code](https://img.shields.io/github/stars/SXDR/PanoMMOcc?style=social&label=Star)
+
+[arxiv 2026.03] Towards Faithful Multimodal Concept Bottleneck Models  [[PDF](https://arxiv.org/abs/2603.13163)]
+
+[arxiv 2026.03] Perceive What Matters: Relevance-Driven Scheduling for Multimodal Streaming Perception  [[PDF](https://arxiv.org/abs/2603.13176)]
+
+[arxiv 2026.03] Visual-ERM: Reward Modeling for Visual Equivalence  [[PDF](https://arxiv.org/abs/2603.13224)] ![Code](https://img.shields.io/github/stars/InternLM/Visual-ERM?style=social&label=Star)
+
+[arxiv 2026.03] Synthetic Melanoma Image Generation and Evaluation Using Generative Adversarial Networks  [[PDF](https://arxiv.org/abs/2603.13497)]
+
+[arxiv 2026.03] Opportunistic Cardiac Health Assessment: Estimating Phenotypes from Localizer MRI through Multi-Modal Representations  [[PDF](https://arxiv.org/abs/2603.13590)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 

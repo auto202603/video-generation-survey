@@ -12,6 +12,14 @@
 
 [arxiv 2026.03] SOMA: Unifying Parametric Human Body Models  [[PDF](https://arxiv.org/abs/2603.16858)] ![Code](https://img.shields.io/github/stars/NVlabs/SOMA-X?style=social&label=Star)
 
+[arxiv 2026.03] Show, Don't Tell: Detecting Novel Objects by Watching Human Videos  [[PDF](https://arxiv.org/abs/2603.12751)]
+
+[arxiv 2026.03] VIRD: View-Invariant Representation through Dual-Axis Transformation for Cross-View Pose Estimation  [[PDF](https://arxiv.org/abs/2603.12918)]
+
+[arxiv 2026.03] Fractals made Practical: Denoising Diffusion as Partitioned Iterated Function Systems  [[PDF](https://arxiv.org/abs/2603.13069)]
+
+[arxiv 2026.03] InterEdit: Navigating Text-Guided Multi-Human 3D Motion Editing  [[PDF](https://arxiv.org/abs/2603.13082)] ![Code](https://img.shields.io/github/stars/YNG916/InterEdit?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 

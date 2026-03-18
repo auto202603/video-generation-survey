@@ -251,6 +251,32 @@ A reading list of video generation
 
 [arxiv 2026.03] WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation  [[PDF](https://arxiv.org/abs/2603.16871),[Page](https://cvlab-kaist.github.io/WorldCam/)]
 
+[arxiv 2026.03] Beyond Dense Futures: World Models as Structured Planners for Robotic Manipulation  [[PDF](https://arxiv.org/abs/2603.12553)]
+
+[arxiv 2026.03] RoboStereo: Dual-Tower 4D Embodied World Models for Unified Policy Optimization  [[PDF](https://arxiv.org/abs/2603.12639)]
+
+[arxiv 2026.03] VGGT-World: Transforming VGGT into an Autoregressive Geometry World Model  [[PDF](https://arxiv.org/abs/2603.12655)]
+
+[arxiv 2026.03] Thinking in Dynamics: How Multimodal Large Language Models Perceive, Track, and Reason Dynamics in Physical 4D World  [[PDF](https://arxiv.org/abs/2603.12746)]
+
+[arxiv 2026.03] Thinking in Streaming Video  [[PDF](https://arxiv.org/abs/2603.12938)]
+
+[arxiv 2026.03] SAW: Toward a Surgical Action World Model via Controllable and Scalable Video Generation  [[PDF](https://arxiv.org/abs/2603.13024)]
+
+[arxiv 2026.03] V-Bridge: Bridging Video Generative Priors to Versatile Few-shot Image Restoration  [[PDF](https://arxiv.org/abs/2603.13089)]
+
+[arxiv 2026.03] Geometry-Guided Camera Motion Understanding in VideoLLMs  [[PDF](https://arxiv.org/abs/2603.13119)]
+
+[arxiv 2026.03] Out of Sight, Out of Mind? Evaluating State Evolution in Video World Models  [[PDF](https://arxiv.org/abs/2603.13215),[Page](https://glab-caltech.github.io/STEVOBench/)]
+
+[arxiv 2026.03] PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization  [[PDF](https://arxiv.org/abs/2603.13228),[Page](https://mael-zys.github.io/PhysMoDPO/)]
+
+[arxiv 2026.03] ActionPlan: Future-Aware Streaming Motion Synthesis via Frame-Level Action Planning  [[PDF](https://arxiv.org/abs/2603.13500),[Page](https://coral79.github.io/ActionPlan/)]
+
+[arxiv 2026.03] LibraGen: Playing a Balance Game in Subject-Driven Video Generation  [[PDF](https://arxiv.org/abs/2603.13506)]
+
+[arxiv 2026.03] Egocentric World Model for Photorealistic Hand-Object Interaction Synthesis  [[PDF](https://arxiv.org/abs/2603.13615)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
