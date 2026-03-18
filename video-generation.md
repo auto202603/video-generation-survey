@@ -316,6 +316,13 @@ A reading list of video generation
 [arxiv 2026.03] MemRoPE: Training-Free Infinite Video Generation via Evolving Memory Tokens  [[[PDF](https://arxiv.org/abs/2603.12513),[Page](https://memrope.github.io)]]
 
 
+[arxiv 2026.03] GenState-AI: State-Aware Dataset for Text-to-Video Retrieval on AI-Generated Videos  [[[PDF](https://arxiv.org/abs/2603.14426)]]
+
+[arxiv 2026.03] WorldVLM: Combining World Model Forecasting and Vision-Language Reasoning  [[[PDF](https://arxiv.org/abs/2603.14497)]]
+
+[arxiv 2026.03] VisionCoach: Reinforcing Grounded Video Reasoning via Visual-Perception Prompting  [[[PDF](https://arxiv.org/abs/2603.14659),[Page](https://visioncoach.github.io/)]]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 

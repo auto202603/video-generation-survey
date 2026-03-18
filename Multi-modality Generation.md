@@ -247,6 +247,21 @@
 [arxiv 2026.03] Less Data, Faster Convergence: Goal-Driven Data Optimization for Multimodal Instruction Tuning  [[[PDF](https://arxiv.org/abs/2603.12478)]]
 
 
+[arxiv 2026.03] UniFusion: A Unified Image Fusion Framework with Robust Representation and Source-Aware Preservation  [[[PDF](https://arxiv.org/abs/2603.14214)]]
+
+[arxiv 2026.03] How Do Medical MLLMs Fail? A Study on Visual Grounding in Medical Images  [[[PDF](https://arxiv.org/abs/2603.14323)]]
+
+[arxiv 2026.03] BROTHER: Behavioral Recognition Optimized Through Heterogeneous Ensemble Regularization for Ambivalence and Hesitancy  [[[PDF](https://arxiv.org/abs/2603.14361)]]
+
+[arxiv 2026.03] R3DP: Real-Time 3D-Aware Policy for Embodied Manipulation  [[[PDF](https://arxiv.org/abs/2603.14498)]]
+
+[arxiv 2026.03] Mapping Dark-Matter Clusters via Physics-Guided Diffusion Models  [[[PDF](https://arxiv.org/abs/2603.14503),[Page](https://graphics.unizar.es/projects/DarkMatterMapping)]]
+
+[arxiv 2026.03] A comprehensive multimodal dataset and benchmark for ulcerative colitis scoring in endoscopy  [[[PDF](https://arxiv.org/abs/2603.14559)]]
+
+[arxiv 2026.03] Medical Image Spatial Grounding with Semantic Sampling  [[[PDF](https://arxiv.org/abs/2603.14579)]]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 

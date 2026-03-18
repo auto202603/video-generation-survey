@@ -33,6 +33,9 @@
 [arxiv 2026.03] BehaviorVLM: Unified Finetuning-Free Behavioral Understanding with Vision-Language Reasoning  [[[PDF](https://arxiv.org/abs/2603.12176)]]
 
 
+[arxiv 2026.03] Human-AI Ensembles Improve Deepfake Detection in Low-to-Medium Quality Videos  [[[PDF](https://arxiv.org/abs/2603.14658)]]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 

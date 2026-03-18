@@ -155,6 +155,15 @@
 [arxiv 2026.03] Curriculum Sampling: A Two-Phase Curriculum for Efficient Training of Flow Matching  [[[PDF](https://arxiv.org/abs/2603.12517)]]
 
 
+[arxiv 2026.03] ChArtist: Generating Pictorial Charts with Unified Spatial and Subject Control  [[[PDF](https://arxiv.org/abs/2603.14209),[Page](https://chartist-ai.github.io/)]]
+
+[arxiv 2026.03] DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization  [[[PDF](https://arxiv.org/abs/2603.14267)]]
+
+[arxiv 2026.03] Direct Object-Level Reconstruction via Probabilistic Gaussian Splatting  [[[PDF](https://arxiv.org/abs/2603.14316)]]
+
+[arxiv 2026.03] Representation Alignment for Just Image Transformers is not Easier than You Think  [[[PDF](https://arxiv.org/abs/2603.14366)]] ![Code](https://img.shields.io/github/stars/kaist-cvml/PixelREPA?style=social&label=Star)
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## pixel 
