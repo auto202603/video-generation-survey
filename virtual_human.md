@@ -4,6 +4,14 @@
 [arxiv 2025.07] Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data  [[PDF](https://arxiv.org/abs/2507.07095),[Page](https://github.com/VankouF/MotionMillion-Codes)] ![Code](https://img.shields.io/github/stars/VankouF/MotionMillion-Codes?style=social&label=Star)
 
 
+[arxiv 2026.03] UMO: Unified In-Context Learning Unlocks Motion Foundation Model Priors  [[PDF](https://arxiv.org/abs/2603.15975),[Page](https://oliver-cong02.github.io/UMO.github.io/)]
+
+[arxiv 2026.03] Ground Reaction Inertial Poser: Physics-based Human Motion Capture from Sparse IMUs and Insole Pressure Sensors  [[PDF](https://arxiv.org/abs/2603.16233),[Page](https://ryosukehori.github.io/grip-project/)]
+
+[arxiv 2026.03] Learning Human-Object Interaction for 3D Human Pose Estimation from LiDAR Point Clouds  [[PDF](https://arxiv.org/abs/2603.16343)]
+
+[arxiv 2026.03] SOMA: Unifying Parametric Human Body Models  [[PDF](https://arxiv.org/abs/2603.16858)] ![Code](https://img.shields.io/github/stars/NVlabs/SOMA-X?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 

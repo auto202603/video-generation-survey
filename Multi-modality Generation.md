@@ -12,6 +12,86 @@
 [arxiv 2024.12] Training Large Language Models to Reason in a Continuous Latent Space  [[PDF](https://arxiv.org/pdf/2412.06769)]
 
 
+[arxiv 2026.03] Exploring the Use of VLMs for Navigation Assistance for People with Blindness and Low Vision  [[PDF](https://arxiv.org/abs/2603.15624)]
+
+[arxiv 2026.03] CLRNet: Targetless Extrinsic Calibration for Camera, Lidar and 4D Radar Using Deep Learning  [[PDF](https://arxiv.org/abs/2603.15767)]
+
+[arxiv 2026.03] Evolving Contextual Safety in Multi-Modal Large Language Models via Inference-Time Self-Reflective Memory  [[PDF](https://arxiv.org/abs/2603.15800),[Page](https://echosafe-mllm.github.io)]
+
+[arxiv 2026.03] Conflict-Aware Multimodal Fusion for Ambivalence and Hesitancy Recognition  [[PDF](https://arxiv.org/abs/2603.15818)]
+
+[arxiv 2026.03] Nodule-Aligned Latent Space Learning with LLM-Driven Multimodal Diffusion for Lung Nodule Progression Prediction  [[PDF](https://arxiv.org/abs/2603.15932)]
+
+[arxiv 2026.03] Do Not Leave a Gap: Hallucination-Free Object Concealment in Vision-Language Models  [[PDF](https://arxiv.org/abs/2603.15940)]
+
+[arxiv 2026.03] A Comprehensive Benchmark of Histopathology Foundation Models for Kidney Histopathology  [[PDF](https://arxiv.org/abs/2603.15967)]
+
+[arxiv 2026.03] Mostly Text, Smart Visuals: Asymmetric Text-Visual Pruning for Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2603.16001)] ![Code](https://img.shields.io/github/stars/LezJ/ATV-Pruning?style=social&label=Star)
+
+[arxiv 2026.03] Interact3D: Compositional 3D Generation of Interactive Objects  [[PDF](https://arxiv.org/abs/2603.16085)] ![Code](https://img.shields.io/github/stars/SII-Hui/Interact3D?style=social&label=Star)
+
+[arxiv 2026.03] Parallel In-context Learning for Large Vision Language Models  [[PDF](https://arxiv.org/abs/2603.16092)]
+
+[arxiv 2026.03] PathGLS: Evaluating Pathology Vision-Language Models without Ground Truth through Multi-Dimensional Consistency  [[PDF](https://arxiv.org/abs/2603.16113)] ![Code](https://img.shields.io/github/stars/My13ad/PathGLS?style=social&label=Star)
+
+[arxiv 2026.03] Rethinking UMM Visual Generation: Masked Modeling for Efficient Image-Only Pre-training  [[PDF](https://arxiv.org/abs/2603.16139)] ![Code](https://img.shields.io/github/stars/LINs-lab/IOMM?style=social&label=Star)
+
+[arxiv 2026.03] 360° Image Perception with MLLMs: A Comprehensive Benchmark and a Training-Free Method  [[PDF](https://arxiv.org/abs/2603.16179)]
+
+[arxiv 2026.03] KidsNanny: A Two-Stage Multimodal Content Moderation Pipeline Integrating Visual Classification, Object Detection, OCR, and Contextual Reasoning for Child Safety  [[PDF](https://arxiv.org/abs/2603.16181)] ![Code](https://img.shields.io/github/stars/notAI-tech/NudeNet?style=social&label=Star)
+
+[arxiv 2026.03] Reliable Reasoning in SVG-LLMs via Multi-Task Multi-Reward Reinforcement Learning  [[PDF](https://arxiv.org/abs/2603.16189)] ![Code](https://img.shields.io/github/stars/hmwang2002/CTRL-S?style=social&label=Star)
+
+[arxiv 2026.03] How to Utilize Complementary Vision-Text Information for 2D Structure Understanding  [[PDF](https://arxiv.org/abs/2603.16245)]
+
+[arxiv 2026.03] Visual Prompt Discovery via Semantic Exploration  [[PDF](https://arxiv.org/abs/2603.16250)]
+
+[arxiv 2026.03] Grounding the Score: Explicit Visual Premise Verification for Reliable Vision-Language Process Reward Models  [[PDF](https://arxiv.org/abs/2603.16253)] ![Code](https://img.shields.io/github/stars/Qwen-Applications/EVPV-PRM?style=social&label=Star)
+
+[arxiv 2026.03] When Thinking Hurts: Mitigating Visual Forgetting in Video Reasoning via Frame Repetition  [[PDF](https://arxiv.org/abs/2603.16256)]
+
+[arxiv 2026.03] AW-MoE: All-Weather Mixture of Experts for Robust Multi-Modal 3D Object Detection  [[PDF](https://arxiv.org/abs/2603.16261)]
+
+[arxiv 2026.03] Locate-then-Sparsify: Attribution Guided Sparse Strategy for Visual Hallucination Mitigation  [[PDF](https://arxiv.org/abs/2603.16284)] ![Code](https://img.shields.io/github/stars/huttersadan/LTS-FS?style=social&label=Star)
+
+[arxiv 2026.03] Persistent Story World Simulation with Continuous Character Customization  [[PDF](https://arxiv.org/abs/2603.16285)]
+
+[arxiv 2026.03] VisBrowse-Bench: Benchmarking Visual-Native Search for Multimodal Browsing Agents  [[PDF](https://arxiv.org/abs/2603.16289)] ![Code](https://img.shields.io/github/stars/ZhengboZhang/VisBrowse-Bench?style=social&label=Star)
+
+[arxiv 2026.03] InViC: Intent-aware Visual Cues for Medical Visual Question Answering  [[PDF](https://arxiv.org/abs/2603.16372)]
+
+[arxiv 2026.03] Cross-modal learning for plankton recognition  [[PDF](https://arxiv.org/abs/2603.16427)] ![Code](https://img.shields.io/github/stars/Jookare/cross-modal-plankton?style=social&label=Star)
+
+[arxiv 2026.03] IRIS: A Real-World Benchmark for Inverse Recovery and Identification of Physical Dynamic Systems from Monocular Video  [[PDF](https://arxiv.org/abs/2603.16432),[Page](https://iris-benchmark.github.io)]
+
+[arxiv 2026.03] Evo-Retriever: LLM-Guided Curriculum Evolution with Viewpoint-Pathway Collaboration for Multimodal Document Retrieval  [[PDF](https://arxiv.org/abs/2603.16455)]
+
+[arxiv 2026.03] GAP-MLLM: Geometry-Aligned Pre-training for Activating 3D Spatial Perception in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2603.16461)]
+
+[arxiv 2026.03] VIEW2SPACE: Studying Multi-View Visual Reasoning from Sparse Observations  [[PDF](https://arxiv.org/abs/2603.16506)] ![Code](https://img.shields.io/github/stars/pokerme7777/VIEW2SPACE?style=social&label=Star)
+
+[arxiv 2026.03] Segmentation-Based Attention Entropy: Detecting and Mitigating Object Hallucinations in Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2603.16558)]
+
+[arxiv 2026.03] Rationale Matters: Learning Transferable Rubrics via Proxy-Guided Critique for VLMReward Models  [[PDF](https://arxiv.org/abs/2603.16600)] ![Code](https://img.shields.io/github/stars/Qwen-Applications/Proxy-GRM?style=social&label=Star)
+
+[arxiv 2026.03] MLLM-based Textual Explanations for Face Comparison  [[PDF](https://arxiv.org/abs/2603.16629)] ![Code](https://img.shields.io/github/stars/redwankarimsony/LR-MLLMFR-Explainability?style=social&label=Star)
+
+[arxiv 2026.03] FlowComposer: Composable Flows for Compositional Zero-Shot Learning  [[PDF](https://arxiv.org/abs/2603.16641),[Page](https://hkust-longgroup.github.io/FlowComposer/)]
+
+[arxiv 2026.03] BUSSARD: Normalizing Flows for Bijective Universal Scene-Specific Anomalous Relationship Detection  [[PDF](https://arxiv.org/abs/2603.16645)] ![Code](https://img.shields.io/github/stars/mschween/BUSSARD?style=social&label=Star)
+
+[arxiv 2026.03] HeBA: Heterogeneous Bottleneck Adapters for Robust Vision-Language Models  [[PDF](https://arxiv.org/abs/2603.16653)] ![Code](https://img.shields.io/github/stars/Jahid12012021/VLM-HeBA?style=social&label=Star)
+
+[arxiv 2026.03] Kestrel: Grounding Self-Refinement for LVLM Hallucination Mitigation  [[PDF](https://arxiv.org/abs/2603.16664),[Page](https://jwmao1.github.io/Kestrel_project/)]
+
+[arxiv 2026.03] $x^2$-Fusion: Cross-Modality and Cross-Dimension Flow Estimation in Event Edge Space  [[PDF](https://arxiv.org/abs/2603.16671)]
+
+[arxiv 2026.03] Retrieving Counterfactuals Improves Visual In-Context Learning  [[PDF](https://arxiv.org/abs/2603.16737)] ![Code](https://img.shields.io/github/stars/gzxiong/CIRCLES?style=social&label=Star)
+
+[arxiv 2026.03] IOSVLM: A 3D Vision-Language Model for Unified Dental Diagnosis from Intraoral Scans  [[PDF](https://arxiv.org/abs/2603.16781)]
+
+[arxiv 2026.03] WildDepth: A Multimodal Dataset for 3D Wildlife Perception and Depth Estimation  [[PDF](https://arxiv.org/abs/2603.16816),[Page](https://yunshin.github.io/WildDepth/)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 

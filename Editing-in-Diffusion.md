@@ -40,6 +40,38 @@
 
 [arxiv 2026.03] OpenClaw-RL: Train Any Agent Simply by Talking  [[PDF](https://arxiv.org/abs/2603.10165)] ![Code](https://img.shields.io/github/stars/Gen-Verse/OpenClaw-RL?style=social&label=Star)
 
+[arxiv 2026.03] IdentityGuard: Context-Aware Restriction and Provenance for Personalized Synthesis  [[PDF](https://arxiv.org/abs/2603.15679)]
+
+[arxiv 2026.03] Transition Flow Matching  [[PDF](https://arxiv.org/abs/2603.15689)]
+
+[arxiv 2026.03] Parallelised Differentiable Straightest Geodesics for 3D Meshes  [[PDF](https://arxiv.org/abs/2603.15780)]
+
+[arxiv 2026.03] When Generative Augmentation Hurts: A Benchmark Study of GAN and Diffusion Models for Bias Correction in AI Classification Systems  [[PDF](https://arxiv.org/abs/2603.16134)]
+
+[arxiv 2026.03] EFF-Grasp: Energy-Field Flow Matching for Physics-Aware Dexterous Grasp Generation  [[PDF](https://arxiv.org/abs/2603.16151)]
+
+[arxiv 2026.03] Leveling3D: Leveling Up 3D Reconstruction with Feed-Forward 3D Gaussian Splatting and Geometry-Aware Generation  [[PDF](https://arxiv.org/abs/2603.16211)]
+
+[arxiv 2026.03] Iris: Bringing Real-World Priors into Diffusion Model for Monocular Depth Estimation  [[PDF](https://arxiv.org/abs/2603.16340)] ![Code](https://img.shields.io/github/stars/NUST-Machine-Intelligence-Laboratory/Iris?style=social&label=Star)
+
+[arxiv 2026.03] $D^3$-RSMDE: 40$\times$ Faster and High-Fidelity Remote Sensing Monocular Depth Estimation  [[PDF](https://arxiv.org/abs/2603.16362)]
+
+[arxiv 2026.03] Semantic One-Dimensional Tokenizer for Image Reconstruction and Generation  [[PDF](https://arxiv.org/abs/2603.16373)]
+
+[arxiv 2026.03] DermaFlux: Synthetic Skin Lesion Generation with Rectified Flows for Enhanced Image Classification  [[PDF](https://arxiv.org/abs/2603.16392),[Page](https://dermaflux.github.io/)]
+
+[arxiv 2026.03] Unlearning for One-Step Generative Models via Unbalanced Optimal Transport  [[PDF](https://arxiv.org/abs/2603.16489)]
+
+[arxiv 2026.03] Face2Scene: Using Facial Degradation as an Oracle for Diffusion-Based Scene Restoration  [[PDF](https://arxiv.org/abs/2603.16570),[Page](https://amirhossein-kz.github.io/face2scene/)]
+
+[arxiv 2026.03] REFORGE: Multi-modal Attacks Reveal Vulnerable Concept Unlearning in Image Generation Models  [[PDF](https://arxiv.org/abs/2603.16576)] ![Code](https://img.shields.io/github/stars/Imfatnoily/REFORGE?style=social&label=Star)
+
+[arxiv 2026.03] Semi-supervised Latent Disentangled Diffusion Model for Textile Pattern Generation  [[PDF](https://arxiv.org/abs/2603.16747)] ![Code](https://img.shields.io/github/stars/Cg-Hu/SLDDM-TPG?style=social&label=Star)
+
+[arxiv 2026.03] GDPO-SR: Group Direct Preference Optimization for One-Step Generative Image Super-Resolution  [[PDF](https://arxiv.org/abs/2603.16769)]
+
+[arxiv 2026.03] V-Co: A Closer Look at Visual Representation Alignment via Co-Denoising  [[PDF](https://arxiv.org/abs/2603.16792)] ![Code](https://img.shields.io/github/stars/HL-hanlin/V-Co?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## pixel 

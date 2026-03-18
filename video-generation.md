@@ -213,6 +213,44 @@ A reading list of video generation
 * **Action100M **
 [arxiv 2026.01] Action100M: A Large-scale Video Action Dataset  [[PDF](https://arxiv.org/pdf/2601.10592),[Page](https://github.com/facebookresearch/Action100M)] ![Code](https://img.shields.io/github/stars/facebookresearch/Action100M?style=social&label=Star)
 
+[arxiv 2026.03] DASH: Dynamic Audio-Driven Semantic Chunking for Efficient Omnimodal Token Compression  [[PDF](https://arxiv.org/abs/2603.15685)] ![Code](https://img.shields.io/github/stars/laychou666/DASH?style=social&label=Star)
+
+[arxiv 2026.03] UMO: Unified In-Context Learning Unlocks Motion Foundation Model Priors  [[PDF](https://arxiv.org/abs/2603.15975),[Page](https://oliver-cong02.github.io/UMO.github.io/)]
+
+[arxiv 2026.03] Towards the Vision-Sound-Language-Action Paradigm: The HEAR Framework for Sound-Centric Manipulation  [[PDF](https://arxiv.org/abs/2603.16086)]
+
+[arxiv 2026.03] Diffusion Models for Joint Audio-Video Generation  [[PDF](https://arxiv.org/abs/2603.16093)] ![Code](https://img.shields.io/github/stars/AlejandroParedesLT/audioVideo-GenAI?style=social&label=Star)
+
+[arxiv 2026.03] LICA: Layered Image Composition Annotations for Graphic Design Research  [[PDF](https://arxiv.org/abs/2603.16098)] ![Code](https://img.shields.io/github/stars/purvanshi-lica/lica-dataset?style=social&label=Star)
+
+[arxiv 2026.03] DualPrim: Compact 3D Reconstruction with Positive and Negative Primitives  [[PDF](https://arxiv.org/abs/2603.16133)]
+
+[arxiv 2026.03] S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight  [[PDF](https://arxiv.org/abs/2603.16195),[Page](https://haodong-yan.github.io/S-VAM/)]
+
+[arxiv 2026.03] VIGOR: VIdeo Geometry-Oriented Reward for Temporal Generative Alignment  [[PDF](https://arxiv.org/abs/2603.16271)]
+
+[arxiv 2026.03] DriveFix: Spatio-Temporally Coherent Driving Scene Restoration  [[PDF](https://arxiv.org/abs/2603.16306)]
+
+[arxiv 2026.03] ProgressiveAvatars: Progressive Animatable 3D Gaussian Avatars  [[PDF](https://arxiv.org/abs/2603.16447),[Page](https://ustc3dv.github.io/ProgressiveAvatars/)]
+
+[arxiv 2026.03] VideoMatGen: PBR Materials through Joint Generative Modeling  [[PDF](https://arxiv.org/abs/2603.16566),[Page](https://seed3d.github.io/Seed3D/report.pdf)]
+
+[arxiv 2026.03] Fast-WAM: Do World Action Models Need Test-time Future Imagination?  [[PDF](https://arxiv.org/abs/2603.16666),[Page](https://yuantianyuan01.github.io/FastWAM/)]
+
+[arxiv 2026.03] Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation  [[PDF](https://arxiv.org/abs/2603.16669),[Page](https://mutianxu.github.io/Kinema4D-project-page/)]
+
+[arxiv 2026.03] Search2Motion: Training-Free Object-Level Motion Control via Attention-Consensus Search  [[PDF](https://arxiv.org/abs/2603.16711),[Page](https://intelailabpage.github.io/2025/08/31/edit2motion.html)]
+
+[arxiv 2026.03] World Reconstruction From Inconsistent Views  [[PDF](https://arxiv.org/abs/2603.16736),[Page](https://lukashoel.github.io/video_to_world)]
+
+[arxiv 2026.03] SOMA: Unifying Parametric Human Body Models  [[PDF](https://arxiv.org/abs/2603.16858)] ![Code](https://img.shields.io/github/stars/NVlabs/SOMA-X?style=social&label=Star)
+
+[arxiv 2026.03] MessyKitchens: Contact-rich object-level 3D scene reconstruction  [[PDF](https://arxiv.org/abs/2603.16868),[Page](https://messykitchens.github.io/)]
+
+[arxiv 2026.03] Demystifing Video Reasoning  [[PDF](https://arxiv.org/abs/2603.16870)]
+
+[arxiv 2026.03] WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation  [[PDF](https://arxiv.org/abs/2603.16871),[Page](https://cvlab-kaist.github.io/WorldCam/)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
