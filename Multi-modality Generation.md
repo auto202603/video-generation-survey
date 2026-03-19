@@ -350,6 +350,8 @@
 
 [arxiv 2026.03] UVLM: A Universal Vision-Language Model Loader for Reproducible Multimodal Benchmarking  [[PDF](https://arxiv.org/abs/2603.13893)]
 
+[arxiv 2026.03] AdaZoom-GUI: Adaptive Zoom-based GUI Grounding with Instruction Refinement  [[PDF](https://arxiv.org/abs/2603.17441)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## Understanding 
@@ -545,6 +547,13 @@
 [arxiv 2026.03] MURE: Hierarchical Multi-Resolution Encoding via Vision-Language Models for Visual Document Retrieval  [[PDF](https://arxiv.org/abs/2603.13349)]
 
 [arxiv 2026.03] OrigamiBench: An Interactive Environment to Synthesize Flat-Foldable Origamis  [[PDF](https://arxiv.org/abs/2603.13856)]
+
+[arxiv 2026.03] Continual Multimodal Egocentric Activity Recognition via Modality-Aware Novel Detection  [[PDF](https://arxiv.org/abs/2603.16970)]
+[arxiv 2026.03] MCoT-MVS: Multi-level Vision Selection by Multi-modal Chain-of-Thought Reasoning for Composed Image Retrieval  [[PDF](https://arxiv.org/abs/2603.17360)]
+[arxiv 2026.03] Generalist Multimodal LLMs Gain Biometric Expertise via Human Salience  [[PDF](https://arxiv.org/abs/2603.17173)]
+[arxiv 2026.03] FACE-net: Factual Calibration and Emotion Augmentation for Retrieval-enhanced Emotional Video Captioning  [[PDF](https://arxiv.org/abs/2603.17455)]
+[arxiv 2026.03] AgriChat: A Multimodal Large Language Model for Agriculture Image Understanding  [[PDF](https://arxiv.org/abs/2603.16934)]
+[arxiv 2026.03] Symphony: A Cognitively-Inspired Multi-Agent System for Long-Video Understanding  [[PDF](https://arxiv.org/abs/2603.17304)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -802,6 +811,8 @@
 [arxiv 2026.03] Benchmarking Compact VLMs for Clip-Level Surveillance Anomaly Detection Under Weak Supervision  [[PDF](https://arxiv.org/abs/2603.13306)]
 
 [arxiv 2026.03] KazakhOCR: A Synthetic Benchmark for Evaluating Multimodal Models in Low-Resource Kazakh Script OCR  [[PDF](https://arxiv.org/abs/2603.13238)]
+[arxiv 2026.03] UniSAFE: A Comprehensive Benchmark for Safety Evaluation of Unified Multimodal Models  [[PDF](https://arxiv.org/abs/2603.17476)]
+[arxiv 2026.03] Omni-I2C: A Holistic Benchmark for High-Fidelity Image-to-Code Generation  [[PDF](https://arxiv.org/abs/2603.17508)]
 
 ## VLA 
 [arxiv 2025.07] EmbRACE-3K: Embodied Reasoning and Action in Complex Environments  [[PDF](https://arxiv.org/pdf/2507.10548),[Page](https://mxllc.github.io/EmbRACE-3K/)] ![Code](https://img.shields.io/github/stars/mxllc/EmbRACE-3K?style=social&label=Star) 
@@ -868,6 +879,9 @@
 [arxiv 2026.03] OCRA: Object-Centric Learning with 3D and Tactile Priors for Human-to-Robot Action Transfer  [[PDF](https://arxiv.org/abs/2603.14401)]
 
 [arxiv 2026.03] Your Vision-Language-Action Model Already Has Attention Heads For Path Deviation Detection  [[PDF](https://arxiv.org/abs/2603.13782)]
+
+[arxiv 2026.03] Recurrent Reasoning with VLMs for Estimating Long-Horizon Embodied Task Progress  [[PDF](https://arxiv.org/abs/2603.17312)]
+[arxiv 2026.03] EmergeNav: Structured Embodied Inference for Zero-Shot Vision-and-Language Navigation  [[PDF](https://arxiv.org/abs/2603.16947)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -980,6 +994,9 @@
 
 [arxiv 2026.03] MMOU: A Massive Multi-Task Omni Understanding and Reasoning Benchmark for Long and Complex Real-World Videos  [[PDF](https://arxiv.org/abs/2603.14145)]
 
+[arxiv 2026.03] HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning  [[PDF](https://arxiv.org/abs/2603.17024)]
+[arxiv 2026.03] HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning (extended)  [[PDF](https://arxiv.org/abs/2603.17132)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## Compression
@@ -1013,6 +1030,8 @@
 [arxiv 2026.03] Efficient Document Parsing via Parallel Token Prediction  [[PDF](https://arxiv.org/abs/2603.15206)]
 
 [arxiv 2026.03] Balancing Multimodal Domain Generalization via Gradient Modulation and Projection  [[PDF](https://arxiv.org/abs/2603.14175)]
+
+[arxiv 2026.03] Empirical Recipes for Efficient and Compact Vision-Language Models  [[PDF](https://arxiv.org/abs/2603.16987)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -1092,6 +1111,8 @@
 
 [arxiv 2026.03] Toward Scalable Co-located Practical Learning: Assisting with Computer Vision and Multimodal Analytics  [[PDF](https://arxiv.org/abs/2603.13679)]
 
+[arxiv 2026.03] Hidden Clones: Exposing and Fixing Family Bias in Vision-Language Model Ensembles  [[PDF](https://arxiv.org/abs/2603.17111)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## agent
@@ -1136,6 +1157,8 @@
 
 [arxiv 2025.10] AndesVL Technical Report: An Efficient Mobile-side Multimodal Large Language Model  [[PDF](https://arxiv.org/abs/2510.11496),[Page](https://github.com/OPPO-Mente-Lab/AndesVL_Evaluation)] ![Code](https://img.shields.io/github/stars/OPPO-Mente-Lab/AndesVL_Evaluation?style=social&label=Star) 
 
+
+[arxiv 2026.03] Look Where It Matters: High-Resolution Crops Retrieval for Efficient VLMs  [[PDF](https://arxiv.org/abs/2603.16932)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

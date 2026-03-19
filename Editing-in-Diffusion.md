@@ -164,6 +164,10 @@
 [arxiv 2026.03] Representation Alignment for Just Image Transformers is not Easier than You Think  [[[PDF](https://arxiv.org/abs/2603.14366)]] ![Code](https://img.shields.io/github/stars/kaist-cvml/PixelREPA?style=social&label=Star)
 
 
+[arxiv 2026.03] Rel-Zero: Harnessing Patch-Pair Invariance for Robust Zero-Watermarking Against AI Editing  [[PDF](https://arxiv.org/abs/2603.17531)]
+[arxiv 2026.03] FineViT: Progressively Unlocking Fine-Grained Perception with Dense Recaptions  [[PDF](https://arxiv.org/abs/2603.17326)]
+[arxiv 2026.03] Revisiting Cross-Attention Mechanisms: Leveraging Beneficial Noise for Domain-Adaptive Learning  [[PDF](https://arxiv.org/abs/2603.17474)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## pixel 
@@ -788,6 +792,10 @@
 
 [arxiv 2026.03] Workflow-Aware Structured Layer Decomposition for Illustration Production  [[PDF](https://arxiv.org/abs/2603.14925)] ![Code](https://img.shields.io/github/stars/zty0304/Anime-layer-decomposition?style=social&label=Star)
 
+[arxiv 2026.03] Directing the Narrative: A Finetuning Method for Controlling Coherence and Style in Story Generation  [[PDF](https://arxiv.org/abs/2603.17295)]
+[arxiv 2026.03] MSRAMIE: Multimodal Structured Reasoning Agent for Multi-instruction Image Editing  [[PDF](https://arxiv.org/abs/2603.16967)]
+[arxiv 2026.03] Omni IIE Bench: Benchmarking the Practical Capabilities of Image Editing Models  [[PDF](https://arxiv.org/abs/2603.16944)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## end of editing 
@@ -971,6 +979,8 @@
 [arxiv 2026.03] Chain-of-Trajectories: Unlocking the Intrinsic Generative Optimality of Diffusion Models via Graph-Theoretic Planning  [[PDF](https://arxiv.org/abs/2603.14704)] ![Code](https://img.shields.io/github/stars/UnicomAI/CoTj?style=social&label=Star)
 
 [arxiv 2026.03] Steering Generative Models for Accessibility: EasyRead Image Generation  [[PDF](https://arxiv.org/abs/2603.13695)]
+
+[arxiv 2026.03] DSS-GAN: Directional State Space GAN with Mamba Backbone for Class-Conditional Image Synthesis  [[PDF](https://arxiv.org/abs/2603.17637)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4213,6 +4223,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.03] VisionCoach: Reinforcing Grounded Video Reasoning via Visual-Perception Prompting  [[PDF](https://arxiv.org/abs/2603.14659)]
 
 [arxiv 2026.03] Trust-Region Noise Search for Black-Box Alignment of Diffusion and Flow Models  [[PDF](https://arxiv.org/abs/2603.14504)]
+
+[arxiv 2026.03] Do Understanding and Generation Fight? A Diagnostic Study of DPO for Unified Multimodal Models  [[PDF](https://arxiv.org/abs/2603.17044)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
