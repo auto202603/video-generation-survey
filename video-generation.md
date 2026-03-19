@@ -1156,6 +1156,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 [arxiv 2026.03] Temporal Gains, Spatial Costs: Revisiting Video Fine-Tuning in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2603.17541)]
+
 [arxiv 2026.03] Shot-Aware Frame Sampling for Video Understanding  [[PDF](https://arxiv.org/abs/2603.17374)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1358,9 +1359,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] ChArtist: Generating Pictorial Charts with Unified Spatial and Subject Control  [[PDF](https://arxiv.org/abs/2603.14209),[Page](https://chartist-ai.github.io/)]
 
 [arxiv 2026.03] AR-CoPO: Align Autoregressive Video Generation with Contrastive Policy Optimization  [[PDF](https://arxiv.org/abs/2603.17461)]
+
 [arxiv 2026.03] SHIFT: Motion Alignment in Video Diffusion Models with Adversarial Hybrid Fine-Tuning  [[PDF](https://arxiv.org/abs/2603.17426)]
+
 [arxiv 2026.03] Astrolabe: Steering Forward-Process RL for Distilled Autoregressive Video Models  [[PDF](https://arxiv.org/abs/2603.17051)]
+
 [arxiv 2026.03] Motion-Adaptive Temporal Attention for Lightweight Video Generation with Stable Diffusion  [[PDF](https://arxiv.org/abs/2603.17398)]
+
 [arxiv 2026.03] ProGVC: Progressive-based Generative Video Compression via Auto-Regressive Context Modeling  [[PDF](https://arxiv.org/abs/2603.17546)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -3558,8 +3563,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] CtrlAttack: A Unified Attack on World-Model Control in Diffusion Models  [[PDF](https://arxiv.org/abs/2603.13435)]
 
 [arxiv 2026.03] Stereo World Model: Camera-Guided Stereo Video Generation  [[PDF](https://arxiv.org/abs/2603.17375),[Page](https://sunyangtian.github.io/StereoWorld-web/)]
+
 [arxiv 2026.03] MosaicMem: Hybrid Spatial Memory for Controllable Video World Models  [[PDF](https://arxiv.org/abs/2603.17117),[Page](https://mosaicmem.github.io)]
+
 [arxiv 2026.03] GigaWorld-Policy: An Efficient Action-Centered World-Action Model  [[PDF](https://arxiv.org/abs/2603.17240)]
+
 [arxiv 2026.03] VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs  [[PDF](https://arxiv.org/abs/2603.17652)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)

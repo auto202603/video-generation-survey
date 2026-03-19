@@ -50,6 +50,7 @@
 [arxiv 2026.03] U-Face: An Efficient and Generalizable Framework for Unsupervised Facial Attribute Editing via Subspace Learning  [[PDF](https://arxiv.org/abs/2603.14004)]
 
 [arxiv 2026.03] TDMM-LM: Bridging Facial Understanding and Animation via Language Models  [[PDF](https://arxiv.org/abs/2603.16936)]
+
 [arxiv 2026.03] ECHO: Towards Emotionally Appropriate and Contextually Aware Interactive Head Generation  [[PDF](https://arxiv.org/abs/2603.17427)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -232,9 +233,13 @@
 [arxiv 2026.03] Gloss-Free Sign Language Translation: An Unbiased Evaluation of Progress in the Field  [[PDF](https://arxiv.org/abs/2603.13240)] ![Code](https://img.shields.io/github/stars/ozgemercanoglu/sltbaselines?style=social&label=Star)
 
 [arxiv 2026.03] OnlineHMR: Video-based Online World-Grounded Human Mesh Recovery  [[PDF](https://arxiv.org/abs/2603.17355)]
+
 [arxiv 2026.03] DancingBox: A Lightweight MoCap System for Character Animation from Physical Proxies  [[PDF](https://arxiv.org/abs/2603.17704)]
+
 [arxiv 2026.03] Toward Phonology-Guided Sign Language Motion Generation: A Diffusion Baseline and Conditioning Analysis  [[PDF](https://arxiv.org/abs/2603.17388)]
+
 [arxiv 2026.03] VisionNVS: Self-Supervised Inpainting for Novel View Synthesis under the Virtual-Shift Paradigm  [[PDF](https://arxiv.org/abs/2603.17382)]
+
 [arxiv 2026.03] Towards Motion-aware Referring Image Segmentation  [[PDF](https://arxiv.org/abs/2603.17413)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)

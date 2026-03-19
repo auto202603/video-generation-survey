@@ -165,7 +165,9 @@
 
 
 [arxiv 2026.03] Rel-Zero: Harnessing Patch-Pair Invariance for Robust Zero-Watermarking Against AI Editing  [[PDF](https://arxiv.org/abs/2603.17531)]
+
 [arxiv 2026.03] FineViT: Progressively Unlocking Fine-Grained Perception with Dense Recaptions  [[PDF](https://arxiv.org/abs/2603.17326)]
+
 [arxiv 2026.03] Revisiting Cross-Attention Mechanisms: Leveraging Beneficial Noise for Domain-Adaptive Learning  [[PDF](https://arxiv.org/abs/2603.17474)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -793,7 +795,9 @@
 [arxiv 2026.03] Workflow-Aware Structured Layer Decomposition for Illustration Production  [[PDF](https://arxiv.org/abs/2603.14925)] ![Code](https://img.shields.io/github/stars/zty0304/Anime-layer-decomposition?style=social&label=Star)
 
 [arxiv 2026.03] Directing the Narrative: A Finetuning Method for Controlling Coherence and Style in Story Generation  [[PDF](https://arxiv.org/abs/2603.17295)]
+
 [arxiv 2026.03] MSRAMIE: Multimodal Structured Reasoning Agent for Multi-instruction Image Editing  [[PDF](https://arxiv.org/abs/2603.16967)]
+
 [arxiv 2026.03] Omni IIE Bench: Benchmarking the Practical Capabilities of Image Editing Models  [[PDF](https://arxiv.org/abs/2603.16944)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
