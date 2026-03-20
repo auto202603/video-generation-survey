@@ -171,6 +171,8 @@
 [arxiv 2026.03] Revisiting Cross-Attention Mechanisms: Leveraging Beneficial Noise for Domain-Adaptive Learning  [[PDF](https://arxiv.org/abs/2603.17474)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]
+
 
 ## pixel 
 [arxiv 2025.11]  DeCo: Frequency-Decoupled Pixel Diffusion for End-to-End Image Generation [[PDF](https://arxiv.org/pdf/2511.19365),[Page](https://zehong-ma.github.io/DeCo/)] ![Code](https://img.shields.io/github/stars/Zehong-Ma/DeCo?style=social&label=Star)
@@ -1412,6 +1414,8 @@
 [arxiv 2026.03] High-Fidelity Text-to-Image Generation from Pre-Trained Vision-Language Models via Distribution-Conditioned Diffusion Decoding  [[PDF](https://arxiv.org/abs/2603.13389)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.03] RPiAE: A Representation-Pivoted Autoencoder Enhancing Both Image Generation and Editing  [[PDF](https://arxiv.org/abs/2603.19206)]
+
 
 ## autoregressive
 
@@ -1511,6 +1515,9 @@
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.03] Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens  [[PDF](https://arxiv.org/abs/2603.19232)] ![Code](https://img.shields.io/github/stars/YuqingWang1029/CubiD?style=social&label=Star)
+[arxiv 2026.03] Revisiting Autoregressive Models for Generative Image Classification  [[PDF](https://arxiv.org/abs/2603.19122)]
+
 
 ## autoregressive improvement
 [arxiv 2025.10] REAR: Rethinking Visual Autoregressive Models via Generator-Tokenizer Consistency Regularization  [[PDF](https://arxiv.org/abs/2510.04450)]
@@ -1644,6 +1651,8 @@
 [arxiv 2026.03] RBF-Solver: A Multistep Sampler for Diffusion Probabilistic Models via Radial Basis Functions  [[PDF](https://arxiv.org/abs/2603.13330)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.03] Q-Drift: Quantization-Aware Drift Correction for Diffusion Model Sampling  [[PDF](https://arxiv.org/abs/2603.18095)]
+
 
 ## Try-on 
 [arxiv 2024.03]Time-Efficient and Identity-Consistent Virtual Try-On Using A Variant of Altered Diffusion Models [[PDF](https://arxiv.org/abs/2403.07371)]
@@ -3278,6 +3287,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.03] Color image restoration based on nonlocal saturation-value similarity  [[PDF](https://arxiv.org/abs/2603.18586)]
+
 
 
 ## translation 
@@ -4231,6 +4242,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.03] Do Understanding and Generation Fight? A Diagnostic Study of DPO for Unified Multimodal Models  [[PDF](https://arxiv.org/abs/2603.17044)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.03] CRAFT: Aligning Diffusion Models with Fine-Tuning Is Easier Than You Think  [[PDF](https://arxiv.org/abs/2603.18991)]
+
 
 ## GPT4o evaluation 
 [arxiv 2025.05] Preliminary Explorations with GPT-4o(mni) Native Image Generation  [[PDF](https://arxiv.org/pdf/2505.05501)]

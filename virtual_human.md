@@ -243,6 +243,10 @@
 [arxiv 2026.03] Towards Motion-aware Referring Image Segmentation  [[PDF](https://arxiv.org/abs/2603.17413)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.03] Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer  [[PDF](https://arxiv.org/abs/2603.19227),[Page](https://rheallyc.github.io/projects/motok)] ![Code](https://img.shields.io/github/stars/rheallyc/MoTok?style=social&label=Star)
+[arxiv 2026.03] SwiftTailor: Efficient 3D Garment Generation with Geometry Image Representation  [[PDF](https://arxiv.org/abs/2603.19053)]
+[arxiv 2026.03] OpenT2M: No-frill Motion Generation with Open-source,Large-scale, High-quality Data  [[PDF](https://arxiv.org/abs/2603.18623)]
+
 
 ## audio-to-gesture 
 [arxiv 2024.10] Emphasizing Semantic Consistency of Salient Posture for Speech-Driven Gesture Generation  [[PDF](https://arxiv.org/abs/2410.13786)]
@@ -288,6 +292,8 @@
 [arxiv 2025.12] M.I.O: Towards Interactive Intelligence for Digital Humans  [[PDF](https://arxiv.org/abs/2512.13674),[Page](https://shandaai.github.io/project_mio_page/)] 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.03] Generalized Hand-Object Pose Estimation with Occlusion Awareness  [[PDF](https://arxiv.org/abs/2603.19013)]
+
 
 
 ## Interaction 
@@ -399,6 +405,8 @@
 [arxiv 2026.03] Inclusive AI for Group Interactions: Predicting Gaze-Direction Behaviors in People with Intellectual and Developmental Disabilities  [[PDF](https://arxiv.org/abs/2603.14460)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.03] GHOST: Fast Category-agnostic Hand-Object Interaction Reconstruction from RGB Videos using Gaussian Splatting  [[PDF](https://arxiv.org/abs/2603.18912)]
+
 
 ## Interaction Detection 
 
@@ -464,3 +472,5 @@
 [arxiv 2026.03] GazeOnce360: Fisheye-Based 360° Multi-Person Gaze Estimation with Global-Local Feature Fusion  [[PDF](https://arxiv.org/abs/2603.17161)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.03] SignAgent: Agentic LLMs for Linguistically-Grounded Sign Language Annotation and Dataset Curation  [[PDF](https://arxiv.org/abs/2603.19059)]
+

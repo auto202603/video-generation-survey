@@ -800,6 +800,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] Chain of Event-Centric Causal Thought for Physically Plausible Video Generation  [[PDF](https://arxiv.org/pdf/2603.09094)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.03] PhysVideo: Physically Plausible Video Generation with Cross-View Geometry Guidance  [[PDF](https://arxiv.org/abs/2603.18639)]
+
 
 
 ## loss 
@@ -1180,6 +1182,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.03] 3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model  [[PDF](https://arxiv.org/abs/2603.18524),[Page](https://ko-lani.github.io/3DreamBooth)] ![Code](https://img.shields.io/github/stars/Ko-Lani/3DreamBooth?style=social&label=Star)
+
 
 ## Controllable Video Generation 
 
@@ -2653,6 +2657,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.02]  SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model [[PDF](https://arxiv.org/abs/2602.21818)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.03] Improving Joint Audio-Video Generation with Cross-Modal Context Learning  [[PDF](https://arxiv.org/abs/2603.18600)]
+
 
 
 ## video-to-audio generation 
@@ -2854,6 +2860,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] When to Lock Attention: Training-Free KV Control in Video Diffusion  [[PDF](https://arxiv.org/pdf/2603.09657)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.03] SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing  [[PDF](https://arxiv.org/abs/2603.19228)]
+
 
 
 ## Editing with image model 
@@ -3402,6 +3410,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] SVG-EAR: Parameter-Free Linear Compensation for Sparse Video Generation via Error-aware Routing  [[PDF](https://arxiv.org/pdf/2603.08982)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.03] Em-Garde: A Propose-Match Framework for Proactive Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2603.19054)]
+[arxiv 2026.03] 6Bit-Diffusion: Inference-Time Mixed-Precision Quantization for Video Diffusion Models  [[PDF](https://arxiv.org/abs/2603.18742)]
+[arxiv 2026.03] Training-Free Sparse Attention for Fast Video Generation via Offline Layer-Wise Sparsity Profiling and Online Bidirectional Co-Clustering  [[PDF](https://arxiv.org/abs/2603.18636)]
+[arxiv 2026.03] Efficient Video Diffusion with Sparse Information Transmission for Video Compression  [[PDF](https://arxiv.org/abs/2603.18501)]
+
 
 
 ## Dataset optimization 
