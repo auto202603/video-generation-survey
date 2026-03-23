@@ -323,6 +323,20 @@ A reading list of video generation
 [arxiv 2026.03] VisionCoach: Reinforcing Grounded Video Reasoning via Visual-Perception Prompting  [[[PDF](https://arxiv.org/abs/2603.14659),[Page](https://visioncoach.github.io/)]]
 
 
+[arxiv 2026.03] LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation [[[PDF](https://arxiv.org/abs/2603.20192), [Page](https://jiazheng-xing.github.io/lumosx-home/)]]
+
+[arxiv 2026.03] CoVR-R:Reason-Aware Composed Video Retrieval [[[PDF](https://arxiv.org/abs/2603.20190)]]
+
+[arxiv 2026.03] Decoupled Sensitivity-Consistency Learning for Weakly Supervised Video Anomaly Detection [[[PDF](https://arxiv.org/abs/2603.19780)]]
+
+[arxiv 2026.03] WorldAgents: Can Foundation Image Models be Agents for 3D World Models? [[[PDF](https://arxiv.org/abs/2603.19708)]]
+
+[arxiv 2026.03] Narrative Aligned Long Form Video Question Answering [[[PDF](https://arxiv.org/abs/2603.19481)]]
+
+[arxiv 2026.03] FoleyDirector: Fine-Grained Temporal Steering for Video-to-Audio Generation via Structured Scripts [[[PDF](https://arxiv.org/abs/2603.19857)]]
+
+[arxiv 2026.03] Toward High-Fidelity Visual Reconstruction: From EEG-Based Conditioned Generation to Joint-Modal Guided Rebuilding [[[PDF](https://arxiv.org/abs/2603.19667)]]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 

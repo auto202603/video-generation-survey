@@ -36,6 +36,14 @@
 [arxiv 2026.03] Human-AI Ensembles Improve Deepfake Detection in Low-to-Medium Quality Videos  [[[PDF](https://arxiv.org/abs/2603.14658)]]
 
 
+[arxiv 2026.03] Controllable Text-to-Motion Generation via Modular Body-Part Phase Control [[[PDF](https://arxiv.org/abs/2603.19795)]]
+
+[arxiv 2026.03] HiFiGaze: Improving Eye Tracking Accuracy Using Screen Content Knowledge [[[PDF](https://arxiv.org/abs/2603.19588)]]
+
+[arxiv 2026.03] Teaching an Agent to Sketch One Part at a Time [[[PDF](https://arxiv.org/abs/2603.19500)]]
+
+[arxiv 2026.03] PhyGile: Physics-Prefix Guided Motion Generation for Agile General Humanoid Motion Tracking [[[PDF](https://arxiv.org/abs/2603.19305)]]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 

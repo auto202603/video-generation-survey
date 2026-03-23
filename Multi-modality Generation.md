@@ -262,6 +262,42 @@
 [arxiv 2026.03] Medical Image Spatial Grounding with Semantic Sampling  [[[PDF](https://arxiv.org/abs/2603.14579)]]
 
 
+[arxiv 2026.03] Deterministic Mode Proposals: An Efficient Alternative to Generative Sampling for Ambiguous Segmentation [[[PDF](https://arxiv.org/abs/2603.20191)]]
+
+[arxiv 2026.03] Synergistic Perception and Generative Recomposition: A Multi-Agent Orchestration for Expert-Level Building Inspection [[[PDF](https://arxiv.org/abs/2603.20143)]]
+
+[arxiv 2026.03] MFil-Mamba: Multi-Filter Scanning for Spatial Redundancy-Aware Visual State Space Models [[[PDF](https://arxiv.org/abs/2603.20074)]]
+
+[arxiv 2026.03] CFCML: A Coarse-to-Fine Crossmodal Learning Framework For Disease Diagnosis Using Multimodal Images and Tabular Data [[[PDF](https://arxiv.org/abs/2603.20016)]]
+
+[arxiv 2026.03] Learning Like Humans: Analogical Concept Learning for Generalized Category Discovery [[[PDF](https://arxiv.org/abs/2603.19918)]]
+
+[arxiv 2026.03] HUGE-Bench: A Benchmark for High-Level UAV Vision-Language-Action Tasks [[[PDF](https://arxiv.org/abs/2603.19822)]]
+
+[arxiv 2026.03] Evaluating Vision Foundation Models for Pixel and Object Classification in Microscopy [[[PDF](https://arxiv.org/abs/2603.19802)]]
+
+[arxiv 2026.03] Learning Hierarchical Orthogonal Prototypes for Generalized Few-Shot 3D Point Cloud Segmentation [[[PDF](https://arxiv.org/abs/2603.19788)]]
+
+[arxiv 2026.03] Uncertainty-aware Prototype Learning with Variational Inference for Few-shot Point Cloud Segmentation [[[PDF](https://arxiv.org/abs/2603.19757)]]
+
+[arxiv 2026.03] BALM: A Model-Agnostic Framework for Balanced Multimodal Learning under Imbalanced Missing Rates [[[PDF](https://arxiv.org/abs/2603.19718)]]
+
+[arxiv 2026.03] Unbiased Dynamic Multimodal Fusion [[[PDF](https://arxiv.org/abs/2603.19681)]]
+
+[arxiv 2026.03] Semantic Audio-Visual Navigation in Continuous Environments [[[PDF](https://arxiv.org/abs/2603.19660)]]
+
+[arxiv 2026.03] GravCal: Single-Image Calibration of IMU Gravity Priors with Per-Sample Confidence [[[PDF](https://arxiv.org/abs/2603.19654)]]
+
+[arxiv 2026.03] Physion-Eval: Evaluating Physical Realism in Generated Video via Human Reasoning [[[PDF](https://arxiv.org/abs/2603.19607)]]
+
+[arxiv 2026.03] PFM-VEPAR: Prompting Foundation Models for RGB-Event Camera based Pedestrian Attribute Recognition [[[PDF](https://arxiv.org/abs/2603.19565)]]
+
+[arxiv 2026.03] Diffusion-Guided Semantic Consistency for Multimodal Heterogeneity [[[PDF](https://arxiv.org/abs/2603.19337)]]
+
+[arxiv 2026.03] Grounded Multimodal Retrieval-Augmented Drafting of Radiology Impressions Using Case-Based Similarity Search [[[PDF](https://arxiv.org/abs/2603.17765)]]
+
+[arxiv 2026.03] ReXInTheWild: A Unified Benchmark for Medical Photograph Understanding [[[PDF](https://arxiv.org/abs/2603.19517)]]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 

@@ -170,6 +170,30 @@
 
 [arxiv 2026.03] Revisiting Cross-Attention Mechanisms: Leveraging Beneficial Noise for Domain-Adaptive Learning  [[PDF](https://arxiv.org/abs/2603.17474)]
 
+[arxiv 2026.03] LagerNVS: Latent Geometry for Fully Neural Real-time Novel View Synthesis [[[PDF](https://arxiv.org/abs/2603.20176), [Page](http://szymanowiczs.github.io/lagernvs)]]
+
+[arxiv 2026.03] Generalizable NGP-SR: Generalizable Neural Radiance Fields Super-Resolution via Neural Graph Primitives [[[PDF](https://arxiv.org/abs/2603.20128)]]
+
+[arxiv 2026.03] Diffusion-Based Makeup Transfer with Facial Region-Aware Makeup Features [[[PDF](https://arxiv.org/abs/2603.20012)]]
+
+[arxiv 2026.03] Fourier Splatting: Generalized Fourier encoded primitives for scalable radiance fields [[[PDF](https://arxiv.org/abs/2603.19834)]]
+
+[arxiv 2026.03] One Model, Two Minds: Task-Conditioned Reasoning for Unified Image Quality and Aesthetic Assessment [[[PDF](https://arxiv.org/abs/2603.19779)]]
+
+[arxiv 2026.03] Evaluating Image Editing with LLMs: A Comprehensive Benchmark and Intermediate-Layer Probing Approach [[[PDF](https://arxiv.org/abs/2603.19775)]]
+
+[arxiv 2026.03] ReLi3D: Relightable Multi-view 3D Reconstruction with Disentangled Illumination [[[PDF](https://arxiv.org/abs/2603.19753)]]
+
+[arxiv 2026.03] 3D Gaussian Splatting with Self-Constrained Priors for High Fidelity Surface Reconstruction [[[PDF](https://arxiv.org/abs/2603.19682), [Page](https://takeshie.github.io/GSPrior)]]
+
+[arxiv 2026.03] FlowScene: Style-Consistent Indoor Scene Generation with Multimodal Graph Rectified Flow [[[PDF](https://arxiv.org/abs/2603.19598)]]
+
+[arxiv 2026.03] SeeClear: Reliable Transparent Object Depth Estimation via Generative Opacification [[[PDF](https://arxiv.org/abs/2603.19547)]]
+
+[arxiv 2026.03] 2K Retrofit: Entropy-Guided Efficient Sparse Refinement for High-Resolution 3D Geometry Prediction [[[PDF](https://arxiv.org/abs/2603.19964)]]
+
+[arxiv 2026.03] OmniDiT: Extending Diffusion Transformer to Omni-VTON Framework [[[PDF](https://arxiv.org/abs/2603.19643)]]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]
