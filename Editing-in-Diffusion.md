@@ -171,6 +171,7 @@
 [arxiv 2026.03] Revisiting Cross-Attention Mechanisms: Leveraging Beneficial Noise for Domain-Adaptive Learning  [[PDF](https://arxiv.org/abs/2603.17474)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]
 
 
@@ -1414,6 +1415,7 @@
 [arxiv 2026.03] High-Fidelity Text-to-Image Generation from Pre-Trained Vision-Language Models via Distribution-Conditioned Diffusion Decoding  [[PDF](https://arxiv.org/abs/2603.13389)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 [arxiv 2026.03] RPiAE: A Representation-Pivoted Autoencoder Enhancing Both Image Generation and Editing  [[PDF](https://arxiv.org/abs/2603.19206)]
 
 
@@ -1515,7 +1517,9 @@
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 [arxiv 2026.03] Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens  [[PDF](https://arxiv.org/abs/2603.19232)] ![Code](https://img.shields.io/github/stars/YuqingWang1029/CubiD?style=social&label=Star)
+
 [arxiv 2026.03] Revisiting Autoregressive Models for Generative Image Classification  [[PDF](https://arxiv.org/abs/2603.19122)]
 
 
@@ -1651,6 +1655,7 @@
 [arxiv 2026.03] RBF-Solver: A Multistep Sampler for Diffusion Probabilistic Models via Radial Basis Functions  [[PDF](https://arxiv.org/abs/2603.13330)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 [arxiv 2026.03] Q-Drift: Quantization-Aware Drift Correction for Diffusion Model Sampling  [[PDF](https://arxiv.org/abs/2603.18095)]
 
 
@@ -3287,6 +3292,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 [arxiv 2026.03] Color image restoration based on nonlocal saturation-value similarity  [[PDF](https://arxiv.org/abs/2603.18586)]
 
 
@@ -4242,6 +4248,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.03] Do Understanding and Generation Fight? A Diagnostic Study of DPO for Unified Multimodal Models  [[PDF](https://arxiv.org/abs/2603.17044)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 [arxiv 2026.03] CRAFT: Aligning Diffusion Models with Fine-Tuning Is Easier Than You Think  [[PDF](https://arxiv.org/abs/2603.18991)]
 
 
@@ -4414,6 +4421,40 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.02] On the Guidance of Flow Matching  [[PDF](https://arxiv.org/abs/2502.02150),[Page](https://github.com/AI4Science-WestlakeU/flow_guidance)] ![Code](https://img.shields.io/github/stars/AI4Science-WestlakeU/flow_guidance?style=social&label=Star)
 
+
+[arxiv 2026.03] Deterministic Mode Proposals: An Efficient Alternative to Generative Sampling for Ambiguous Segmentation [[PDF](https://arxiv.org/abs/2603.20191)]
+
+[arxiv 2026.03] Wildfire Spread Scenarios: Increasing Sample Diversity of Segmentation Diffusion Models with Training-Free Methods [[PDF](https://arxiv.org/abs/2603.20188)]
+
+[arxiv 2026.03] Improving Image-to-Image Translation via a Rectified Flow Reformulation [[PDF](https://arxiv.org/abs/2603.20186)]
+
+[arxiv 2026.03] Preference-Guided Debiasing for No-Reference Enhancement Image Quality Assessment [[PDF](https://arxiv.org/abs/2603.20086)]
+
+[arxiv 2026.03] MFil-Mamba: Multi-Filter Scanning for Spatial Redundancy-Aware Visual State Space Models [[PDF](https://arxiv.org/abs/2603.20074)]
+
+[arxiv 2026.03] NEC-Diff: Noise-Robust Event-RAW Complementary Diffusion for Seeing Motion in Extreme Darkness [[PDF](https://arxiv.org/abs/2603.20005)]
+
+[arxiv 2026.03] Timestep-Aware Block Masking for Efficient Diffusion Model Inference [[PDF](https://arxiv.org/abs/2603.19939)]
+
+[arxiv 2026.03] Evaluating Vision Foundation Models for Pixel and Object Classification in Microscopy [[PDF](https://arxiv.org/abs/2603.19802)]
+
+[arxiv 2026.03] ATHENA: Adaptive Test-Time Steering for Improving Count Fidelity in Diffusion Models [[PDF](https://arxiv.org/abs/2603.19676)]
+
+[arxiv 2026.03] Toward High-Fidelity Visual Reconstruction: From EEG-Based Conditioned Generation to Joint-Modal Guided Rebuilding [[PDF](https://arxiv.org/abs/2603.19667)]
+
+[arxiv 2026.03] MagicSeg: Open-World Segmentation Pretraining via Counterfactural Diffusion-Based Auto-Generation [[PDF](https://arxiv.org/abs/2603.19575)]
+
+[arxiv 2026.03] Accelerating Diffusion Decoders via Multi-Scale Sampling and One-Step Distillation [[PDF](https://arxiv.org/abs/2603.19570)]
+
+[arxiv 2026.03] MoCA3D: Monocular 3D Bounding Box Prediction in the Image Plane [[PDF](https://arxiv.org/abs/2603.19538)]
+
+[arxiv 2026.03] In-the-Wild Camouflage Attack on Vehicle Detectors through Controllable Image Editing [[PDF](https://arxiv.org/abs/2603.19456)]
+
+[arxiv 2026.03] Diffusion-Guided Semantic Consistency for Multimodal Heterogeneity [[PDF](https://arxiv.org/abs/2603.19337)]
+
+[arxiv 2026.03] Beyond Single Tokens: Distilling Discrete Diffusion Models via Discrete MMD [[PDF](https://arxiv.org/abs/2603.20155)]
+
+[arxiv 2026.03] Offshore oil and gas platform dynamics in the North Sea, Gulf of Mexico, and Persian Gulf: Exploiting the Sentinel-1 archive [[PDF](https://arxiv.org/abs/2603.19801)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

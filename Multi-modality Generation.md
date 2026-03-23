@@ -353,6 +353,7 @@
 [arxiv 2026.03] AdaZoom-GUI: Adaptive Zoom-based GUI Grounding with Instruction Refinement  [[PDF](https://arxiv.org/abs/2603.17441)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
 [arxiv 2026.03] GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning  [[PDF](https://arxiv.org/abs/2603.19137),[Page](https://vulab-ai.github.io/GSMem/)]
 
 
@@ -563,14 +564,23 @@
 [arxiv 2026.03] Symphony: A Cognitively-Inspired Multi-Agent System for Long-Video Understanding  [[PDF](https://arxiv.org/abs/2603.17304)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
 [arxiv 2026.03] Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding  [[PDF](https://arxiv.org/abs/2603.19235)]
+
 [arxiv 2026.03] SAVeS: Steering Safety Judgments in Vision-Language Models via Semantic Cues  [[PDF](https://arxiv.org/abs/2603.19092)]
+
 [arxiv 2026.03] TerraScope: Pixel-Grounded Visual Reasoning for Earth Observation  [[PDF](https://arxiv.org/abs/2603.19039)]
+
 [arxiv 2026.03] Rethinking MLLM Itself as a Segmenter with a Single Segmentation Token  [[PDF](https://arxiv.org/abs/2603.19026)]
+
 [arxiv 2026.03] HORNet: Task-Guided Frame Selection for Video Question Answering with Vision-Language Models  [[PDF](https://arxiv.org/abs/2603.18850)]
+
 [arxiv 2026.03] From Snapshots to Symphonies: The Evolution of Protein Prediction from Static Structures to Generative Dynamics and Multimodal Interactions  [[PDF](https://arxiv.org/abs/2603.18505)]
+
 [arxiv 2026.03] Learning Consistent Temporal Grounding between Related Tasks in Sports Coaching  [[PDF](https://arxiv.org/abs/2603.18453)]
+
 [arxiv 2026.03] CycleCap: Improving VLMs Captioning Performance via Self-Supervised Cycle Consistency Fine-Tuning  [[PDF](https://arxiv.org/abs/2603.18282)]
+
 [arxiv 2026.03] Meanings and Measurements: Multi-Agent Probabilistic Grounding for Vision-Language Navigation  [[PDF](https://arxiv.org/abs/2603.19166),[Page](https://lakshya-asu.github.io/Meanings-Measurements-Multi-Agent-Probabilistic-Grounding/)]
 
 
@@ -650,6 +660,7 @@
 [arxiv 2025.12] VideoZoomer: Reinforcement-Learned Temporal Focusing for Long Video Reasoning  [[PDF](https://arxiv.org/abs/2512.22315)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
 [arxiv 2026.03] HiMu: Hierarchical Multimodal Frame Selection for Long Video Question Answering  [[PDF](https://arxiv.org/abs/2603.18558)]
 
 
@@ -834,8 +845,11 @@
 [arxiv 2026.03] UniSAFE: A Comprehensive Benchmark for Safety Evaluation of Unified Multimodal Models  [[PDF](https://arxiv.org/abs/2603.17476)]
 
 [arxiv 2026.03] Omni-I2C: A Holistic Benchmark for High-Fidelity Image-to-Code Generation  [[PDF](https://arxiv.org/abs/2603.17508)]
+
 [arxiv 2026.03] LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs  [[PDF](https://arxiv.org/abs/2603.19217),[Page](https://kd-tao.github.io/LVOmniBench/)]
+
 [arxiv 2026.03] MultihopSpatial: Multi-hop Compositional Spatial Reasoning Benchmark for Vision-Language Model  [[PDF](https://arxiv.org/abs/2603.18892),[Page](https://youngwanlee.github.io/multihopspatial)]
+
 [arxiv 2026.03] GenVideoLens: Where LVLMs Fall Short in AI-Generated Video Detection?  [[PDF](https://arxiv.org/abs/2603.18625)]
 
 
@@ -910,12 +924,19 @@
 [arxiv 2026.03] EmergeNav: Structured Embodied Inference for Zero-Shot Vision-and-Language Navigation  [[PDF](https://arxiv.org/abs/2603.16947)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
 [arxiv 2026.03] CausalVAD: De-confounding End-to-End Autonomous Driving via Causal Intervention  [[PDF](https://arxiv.org/abs/2603.18561)]
+
 [arxiv 2026.03] VLM-AutoDrive: Post-Training Vision-Language Models for Safety-Critical Autonomous Driving Events  [[PDF](https://arxiv.org/abs/2603.18178)]
+
 [arxiv 2026.03] Action Draft and Verify: A Self-Verifying Framework for Vision-Language-Action Model  [[PDF](https://arxiv.org/abs/2603.18091)]
+
 [arxiv 2026.03] DarkDriving: A Real-World Day and Night Aligned Dataset for Autonomous Driving in the Dark Environment  [[PDF](https://arxiv.org/abs/2603.18067)]
+
 [arxiv 2026.03] NavTrust: Benchmarking Trustworthiness for Embodied Navigation  [[PDF](https://arxiv.org/abs/2603.19229),[Page](https://navtrust.github.io)]
+
 [arxiv 2026.03] FASTER: Rethinking Real-Time Flow VLAs  [[PDF](https://arxiv.org/abs/2603.19199),[Page](https://innovator-zero.github.io/FASTER)]
+
 [arxiv 2026.03] DriveVLM-RL: Neuroscience-Inspired Reinforcement Learning with Vision-Language Models for Safe and Deployable Autonomous Driving  [[PDF](https://arxiv.org/abs/2603.18315)]
 
 
@@ -1033,7 +1054,9 @@
 [arxiv 2026.03] HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning (extended)  [[PDF](https://arxiv.org/abs/2603.17132)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
 [arxiv 2026.03] Counting Circuits: Mechanistic Interpretability of Visual Reasoning in Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2603.18523)]
+
 [arxiv 2026.03] Insight-V++: Towards Advanced Long-Chain Visual Reasoning with Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2603.18118)]
 
 
@@ -1088,6 +1111,7 @@
 [arxiv 2026.03] AD-Copilot: A Vision-Language Assistant for Industrial Anomaly Detection via Visual In-context Comparison  [[PDF](https://arxiv.org/abs/2603.13779)]
 
 [arxiv 2026.03] Colony Grounded SAM2: Zero-shot detection and segmentation of bacterial colonies using foundation models  [[PDF](https://arxiv.org/abs/2603.13393)]
+
 [arxiv 2026.03] SEM: Sparse Embedding Modulation for Post-Hoc Debiasing of Vision-Language Models  [[PDF](https://arxiv.org/abs/2603.19028),[Page](https://sparse-embedding-modulation.github.io/)]
 
 
@@ -1154,10 +1178,15 @@
 [arxiv 2026.03] Hidden Clones: Exposing and Fixing Family Bias in Vision-Language Model Ensembles  [[PDF](https://arxiv.org/abs/2603.17111)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
 [arxiv 2026.03] Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders  [[PDF](https://arxiv.org/abs/2603.19209),[Page](https://lab-spell.github.io/vlm-ssm-vision-encoders/)] ![Code](https://img.shields.io/github/stars/raykuo18/vlm-ssm-vision-encoders?style=social&label=Star)
+
 [arxiv 2026.03] Tinted Frames: Question Framing Blinds Vision-Language Models  [[PDF](https://arxiv.org/abs/2603.19203),[Page](https://davidhalladay.github.io/tinted_frames_demo/)]
+
 [arxiv 2026.03] T-QPM: Enabling Temporal Out-Of-Distribution Detection and Domain Generalization for Vision-Language Models in Open-World  [[PDF](https://arxiv.org/abs/2603.18481)]
+
 [arxiv 2026.03] To See or To Please: Uncovering Visual Sycophancy and Split Beliefs in VLMs  [[PDF](https://arxiv.org/abs/2603.18373)]
+
 [arxiv 2026.03] Cognitive Mismatch in Multimodal Large Language Models for Discrete Symbol Understanding  [[PDF](https://arxiv.org/abs/2603.18472)]
 
 
@@ -1223,6 +1252,66 @@
 [arxiv 2025.05] Human-Aligned Bench: Fine-Grained Assessment of Reasoning Ability in MLLMs vs. Humans  [[PDF](https://arxiv.org/abs/2505.11141),[Page](https://yansheng-qiu.github.io/human-aligned-bench.github.io/)] ![Code](https://img.shields.io/github/stars/yansheng-qiu/Human_Aligned_Bench?style=social&label=Star) 
 
 [arxiv 2025.10] Generative Universal Verifier as Multimodal Meta-Reasoner  [[PDF](https://arxiv.org/abs/2510.13804),[Page](https://omniverifier.github.io/)] ![Code](https://img.shields.io/github/stars/Cominclip/OmniVerifier?style=social&label=Star) 
+
+[arxiv 2026.03] From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering [[PDF](https://arxiv.org/abs/2603.20193)] ![Code](https://img.shields.io/github/stars/VILA-Lab/PIXAR?style=social&label=Star)
+
+[arxiv 2026.03] LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation [[PDF](https://arxiv.org/abs/2603.20192),[Page](https://jiazheng-xing.github.io/lumosx-home/)]
+
+[arxiv 2026.03] Detached Skip-Links and $R$-Probe: Decoupling Feature Aggregation from Gradient Propagation for MLLM OCR [[PDF](https://arxiv.org/abs/2603.20020)]
+
+[arxiv 2026.03] Diffusion-Based Makeup Transfer with Facial Region-Aware Makeup Features [[PDF](https://arxiv.org/abs/2603.20012)]
+
+[arxiv 2026.03] 2K Retrofit: Entropy-Guided Efficient Sparse Refinement for High-Resolution 3D Geometry Prediction [[PDF](https://arxiv.org/abs/2603.19964)]
+
+[arxiv 2026.03] SIMPLER: Efficient Foundation Model Adaptation via Similarity-Guided Layer Pruning for Earth Observation [[PDF](https://arxiv.org/abs/2603.19873)]
+
+[arxiv 2026.03] IsoCLIP: Decomposing CLIP Projectors for Efficient Intra-modal Alignment [[PDF](https://arxiv.org/abs/2603.19862)]
+
+[arxiv 2026.03] Enhancing Alignment for Unified Multimodal Models via Semantically-Grounded Supervision [[PDF](https://arxiv.org/abs/2603.19807)]
+
+[arxiv 2026.03] From Plausibility to Verifiability: Risk-Controlled Generative OCR for Vision-Language Models [[PDF](https://arxiv.org/abs/2603.19790)]
+
+[arxiv 2026.03] One Model, Two Minds: Task-Conditioned Reasoning for Unified Image Quality and Aesthetic Assessment [[PDF](https://arxiv.org/abs/2603.19779)]
+
+[arxiv 2026.03] Evaluating Image Editing with LLMs: A Comprehensive Benchmark and Intermediate-Layer Probing Approach [[PDF](https://arxiv.org/abs/2603.19775)]
+
+[arxiv 2026.03] Template-based Object Detection Using a Foundation Model [[PDF](https://arxiv.org/abs/2603.19773)]
+
+[arxiv 2026.03] FREAK: A Fine-grained Hallucination Evaluation Benchmark for Advanced MLLMs [[PDF](https://arxiv.org/abs/2603.19765)]
+
+[arxiv 2026.03] PhysNeXt: Next-Generation Dual-Branch Structured Attention Fusion Network for Remote Photoplethysmography Measurement [[PDF](https://arxiv.org/abs/2603.19752)]
+
+[arxiv 2026.03] WorldAgents: Can Foundation Image Models be Agents for 3D World Models? [[PDF](https://arxiv.org/abs/2603.19708)]
+
+[arxiv 2026.03] TSegAgent: Zero-Shot Tooth Segmentation via Geometry-Aware Vision-Language Agents [[PDF](https://arxiv.org/abs/2603.19684)]
+
+[arxiv 2026.03] Vision-Language Attribute Disentanglement and Reinforcement for Lifelong Person Re-Identification [[PDF](https://arxiv.org/abs/2603.19678)]
+
+[arxiv 2026.03] Disentangle-then-Align: Non-Iterative Hybrid Multimodal Image Registration via Cross-Scale Feature Disentanglement [[PDF](https://arxiv.org/abs/2603.19623)]
+
+[arxiv 2026.03] ParallelVLM: Lossless Video-LLM Acceleration with Visual Alignment Aware Parallel Speculative Decoding [[PDF](https://arxiv.org/abs/2603.19610)]
+
+[arxiv 2026.03] FB-CLIP: Fine-Grained Zero-Shot Anomaly Detection with Foreground-Background Disentanglement [[PDF](https://arxiv.org/abs/2603.19608)]
+
+[arxiv 2026.03] FlowScene: Style-Consistent Indoor Scene Generation with Multimodal Graph Rectified Flow [[PDF](https://arxiv.org/abs/2603.19598)]
+
+[arxiv 2026.03] CurveStream: Boosting Streaming Video Understanding in MLLMs via Curvature-Aware Hierarchical Visual Memory Management [[PDF](https://arxiv.org/abs/2603.19571)]
+
+[arxiv 2026.03] dinov3.seg: Open-Vocabulary Semantic Segmentation with DINOv3 [[PDF](https://arxiv.org/abs/2603.19531)]
+
+[arxiv 2026.03] Instruction-Free Tuning of Large Vision Language Models for Medical Instruction Following [[PDF](https://arxiv.org/abs/2603.19482)]
+
+[arxiv 2026.03] Narrative Aligned Long Form Video Question Answering [[PDF](https://arxiv.org/abs/2603.19481)]
+
+[arxiv 2026.03] ProactiveBench: Benchmarking Proactiveness in Multimodal Large Language Models [[PDF](https://arxiv.org/abs/2603.19466)]
+
+[arxiv 2026.03] Factored Levenberg-Marquardt for Diffeomorphic Image Registration: An efficient optimizer for FireANTs [[PDF](https://arxiv.org/abs/2603.19371)]
+
+[arxiv 2026.03] ReconMIL: Synergizing Latent Space Reconstruction with Bi-Stream Mamba for Whole Slide Image Analysis [[PDF](https://arxiv.org/abs/2603.19925)]
+
+[arxiv 2026.03] Transformers are Stateless Differentiable Neural Computers [[PDF](https://arxiv.org/abs/2603.19272)]
+
+[arxiv 2026.03] Significance-Gain Pair Encoding for LLMs: A Statistical Alternative to Frequency-Based Subword Merging [[PDF](https://arxiv.org/abs/2603.19261)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

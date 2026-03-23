@@ -243,8 +243,11 @@
 [arxiv 2026.03] Towards Motion-aware Referring Image Segmentation  [[PDF](https://arxiv.org/abs/2603.17413)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 [arxiv 2026.03] Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer  [[PDF](https://arxiv.org/abs/2603.19227),[Page](https://rheallyc.github.io/projects/motok)] ![Code](https://img.shields.io/github/stars/rheallyc/MoTok?style=social&label=Star)
+
 [arxiv 2026.03] SwiftTailor: Efficient 3D Garment Generation with Geometry Image Representation  [[PDF](https://arxiv.org/abs/2603.19053)]
+
 [arxiv 2026.03] OpenT2M: No-frill Motion Generation with Open-source,Large-scale, High-quality Data  [[PDF](https://arxiv.org/abs/2603.18623)]
 
 
@@ -292,6 +295,7 @@
 [arxiv 2025.12] M.I.O: Towards Interactive Intelligence for Digital Humans  [[PDF](https://arxiv.org/abs/2512.13674),[Page](https://shandaai.github.io/project_mio_page/)] 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 [arxiv 2026.03] Generalized Hand-Object Pose Estimation with Occlusion Awareness  [[PDF](https://arxiv.org/abs/2603.19013)]
 
 
@@ -405,6 +409,7 @@
 [arxiv 2026.03] Inclusive AI for Group Interactions: Predicting Gaze-Direction Behaviors in People with Intellectual and Developmental Disabilities  [[PDF](https://arxiv.org/abs/2603.14460)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 [arxiv 2026.03] GHOST: Fast Category-agnostic Hand-Object Interaction Reconstruction from RGB Videos using Gaussian Splatting  [[PDF](https://arxiv.org/abs/2603.18912)]
 
 
@@ -471,6 +476,41 @@
 
 [arxiv 2026.03] GazeOnce360: Fisheye-Based 360° Multi-Person Gaze Estimation with Global-Local Feature Fusion  [[PDF](https://arxiv.org/abs/2603.17161)]
 
+[arxiv 2026.03] MuSteerNet: Human Reaction Generation from Videos via Observation-Reaction Mutual Steering [[PDF](https://arxiv.org/abs/2603.20187)]
+
+[arxiv 2026.03] Evaluating Test-Time Adaptation For Facial Expression Recognition Under Natural Cross-Dataset Distribution Shifts [[PDF](https://arxiv.org/abs/2603.19994)]
+
+[arxiv 2026.03] Cov2Pose: Leveraging Spatial Covariance for Direct Manifold-aware 6-DoF Object Pose Estimation [[PDF](https://arxiv.org/abs/2603.19961)]
+
+[arxiv 2026.03] RAM: Recover Any 3D Human Motion in-the-Wild [[PDF](https://arxiv.org/abs/2603.19929)]
+
+[arxiv 2026.03] FlashCap: Millisecond-Accurate Human Motion Capture via Flashing LEDs and Event-Based Vision [[PDF](https://arxiv.org/abs/2603.19770)]
+
+[arxiv 2026.03] OmniDiT: Extending Diffusion Transformer to Omni-VTON Framework [[PDF](https://arxiv.org/abs/2603.19643)]
+
+[arxiv 2026.03] UniBioTransfer: A Unified Framework for Multiple Biometrics Transfer [[PDF](https://arxiv.org/abs/2603.19637)]
+
+[arxiv 2026.03] IUP-Pose: Decoupled Iterative Uncertainty Propagation for Real-time Relative Pose Regression via Implicit Dense Alignment v1 [[PDF](https://arxiv.org/abs/2603.19625)]
+
+[arxiv 2026.03] UniPR: Unified Object-level Real-to-Sim Perception and Reconstruction from a Single Stereo Pair [[PDF](https://arxiv.org/abs/2603.19616)]
+
+[arxiv 2026.03] LoD-Loc v3: Generalized Aerial Localization in Dense Cities using Instance Silhouette Alignment [[PDF](https://arxiv.org/abs/2603.19609)]
+
+[arxiv 2026.03] PFM-VEPAR: Prompting Foundation Models for RGB-Event Camera based Pedestrian Attribute Recognition [[PDF](https://arxiv.org/abs/2603.19565)]
+
+[arxiv 2026.03] Pedestrian Crossing Intent Prediction via Psychological Features and Transformer Fusion [[PDF](https://arxiv.org/abs/2603.19533)]
+
+[arxiv 2026.03] SurfaceXR: Fusing Smartwatch IMUs and Egocentric Hand Pose for Seamless Surface Interactions [[PDF](https://arxiv.org/abs/2603.19529)]
+
+[arxiv 2026.03] Recognising BSL Fingerspelling in Continuous Signing Sequences [[PDF](https://arxiv.org/abs/2603.19523)]
+
+[arxiv 2026.03] Subspace Kernel Learning on Tensor Sequences [[PDF](https://arxiv.org/abs/2603.19546)]
+
+[arxiv 2026.03] Behavioral Engagement in VR-Based Sign Language Learning: Visual Attention as a Predictor of Performance and Temporal Dynamics [[PDF](https://arxiv.org/abs/2603.19535)]
+
+[arxiv 2026.03] HATL: Hierarchical Adaptive-Transfer Learning Framework for Sign Language Machine Translation [[PDF](https://arxiv.org/abs/2603.19260)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 [arxiv 2026.03] SignAgent: Agentic LLMs for Linguistically-Grounded Sign Language Annotation and Dataset Curation  [[PDF](https://arxiv.org/abs/2603.19059)]
 

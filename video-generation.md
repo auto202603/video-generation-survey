@@ -800,6 +800,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] Chain of Event-Centric Causal Thought for Physically Plausible Video Generation  [[PDF](https://arxiv.org/pdf/2603.09094)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 [arxiv 2026.03] PhysVideo: Physically Plausible Video Generation with Cross-View Geometry Guidance  [[PDF](https://arxiv.org/abs/2603.18639)]
 
 
@@ -1182,6 +1183,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 [arxiv 2026.03] 3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model  [[PDF](https://arxiv.org/abs/2603.18524),[Page](https://ko-lani.github.io/3DreamBooth)] ![Code](https://img.shields.io/github/stars/Ko-Lani/3DreamBooth?style=social&label=Star)
 
 
@@ -2657,6 +2659,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.02]  SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model [[PDF](https://arxiv.org/abs/2602.21818)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 [arxiv 2026.03] Improving Joint Audio-Video Generation with Cross-Modal Context Learning  [[PDF](https://arxiv.org/abs/2603.18600)]
 
 
@@ -2860,6 +2863,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] When to Lock Attention: Training-Free KV Control in Video Diffusion  [[PDF](https://arxiv.org/pdf/2603.09657)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 [arxiv 2026.03] SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing  [[PDF](https://arxiv.org/abs/2603.19228)]
 
 
@@ -3410,9 +3414,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] SVG-EAR: Parameter-Free Linear Compensation for Sparse Video Generation via Error-aware Routing  [[PDF](https://arxiv.org/pdf/2603.08982)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 [arxiv 2026.03] Em-Garde: A Propose-Match Framework for Proactive Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2603.19054)]
+
 [arxiv 2026.03] 6Bit-Diffusion: Inference-Time Mixed-Precision Quantization for Video Diffusion Models  [[PDF](https://arxiv.org/abs/2603.18742)]
+
 [arxiv 2026.03] Training-Free Sparse Attention for Fast Video Generation via Offline Layer-Wise Sparsity Profiling and Online Bidirectional Co-Clustering  [[PDF](https://arxiv.org/abs/2603.18636)]
+
 [arxiv 2026.03] Efficient Video Diffusion with Sparse Information Transmission for Video Compression  [[PDF](https://arxiv.org/abs/2603.18501)]
 
 
@@ -3779,6 +3787,58 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+
+[arxiv 2026.03] MME-CoF-Pro: Evaluating Reasoning Coherence in Video Generative Models with Text and Visual Hints [[PDF](https://arxiv.org/abs/2603.20194)]
+
+[arxiv 2026.03] VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking [[PDF](https://arxiv.org/abs/2603.20185)]
+
+[arxiv 2026.03] Adaptive Greedy Frame Selection for Long Video Understanding [[PDF](https://arxiv.org/abs/2603.20180)]
+
+[arxiv 2026.03] LagerNVS: Latent Geometry for Fully Neural Real-time Novel View Synthesis [[PDF](https://arxiv.org/abs/2603.20176),[Page](http://szymanowiczs.github.io/lagernvs)]
+
+[arxiv 2026.03] EgoForge: Goal-Directed Egocentric World Simulator [[PDF](https://arxiv.org/abs/2603.20169)]
+
+[arxiv 2026.03] Generalizable NGP-SR: Generalizable Neural Radiance Fields Super-Resolution via Neural Graph Primitives [[PDF](https://arxiv.org/abs/2603.20128)]
+
+[arxiv 2026.03] X-World: Controllable Ego-Centric Multi-Camera World Models for Scalable End-to-End Driving [[PDF](https://arxiv.org/abs/2603.19979)]
+
+[arxiv 2026.03] LIORNet: Self-Supervised LiDAR Snow Removal Framework for Autonomous Driving under Adverse Weather Conditions [[PDF](https://arxiv.org/abs/2603.19936)]
+
+[arxiv 2026.03] SegVGGT: Joint 3D Reconstruction and Instance Segmentation from Multi-View Images [[PDF](https://arxiv.org/abs/2603.19926)]
+
+[arxiv 2026.03] Fourier Splatting: Generalized Fourier encoded primitives for scalable radiance fields [[PDF](https://arxiv.org/abs/2603.19834)]
+
+[arxiv 2026.03] HUGE-Bench: A Benchmark for High-Level UAV Vision-Language-Action Tasks [[PDF](https://arxiv.org/abs/2603.19822)]
+
+[arxiv 2026.03] Controllable Text-to-Motion Generation via Modular Body-Part Phase Control [[PDF](https://arxiv.org/abs/2603.19795)]
+
+[arxiv 2026.03] Learning Hierarchical Orthogonal Prototypes for Generalized Few-Shot 3D Point Cloud Segmentation [[PDF](https://arxiv.org/abs/2603.19788)]
+
+[arxiv 2026.03] PCSTracker: Long-Term Scene Flow Estimation for Point Cloud Sequences [[PDF](https://arxiv.org/abs/2603.19762)]
+
+[arxiv 2026.03] Uncertainty-aware Prototype Learning with Variational Inference for Few-shot Point Cloud Segmentation [[PDF](https://arxiv.org/abs/2603.19757)]
+
+[arxiv 2026.03] PerformRecast: Expression and Head Pose Disentanglement for Portrait Video Editing [[PDF](https://arxiv.org/abs/2603.19731),[Page](https://youku-aigc.github.io/PerformRecast)]
+
+[arxiv 2026.03] 3D Gaussian Splatting with Self-Constrained Priors for High Fidelity Surface Reconstruction [[PDF](https://arxiv.org/abs/2603.19682),[Page](https://takeshie.github.io/GSPrior)]
+
+[arxiv 2026.03] DynFlowDrive: Flow-Based Dynamic World Modeling for Autonomous Driving [[PDF](https://arxiv.org/abs/2603.19675)]
+
+[arxiv 2026.03] Making Video Models Adhere to User Intent with Minor Adjustments [[PDF](https://arxiv.org/abs/2603.19672),[Page](https://ubc-vision.github.io/MinorAdjustVideo/docs/webpage/index.html)]
+
+[arxiv 2026.03] OrbitNVS: Harnessing Video Diffusion Priors for Novel View Synthesis [[PDF](https://arxiv.org/abs/2603.19613)]
+
+[arxiv 2026.03] Physion-Eval: Evaluating Physical Realism in Generated Video via Human Reasoning [[PDF](https://arxiv.org/abs/2603.19607)]
+
+[arxiv 2026.03] Dual-Domain Representation Alignment: Bridging 2D and 3D Vision via Geometry-Aware Architecture Search [[PDF](https://arxiv.org/abs/2603.19563)]
+
+[arxiv 2026.03] StreetForward: Perceiving Dynamic Street with Feedforward Causal Attention [[PDF](https://arxiv.org/abs/2603.19552)]
+
+[arxiv 2026.03] SeeClear: Reliable Transparent Object Depth Estimation via Generative Opacification [[PDF](https://arxiv.org/abs/2603.19547)]
+
+[arxiv 2026.03] Layered Quantum Architecture Search for 3D Point Cloud Classification [[PDF](https://arxiv.org/abs/2603.20024)]
+
+[arxiv 2026.03] PhyGile: Physics-Prefix Guided Motion Generation for Agile General Humanoid Motion Tracking [[PDF](https://arxiv.org/abs/2603.19305)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
