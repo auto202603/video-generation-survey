@@ -1,4 +1,16 @@
 ## Dataset
+[arxiv 2026.03] EARTalking: End-to-end GPT-style Autoregressive Talking Head Synthesis with Frame-wise Control  [[PDF](https://arxiv.org/abs/2603.20307)]
+
+[arxiv 2026.03] NCSTR: Node-Centric Decoupled Spatio-Temporal Reasoning for Video-based Human Pose Estimation  [[PDF](https://arxiv.org/abs/2603.20323)]
+
+[arxiv 2026.03] Identity-Consistent Video Generation under Large Facial-Angle Variations  [[PDF](https://arxiv.org/abs/2603.21299)]
+
+[arxiv 2026.03] Test-Time Adaptation via Cache Personalization for Facial Expression Recognition in Videos  [[PDF](https://arxiv.org/abs/2603.21309)]
+
+[arxiv 2026.03] KHMP: Frequency-Domain Kalman Refinement for High-Fidelity Human Motion Prediction  [[PDF](https://arxiv.org/abs/2603.21327)]
+
+[arxiv 2026.03] EmoTaG: Emotion-Aware Talking Head Synthesis on Gaussian Splatting with Few-Shot Personalization  [[PDF](https://arxiv.org/abs/2603.21332)]
+
 [arxiv 2025.07]  Seamless Interaction: Dyadic Audiovisual Motion Modeling and Large-Scale Dataset [[PDF](https://arxiv.org/abs/2506.22554),[Page](https://github.com/facebookresearch/seamless_interaction)] ![Code](https://img.shields.io/github/stars/facebookresearch/seamless_interaction?style=social&label=Star)
 
 [arxiv 2025.07] Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data  [[PDF](https://arxiv.org/abs/2507.07095),[Page](https://github.com/VankouF/MotionMillion-Codes)] ![Code](https://img.shields.io/github/stars/VankouF/MotionMillion-Codes?style=social&label=Star)
@@ -62,6 +74,7 @@
 [arxiv 2026.03] ECHO: Towards Emotionally Appropriate and Contextually Aware Interactive Head Generation  [[PDF](https://arxiv.org/abs/2603.17427)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.03] NBAvatar: Neural Billboards Avatars with Realistic Hand-Face Interaction  [[PDF](https://arxiv.org/abs/2603.12063)]
 
 ## Body 
 
@@ -250,6 +263,9 @@
 
 [arxiv 2026.03] Towards Motion-aware Referring Image Segmentation  [[PDF](https://arxiv.org/abs/2603.17413)]
 
+[arxiv 2026.03] Thermal Topology Collapse: Universal Physical Patch Attacks on Infrared Vision Systems  [[PDF](https://arxiv.org/abs/2603.21876)]
+[arxiv 2026.03] GraPHFormer: A Multimodal Graph Persistent Homology Transformer for the Analysis of Neuroscience Morphologies  [[PDF](https://arxiv.org/abs/2603.20970)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer  [[PDF](https://arxiv.org/abs/2603.19227),[Page](https://rheallyc.github.io/projects/motok)] ![Code](https://img.shields.io/github/stars/rheallyc/MoTok?style=social&label=Star)
@@ -257,7 +273,9 @@
 [arxiv 2026.03] SwiftTailor: Efficient 3D Garment Generation with Geometry Image Representation  [[PDF](https://arxiv.org/abs/2603.19053)]
 
 [arxiv 2026.03] OpenT2M: No-frill Motion Generation with Open-source,Large-scale, High-quality Data  [[PDF](https://arxiv.org/abs/2603.18623)]
-
+[arxiv 2026.03] LaMoGen: Language to Motion Generation Through LLM-Guided Symbolic Inference  [[PDF](https://arxiv.org/abs/2603.11605),[Page](https://jjkislele.github.io/LaMoGen/)]
+[arxiv 2026.03] Learning to Assist: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning  [[PDF](https://arxiv.org/abs/2603.11346),[Page](https://yutoshibata07.github.io/AssistMimic-projectpage/)]
+[arxiv 2026.03] PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization  [[PDF](https://arxiv.org/abs/2603.13228),[Page](https://mael-zys.github.io/PhysMoDPO/)]
 
 ## audio-to-gesture 
 [arxiv 2024.10] Emphasizing Semantic Consistency of Salient Posture for Speech-Driven Gesture Generation  [[PDF](https://arxiv.org/abs/2410.13786)]
@@ -416,6 +434,9 @@
 
 [arxiv 2026.03] Inclusive AI for Group Interactions: Predicting Gaze-Direction Behaviors in People with Intellectual and Developmental Disabilities  [[PDF](https://arxiv.org/abs/2603.14460)]
 
+[arxiv 2026.03] EgoGroups: A Benchmark For Detecting Social Groups of People in the Wild  [[PDF](https://arxiv.org/abs/2603.22249)]
+[arxiv 2026.03] GraphiContact: Pose-aware Human-Scene Robust Contact Perception for Interactive Systems  [[PDF](https://arxiv.org/abs/2603.20310)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] GHOST: Fast Category-agnostic Hand-Object Interaction Reconstruction from RGB Videos using Gaussian Splatting  [[PDF](https://arxiv.org/abs/2603.18912)]
@@ -518,7 +539,16 @@
 
 [arxiv 2026.03] HATL: Hierarchical Adaptive-Transfer Learning Framework for Sign Language Machine Translation [[PDF](https://arxiv.org/abs/2603.19260)]
 
+[arxiv 2026.03] GTSR: Subsurface Scattering Awared 3D Gaussians for Translucent Surface Reconstruction  [[PDF](https://arxiv.org/abs/2603.22036)]
+[arxiv 2026.03] ALADIN:Attribute-Language Distillation Network for Person Re-Identification  [[PDF](https://arxiv.org/abs/2603.21482)]
+[arxiv 2026.03] PiLoT: Neural Pixel-to-3D Registration for UAV-based Ego and Target Geo-localization  [[PDF](https://arxiv.org/abs/2603.20778)]
+[arxiv 2026.03] High-fidelity Multi-view Normal Integration with Scale-encoded Neural Surface Representation  [[PDF](https://arxiv.org/abs/2603.20337)]
+[arxiv 2026.03] Rheos: Modelling Continuous Motion Dynamics in Hierarchical 3D Scene Graphs  [[PDF](https://arxiv.org/abs/2603.20239)]
+[arxiv 2026.03] Benchmarking Efficient &amp; Effective Camera Pose Estimation Strategies for Novel View Synthesis  [[PDF](https://arxiv.org/abs/2603.20428)]
+[arxiv 2026.03] Monocular Models are Strong Learners for Multi-View Human Mesh Recovery  [[PDF](https://arxiv.org/abs/2603.20391)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] SignAgent: Agentic LLMs for Linguistically-Grounded Sign Language Annotation and Dataset Curation  [[PDF](https://arxiv.org/abs/2603.19059)]
-
+[arxiv 2026.03] Hierarchical Granularity Alignment and State Space Modeling for Robust Multimodal AU Detection in the Wild  [[PDF](https://arxiv.org/abs/2603.11306)]
+[arxiv 2026.03] A Two-Stage Dual-Modality Model for Facial Emotional Expression Recognition  [[PDF](https://arxiv.org/abs/2603.12221),[Page](https://affective-behavior-analysis-in-the-wild.github.io/10th/)]
