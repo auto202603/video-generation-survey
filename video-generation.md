@@ -1164,6 +1164,36 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] CounterScene: Counterfactual Causal Reasoning in Generative World Models for Safety-Critical Closed-Loop Evaluation  [[PDF](https://arxiv.org/abs/2603.21104)]
 
+[arxiv 2026.03] WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG  [[PDF](https://arxiv.org/abs/2603.23497)]
+
+[arxiv 2026.03] Foveated Diffusion: Efficient Spatially Adaptive Image and Video Generation  [[PDF](https://arxiv.org/abs/2603.23491)]
+
+[arxiv 2026.03] UniFunc3D: Unified Active Spatial-Temporal Grounding for 3D Functionality Segmentation  [[PDF](https://arxiv.org/abs/2603.23478)]
+
+[arxiv 2026.03] ViBe: Ultra-High-Resolution Video Synthesis Born from Pure Images  [[PDF](https://arxiv.org/abs/2603.23326)]
+
+[arxiv 2026.03] WaveSFNet: A Wavelet-Based Codec and Spatial--Frequency Dual-Domain Gating Network for Spatiotemporal Prediction  [[PDF](https://arxiv.org/abs/2603.23284)]
+
+[arxiv 2026.03] GO-Renderer: Generative Object Rendering with 3D-aware Controllable Video Diffusion Models  [[PDF](https://arxiv.org/abs/2603.23246)]
+
+[arxiv 2026.03] ViKey: Enhancing Temporal Understanding in Videos via Visual Prompting  [[PDF](https://arxiv.org/abs/2603.23186)]
+
+[arxiv 2026.03] InterDyad: Interactive Dyadic Speech-to-Video Generation by Querying Intermediate Visual Guidance  [[PDF](https://arxiv.org/abs/2603.23132)]
+
+[arxiv 2026.03] Cluster-Wise Spatio-Temporal Masking for Efficient Video-Language Pretraining  [[PDF](https://arxiv.org/abs/2603.22953)]
+
+[arxiv 2026.03] ForestPrune: High-ratio Visual Token Compression for Video Multimodal Large Language Models via Spatial-Temporal Forest Modeling  [[PDF](https://arxiv.org/abs/2603.22911)]
+
+[arxiv 2026.03] SLARM: Streaming and Language-Aligned Reconstruction Model for Dynamic Scenes  [[PDF](https://arxiv.org/abs/2603.22893)]
+
+[arxiv 2026.03] MultiCam: On-the-fly Multi-Camera Pose Estimation Using Spatiotemporal Overlaps of Known Objects  [[PDF](https://arxiv.org/abs/2603.22839)]
+
+[arxiv 2026.03] MVPBench: A Multi-Video Perception Evaluation Benchmark for Multi-Modal Video Understanding  [[PDF](https://arxiv.org/abs/2603.22756)]
+
+[arxiv 2026.03] A vision-language model and platform for temporally mapping surgery from video  [[PDF](https://arxiv.org/abs/2603.22583)]
+
+[arxiv 2026.03] ST-GDance++: A Scalable Spatial-Temporal Diffusion for Long-Duration Group Choreography  [[PDF](https://arxiv.org/abs/2603.22316)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## cot

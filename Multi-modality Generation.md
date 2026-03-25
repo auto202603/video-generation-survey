@@ -1398,6 +1398,62 @@
 
 [arxiv 2026.03] Visual Exclusivity Attacks: Automatic Multimodal Red Teaming via Agentic Planning  [[PDF](https://arxiv.org/abs/2603.20198)]
 
+[arxiv 2026.03] VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions  [[PDF](https://arxiv.org/abs/2603.23495)]
+
+[arxiv 2026.03] SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning  [[PDF](https://arxiv.org/abs/2603.23483)]
+
+[arxiv 2026.03] DetPO: In-Context Learning with Multi-Modal LLMs for Few-Shot Object Detection  [[PDF](https://arxiv.org/abs/2603.23455)]
+
+[arxiv 2026.03] 3DCity-LLM: Empowering Multi-modality Large Language Models for 3D City-scale Perception and Understanding  [[PDF](https://arxiv.org/abs/2603.23447)]
+
+[arxiv 2026.03] Unleashing Spatial Reasoning in Multimodal Large Language Models via Textual Representation Guided Reasoning  [[PDF](https://arxiv.org/abs/2603.23404)]
+
+[arxiv 2026.03] SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM  [[PDF](https://arxiv.org/abs/2603.23386)]
+
+[arxiv 2026.03] Gaze-Regularized Vision-Language-Action Models for Robotic Manipulation  [[PDF](https://arxiv.org/abs/2603.23202)]
+
+[arxiv 2026.03] Gaze-Regularized VLMs for Ego-Centric Behavior Understanding  [[PDF](https://arxiv.org/abs/2603.23190)]
+
+[arxiv 2026.03] SMSP: A Plug-and-Play Strategy of Multi-Scale Perception for MLLMs to Perceive Visual Illusions  [[PDF](https://arxiv.org/abs/2603.23118)]
+
+[arxiv 2026.03] AgentFoX: LLM Agent-Guided Fusion with eXplainability for AI-Generated Image Detection  [[PDF](https://arxiv.org/abs/2603.23115)]
+
+[arxiv 2026.03] MLLM-HWSI: A Multimodal Large Language Model for Hierarchical Whole Slide Image Understanding  [[PDF](https://arxiv.org/abs/2603.23067)]
+
+[arxiv 2026.03] YOLOv10 with Kolmogorov-Arnold networks and vision-language foundation models for interpretable object detection and trustworthy multimodal AI in computer vision perception  [[PDF](https://arxiv.org/abs/2603.23037)]
+
+[arxiv 2026.03] Cog3DMap: Multi-View Vision-Language Reasoning with 3D Cognitive Maps  [[PDF](https://arxiv.org/abs/2603.23023)]
+
+[arxiv 2026.03] VLA-IAP: Training-Free Visual Token Pruning via Interaction Alignment for Vision-Language-Action Models  [[PDF](https://arxiv.org/abs/2603.22991)]
+
+[arxiv 2026.03] ForestPrune: High-ratio Visual Token Compression for Video Multimodal Large Language Models via Spatial-Temporal Forest Modeling  [[PDF](https://arxiv.org/abs/2603.22911)]
+
+[arxiv 2026.03] Rethinking Token-Level Policy Optimization for Multimodal Chain-of-Thought  [[PDF](https://arxiv.org/abs/2603.22847)]
+
+[arxiv 2026.03] Know3D: Prompting 3D Generation with Knowledge from Vision-Language Models  [[PDF](https://arxiv.org/abs/2603.22782)]
+
+[arxiv 2026.03] ENC-Bench: A Benchmark for Evaluating Multimodal Large Language Models in Electronic Navigational Chart Understanding  [[PDF](https://arxiv.org/abs/2603.22763)]
+
+[arxiv 2026.03] Multimodal Industrial Anomaly Detection via Geometric Prior  [[PDF](https://arxiv.org/abs/2603.22757)]
+
+[arxiv 2026.03] How Far Can VLMs Go for Visual Bug Detection? Studying 19,738 Keyframes from 41 Hours of Gameplay Videos  [[PDF](https://arxiv.org/abs/2603.22706)]
+
+[arxiv 2026.03] Think 360°: Evaluating the Width-centric Reasoning Capability of MLLMs Beyond Depth  [[PDF](https://arxiv.org/abs/2603.22689)]
+
+[arxiv 2026.03] GeoTikzBridge: Advancing Multimodal Code Generation for Geometric Perception and Reasoning  [[PDF](https://arxiv.org/abs/2603.22687)]
+
+[arxiv 2026.03] A vision-language model and platform for temporally mapping surgery from video  [[PDF](https://arxiv.org/abs/2603.22583)]
+
+[arxiv 2026.03] When Visuals Aren&#39;t the Problem: Evaluating Vision-Language Models on Misleading Data Visualizations  [[PDF](https://arxiv.org/abs/2603.22368)]
+
+[arxiv 2026.03] From Instructions to Assistance: a Dataset Aligning Instruction Manuals with Assembly Videos for Evaluating Multimodal LLMs  [[PDF](https://arxiv.org/abs/2603.22321)]
+
+[arxiv 2026.03] Founder effects shape the evolutionary dynamics of multimodality in open LLM families  [[PDF](https://arxiv.org/abs/2603.22287)]
+
+[arxiv 2026.03] VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs  [[PDF](https://arxiv.org/abs/2603.23481)]
+
+[arxiv 2026.03] TreeTeaming: Autonomous Red-Teaming of Vision-Language Models via Hierarchical Strategy Exploration  [[PDF](https://arxiv.org/abs/2603.22882)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## context

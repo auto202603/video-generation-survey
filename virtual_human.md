@@ -1,4 +1,6 @@
 ## Dataset
+[arxiv 2026.03] FHAvatar: Fast and High-Fidelity Reconstruction of Face-and-Hair Composable 3D Head Avatar from Few Casual Captures  [[PDF](https://arxiv.org/abs/2603.23345)]
+
 [arxiv 2026.03] EARTalking: End-to-end GPT-style Autoregressive Talking Head Synthesis with Frame-wise Control  [[PDF](https://arxiv.org/abs/2603.20307)]
 
 [arxiv 2026.03] NCSTR: Node-Centric Decoupled Spatio-Temporal Reasoning for Video-based Human Pose Estimation  [[PDF](https://arxiv.org/abs/2603.20323)]

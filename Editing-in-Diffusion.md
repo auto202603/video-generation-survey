@@ -875,6 +875,40 @@
 
 [arxiv 2026.03] FIGURA: A Modular Prompt Engineering Method for Artistic Figure Photography in Safety-Filtered Text-to-Image Models  [[PDF](https://arxiv.org/abs/2603.20201)]
 
+[arxiv 2026.03] UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation  [[PDF](https://arxiv.org/abs/2603.23500)]
+
+[arxiv 2026.03] DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models  [[PDF](https://arxiv.org/abs/2603.23499)]
+
+[arxiv 2026.03] One View Is Enough! Monocular Training for In-the-Wild Novel View Generation  [[PDF](https://arxiv.org/abs/2603.23488)]
+
+[arxiv 2026.03] InverFill: One-Step Inversion for Enhanced Few-Step Diffusion Inpainting  [[PDF](https://arxiv.org/abs/2603.23463)]
+
+[arxiv 2026.03] I3DM: Implicit 3D-aware Memory Retrieval and Injection for Consistent Video Scene Generation  [[PDF](https://arxiv.org/abs/2603.23413)]
+
+[arxiv 2026.03] Curriculum-Driven 3D CT Report Generation via Language-Free Visual Grafting and Zone-Constrained Compression  [[PDF](https://arxiv.org/abs/2603.23308)]
+
+[arxiv 2026.03] Mamba-driven MRI-to-CT Synthesis for MRI-only Radiotherapy Planning  [[PDF](https://arxiv.org/abs/2603.23295)]
+
+[arxiv 2026.03] GO-Renderer: Generative Object Rendering with 3D-aware Controllable Video Diffusion Models  [[PDF](https://arxiv.org/abs/2603.23246)]
+
+[arxiv 2026.03] HUydra: Full-Range Lung CT Synthesis via Multiple HU Interval Generative Modelling  [[PDF](https://arxiv.org/abs/2603.23041)]
+
+[arxiv 2026.03] Generative Event Pretraining with Foundation Model Alignment  [[PDF](https://arxiv.org/abs/2603.23032)]
+
+[arxiv 2026.03] WorldMesh: Generating Navigable Multi-Room 3D Scenes via Mesh-Conditioned Image Diffusion  [[PDF](https://arxiv.org/abs/2603.22972)]
+
+[arxiv 2026.03] Few-Shot Generative Model Adaption via Identity Injection and Preservation  [[PDF](https://arxiv.org/abs/2603.22965)]
+
+[arxiv 2026.03] Caption Generation for Dongba Paintings via Prompt Learning and Semantic Fusion  [[PDF](https://arxiv.org/abs/2603.22946)]
+
+[arxiv 2026.03] Predictive Photometric Uncertainty in Gaussian Splatting for Novel View Synthesis  [[PDF](https://arxiv.org/abs/2603.22786)]
+
+[arxiv 2026.03] TrajLoom: Dense Future Trajectory Generation from Video  [[PDF](https://arxiv.org/abs/2603.22606)]
+
+[arxiv 2026.03] MinerU-Diffusion: Rethinking Document OCR as Inverse Rendering via Diffusion Decoding  [[PDF](https://arxiv.org/abs/2603.22458)]
+
+[arxiv 2026.03] MCLR: Improving Conditional Modeling in Visual Generative Models via Inter-Class Likelihood-Ratio Maximization and Establishing the Equivalence between Classifier-Free Guidance and Alignment Objectives  [[PDF](https://arxiv.org/abs/2603.22364)]
+
 [arxiv 2025.10]  Kontinuous Kontext: Continuous Strength Control for Instruction-based Image Editing [[PDF](https://arxiv.org/abs/2510.08532),[Page](https://snap-research.github.io/kontinuouskontext/#)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2025.10] One Stone with Two Birds: A Null-Text-Null Frequency-Aware Diffusion Models for Text-Guided Image Inpainting [[PDF](https://arxiv.org/abs/2510.08273),[Page](https://github.com/htyjers/NTN-Diff)] ![Code](https://img.shields.io/github/stars/htyjers/NTN-Diff?style=social&label=Star)
