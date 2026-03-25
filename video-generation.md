@@ -1,4 +1,14 @@
 # Video Generation Survey
+<!-- Added on 2026-03-25 -->
+[arxiv 2026.03] DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models  [[PDF](https://arxiv.org/abs/2603.23499)]
+[arxiv 2026.03] TETO: Tracking Events with Teacher Observation for Motion Estimation and Frame Interpolation  [[PDF](https://arxiv.org/abs/2603.23487)]
+[arxiv 2026.03] RealMaster: Lifting Rendered Scenes into Photorealistic Video  [[PDF](https://arxiv.org/abs/2603.23462)]
+[arxiv 2026.03] I3DM: Implicit 3D-aware Memory Retrieval and Injection for Consistent Video Scene Generation  [[PDF](https://arxiv.org/abs/2603.23413)]
+[arxiv 2026.03] From Feature Learning to Spectral Basis Learning: A Unifying and Flexible Framework for Efficient and Robust Shape Matching  [[PDF](https://arxiv.org/abs/2603.23383)]
+[arxiv 2026.03] An Explainable AI-Driven Framework for Automated Brain Tumor Segmentation Using an Attention-Enhanced U-Net  [[PDF](https://arxiv.org/abs/2603.23344)]
+[arxiv 2026.03] Generative Event Pretraining with Foundation Model Alignment  [[PDF](https://arxiv.org/abs/2603.23032)]
+[arxiv 2026.03] VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs  [[PDF](https://arxiv.org/abs/2603.23481)]
+
 A reading list of video generation
 
 ## Joint audio-video generation product

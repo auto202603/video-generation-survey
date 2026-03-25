@@ -4592,6 +4592,14 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2023.04]Synthesizing Anyone, Anywhere, in Any Pose[[PDF](https://arxiv.org/abs/2304.03164)]
 
 # real-to-cg
+<!-- Added on 2026-03-25 -->
+[arxiv 2026.03] OccAny: Generalized Unconstrained Urban 3D Occupancy  [[PDF](https://arxiv.org/abs/2603.23502)]
+[arxiv 2026.03] Pose-Free Omnidirectional Gaussian Splatting for 360-Degree Videos with Consistent Depth Priors  [[PDF](https://arxiv.org/abs/2603.23324)]
+[arxiv 2026.03] Drop-In Perceptual Optimization for 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2603.23297)]
+[arxiv 2026.03] Gimbal360: Differentiable Auto-Leveling for Canonicalized 360^\circ Panoramic Image Completion  [[PDF](https://arxiv.org/abs/2603.23179)]
+[arxiv 2026.03] Zero-Shot Personalization of Objects via Textual Inversion  [[PDF](https://arxiv.org/abs/2603.23010)]
+[arxiv 2026.03] Policy-based Tuning of Autoregressive Image Models with Instance- and Distribution-Level Rewards  [[PDF](https://arxiv.org/abs/2603.23086)]
+
 [arxiv 2024.09]Synergy and Synchrony in Couple Dances [[PDF](https://arxiv.org/abs/2409.04440), [Page](https://von31.github.io/synNsync/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)

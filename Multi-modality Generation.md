@@ -1,3 +1,35 @@
+
+<!-- Added on 2026-03-25 -->
+[arxiv 2026.03] MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage  [[PDF](https://arxiv.org/abs/2603.23501)]
+[arxiv 2026.03] UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation  [[PDF](https://arxiv.org/abs/2603.23500)]
+[arxiv 2026.03] AgentRVOS: Reasoning over Object Tracks for Zero-Shot Referring Video Object Segmentation  [[PDF](https://arxiv.org/abs/2603.23489)]
+[arxiv 2026.03] SIGMA: A Physics-Based Benchmark for Gas Chimney Understanding in Seismic Images  [[PDF](https://arxiv.org/abs/2603.23439)]
+[arxiv 2026.03] GeoSANE: Learning Geospatial Representations from Models, Not Data  [[PDF](https://arxiv.org/abs/2603.23408)]
+[arxiv 2026.03] Harnessing Lightweight Transformer with Contextual Synergic Enhancement for Efficient 3D Medical Image Segmentation  [[PDF](https://arxiv.org/abs/2603.23390)]
+[arxiv 2026.03] ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment  [[PDF](https://arxiv.org/abs/2603.23376)]
+[arxiv 2026.03] ARGENT: Adaptive Hierarchical Image-Text Representations  [[PDF](https://arxiv.org/abs/2603.23311)]
+[arxiv 2026.03] Mamba-driven MRI-to-CT Synthesis for MRI-only Radiotherapy Planning  [[PDF](https://arxiv.org/abs/2603.23295)]
+[arxiv 2026.03] Knot-10:A Tightness-Stratified Benchmark for Real-World Knot Classification with Topological Difficulty Analysis  [[PDF](https://arxiv.org/abs/2603.23286)]
+[arxiv 2026.03] CCF: Complementary Collaborative Fusion for Domain Generalized Multi-Modal 3D Object Detection  [[PDF](https://arxiv.org/abs/2603.23276)]
+[arxiv 2026.03] Multi-Modal Image Fusion via Intervention-Stable Feature Learning  [[PDF](https://arxiv.org/abs/2603.23272)]
+[arxiv 2026.03] PoseDriver: A Unified Approach to Multi-Category Skeleton Detection for Autonomous Driving  [[PDF](https://arxiv.org/abs/2603.23215)]
+[arxiv 2026.03] FDIF: Formula-Driven supervised Learning with Implicit Functions for 3D Medical Image Segmentation  [[PDF](https://arxiv.org/abs/2603.23199)]
+[arxiv 2026.03] Dual Contrastive Network for Few-Shot Remote Sensing Image Scene Classification  [[PDF](https://arxiv.org/abs/2603.23161)]
+[arxiv 2026.03] Conformal Cross-Modal Active Learning  [[PDF](https://arxiv.org/abs/2603.23159)]
+[arxiv 2026.03] VoDaSuRe: A Large-Scale Dataset Revealing Domain Shift in Volumetric Super-Resolution  [[PDF](https://arxiv.org/abs/2603.23153)]
+[arxiv 2026.03] 3rd Place of MeViS-Audio Track of the 5th PVUW: VIRST-Audio  [[PDF](https://arxiv.org/abs/2603.23126)]
+[arxiv 2026.03] PiCo: Active Manifold Canonicalization for Robust Robotic Visual Anomaly Detection  [[PDF](https://arxiv.org/abs/2603.23122)]
+[arxiv 2026.03] Automatic Segmentation of 3D CT scans with SAM2 using a zero-shot approach  [[PDF](https://arxiv.org/abs/2603.23116)]
+[arxiv 2026.03] NeuroSeg Meets DINOv3: Transferring 2D Self-Supervised Visual Priors to 3D Neuron Segmentation via DINOv3 Initialization  [[PDF](https://arxiv.org/abs/2603.23104)]
+[arxiv 2026.03] A Synchronized Audio-Visual Multi-View Capture System  [[PDF](https://arxiv.org/abs/2603.23089)]
+[arxiv 2026.03] PolarAPP: Beyond Polarization Demosaicking for Polarimetric Applications  [[PDF](https://arxiv.org/abs/2603.23071)]
+[arxiv 2026.03] HUydra: Full-Range Lung CT Synthesis via Multiple HU Interval Generative Modelling  [[PDF](https://arxiv.org/abs/2603.23041)]
+[arxiv 2026.03] Traffic Sign Recognition in Autonomous Driving: Dataset, Benchmark, and Field Experiment  [[PDF](https://arxiv.org/abs/2603.23034)]
+[arxiv 2026.03] Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation  [[PDF](https://arxiv.org/abs/2603.23030)]
+[arxiv 2026.03] Concept-based explanations of Segmentation and Detection models in Natural Disaster Management  [[PDF](https://arxiv.org/abs/2603.23020)]
+[arxiv 2026.03] Contrastive Metric Learning for Point Cloud Segmentation in Highly Granular Detectors  [[PDF](https://arxiv.org/abs/2603.23356)]
+[arxiv 2026.03] Strain-Parameterized Coupled Dynamics and Dual-Camera Visual Servoing for Aerial Continuum Manipulators  [[PDF](https://arxiv.org/abs/2603.23333)]
+
 ### [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 
 

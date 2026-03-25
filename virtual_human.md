@@ -320,6 +320,12 @@
 
 
 # LLM 
+<!-- Added on 2026-03-25 -->
+[arxiv 2026.03] FG-Portrait: 3D Flow Guided Editable Portrait Animation  [[PDF](https://arxiv.org/abs/2603.23381)]
+[arxiv 2026.03] Object Pose Transformer: Unifying Unseen Object Pose Estimation  [[PDF](https://arxiv.org/abs/2603.23370)]
+[arxiv 2026.03] GSwap: Realistic Head Swapping with Dynamic Neural Gaussian Field  [[PDF](https://arxiv.org/abs/2603.23168)]
+[arxiv 2026.03] PhysSkin: Real-Time and Generalizable Physics-Based Animation via Self-Supervised Neural Skinning  [[PDF](https://arxiv.org/abs/2603.23194)]
+
 [arxiv 2025.12] M.I.O: Towards Interactive Intelligence for Digital Humans  [[PDF](https://arxiv.org/abs/2512.13674),[Page](https://shandaai.github.io/project_mio_page/)] 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
