@@ -1335,6 +1335,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 [arxiv 2026.03] Attention Gathers, MLPs Compose: A Causal Analysis of an Action-Outcome Circuit in VideoViT  [[PDF](https://arxiv.org/abs/2603.11142)]
+[arxiv 2026.03] MoCHA: Denoising Caption Supervision for Motion-Text Retrieval  [[PDF](https://arxiv.org/abs/2603.23684)]
+[arxiv 2026.03] Foundation Model Embeddings Meet Blended Emotions: A Multimodal Fusion Approach for the BLEMORE Challenge  [[PDF](https://arxiv.org/abs/2603.23650)]
 
 ## reasoning 
 

@@ -768,6 +768,8 @@
 [arxiv 2026.03] DriveXQA: Cross-modal Visual Question Answering for Adverse Driving Scene Understanding  [[PDF](https://arxiv.org/abs/2603.11380)]
 [arxiv 2026.03] Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously  [[PDF](https://arxiv.org/abs/2603.12262),[Page](https://github.com/1ranGuan/VST)] ![Code](https://img.shields.io/github/stars/1ranGuan/VST?style=social&label=Star)
 [arxiv 2026.03] EgoIntent: An Egocentric Step-level Benchmark for Understanding What, Why, and Next  [[PDF](https://arxiv.org/abs/2603.12147)]
+[arxiv 2026.03] RVLM: Recursive Vision-Language Models with Adaptive Depth  [[PDF](https://arxiv.org/abs/2603.24224)]
+[arxiv 2026.03] Mitigating Object Hallucinations in LVLMs via Attention Imbalance Rectification  [[PDF](https://arxiv.org/abs/2603.24058)]
 
 ## sound-video understanding 
 [arxiv 2025.12] JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation  [[PDF](https://arxiv.org/abs/2512.22905),[Page](https://github.com/JavisVerse/JavisGPT)] ![Code](https://img.shields.io/github/stars/JavisVerse/JavisGPT?style=social&label=Star) 

@@ -261,6 +261,12 @@
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]
 [arxiv 2026.03] OARS: Process-Aware Online Alignment for Generative Real-World Image Super-Resolution  [[PDF](https://arxiv.org/abs/2603.12811)]
+[arxiv 2026.03] RefReward-SR: LR-Conditioned Reward Modeling for Preference-Aligned Super-Resolution  [[PDF](https://arxiv.org/abs/2603.24198)]
+[arxiv 2026.03] Heuristic-inspired Reasoning Priors Facilitate Data-Efficient Referring Object Detection  [[PDF](https://arxiv.org/abs/2603.24166)]
+[arxiv 2026.03] LightSplat: Fast and Memory-Efficient Open-Vocabulary 3D Scene Understanding in Five Seconds  [[PDF](https://arxiv.org/abs/2603.24146)]
+[arxiv 2026.03] Attention-aware Inference Optimizations for Large Vision-Language Models with Memory-efficient Decoding  [[PDF](https://arxiv.org/abs/2603.23914)]
+[arxiv 2026.03] 3D-LLDM: Label-Guided 3D Latent Diffusion Model for Improving High-Resolution Synthetic MR Imaging in Hepatic Structure Segmentation  [[PDF](https://arxiv.org/abs/2603.23845)]
+[arxiv 2026.03] MoCHA: Denoising Caption Supervision for Motion-Text Retrieval  [[PDF](https://arxiv.org/abs/2603.23684)]
 
 ## pixel 
 [arxiv 2025.11]  DeCo: Frequency-Decoupled Pixel Diffusion for End-to-End Image Generation [[PDF](https://arxiv.org/pdf/2511.19365),[Page](https://zehong-ma.github.io/DeCo/)] ![Code](https://img.shields.io/github/stars/Zehong-Ma/DeCo?style=social&label=Star)
