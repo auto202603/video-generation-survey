@@ -1,4 +1,57 @@
 # Image Editing In Diffusion 
+<!-- Added on 2026-03-26 -->
+[arxiv 2026.03] ViHOI: Human-Object Interaction Synthesis with Visual Priors  [[PDF](https://arxiv.org/abs/2603.24383)]
+
+[arxiv 2026.03] InstanceRSR: Real-World Super-Resolution via Instance-Aware Representation Alignment  [[PDF](https://arxiv.org/abs/2603.24240)]
+
+[arxiv 2026.03] Anti-I2V: Safeguarding your photos from malicious image-to-video generation  [[PDF](https://arxiv.org/abs/2603.24570)]
+
+[arxiv 2026.03] Teacher-Student Diffusion Model for Text-Driven 3D Hand Motion Generation  [[PDF](https://arxiv.org/abs/2603.24407)]
+
+[arxiv 2026.03] ScrollScape: Unlocking 32K Image Generation With Video Diffusion Priors  [[PDF](https://arxiv.org/abs/2603.24270)]
+
+[arxiv 2026.03] Accelerating Diffusion-based Video Editing via Heterogeneous Caching: Beyond Full Computing at Sampled Denoising Timestep  [[PDF](https://arxiv.org/abs/2603.24260)]
+
+[arxiv 2026.03] TopoMesh: High-Fidelity Mesh Autoencoding via Topological Unification  [[PDF](https://arxiv.org/abs/2603.24278)]
+
+[arxiv 2026.03] PosterIQ: A Design Perspective Benchmark for Poster Understanding and Generation  [[PDF](https://arxiv.org/abs/2603.24078)]
+
+[arxiv 2026.03] SLAT-Phys: Fast Material Property Field Prediction from Structured 3D Latents  [[PDF](https://arxiv.org/abs/2603.23973)]
+
+[arxiv 2026.03] FilterGS: Traversal-Free Parallel Filtering and Adaptive Shrinking for Large-Scale LoD 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2603.23891)] ![Code](https://img.shields.io/github/stars/xenon-w/FilterGS?style=social&label=Star)
+
+[arxiv 2026.03] BioVITA: Biological Dataset, Model, and Benchmark for Visual-Textual-Acoustic Alignment  [[PDF](https://arxiv.org/abs/2603.23883),[Page](https://dahlian00.github.io/BioVITA_Page/)]
+
+[arxiv 2026.03] When Understanding Becomes a Risk: Authenticity and Safety Risks in the Emerging Image Generation Paradigm  [[PDF](https://arxiv.org/abs/2603.24079)]
+
+[arxiv 2026.03] EnvSocial-Diff: A Diffusion-Based Crowd Simulation Model with Environmental Conditioning and Individual-Group Interaction  [[PDF](https://arxiv.org/abs/2603.23874)] ![Code](https://img.shields.io/github/stars/zqyq/EnvSocial-Diff?style=social&label=Star)
+
+[arxiv 2026.03] LGTM: Training-Free Light-Guided Text-to-Image Diffusion Model via Initial Noise Manipulation  [[PDF](https://arxiv.org/abs/2603.24086)]
+
+[arxiv 2026.03] HAM: A Training-Free Style Transfer Approach via Heterogeneous Attention Modulation for Diffusion Models  [[PDF](https://arxiv.org/abs/2603.24043)]
+
+[arxiv 2026.03] SemLayer: Semantic-aware Generative Segmentation and Layer Construction for Abstract Icons  [[PDF](https://arxiv.org/abs/2603.24039),[Page](https://xxuhaiyang.github.io/SemLayer/)]
+
+[arxiv 2026.03] SpectralSplats: Robust Differentiable Tracking via Spectral Moment Supervision  [[PDF](https://arxiv.org/abs/2603.24036)]
+
+[arxiv 2026.03] SilLang: Improving Gait Recognition with Silhouette Language Encoding  [[PDF](https://arxiv.org/abs/2603.23976)]
+
+[arxiv 2026.03] High-Fidelity Face Content Recovery via Tamper-Resilient Versatile Watermarking  [[PDF](https://arxiv.org/abs/2603.23940)]
+
+[arxiv 2026.03] DepthArb: Training-Free Depth-Arbitrated Generation for Occlusion-Robust Image Synthesis  [[PDF](https://arxiv.org/abs/2603.23924)]
+
+[arxiv 2026.03] GenMask: Adapting DiT for Segmentation via Direct Mask  [[PDF](https://arxiv.org/abs/2603.23906)]
+
+[arxiv 2026.03] Latent Bias Alignment for High-Fidelity Diffusion Inversion in Real-World Image Reconstruction and Manipulation  [[PDF](https://arxiv.org/abs/2603.23903)]
+
+[arxiv 2026.03] Reservoir-Based Graph Convolutional Networks  [[PDF](https://arxiv.org/abs/2603.24131)] ![Code](https://img.shields.io/github/stars/basiralab/RGC-Net?style=social&label=Star)
+
+[arxiv 2026.03] M3T: Discrete Multi-Modal Motion Tokens for Sign Language Production  [[PDF](https://arxiv.org/abs/2603.23617)]
+
+[arxiv 2026.03] λSplit: Self-Supervised Content-Aware Spectral Unmixing for Fluorescence Microscopy  [[PDF](https://arxiv.org/abs/2603.23647)]
+
+[arxiv 2026.03] ORACLE: Orchestrate NPC Daily Activities using Contrastive Learning with Transformer-CVAE  [[PDF](https://arxiv.org/abs/2603.23933)]
+
 
 ## text-to-image
 [arxiv 2025.03] Lumina-Image 2.0: A Unified and Efficient Image Generative Framework  [[PDF](https://arxiv.org/abs/2503.21758)]

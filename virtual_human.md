@@ -1,4 +1,21 @@
 ## Dataset
+<!-- Added on 2026-03-26 -->
+[arxiv 2026.03] B-MoE: A Body-Part-Aware Mixture-of-Experts "All Parts Matter" Approach to Micro-Action Recognition  [[PDF](https://arxiv.org/abs/2603.24245)]
+
+[arxiv 2026.03] ViHOI: Human-Object Interaction Synthesis with Visual Priors  [[PDF](https://arxiv.org/abs/2603.24383)]
+
+[arxiv 2026.03] Anti-I2V: Safeguarding your photos from malicious image-to-video generation  [[PDF](https://arxiv.org/abs/2603.24570)]
+
+[arxiv 2026.03] Teacher-Student Diffusion Model for Text-Driven 3D Hand Motion Generation  [[PDF](https://arxiv.org/abs/2603.24407)]
+
+[arxiv 2026.03] Unleashing Vision-Language Semantics for Deepfake Video Detection  [[PDF](https://arxiv.org/abs/2603.24454)] ![Code](https://img.shields.io/github/stars/mala-lab/VLAForge?style=social&label=Star)
+
+[arxiv 2026.03] LaDy: Lagrangian-Dynamic Informed Network for Skeleton-based Action Segmentation via Spatial-Temporal Modulation  [[PDF](https://arxiv.org/abs/2603.24097)] ![Code](https://img.shields.io/github/stars/HaoyuJi/LaDy?style=social&label=Star)
+
+[arxiv 2026.03] DP^2-VL: Private Photo Dataset Protection by Data Poisoning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2603.23925)]
+
+[arxiv 2026.03] M3T: Discrete Multi-Modal Motion Tokens for Sign Language Production  [[PDF](https://arxiv.org/abs/2603.23617)]
+
 [arxiv 2026.03] FHAvatar: Fast and High-Fidelity Reconstruction of Face-and-Hair Composable 3D Head Avatar from Few Casual Captures  [[PDF](https://arxiv.org/abs/2603.23345)]
 
 [arxiv 2026.03] EARTalking: End-to-end GPT-style Autoregressive Talking Head Synthesis with Frame-wise Control  [[PDF](https://arxiv.org/abs/2603.20307)]

@@ -1,5 +1,106 @@
 
 <!-- Added on 2026-03-25 -->
+<!-- Added on 2026-03-26 -->
+[arxiv 2026.03] VERIA: Verification-Centric Multimodal Instance Augmentation for Long-Tailed 3D Object Detection  [[PDF](https://arxiv.org/abs/2603.24294)]
+
+[arxiv 2026.03] TAG: Target-Agnostic Guidance for Stable Object-Centric Inference in Vision-Language-Action Models  [[PDF](https://arxiv.org/abs/2603.24584)]
+
+[arxiv 2026.03] Video-Only ToM: Enhancing Theory of Mind in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2603.24484)]
+
+[arxiv 2026.03] ViHOI: Human-Object Interaction Synthesis with Visual Priors  [[PDF](https://arxiv.org/abs/2603.24383)]
+
+[arxiv 2026.03] Boosting Document Parsing Efficiency and Performance with Coarse-to-Fine Visual Processing  [[PDF](https://arxiv.org/abs/2603.24326)] ![Code](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=social&label=Star)
+
+[arxiv 2026.03] RefReward-SR: LR-Conditioned Reward Modeling for Preference-Aligned Super-Resolution  [[PDF](https://arxiv.org/abs/2603.24198)]
+
+[arxiv 2026.03] Unlocking Few-Shot Capabilities in LVLMs via Prompt Conditioning and Head Selection  [[PDF](https://arxiv.org/abs/2603.24181)]
+
+[arxiv 2026.03] Vision-Language Models vs Human: Perceptual Image Quality Assessment  [[PDF](https://arxiv.org/abs/2603.24578)]
+
+[arxiv 2026.03] Counting Without Numbers \& Finding Without Words  [[PDF](https://arxiv.org/abs/2603.24470)]
+
+[arxiv 2026.03] GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization  [[PDF](https://arxiv.org/abs/2603.24376)]
+
+[arxiv 2026.03] POLY-SIM: Polyglot Speaker Identification with Missing Modality Grand Challenge 2026 Evaluation Plan  [[PDF](https://arxiv.org/abs/2603.24569)]
+
+[arxiv 2026.03] Cross-Modal Prototype Alignment and Mixing for Training-Free Few-Shot Classification  [[PDF](https://arxiv.org/abs/2603.24528)]
+
+[arxiv 2026.03] PP-OCRv5: A Specialized 5M-Parameter Model Rivaling Billion-Parameter Vision-Language Models on OCR Tasks  [[PDF](https://arxiv.org/abs/2603.24373)] ![Code](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=social&label=Star)
+
+[arxiv 2026.03] Le MuMo JEPA: Multi-Modal Self-Supervised Representation Learning with Learnable Fusion Tokens  [[PDF](https://arxiv.org/abs/2603.24327)]
+
+[arxiv 2026.03] Memory-Augmented Vision-Language Agents for Persistent and Semantically Consistent Object Captioning  [[PDF](https://arxiv.org/abs/2603.24257)] ![Code](https://img.shields.io/github/stars/hsp-iit/epos-vlm?style=social&label=Star)
+
+[arxiv 2026.03] Powerful Teachers Matter: Text-Guided Multi-view Knowledge Distillation with Visual Prior Enhancement  [[PDF](https://arxiv.org/abs/2603.24208)]
+
+[arxiv 2026.03] OmniWeaving: Towards Unified Video Generation with Free-form Composition and Reasoning  [[PDF](https://arxiv.org/abs/2603.24458),[Page](https://omniweaving.github.io.)]
+
+[arxiv 2026.03] Unleashing Vision-Language Semantics for Deepfake Video Detection  [[PDF](https://arxiv.org/abs/2603.24454)] ![Code](https://img.shields.io/github/stars/mala-lab/VLAForge?style=social&label=Star)
+
+[arxiv 2026.03] Heuristic-inspired Reasoning Priors Facilitate Data-Efficient Referring Object Detection  [[PDF](https://arxiv.org/abs/2603.24166)]
+
+[arxiv 2026.03] VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models  [[PDF](https://arxiv.org/abs/2603.24575)]
+
+[arxiv 2026.03] LensWalk: Agentic Video Understanding by Planning How You See in Videos  [[PDF](https://arxiv.org/abs/2603.24558)]
+
+[arxiv 2026.03] PosterIQ: A Design Perspective Benchmark for Poster Understanding and Generation  [[PDF](https://arxiv.org/abs/2603.24078)]
+
+[arxiv 2026.03] Beyond Semantic Priors: Mitigating Optimization Collapse for Generalizable Visual Forensics  [[PDF](https://arxiv.org/abs/2603.24057)]
+
+[arxiv 2026.03] Decompose and Transfer: CoT-Prompting Enhanced Alignment for Open-Vocabulary Temporal Action Detection  [[PDF](https://arxiv.org/abs/2603.24030)]
+
+[arxiv 2026.03] AD-Reasoning: Multimodal Guideline-Guided Reasoning for Alzheimer's Disease Diagnosis  [[PDF](https://arxiv.org/abs/2603.24059)]
+
+[arxiv 2026.03] Revealing Multi-View Hallucination in Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2603.23934)]
+
+[arxiv 2026.03] Attention-aware Inference Optimizations for Large Vision-Language Models with Memory-efficient Decoding  [[PDF](https://arxiv.org/abs/2603.23914)]
+
+[arxiv 2026.03] BioVITA: Biological Dataset, Model, and Benchmark for Visual-Textual-Acoustic Alignment  [[PDF](https://arxiv.org/abs/2603.23883),[Page](https://dahlian00.github.io/BioVITA_Page/)]
+
+[arxiv 2026.03] When Understanding Becomes a Risk: Authenticity and Safety Risks in the Emerging Image Generation Paradigm  [[PDF](https://arxiv.org/abs/2603.24079)]
+
+[arxiv 2026.03] DP^2-VL: Private Photo Dataset Protection by Data Poisoning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2603.23925)]
+
+[arxiv 2026.03] SilLang: Improving Gait Recognition with Silhouette Language Encoding  [[PDF](https://arxiv.org/abs/2603.23976)]
+
+[arxiv 2026.03] Towards Real-World Document Parsing via Realistic Scene Synthesis and Document-Aware Training  [[PDF](https://arxiv.org/abs/2603.23885)]
+
+[arxiv 2026.03] See, Remember, Explore: A Benchmark and Baselines for Streaming Spatial Reasoning  [[PDF](https://arxiv.org/abs/2603.23864)]
+
+[arxiv 2026.03] A^3: Towards Advertising Aesthetic Assessment  [[PDF](https://arxiv.org/abs/2603.24037)] ![Code](https://img.shields.io/github/stars/euleryuan/A3-Align?style=social&label=Star)
+
+[arxiv 2026.03] PointRFT: Explicit Reinforcement Fine-tuning for Point Cloud Few-shot Learning  [[PDF](https://arxiv.org/abs/2603.23957)]
+
+[arxiv 2026.03] DecepGPT: Schema-Driven Deception Detection with Multicultural Datasets and Robust Multimodal Learning  [[PDF](https://arxiv.org/abs/2603.23916)]
+
+[arxiv 2026.03] MMTIT-Bench: A Multilingual and Multi-Scenario Benchmark with Cognition-Perception-Reasoning Guided Text-Image Machine Translation  [[PDF](https://arxiv.org/abs/2603.23896)]
+
+[arxiv 2026.03] Modeling Spatiotemporal Neural Frames for High Resolution Brain Dynamic  [[PDF](https://arxiv.org/abs/2603.24176)]
+
+[arxiv 2026.03] Foundation Model Embeddings Meet Blended Emotions: A Multimodal Fusion Approach for the BLEMORE Challenge  [[PDF](https://arxiv.org/abs/2603.23650)]
+
+[arxiv 2026.03] Ukrainian Visual Word Sense Disambiguation Benchmark  [[PDF](https://arxiv.org/abs/2603.23627)]
+
+[arxiv 2026.03] LongTail Driving Scenarios with Reasoning Traces: The KITScenes LongTail Dataset  [[PDF](https://arxiv.org/abs/2603.23607)]
+
+[arxiv 2026.03] CAPTCHA Solving for Native GUI Agents: Automated Reasoning-Action Data Generation and Self-Corrective Training  [[PDF](https://arxiv.org/abs/2603.23559)]
+
+[arxiv 2026.03] Chitrakshara: A Large Multilingual Multimodal Dataset for Indian languages  [[PDF](https://arxiv.org/abs/2603.23521)]
+
+[arxiv 2026.03] GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents  [[PDF](https://arxiv.org/abs/2603.24329)]
+
+[arxiv 2026.03] MoCHA: Denoising Caption Supervision for Motion-Text Retrieval  [[PDF](https://arxiv.org/abs/2603.23684)]
+
+[arxiv 2026.03] Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation  [[PDF](https://arxiv.org/abs/2603.24576)]
+
+[arxiv 2026.03] UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience  [[PDF](https://arxiv.org/abs/2603.24533)]
+
+[arxiv 2026.03] CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents  [[PDF](https://arxiv.org/abs/2603.24440)]
+
+[arxiv 2026.03] Learning Actionable Manipulation Recovery via Counterfactual Failure Synthesis  [[PDF](https://arxiv.org/abs/2603.13528)]
+
+[arxiv 2026.03] Can VLMs Reason Robustly? A Neuro-Symbolic Investigation  [[PDF](https://arxiv.org/abs/2603.23867)]
+
 [arxiv 2026.03] MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage  [[PDF](https://arxiv.org/abs/2603.23501)]
 [arxiv 2026.03] UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation  [[PDF](https://arxiv.org/abs/2603.23500)]
 [arxiv 2026.03] AgentRVOS: Reasoning over Object Tracks for Zero-Shot Referring Video Object Segmentation  [[PDF](https://arxiv.org/abs/2603.23489)]

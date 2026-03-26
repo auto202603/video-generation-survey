@@ -1,5 +1,62 @@
 # Video Generation Survey
 <!-- Added on 2026-03-25 -->
+<!-- Added on 2026-03-26 -->
+[arxiv 2026.03] B-MoE: A Body-Part-Aware Mixture-of-Experts "All Parts Matter" Approach to Micro-Action Recognition  [[PDF](https://arxiv.org/abs/2603.24245)]
+
+[arxiv 2026.03] ViHOI: Human-Object Interaction Synthesis with Visual Priors  [[PDF](https://arxiv.org/abs/2603.24383)]
+
+[arxiv 2026.03] Anti-I2V: Safeguarding your photos from malicious image-to-video generation  [[PDF](https://arxiv.org/abs/2603.24570)]
+
+[arxiv 2026.03] Teacher-Student Diffusion Model for Text-Driven 3D Hand Motion Generation  [[PDF](https://arxiv.org/abs/2603.24407)]
+
+[arxiv 2026.03] ScrollScape: Unlocking 32K Image Generation With Video Diffusion Priors  [[PDF](https://arxiv.org/abs/2603.24270)]
+
+[arxiv 2026.03] RS-SSM: Refining Forgotten Specifics in State Space Model for Video Semantic Segmentation  [[PDF](https://arxiv.org/abs/2603.24295)] ![Code](https://img.shields.io/github/stars/zhoujiahuan1991/CVPR2026-RS-SSM?style=social&label=Star)
+
+[arxiv 2026.03] Accelerating Diffusion-based Video Editing via Heterogeneous Caching: Beyond Full Computing at Sampled Denoising Timestep  [[PDF](https://arxiv.org/abs/2603.24260)]
+
+[arxiv 2026.03] Latent-WAM: Latent World Action Modeling for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2603.24581)]
+
+[arxiv 2026.03] SEGAR: Selective Enhancement for Generative Augmented Reality  [[PDF](https://arxiv.org/abs/2603.24541)]
+
+[arxiv 2026.03] OmniWeaving: Towards Unified Video Generation with Free-form Composition and Reasoning  [[PDF](https://arxiv.org/abs/2603.24458),[Page](https://omniweaving.github.io.)]
+
+[arxiv 2026.03] LensWalk: Agentic Video Understanding by Planning How You See in Videos  [[PDF](https://arxiv.org/abs/2603.24558)]
+
+[arxiv 2026.03] Toward Physically Consistent Driving Video World Models under Challenging Trajectories  [[PDF](https://arxiv.org/abs/2603.24506),[Page](https://wm-research.github.io/PhyGenesis/.)]
+
+[arxiv 2026.03] LaDy: Lagrangian-Dynamic Informed Network for Skeleton-based Action Segmentation via Spatial-Temporal Modulation  [[PDF](https://arxiv.org/abs/2603.24097)] ![Code](https://img.shields.io/github/stars/HaoyuJi/LaDy?style=social&label=Star)
+
+[arxiv 2026.03] Decompose and Transfer: CoT-Prompting Enhanced Alignment for Open-Vocabulary Temporal Action Detection  [[PDF](https://arxiv.org/abs/2603.24030)]
+
+[arxiv 2026.03] Uncertainty-Aware Vision-based Risk Object Identification via Conformal Risk Tube Prediction  [[PDF](https://arxiv.org/abs/2603.23919),[Page](https://hcis-lab.github.io/CRTP/)]
+
+[arxiv 2026.03] Knowledge-Refined Dual Context-Aware Network for Partially Relevant Video Retrieval  [[PDF](https://arxiv.org/abs/2603.23902)]
+
+[arxiv 2026.03] CAKE: Real-time Action Detection via Motion Distillation and Background-aware Contrastive Learning  [[PDF](https://arxiv.org/abs/2603.23988)]
+
+[arxiv 2026.03] COVTrack++: Learning Open-Vocabulary Multi-Object Tracking from Continuous Videos via a Synergistic Paradigm  [[PDF](https://arxiv.org/abs/2603.24016)]
+
+[arxiv 2026.03] Leave No Stone Unturned: Uncovering Holistic Audio-Visual Intrinsic Coherence for Deepfake Detection  [[PDF](https://arxiv.org/abs/2603.23960)] ![Code](https://img.shields.io/github/stars/tuffy-studio/HAVIC?style=social&label=Star)
+
+[arxiv 2026.03] SilLang: Improving Gait Recognition with Silhouette Language Encoding  [[PDF](https://arxiv.org/abs/2603.23976)]
+
+[arxiv 2026.03] See, Remember, Explore: A Benchmark and Baselines for Streaming Spatial Reasoning  [[PDF](https://arxiv.org/abs/2603.23864)]
+
+[arxiv 2026.03] Modeling Spatiotemporal Neural Frames for High Resolution Brain Dynamic  [[PDF](https://arxiv.org/abs/2603.24176)]
+
+[arxiv 2026.03] Learning Cross-Joint Attention for Generalizable Video-Based Seizure Detection  [[PDF](https://arxiv.org/abs/2603.23757)]
+
+[arxiv 2026.03] M3T: Discrete Multi-Modal Motion Tokens for Sign Language Production  [[PDF](https://arxiv.org/abs/2603.23617)]
+
+[arxiv 2026.03] GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents  [[PDF](https://arxiv.org/abs/2603.24329)]
+
+[arxiv 2026.03] CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents  [[PDF](https://arxiv.org/abs/2603.24440)]
+
+[arxiv 2026.03] Learning Actionable Manipulation Recovery via Counterfactual Failure Synthesis  [[PDF](https://arxiv.org/abs/2603.13528)]
+
+[arxiv 2026.03] Mind the Hitch: Dynamic Calibration and Articulated Perception for Autonomous Trucks  [[PDF](https://arxiv.org/abs/2603.23711)]
+
 [arxiv 2026.03] DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models  [[PDF](https://arxiv.org/abs/2603.23499)]
 [arxiv 2026.03] TETO: Tracking Events with Teacher Observation for Motion Estimation and Frame Interpolation  [[PDF](https://arxiv.org/abs/2603.23487)]
 [arxiv 2026.03] RealMaster: Lifting Rendered Scenes into Photorealistic Video  [[PDF](https://arxiv.org/abs/2603.23462)]
