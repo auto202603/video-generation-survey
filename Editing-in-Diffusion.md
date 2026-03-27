@@ -257,6 +257,99 @@
 [arxiv 2026.03] Efficient Coarse-to-Fine Diffusion Models with Time Step Sequence Redistribution  [[PDF](https://arxiv.org/abs/2603.21348)]
 [arxiv 2026.03] FIGURA: A Modular Prompt Engineering Method for Artistic Figure Photography in Safety-Filtered Text-to-Image Models  [[PDF](https://arxiv.org/abs/2603.20201)]
 
+[arxiv 2026.03] Less Gaussians, Texture More: 4K Feed-Forward Textured Splatting  [[PDF](https://arxiv.org/abs/2603.25745),[Page](https://yxlao.github.io/lgtm/)]
+
+[arxiv 2026.03] BizGenEval: A Systematic Benchmark for Commercial Visual Content Generation  [[PDF](https://arxiv.org/abs/2603.25732)]
+
+[arxiv 2026.03] RealRestorer: Towards Generalizable Real-World Image Restoration with Large-Scale Image Editing Models  [[PDF](https://arxiv.org/abs/2603.25502),[Page](https://yfyang007.github.io/RealRestorer/)]
+
+[arxiv 2026.03] CIAR: Interval-based Collaborative Decoding for Image Generation Acceleration  [[PDF](https://arxiv.org/abs/2603.25463)]
+
+[arxiv 2026.03] MACRO: Advancing Multi-Reference Image Generation with Structured Long-Context Data  [[PDF](https://arxiv.org/abs/2603.25319),[Page](https://macro400k.github.io/)]
+
+[arxiv 2026.03] Adaptive Learned Image Compression with Graph Neural Networks  [[PDF](https://arxiv.org/abs/2603.25316)] ![Code](https://img.shields.io/github/stars/UnoC-727/GLIC?style=social&label=Star)
+
+[arxiv 2026.03] Towards Controllable Low-Light Image Enhancement: A Continuous Multi-illumination Dataset and Efficient State Space Framework  [[PDF](https://arxiv.org/abs/2603.25296)]
+
+[arxiv 2026.03] ViewSplat: View-Adaptive Dynamic Gaussian Splatting for Feed-Forward Synthesis  [[PDF](https://arxiv.org/abs/2603.25265)]
+
+[arxiv 2026.03] Semantic-Aware Prefix Learning for Token-Efficient Image Generation  [[PDF](https://arxiv.org/abs/2603.25249)]
+
+[arxiv 2026.03] EgoXtreme: A Dataset for Robust Object Pose Estimation in Egocentric Views under Extreme Conditions  [[PDF](https://arxiv.org/abs/2603.25135),[Page](https://taegyoun88.github.io/EgoXtreme/)]
+
+[arxiv 2026.03] AirSplat: Alignment and Rating for Robust Feed-Forward 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2603.25129),[Page](https://kaist-viclab.github.io/airsplat-site)]
+
+[arxiv 2026.03] Z-Erase: Enabling Concept Erasure in Single-Stream Diffusion Transformers  [[PDF](https://arxiv.org/abs/2603.25074)]
+
+[arxiv 2026.03] Learning Explicit Continuous Motion Representation for Dynamic Gaussian Splatting from Monocular Videos  [[PDF](https://arxiv.org/abs/2603.25058)] ![Code](https://img.shields.io/github/stars/hhhddddddd/se3bsplinegs?style=social&label=Star)
+
+[arxiv 2026.03] MoRGS: Efficient Per-Gaussian Motion Reasoning for Streamable Dynamic 3D Scenes  [[PDF](https://arxiv.org/abs/2603.25042)]
+
+[arxiv 2026.03] GDPO-Listener: Expressive Interactive Head Generation via Auto-Regressive Flow Matching and Group reward-Decoupled Policy Optimization  [[PDF](https://arxiv.org/abs/2603.25020)]
+
+[arxiv 2026.03] Few TensoRF: Enhance the Few-shot on Tensorial Radiance Fields  [[PDF](https://arxiv.org/abs/2603.25008)]
+
+[arxiv 2026.03] Relaxed Rigidity with Ray-based Grouping for Dynamic Gaussian Splatting  [[PDF](https://arxiv.org/abs/2603.24994)]
+
+[arxiv 2026.03] BiFM: Bidirectional Flow Matching for Few-Step Image Editing and Generation  [[PDF](https://arxiv.org/abs/2603.24942)]
+
+[arxiv 2026.03] Infinite Gaze Generation for Videos with Autoregressive Diffusion  [[PDF](https://arxiv.org/abs/2603.24938)]
+
+[arxiv 2026.03] TIGFlow-GRPO: Trajectory Forecasting via Interaction-Aware Flow Matching and Reward-Driven Optimization  [[PDF](https://arxiv.org/abs/2603.24936)]
+
+[arxiv 2026.03] Calibri: Enhancing Diffusion Transformers via Parameter-Efficient Calibration  [[PDF](https://arxiv.org/abs/2603.24800),[Page](https://v-gen-ai.github.io/Calibri-page/)]
+
+[arxiv 2026.03] DRoPS: Dynamic 3D Reconstruction of Pre-Scanned Objects  [[PDF](https://arxiv.org/abs/2603.24770),[Page](https://drops-dynamics.github.io/)]
+
+[arxiv 2026.03] Confidence-Based Mesh Extraction from 3D Gaussians  [[PDF](https://arxiv.org/abs/2603.24725),[Page](https://r4dl.github.io/CoMe/)]
+
+[arxiv 2026.03] Stochastic Ray Tracing for the Reconstruction of 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2603.23637),[Page](https://xupaya.github.io/stoch3DGS/)]
+
+[arxiv 2026.03] FG-Portrait: 3D Flow Guided Editable Portrait Animation  [[PDF](https://arxiv.org/abs/2603.23381)]
+
+[arxiv 2026.03] VoDaSuRe: A Large-Scale Dataset Revealing Domain Shift in Volumetric Super-Resolution  [[PDF](https://arxiv.org/abs/2603.23153),[Page](https://augusthoeg.github.io/VoDaSuRe/)]
+
+[arxiv 2026.03] Group Editing: Edit Multiple Images in One Go  [[PDF](https://arxiv.org/abs/2603.22883),[Page](https://group-editing.github.io/)] ![Code](https://img.shields.io/github/stars/mayuelala/GroupEditing?style=social&label=Star)
+
+[arxiv 2026.03] UniQueR: Unified Query-based Feedforward 3D Reconstruction  [[PDF](https://arxiv.org/abs/2603.22851)]
+
+[arxiv 2026.03] Viewport-based Neural 360° Image Compression  [[PDF](https://arxiv.org/abs/2603.22776)] ![Code](https://img.shields.io/github/stars/Jingwei-Liao/VPCT?style=social&label=Star)
+
+[arxiv 2026.03] CAM3R: Camera-Agnostic Model for 3D Reconstruction  [[PDF](https://arxiv.org/abs/2603.22631)]
+
+[arxiv 2026.03] PIVM: Diffusion-Based Prior-Integrated Variation Modeling for Anatomically Precise Abdominal CT Synthesis  [[PDF](https://arxiv.org/abs/2603.22626)] ![Code](https://img.shields.io/github/stars/BZNR3/PIVM?style=social&label=Star)
+
+[arxiv 2026.03] FullCircle: Effortless 3D Reconstruction from Casual 360$^\circ$ Captures  [[PDF](https://arxiv.org/abs/2603.22572),[Page](https://theialab.github.io/fullcircle)]
+
+[arxiv 2026.03] FreeArtGS: Articulated Gaussian Splatting Under Free-moving Scenario  [[PDF](https://arxiv.org/abs/2603.22102),[Page](https://freeartgs.github.io/)]
+
+[arxiv 2026.03] GTSR: Subsurface Scattering Awared 3D Gaussians for Translucent Surface Reconstruction  [[PDF](https://arxiv.org/abs/2603.22036)]
+
+[arxiv 2026.03] Cross-Instance Gaussian Splatting Registration via Geometry-Aware Feature-Guided Alignment  [[PDF](https://arxiv.org/abs/2603.21936),[Page](https://bgu-cs-vil.github.io/GSA-project/)]
+
+[arxiv 2026.03] Camera-Agnostic Pruning of 3D Gaussian Splats via Descriptor-Based Beta Evidence  [[PDF](https://arxiv.org/abs/2603.21933)]
+
+[arxiv 2026.03] CLEAR: Context-Aware Learning with End-to-End Mask-Free Inference for Adaptive Video Subtitle Removal  [[PDF](https://arxiv.org/abs/2603.21901)]
+
+[arxiv 2026.03] Three Creates All: You Only Sample 3 Steps  [[PDF](https://arxiv.org/abs/2603.22375)]
+
+[arxiv 2026.03] PAS3R: Pose-Adaptive Streaming 3D Reconstruction for Long Video Sequences  [[PDF](https://arxiv.org/abs/2603.21436)]
+
+[arxiv 2026.03] FluidGaussian: Propagating Simulation-Based Uncertainty Toward Functionally-Intelligent 3D Reconstruction  [[PDF](https://arxiv.org/abs/2603.21356)] ![Code](https://img.shields.io/github/stars/delta-lab-ai/FluidGaussian?style=social&label=Star)
+
+[arxiv 2026.03] F4Splat: Feed-Forward Predictive Densification for Feed-Forward 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2603.21304),[Page](https://mlvlab.github.io/F4Splat}{\text{this)]
+
+[arxiv 2026.03] 2Xplat: Two Experts Are Better Than One Generalist  [[PDF](https://arxiv.org/abs/2603.21064),[Page](https://hwasikjeong.github.io/2Xplat)]
+
+[arxiv 2026.03] SGAD-SLAM: Splatting Gaussians at Adjusted Depth for Better Radiance Fields in RGBD SLAM  [[PDF](https://arxiv.org/abs/2603.21055),[Page](https://machineperceptionlab.github.io/SGAD-SLAM-Project)]
+
+[arxiv 2026.03] Fast and Robust Deformable 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2603.20857)]
+
+[arxiv 2026.03] The Role and Relationship of Initialization and Densification in 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2603.20714)]
+
+[arxiv 2026.03] GaussianPile: A Unified Sparse Gaussian Splatting Framework for Slice-based Volumetric Reconstruction  [[PDF](https://arxiv.org/abs/2603.20611)]
+
+[arxiv 2026.03] RayMap3R: Inference-Time RayMap for Dynamic 3D Reconstruction  [[PDF](https://arxiv.org/abs/2603.20588),[Page](https://raymap3r.github.io/)]
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]

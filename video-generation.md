@@ -404,6 +404,37 @@ A reading list of video generation
 
 [arxiv 2026.03] Toward High-Fidelity Visual Reconstruction: From EEG-Based Conditioned Generation to Joint-Modal Guided Rebuilding [[[PDF](https://arxiv.org/abs/2603.19667)]]
 
+[arxiv 2026.03] ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling  [[PDF](https://arxiv.org/abs/2603.25746),[Page](https://luo0207.github.io/ShotStream/)] ![Code](https://img.shields.io/github/stars/KlingAIResearch/ShotStream?style=social&label=Star)
+
+[arxiv 2026.03] RefAlign: Representation Alignment for Reference-to-Video Generation  [[PDF](https://arxiv.org/abs/2603.25743)]
+
+[arxiv 2026.03] PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference  [[PDF](https://arxiv.org/abs/2603.25730)] ![Code](https://img.shields.io/github/stars/ShandaAI/PackForcing?style=social&label=Star)
+
+[arxiv 2026.03] Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models  [[PDF](https://arxiv.org/abs/2603.25716)]
+
+[arxiv 2026.03] TRACE: Object Motion Editing in Videos with First-Frame Trajectory Guidance  [[PDF](https://arxiv.org/abs/2603.25707),[Page](https://trace-motion.github.io/)]
+
+[arxiv 2026.03] Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning  [[PDF](https://arxiv.org/abs/2603.25685)]
+
+[arxiv 2026.03] Beyond the Golden Data: Resolving the Motion-Vision Quality Dilemma via Timestep Selective Training  [[PDF](https://arxiv.org/abs/2603.25527)]
+
+[arxiv 2026.03] Free-Lunch Long Video Generation via Layer-Adaptive O.O.D Correction  [[PDF](https://arxiv.org/abs/2603.25209)] ![Code](https://img.shields.io/github/stars/Westlake-AGI-Lab/FreeLOC?style=social&label=Star)
+
+[arxiv 2026.03] AnyID: Ultra-Fidelity Universal Identity-Preserving Video Generation from Any Visual References  [[PDF](https://arxiv.org/abs/2603.25188)]
+
+[arxiv 2026.03] GaussFusion: Improving 3D Reconstruction in the Wild with A Geometry-Informed Video Generator  [[PDF](https://arxiv.org/abs/2603.25053),[Page](http://research.zhuliyuan.net/projects/GaussFusion/)]
+
+[arxiv 2026.03] DCARL: A Divide-and-Conquer Framework for Autoregressive Long-Trajectory Video Generation  [[PDF](https://arxiv.org/abs/2603.24835),[Page](https://junyiouy.github.io/projects/dcarl)]
+
+[arxiv 2026.03] AVControl: Efficient Framework for Training Audio-Visual Controls  [[PDF](https://arxiv.org/abs/2603.24793),[Page](https://matanby.github.io/AVControl/)]
+
+[arxiv 2026.03] ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment  [[PDF](https://arxiv.org/abs/2603.23376)]
+
+[arxiv 2026.03] VQ-Jarvis: Retrieval-Augmented Video Restoration Agent with Sharp Vision and Fast Thought  [[PDF](https://arxiv.org/abs/2603.22998)]
+
+[arxiv 2026.03] WorldMesh: Generating Navigable Multi-Room 3D Scenes via Mesh-Conditioned Image Diffusion  [[PDF](https://arxiv.org/abs/2603.22972),[Page](https://mschneider456.github.io/world-mesh/)] ![Code](https://img.shields.io/github/stars/mschneider456/worldmesh?style=social&label=Star)
+
+[arxiv 2026.03] TrajLoom: Dense Future Trajectory Generation from Video  [[PDF](https://arxiv.org/abs/2603.22606),[Page](https://trajloom.github.io/)]
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 

@@ -75,6 +75,9 @@
 
 [arxiv 2026.03] PhyGile: Physics-Prefix Guided Motion Generation for Agile General Humanoid Motion Tracking [[[PDF](https://arxiv.org/abs/2603.19305)]]
 
+[arxiv 2026.03] UNIC: Neural Garment Deformation Field for Real-time Clothed Character Animation  [[PDF](https://arxiv.org/abs/2603.25580),[Page](https://igl-hkust.github.io/UNIC/)]
+
+[arxiv 2026.03] Bilingual Text-to-Motion Generation: A New Benchmark and Baselines  [[PDF](https://arxiv.org/abs/2603.25178),[Page](https://wengwanjiang.github.io/BilingualT2M-page}{https://wengwanjiang.github.io/BilingualT2M-page})]
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 

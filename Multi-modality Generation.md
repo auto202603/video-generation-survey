@@ -431,6 +431,121 @@
 
 [arxiv 2026.03] ReXInTheWild: A Unified Benchmark for Medical Photograph Understanding [[[PDF](https://arxiv.org/abs/2603.19517)]]
 
+[arxiv 2026.03] Vega: Learning to Drive with Natural Language Instructions  [[PDF](https://arxiv.org/abs/2603.25741)] ![Code](https://img.shields.io/github/stars/zuosc19/Vega?style=social&label=Star)
+
+[arxiv 2026.03] Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving  [[PDF](https://arxiv.org/abs/2603.25740),[Page](https://dmw-cvpr.github.io/)]
+
+[arxiv 2026.03] PSDesigner: Automated Graphic Design with a Human-Like Creative Workflow  [[PDF](https://arxiv.org/abs/2603.25738),[Page](https://henghuiding.com/PSDesigner/)]
+
+[arxiv 2026.03] SlotVTG: Object-Centric Adapter for Generalizable Video Temporal Grounding  [[PDF](https://arxiv.org/abs/2603.25733)]
+
+[arxiv 2026.03] R-C2: Cycle-Consistent Reinforcement Learning Improves Multimodal Reasoning  [[PDF](https://arxiv.org/abs/2603.25720)]
+
+[arxiv 2026.03] Fast-dVLA: Accelerating Discrete Diffusion VLA to Real-Time Performance  [[PDF](https://arxiv.org/abs/2603.25661),[Page](https://chris1220313648.github.io/Fast-dVLA/)]
+
+[arxiv 2026.03] LanteRn: Latent Visual Structured Reasoning  [[PDF](https://arxiv.org/abs/2603.25629)]
+
+[arxiv 2026.03] Demographic Fairness in Multimodal LLMs: A Benchmark of Gender and Ethnicity Bias in Face Verification  [[PDF](https://arxiv.org/abs/2603.25613)]
+
+[arxiv 2026.03] GridVAD: Open-Set Video Anomaly Detection via Spatial Reasoning over Stratified Frame Grids  [[PDF](https://arxiv.org/abs/2603.25467),[Page](https://gridvad.github.io)]
+
+[arxiv 2026.03] HiSpatial: Taming Hierarchical 3D Spatial Understanding in Vision-Language Models  [[PDF](https://arxiv.org/abs/2603.25411),[Page](https://microsoft.github.io/HiSpatial)]
+
+[arxiv 2026.03] LaMP: Learning Vision-Language-Action Policies with 3D Scene Flow as Latent Motion Prior  [[PDF](https://arxiv.org/abs/2603.25399),[Page](https://summerwxk.github.io/lamp-project-page/)]
+
+[arxiv 2026.03] Activation Matters: Test-time Activated Negative Labels for OOD Detection with Vision-Language Models  [[PDF](https://arxiv.org/abs/2603.25250)] ![Code](https://img.shields.io/github/stars/YBZh/OpenOOD-VLM}{YBZh?style=social&label=Star)
+
+[arxiv 2026.03] Probabilistic Concept Graph Reasoning for Multimodal Misinformation Detection  [[PDF](https://arxiv.org/abs/2603.25203)]
+
+[arxiv 2026.03] ET-SAM: Efficient Point Prompt Prediction in SAM for Unified Scene Text Detection and Layout Analysis  [[PDF](https://arxiv.org/abs/2603.25168)]
+
+[arxiv 2026.03] Learning to Rank Caption Chains for Video-Text Alignment  [[PDF](https://arxiv.org/abs/2603.25145)]
+
+[arxiv 2026.03] AnyDoc: Enhancing Document Generation via Large-Scale HTML/CSS Data Synthesis and Height-Aware Reinforcement Optimization  [[PDF](https://arxiv.org/abs/2603.25118)]
+
+[arxiv 2026.03] Pixelis: Reasoning in Pixels, from Seeing to Acting  [[PDF](https://arxiv.org/abs/2603.25091)]
+
+[arxiv 2026.03] THEMIS: Towards Holistic Evaluation of MLLMs for Scientific Paper Fraud Forensics  [[PDF](https://arxiv.org/abs/2603.25089)]
+
+[arxiv 2026.03] Visual Attention Drifts,but Anchors Hold:Mitigating Hallucination in Multimodal Large Language Models via Cross-Layer Visual Anchors  [[PDF](https://arxiv.org/abs/2603.25088)]
+
+[arxiv 2026.03] Bridging Perception and Reasoning: Token Reweighting for RLVR in Multimodal LLMs  [[PDF](https://arxiv.org/abs/2603.25077)]
+
+[arxiv 2026.03] GIFT: Global Irreplaceability Frame Targeting for Efficient Video Understanding  [[PDF](https://arxiv.org/abs/2603.25072)]
+
+[arxiv 2026.03] VideoTIR: Accurate Understanding for Long Videos with Efficient Tool-Integrated Reasoning  [[PDF](https://arxiv.org/abs/2603.25021)]
+
+[arxiv 2026.03] Interpretable Zero-shot Referring Expression Comprehension with Query-driven Scene Graphs  [[PDF](https://arxiv.org/abs/2603.25004)]
+
+[arxiv 2026.03] MoE-GRPO: Optimizing Mixture-of-Experts via Reinforcement Learning in Vision-Language Models  [[PDF](https://arxiv.org/abs/2603.24984)]
+
+[arxiv 2026.03] Self-Corrected Image Generation with Explainable Latent Rewards  [[PDF](https://arxiv.org/abs/2603.24965),[Page](https://yinyiluo.github.io/xLARD/)]
+
+[arxiv 2026.03] Can MLLMs Read Students' Minds? Unpacking Multimodal Error Analysis in Handwritten Math  [[PDF](https://arxiv.org/abs/2603.24961)]
+
+[arxiv 2026.03] Beyond Attention Magnitude: Leveraging Inter-layer Rank Consistency for Efficient Vision-Language-Action Models  [[PDF](https://arxiv.org/abs/2603.24941)]
+
+[arxiv 2026.03] How Far Are Vision-Language Models from Constructing the Real World? A Benchmark for Physical Generative Reasoning  [[PDF](https://arxiv.org/abs/2603.24866),[Page](https://luluyuyuyang.github.io/dreamhouse)]
+
+[arxiv 2026.03] GoldiCLIP: The Goldilocks Approach for Balancing Explicit Supervision for Language-Image Pretraining  [[PDF](https://arxiv.org/abs/2603.24804),[Page](https://petsi.uk/goldiclip)]
+
+[arxiv 2026.03] LLaVA-LE: Large Language-and-Vision Assistant for Lunar Exploration  [[PDF](https://arxiv.org/abs/2603.24696),[Page](https://osupcvlab.github.io/LLaVA-LE/)] ![Code](https://img.shields.io/github/stars/OSUPCVLab/LLaVA-LE?style=social&label=Star)
+
+[arxiv 2026.03] UniICL: Systematizing Unified Multimodal In-context Learning through a Capability-Oriented Taxonomy  [[PDF](https://arxiv.org/abs/2603.24690)] ![Code](https://img.shields.io/github/stars/xuyicheng-zju/UniICL?style=social&label=Star)
+
+[arxiv 2026.03] KitchenTwin: Semantically and Geometrically Grounded 3D Kitchen Digital Twins  [[PDF](https://arxiv.org/abs/2603.24684)]
+
+[arxiv 2026.03] ReDiPrune: Relevance-Diversity Pre-Projection Token Pruning for Efficient Multimodal LLMs  [[PDF](https://arxiv.org/abs/2603.24680)] ![Code](https://img.shields.io/github/stars/UA-CVML/ReDiPrune?style=social&label=Star)
+
+[arxiv 2026.03] From Weights to Concepts: Data-Free Interpretability of CLIP via Singular Vector Decomposition  [[PDF](https://arxiv.org/abs/2603.24653),[Page](https://frangente.github.io/SITH/)]
+
+[arxiv 2026.03] CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare  [[PDF](https://arxiv.org/abs/2603.24157)]
+
+[arxiv 2026.03] LightSplat: Fast and Memory-Efficient Open-Vocabulary 3D Scene Understanding in Five Seconds  [[PDF](https://arxiv.org/abs/2603.24146),[Page](https://vision3d-lab.github.io/lightsplat/)]
+
+[arxiv 2026.03] COVTrack++: Learning Open-Vocabulary Multi-Object Tracking from Continuous Videos via a Synergistic Paradigm  [[PDF](https://arxiv.org/abs/2603.24016)]
+
+[arxiv 2026.03] UniFunc3D: Unified Active Spatial-Temporal Grounding for 3D Functionality Segmentation  [[PDF](https://arxiv.org/abs/2603.23478),[Page](https://jiaying.link/unifunc3d)]
+
+[arxiv 2026.03] FCL-COD: Weakly Supervised Camouflaged Object Detection with Frequency-aware and Contrastive Learning  [[PDF](https://arxiv.org/abs/2603.22969)]
+
+[arxiv 2026.03] EVA: Efficient Reinforcement Learning for End-to-End Video Agent  [[PDF](https://arxiv.org/abs/2603.22918)] ![Code](https://img.shields.io/github/stars/wangruohui/EfficientVideoAgent?style=social&label=Star)
+
+[arxiv 2026.03] Dual-Teacher Distillation with Subnetwork Rectification for Black-Box Domain Adaptation  [[PDF](https://arxiv.org/abs/2603.22908)]
+
+[arxiv 2026.03] ForeSea: AI Forensic Search with Multi-modal Queries for Video Surveillance  [[PDF](https://arxiv.org/abs/2603.22872)]
+
+[arxiv 2026.03] Focus, Don't Prune: Identifying Instruction-Relevant Regions for Information-Rich Image Understanding  [[PDF](https://arxiv.org/abs/2603.22815)]
+
+[arxiv 2026.03] PhotoAgent: A Robotic Photographer with Spatial and Aesthetic Understanding  [[PDF](https://arxiv.org/abs/2603.22796)]
+
+[arxiv 2026.03] MVPBench: A Multi-Video Perception Evaluation Benchmark for Multi-Modal Video Understanding  [[PDF](https://arxiv.org/abs/2603.22756)] ![Code](https://img.shields.io/github/stars/MVPBench/MVPBench?style=social&label=Star)
+
+[arxiv 2026.03] Q-Tacit: Image Quality Assessment via Latent Visual Reasoning  [[PDF](https://arxiv.org/abs/2603.22641)]
+
+[arxiv 2026.03] A Vision Language Model for Generating Procedural Plant Architecture Representations from Simulated Images  [[PDF](https://arxiv.org/abs/2603.22622)]
+
+[arxiv 2026.03] Dress-ED: Instruction-Guided Editing for Virtual Try-On and Try-Off  [[PDF](https://arxiv.org/abs/2603.22607)]
+
+[arxiv 2026.03] Language Models Can Explain Visual Features via Steering  [[PDF](https://arxiv.org/abs/2603.22593)]
+
+[arxiv 2026.03] Ego2Web: A Web Agent Benchmark Grounded in Egocentric Videos  [[PDF](https://arxiv.org/abs/2603.22529),[Page](https://ego2web.github.io/)]
+
+[arxiv 2026.03] Tiny Inference-Time Scaling with Latent Verifiers  [[PDF](https://arxiv.org/abs/2603.22492),[Page](https://aimagelab.github.io/VHS/)]
+
+[arxiv 2026.03] MinerU-Diffusion: Rethinking Document OCR as Inverse Rendering via Diffusion Decoding  [[PDF](https://arxiv.org/abs/2603.22458)]
+
+[arxiv 2026.03] VideoDetective: Clue Hunting via both Extrinsic Query and Intrinsic Relevance for Long Video Understanding  [[PDF](https://arxiv.org/abs/2603.22285),[Page](https://videodetective.github.io/)]
+
+[arxiv 2026.03] EgoGroups: A Benchmark For Detecting Social Groups of People in the Wild  [[PDF](https://arxiv.org/abs/2603.22249),[Page](https://lab-spell.github.io/EgoGroups/)]
+
+[arxiv 2026.03] PEARL: Geometry Aligns Semantics for Training-Free Open-Vocabulary Semantic Segmentation  [[PDF](https://arxiv.org/abs/2603.21528)]
+
+[arxiv 2026.03] ALADIN:Attribute-Language Distillation Network for Person Re-Identification  [[PDF](https://arxiv.org/abs/2603.21482)]
+
+[arxiv 2026.03] Test-Time Adaptation via Cache Personalization for Facial Expression Recognition in Videos  [[PDF](https://arxiv.org/abs/2603.21309)]
+
+[arxiv 2026.03] PEARL: Personalized Streaming Video Understanding Model  [[PDF](https://arxiv.org/abs/2603.20422)] ![Code](https://img.shields.io/github/stars/Yuanhong-Zheng/PEARL?style=social&label=Star)
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
