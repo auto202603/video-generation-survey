@@ -546,6 +546,60 @@
 [arxiv 2026.03] Test-Time Adaptation via Cache Personalization for Facial Expression Recognition in Videos  [[PDF](https://arxiv.org/abs/2603.21309)]
 
 [arxiv 2026.03] PEARL: Personalized Streaming Video Understanding Model  [[PDF](https://arxiv.org/abs/2603.20422)] ![Code](https://img.shields.io/github/stars/Yuanhong-Zheng/PEARL?style=social&label=Star)
+[arxiv 2026.03] PerceptionComp: A Video Benchmark for Complex Perception-Centric Reasoning  [[PDF](https://arxiv.org/abs/2603.26653),[Page](https://perceptioncomp.github.io)]
+
+[arxiv 2026.03] Beyond Language: Grounding Referring Expressions with Hand Pointing in Egocentric Vision  [[PDF](https://arxiv.org/abs/2603.26646)]
+
+[arxiv 2026.03] Make Geometry Matter for Spatial Reasoning  [[PDF](https://arxiv.org/abs/2603.26639)]
+
+[arxiv 2026.03] The Limits of Learning from Pictures and Text: Vision-Language Models and Embodied Scene Understanding  [[PDF](https://arxiv.org/abs/2603.26589)]
+
+[arxiv 2026.03] MA-Bench: Towards Fine-grained Micro-Action Understanding  [[PDF](https://arxiv.org/abs/2603.26586)]
+
+[arxiv 2026.03] OVI-MAP:Open-Vocabulary Instance-Semantic Mapping  [[PDF](https://arxiv.org/abs/2603.26541)]
+
+[arxiv 2026.03] ClipTTT: CLIP-Guided Test-Time Training Helps LVLMs See Better  [[PDF](https://arxiv.org/abs/2603.26486)]
+
+[arxiv 2026.03] HandVQA: Diagnosing and Improving Fine-Grained Spatial Reasoning about Hands in Vision-Language Models  [[PDF](https://arxiv.org/abs/2603.26362),[Page](https://kcsayem.github.io/handvqa/)]
+
+[arxiv 2026.03] Reflect to Inform: Boosting Multimodal Reasoning via Information-Gain-Driven Verification  [[PDF](https://arxiv.org/abs/2603.26348)]
+
+[arxiv 2026.03] Mitigating the Reasoning Tax in Vision-Language Fine-Tuning with Input-Adaptive Depth Aggregation  [[PDF](https://arxiv.org/abs/2603.26330)]
+
+[arxiv 2026.03] Label-Free Cross-Task LoRA Merging with Null-Space Compression  [[PDF](https://arxiv.org/abs/2603.26317)]
+
+[arxiv 2026.03] Towards GUI Agents: Vision-Language Diffusion Models for GUI Grounding  [[PDF](https://arxiv.org/abs/2603.26211)]
+
+[arxiv 2026.03] CREval: An Automated Interpretable Evaluation for Creative Image Manipulation under Complex Instructions  [[PDF](https://arxiv.org/abs/2603.26174)]
+
+[arxiv 2026.03] TaxaAdapter: Vision Taxonomy Models are Key to Fine-grained Image Generation over the Tree of Life  [[PDF](https://arxiv.org/abs/2603.26128)]
+
+[arxiv 2026.03] Finding Distributed Object-Centric Properties in Self-Supervised Transformers  [[PDF](https://arxiv.org/abs/2603.26127)]
+
+[arxiv 2026.03] Beyond Where to Look: Trajectory-Guided Reinforcement Learning for Multimodal RLVR  [[PDF](https://arxiv.org/abs/2603.26126)]
+
+[arxiv 2026.03] Pioneering Perceptual Video Fluency Assessment: A Novel Task with Benchmark Dataset and Baseline  [[PDF](https://arxiv.org/abs/2603.26055)]
+
+[arxiv 2026.03] Rethinking Token Pruning for Historical Screenshots in GUI Visual Agents: Semantic, Spatial, and Temporal Perspectives  [[PDF](https://arxiv.org/abs/2603.26041)]
+
+[arxiv 2026.03] Knowledge is Power: Advancing Few-shot Action Recognition with Multimodal Semantics from MLLMs  [[PDF](https://arxiv.org/abs/2603.26033)]
+
+[arxiv 2026.03] VLAgeBench: Benchmarking Large Vision-Language Models for Zero-Shot Human Age Estimation  [[PDF](https://arxiv.org/abs/2603.26015)]
+
+[arxiv 2026.03] Collision-Aware Vision-Language Learning for End-to-End Driving with Multimodal Infraction Datasets  [[PDF](https://arxiv.org/abs/2603.25946)]
+
+[arxiv 2026.03] Good Scores, Bad Data: A Metric for Multimodal Coherence  [[PDF](https://arxiv.org/abs/2603.25924)]
+
+[arxiv 2026.03] Few Shots Text to Image Retrieval: New Benchmarking Dataset and Optimization Methods  [[PDF](https://arxiv.org/abs/2603.25891)]
+
+[arxiv 2026.03] Speech-Synchronized Whiteboard Generation via VLM-Driven Structured Drawing Representations  [[PDF](https://arxiv.org/abs/2603.25870)]
+
+[arxiv 2026.03] ArtHOI: Taming Foundation Models for Monocular 4D Reconstruction of Hand-Articulated-Object Interactions  [[PDF](https://arxiv.org/abs/2603.25791)]
+
+[arxiv 2026.03] A Survey of OCR Evaluation Methods and Metrics and the Invisibility of Historical Documents  [[PDF](https://arxiv.org/abs/2603.25761)]
+
+[arxiv 2026.03] GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation  [[PDF](https://arxiv.org/abs/2603.26266)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
@@ -1815,34 +1869,6 @@
 [arxiv 2026.03] Transformers are Stateless Differentiable Neural Computers [[PDF](https://arxiv.org/abs/2603.19272)]
 
 [arxiv 2026.03] Significance-Gain Pair Encoding for LLMs: A Statistical Alternative to Frequency-Based Subword Merging [[PDF](https://arxiv.org/abs/2603.19261)]
-
-[arxiv 2026.03] PerceptionComp: A Video Benchmark for Complex Perception-Centric Reasoning  [[PDF](https://arxiv.org/abs/2603.26653)]
-[arxiv 2026.03] Beyond Language: Grounding Referring Expressions with Hand Pointing in Egocentric Vision  [[PDF](https://arxiv.org/abs/2603.26646)]
-[arxiv 2026.03] Make Geometry Matter for Spatial Reasoning  [[PDF](https://arxiv.org/abs/2603.26639)]
-[arxiv 2026.03] The Limits of Learning from Pictures and Text: Vision-Language Models and Embodied Scene Understanding  [[PDF](https://arxiv.org/abs/2603.26589)]
-[arxiv 2026.03] MA-Bench: Towards Fine-grained Micro-Action Understanding  [[PDF](https://arxiv.org/abs/2603.26586)]
-[arxiv 2026.03] OVI-MAP:Open-Vocabulary Instance-Semantic Mapping  [[PDF](https://arxiv.org/abs/2603.26541)]
-[arxiv 2026.03] ClipTTT: CLIP-Guided Test-Time Training Helps LVLMs See Better  [[PDF](https://arxiv.org/abs/2603.26486)]
-[arxiv 2026.03] HandVQA: Diagnosing and Improving Fine-Grained Spatial Reasoning about Hands in Vision-Language Models  [[PDF](https://arxiv.org/abs/2603.26362)]
-[arxiv 2026.03] Reflect to Inform: Boosting Multimodal Reasoning via Information-Gain-Driven Verification  [[PDF](https://arxiv.org/abs/2603.26348)]
-[arxiv 2026.03] Mitigating the Reasoning Tax in Vision-Language Fine-Tuning with Input-Adaptive Depth Aggregation  [[PDF](https://arxiv.org/abs/2603.26330)]
-[arxiv 2026.03] Label-Free Cross-Task LoRA Merging with Null-Space Compression  [[PDF](https://arxiv.org/abs/2603.26317)]
-[arxiv 2026.03] Towards GUI Agents: Vision-Language Diffusion Models for GUI Grounding  [[PDF](https://arxiv.org/abs/2603.26211)]
-[arxiv 2026.03] CREval: An Automated Interpretable Evaluation for Creative Image Manipulation under Complex Instructions  [[PDF](https://arxiv.org/abs/2603.26174)]
-[arxiv 2026.03] TaxaAdapter: Vision Taxonomy Models are Key to Fine-grained Image Generation over the Tree of Life  [[PDF](https://arxiv.org/abs/2603.26128)]
-[arxiv 2026.03] Finding Distributed Object-Centric Properties in Self-Supervised Transformers  [[PDF](https://arxiv.org/abs/2603.26127)]
-[arxiv 2026.03] Beyond Where to Look: Trajectory-Guided Reinforcement Learning for Multimodal RLVR  [[PDF](https://arxiv.org/abs/2603.26126)]
-[arxiv 2026.03] Pioneering Perceptual Video Fluency Assessment: A Novel Task with Benchmark Dataset and Baseline  [[PDF](https://arxiv.org/abs/2603.26055)]
-[arxiv 2026.03] Rethinking Token Pruning for Historical Screenshots in GUI Visual Agents: Semantic, Spatial, and Temporal Perspectives  [[PDF](https://arxiv.org/abs/2603.26041)]
-[arxiv 2026.03] Knowledge is Power: Advancing Few-shot Action Recognition with Multimodal Semantics from MLLMs  [[PDF](https://arxiv.org/abs/2603.26033)]
-[arxiv 2026.03] VLAgeBench: Benchmarking Large Vision-Language Models for Zero-Shot Human Age Estimation  [[PDF](https://arxiv.org/abs/2603.26015)]
-[arxiv 2026.03] Collision-Aware Vision-Language Learning for End-to-End Driving with Multimodal Infraction Datasets  [[PDF](https://arxiv.org/abs/2603.25946)]
-[arxiv 2026.03] Good Scores, Bad Data: A Metric for Multimodal Coherence  [[PDF](https://arxiv.org/abs/2603.25924)]
-[arxiv 2026.03] Few Shots Text to Image Retrieval: New Benchmarking Dataset and Optimization Methods  [[PDF](https://arxiv.org/abs/2603.25891)]
-[arxiv 2026.03] Speech-Synchronized Whiteboard Generation via VLM-Driven Structured Drawing Representations  [[PDF](https://arxiv.org/abs/2603.25870)]
-[arxiv 2026.03] ArtHOI: Taming Foundation Models for Monocular 4D Reconstruction of Hand-Articulated-Object Interactions  [[PDF](https://arxiv.org/abs/2603.25791)]
-[arxiv 2026.03] A Survey of OCR Evaluation Methods and Metrics and the Invisibility of Historical Documents  [[PDF](https://arxiv.org/abs/2603.25761)]
-[arxiv 2026.03] GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation  [[PDF](https://arxiv.org/abs/2603.26266)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

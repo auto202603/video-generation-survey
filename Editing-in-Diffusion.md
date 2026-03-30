@@ -350,6 +350,40 @@
 [arxiv 2026.03] GaussianPile: A Unified Sparse Gaussian Splatting Framework for Slice-based Volumetric Reconstruction  [[PDF](https://arxiv.org/abs/2603.20611)]
 
 [arxiv 2026.03] RayMap3R: Inference-Time RayMap for Dynamic 3D Reconstruction  [[PDF](https://arxiv.org/abs/2603.20588),[Page](https://raymap3r.github.io/)]
+[arxiv 2026.03] Detailed Geometry and Appearance from Opportunistic Motion  [[PDF](https://arxiv.org/abs/2603.26665)]
+
+[arxiv 2026.03] GaussianGPT: Towards Autoregressive 3D Gaussian Scene Generation  [[PDF](https://arxiv.org/abs/2603.26661),[Page](https://nicolasvonluetzow.github.io/GaussianGPT/)]
+
+[arxiv 2026.03] Drive-Through 3D Vehicle Exterior Reconstruction via Dynamic-Scene SfM and Distortion-Aware Gaussian Splatting  [[PDF](https://arxiv.org/abs/2603.26638)]
+
+[arxiv 2026.03] Scene Grounding In the Wild  [[PDF](https://arxiv.org/abs/2603.26584),[Page](https://tau-vailab.github.io/SceneGround/)]
+
+[arxiv 2026.03] Restore, Assess, Repeat: A Unified Framework for Iterative Image Restoration  [[PDF](https://arxiv.org/abs/2603.26385),[Page](https://restore-assess-repeat.github.io)]
+
+[arxiv 2026.03] MPDiT: Multi-Patch Global-to-Local Transformer Architecture For Efficient Flow Matching and Diffusion Model  [[PDF](https://arxiv.org/abs/2603.26357)]
+
+[arxiv 2026.03] Verify Claimed Text-to-Image Models via Boundary-Aware Prompt Optimization  [[PDF](https://arxiv.org/abs/2603.26328)]
+
+[arxiv 2026.03] 4DRaL: Bridging 4D Radar with LiDAR for Place Recognition using Knowledge Distillation  [[PDF](https://arxiv.org/abs/2603.26206)]
+
+[arxiv 2026.03] GLINT: Modeling Scene-Scale Transparency via Gaussian Radiance Transport  [[PDF](https://arxiv.org/abs/2603.26181),[Page](https://youngju-na.github.io/GLINT)]
+
+[arxiv 2026.03] When Identities Collapse: A Stress-Test Benchmark for Multi-Subject Personalization  [[PDF](https://arxiv.org/abs/2603.26078)]
+
+[arxiv 2026.03] R-PGA: Robust Physical Adversarial Camouflage Generation via Relightable 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2603.26067)]
+
+[arxiv 2026.03] Neighbor-Aware Localized Concept Erasure in Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2603.25994)]
+
+[arxiv 2026.03] ViGoR-Bench: How Far Are Visual Generative Models From Zero-Shot Visual Reasoners?  [[PDF](https://arxiv.org/abs/2603.25823)]
+
+[arxiv 2026.03] Geo$^\textbf{2}$: Geometry-Guided Cross-view Geo-Localization and Image Synthesis  [[PDF](https://arxiv.org/abs/2603.25819)]
+
+[arxiv 2026.03] Evaluating Synthetic Images as Effective Substitutes for Experimental Data in Surface Roughness Classification  [[PDF](https://arxiv.org/abs/2603.25765)]
+
+[arxiv 2026.03] A-SelecT: Automatic Timestep Selection for Diffusion Transformer Representation Learning  [[PDF](https://arxiv.org/abs/2603.25758)]
+
+[arxiv 2026.03] Learning to Recorrupt: Noise Distribution Agnostic Self-Supervised Image Denoising  [[PDF](https://arxiv.org/abs/2603.25869)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]
@@ -4796,24 +4830,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.03] Beyond Single Tokens: Distilling Discrete Diffusion Models via Discrete MMD [[PDF](https://arxiv.org/abs/2603.20155)]
 
 [arxiv 2026.03] Offshore oil and gas platform dynamics in the North Sea, Gulf of Mexico, and Persian Gulf: Exploiting the Sentinel-1 archive [[PDF](https://arxiv.org/abs/2603.19801)]
-
-[arxiv 2026.03] Detailed Geometry and Appearance from Opportunistic Motion  [[PDF](https://arxiv.org/abs/2603.26665)]
-[arxiv 2026.03] GaussianGPT: Towards Autoregressive 3D Gaussian Scene Generation  [[PDF](https://arxiv.org/abs/2603.26661)]
-[arxiv 2026.03] Drive-Through 3D Vehicle Exterior Reconstruction via Dynamic-Scene SfM and Distortion-Aware Gaussian Splatting  [[PDF](https://arxiv.org/abs/2603.26638)]
-[arxiv 2026.03] Scene Grounding In the Wild  [[PDF](https://arxiv.org/abs/2603.26584)]
-[arxiv 2026.03] Restore, Assess, Repeat: A Unified Framework for Iterative Image Restoration  [[PDF](https://arxiv.org/abs/2603.26385)]
-[arxiv 2026.03] MPDiT: Multi-Patch Global-to-Local Transformer Architecture For Efficient Flow Matching and Diffusion Model  [[PDF](https://arxiv.org/abs/2603.26357)]
-[arxiv 2026.03] Verify Claimed Text-to-Image Models via Boundary-Aware Prompt Optimization  [[PDF](https://arxiv.org/abs/2603.26328)]
-[arxiv 2026.03] 4DRaL: Bridging 4D Radar with LiDAR for Place Recognition using Knowledge Distillation  [[PDF](https://arxiv.org/abs/2603.26206)]
-[arxiv 2026.03] GLINT: Modeling Scene-Scale Transparency via Gaussian Radiance Transport  [[PDF](https://arxiv.org/abs/2603.26181)]
-[arxiv 2026.03] When Identities Collapse: A Stress-Test Benchmark for Multi-Subject Personalization  [[PDF](https://arxiv.org/abs/2603.26078)]
-[arxiv 2026.03] R-PGA: Robust Physical Adversarial Camouflage Generation via Relightable 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2603.26067)]
-[arxiv 2026.03] Neighbor-Aware Localized Concept Erasure in Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2603.25994)]
-[arxiv 2026.03] ViGoR-Bench: How Far Are Visual Generative Models From Zero-Shot Visual Reasoners?  [[PDF](https://arxiv.org/abs/2603.25823)]
-[arxiv 2026.03] Geo$^\textbf{2}$: Geometry-Guided Cross-view Geo-Localization and Image Synthesis  [[PDF](https://arxiv.org/abs/2603.25819)]
-[arxiv 2026.03] Evaluating Synthetic Images as Effective Substitutes for Experimental Data in Surface Roughness Classification  [[PDF](https://arxiv.org/abs/2603.25765)]
-[arxiv 2026.03] A-SelecT: Automatic Timestep Selection for Diffusion Transformer Representation Learning  [[PDF](https://arxiv.org/abs/2603.25758)]
-[arxiv 2026.03] Learning to Recorrupt: Noise Distribution Agnostic Self-Supervised Image Denoising  [[PDF](https://arxiv.org/abs/2603.25869)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

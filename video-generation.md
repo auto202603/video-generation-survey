@@ -435,6 +435,24 @@ A reading list of video generation
 [arxiv 2026.03] WorldMesh: Generating Navigable Multi-Room 3D Scenes via Mesh-Conditioned Image Diffusion  [[PDF](https://arxiv.org/abs/2603.22972),[Page](https://mschneider456.github.io/world-mesh/)] ![Code](https://img.shields.io/github/stars/mschneider456/worldmesh?style=social&label=Star)
 
 [arxiv 2026.03] TrajLoom: Dense Future Trajectory Generation from Video  [[PDF](https://arxiv.org/abs/2603.22606),[Page](https://trajloom.github.io/)]
+[arxiv 2026.03] Think over Trajectories: Leveraging Video Generation to Reconstruct GPS Trajectories from Cellular Signaling  [[PDF](https://arxiv.org/abs/2603.26610)]
+
+[arxiv 2026.03] VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward  [[PDF](https://arxiv.org/abs/2603.26599),[Page](https://zhaochongan.github.io/projects/VGGRPO)]
+
+[arxiv 2026.03] From Static to Dynamic: Exploring Self-supervised Image-to-Video Representation Transfer Learning  [[PDF](https://arxiv.org/abs/2603.26597)]
+
+[arxiv 2026.03] Dynamic Token Compression for Efficient Video Understanding through Reinforcement Learning  [[PDF](https://arxiv.org/abs/2603.26365)]
+
+[arxiv 2026.03] MemCam: Memory-Augmented Camera Control for Consistent Video Generation  [[PDF](https://arxiv.org/abs/2603.26193)]
+
+[arxiv 2026.03] IP-Bench: Benchmark for Image Protection Methods in Image-to-Video Generation Scenarios  [[PDF](https://arxiv.org/abs/2603.26154)]
+
+[arxiv 2026.03] Reinforcing Structured Chain-of-Thought for Video Understanding  [[PDF](https://arxiv.org/abs/2603.25942)]
+
+[arxiv 2026.03] DiReCT: Disentangled Regularization of Contrastive Trajectories for Physics-Refined Video Generation  [[PDF](https://arxiv.org/abs/2603.25931)]
+
+[arxiv 2026.03] GazeQwen: Lightweight Gaze-Conditioned LLM Modulation for Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2603.25841)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -4021,16 +4039,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.02]  WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models [[PDF](https://arxiv.org/abs/2602.08971)]
 
-
-[arxiv 2026.03] Think over Trajectories: Leveraging Video Generation to Reconstruct GPS Trajectories from Cellular Signaling  [[PDF](https://arxiv.org/abs/2603.26610)]
-[arxiv 2026.03] VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward  [[PDF](https://arxiv.org/abs/2603.26599)]
-[arxiv 2026.03] From Static to Dynamic: Exploring Self-supervised Image-to-Video Representation Transfer Learning  [[PDF](https://arxiv.org/abs/2603.26597)]
-[arxiv 2026.03] Dynamic Token Compression for Efficient Video Understanding through Reinforcement Learning  [[PDF](https://arxiv.org/abs/2603.26365)]
-[arxiv 2026.03] MemCam: Memory-Augmented Camera Control for Consistent Video Generation  [[PDF](https://arxiv.org/abs/2603.26193)]
-[arxiv 2026.03] IP-Bench: Benchmark for Image Protection Methods in Image-to-Video Generation Scenarios  [[PDF](https://arxiv.org/abs/2603.26154)]
-[arxiv 2026.03] Reinforcing Structured Chain-of-Thought for Video Understanding  [[PDF](https://arxiv.org/abs/2603.25942)]
-[arxiv 2026.03] DiReCT: Disentangled Regularization of Contrastive Trajectories for Physics-Refined Video Generation  [[PDF](https://arxiv.org/abs/2603.25931)]
-[arxiv 2026.03] GazeQwen: Lightweight Gaze-Conditioned LLM Modulation for Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2603.25841)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
