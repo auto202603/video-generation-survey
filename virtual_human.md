@@ -575,6 +575,9 @@
 [arxiv 2026.03] Benchmarking Efficient &amp; Effective Camera Pose Estimation Strategies for Novel View Synthesis  [[PDF](https://arxiv.org/abs/2603.20428)]
 [arxiv 2026.03] Monocular Models are Strong Learners for Multi-View Human Mesh Recovery  [[PDF](https://arxiv.org/abs/2603.20391)]
 
+[arxiv 2026.03] Meta-Learned Adaptive Optimization for Robust Human Mesh Recovery with Uncertainty-Aware Parameter Updates  [[PDF](https://arxiv.org/abs/2603.26447)]
+[arxiv 2026.03] Shared Representation for 3D Pose Estimation, Action Classification, and Progress Prediction from Tactile Signals  [[PDF](https://arxiv.org/abs/2603.25906)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] SignAgent: Agentic LLMs for Linguistically-Grounded Sign Language Annotation and Dataset Curation  [[PDF](https://arxiv.org/abs/2603.19059)]
