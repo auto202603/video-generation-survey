@@ -69,6 +69,17 @@
 A reading list of video generation
 
 ## Joint audio-video generation product
+[arxiv 2026.03] AdaptToken: Entropy-based Adaptive Token Selection for MLLM Long Video Understanding  [[PDF](https://arxiv.org/abs/2603.28696)]
+[arxiv 2026.03] AutoCut: End-to-end advertisement video editing based on multimodal discretization and controllable generation  [[PDF](https://arxiv.org/abs/2603.28366)]
+[arxiv 2026.03] VistaGEN: Consistent Driving Video Generation with Fine-Grained Control Using Multiview Visual-Language Reasoning  [[PDF](https://arxiv.org/abs/2603.28353)]
+[arxiv 2026.03] FlashSign: Pose-Free Guidance for Efficient Sign Language Video Generation  [[PDF](https://arxiv.org/abs/2603.27915)]
+[arxiv 2026.03] STRIDE: When to Speak Meets Sequence Denoising for Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2603.27593)]
+[arxiv 2026.03] TokenDial: Continuous Attribute Control in Text-to-Video via Spatiotemporal Token Offsets  [[PDF](https://arxiv.org/abs/2603.27520)]
+[arxiv 2026.03] HMPDM: A Diffusion Model for Driving Video Prediction with Historical Motion Priors  [[PDF](https://arxiv.org/abs/2603.27371)]
+[arxiv 2026.03] Seeing the Scene Matters: Revealing Forgetting in Video Understanding Models with a Scene-Aware Long-Video Benchmark  [[PDF](https://arxiv.org/abs/2603.27259)]
+[arxiv 2026.03] Incentivizing Temporal-Awareness in Egocentric Video Understanding Models  [[PDF](https://arxiv.org/abs/2603.27184)]
+[arxiv 2026.03] LightCtrl: Training-free Controllable Video Relighting  [[PDF](https://arxiv.org/abs/2603.27083)]
+
 *  **Veo3** [[Page](https://aistudio.google.com/models/veo-3)]
 *  **Sora2** [[Page](https://openai.com/index/sora-2/)]
 *  **Wan2.5 Preview** [[Page](https://wan.video/)]

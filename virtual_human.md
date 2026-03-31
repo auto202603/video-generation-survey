@@ -1,4 +1,13 @@
 ## Dataset
+[arxiv 2026.03] HandX: Scaling Bimanual Motion and Interaction Generation  [[PDF](https://arxiv.org/abs/2603.28766)]
+[arxiv 2026.03] PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models  [[PDF](https://arxiv.org/abs/2603.28763)]
+[arxiv 2026.03] TwinMixing: A Shuffle-Aware Feature Interaction Model for Multi-Task Segmentation  [[PDF](https://arxiv.org/abs/2603.28233)]
+[arxiv 2026.03] Efficient Domain Adaptation for Text Line Recognition via Decoupled Language Models  [[PDF](https://arxiv.org/abs/2603.28028)]
+[arxiv 2026.03] An Intelligent Framework for Real-Time Yoga Pose Detection and Posture Correction  [[PDF](https://arxiv.org/abs/2603.26760)]
+[arxiv 2026.03] Motion Semantics Guided Normalizing Flow for Privacy-Preserving Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2603.26745)]
+[arxiv 2026.03] TokenDance: Token-to-Token Music-to-Dance Generation with Bidirectional Mamba  [[PDF](https://arxiv.org/abs/2603.27314)]
+[arxiv 2026.03] Uncertainty-Aware Mapping from 3D Keypoints to Anatomical Landmarks for Markerless Biomechanics  [[PDF](https://arxiv.org/abs/2603.26844)]
+
 <!-- Added on 2026-03-26 -->
 [arxiv 2026.03] B-MoE: A Body-Part-Aware Mixture-of-Experts "All Parts Matter" Approach to Micro-Action Recognition  [[PDF](https://arxiv.org/abs/2603.24245)]
 
