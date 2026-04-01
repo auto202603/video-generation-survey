@@ -1,4 +1,5 @@
 # Image Editing In Diffusion 
+<!-- Added on 2026-04-01 -->
 <!-- Added on 2026-03-26 -->
 [arxiv 2026.03] ViHOI: Human-Object Interaction Synthesis with Visual Priors  [[PDF](https://arxiv.org/abs/2603.24383)]
 
@@ -55,44 +56,83 @@
 
 ## text-to-image
 [arxiv 2026.03] Gen-Searcher: Reinforcing Agentic Search for Image Generation  [[PDF](https://arxiv.org/abs/2603.28767)]
+
 [arxiv 2026.03] On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers  [[PDF](https://arxiv.org/abs/2603.28762)]
+
 [arxiv 2026.03] DreamLite: A Lightweight On-Device Unified Model for Image Generation and Editing  [[PDF](https://arxiv.org/abs/2603.28713)]
+
 [arxiv 2026.03] Divide and Restore: A Modular Task-Decoupled Framework for Universal Image Restoration  [[PDF](https://arxiv.org/abs/2603.28658)]
+
 [arxiv 2026.03] TGIF2: Extended Text-Guided Inpainting Forgery Dataset &amp; Benchmark  [[PDF](https://arxiv.org/abs/2603.28613)]
+
 [arxiv 2026.03] ELViS: Efficient Visual Similarity from Local Descriptors that Generalizes Across Domains  [[PDF](https://arxiv.org/abs/2603.28603)]
+
 [arxiv 2026.03] GEditBench v2: A Human-Aligned Benchmark for General Image Editing  [[PDF](https://arxiv.org/abs/2603.28547)]
+
 [arxiv 2026.03] $R_{dm}$: Re-conceptualizing Distribution Matching as a Reward for Diffusion Distillation  [[PDF](https://arxiv.org/abs/2603.28460)]
+
 [arxiv 2026.03] GeoHCC: Local Geometry-Aware Hierarchical Context Compression for 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2603.28431)]
+
 [arxiv 2026.03] Unified Restoration-Perception Learning: Maritime Infrared-Visible Image Fusion and Segmentation  [[PDF](https://arxiv.org/abs/2603.28414)]
+
 [arxiv 2026.03] EdgeDiT: Hardware-Aware Diffusion Transformers for Efficient On-Device Image Generation  [[PDF](https://arxiv.org/abs/2603.28405)]
+
 [arxiv 2026.03] Rethinking Structure Preservation in Text-Guided Image Editing with Visual Autoregressive Models  [[PDF](https://arxiv.org/abs/2603.28367)]
+
 [arxiv 2026.03] ObjectMorpher: 3D-Aware Image Editing via Deformable 3DGS Models  [[PDF](https://arxiv.org/abs/2603.28152)]
+
 [arxiv 2026.03] SVGS: Single-View to 3D Object Editing via Gaussian Splatting  [[PDF](https://arxiv.org/abs/2603.28126)]
+
 [arxiv 2026.03] Attention Frequency Modulation: Training-Free Spectral Modulation of Diffusion Cross-Attention  [[PDF](https://arxiv.org/abs/2603.28114)]
+
 [arxiv 2026.03] To View Transform or Not to View Transform: NeRF-based Pre-training Perspective  [[PDF](https://arxiv.org/abs/2603.28090)]
+
 [arxiv 2026.03] LogiStory: A Logic-Aware Framework for Multi-Image Story Visualization  [[PDF](https://arxiv.org/abs/2603.28082)]
+
 [arxiv 2026.03] \textit{4DSurf}: High-Fidelity Dynamic Scene Surface Reconstruction  [[PDF](https://arxiv.org/abs/2603.28064)]
+
 [arxiv 2026.03] Physically Inspired Gaussian Splatting for HDR Novel View Synthesis  [[PDF](https://arxiv.org/abs/2603.28020)]
+
 [arxiv 2026.03] RetinexDualV2: Physically-Grounded Dual Retinex for Generalized UHD Image Restoration  [[PDF](https://arxiv.org/abs/2603.27979)]
+
 [arxiv 2026.03] MathGen: Revealing the Illusion of Mathematical Competence through Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2603.27959)]
+
 [arxiv 2026.03] RehearsalNeRF: Decoupling Intrinsic Neural Fields of Dynamic Illuminations for Scene Editing  [[PDF](https://arxiv.org/abs/2603.27948)]
+
 [arxiv 2026.03] Inference-time Trajectory Optimization for Manga Image Editing  [[PDF](https://arxiv.org/abs/2603.27790)]
+
 [arxiv 2026.03] GS3LAM: Gaussian Semantic Splatting SLAM  [[PDF](https://arxiv.org/abs/2603.27781)]
+
 [arxiv 2026.03] OPRO: Orthogonal Panel-Relative Operators for Panel-Aware In-Context Image Generation  [[PDF](https://arxiv.org/abs/2603.27637)]
+
 [arxiv 2026.03] You Only Erase Once: Erasing Anything without Bringing Unexpected Content  [[PDF](https://arxiv.org/abs/2603.27599)]
+
 [arxiv 2026.03] A Robust Low-Rank Prior Model for Structured Cartoon-Texture Image Decomposition with Heavy-Tailed Noise  [[PDF](https://arxiv.org/abs/2603.27579)]
+
 [arxiv 2026.03] PANDORA: Pixel-wise Attention Dissolution and Latent Guidance for Zero-Shot Object Removal  [[PDF](https://arxiv.org/abs/2603.27555)]
+
 [arxiv 2026.03] SPROUT: A Scalable Diffusion Foundation Model for Agricultural Vision  [[PDF](https://arxiv.org/abs/2603.27519)]
+
 [arxiv 2026.03] SGS-Intrinsic: Semantic-Invariant Gaussian Splatting for Sparse-View Indoor Inverse Rendering  [[PDF](https://arxiv.org/abs/2603.27516)]
+
 [arxiv 2026.03] From None to All: Self-Supervised 3D Reconstruction via Novel View Synthesis  [[PDF](https://arxiv.org/abs/2603.27455)]
+
 [arxiv 2026.03] Dual-Path Learning based on Frequency Structural Decoupling and Regional-Aware Fusion for Low-Light Image Super-Resolution  [[PDF](https://arxiv.org/abs/2603.27301)]
+
 [arxiv 2026.03] NimbusGS: Unified 3D Scene Reconstruction under Hybrid Weather  [[PDF](https://arxiv.org/abs/2603.27228)]
+
 [arxiv 2026.03] Let Triggers Control: Frequency-Aware Dropout for Effective Token Control  [[PDF](https://arxiv.org/abs/2603.27199)]
+
 [arxiv 2026.03] SJD-VP: Speculative Jacobi Decoding with Verification Prediction for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2603.27115)]
+
 [arxiv 2026.03] EFlow: Fast Few-Step Video Generator Training from Scratch via Efficient Solution Flow  [[PDF](https://arxiv.org/abs/2603.27086)]
+
 [arxiv 2026.03] A training-free framework for high-fidelity appearance transfer via diffusion transformers  [[PDF](https://arxiv.org/abs/2603.26767)]
+
 [arxiv 2026.03] ImagenWorld: Stress-Testing Image Generation Models with Explainable Human Evaluation on Open-ended Real-World Tasks  [[PDF](https://arxiv.org/abs/2603.27862)]
+
 [arxiv 2026.03] DiffSoup: Direct Differentiable Rasterization of Triangle Soup for Extreme Radiance Field Simplification  [[PDF](https://arxiv.org/abs/2603.27151)]
+
 [arxiv 2026.03] Hybrid Diffusion Model for Breast Ultrasound Image Augmentation  [[PDF](https://arxiv.org/abs/2603.26834)]
 
 [arxiv 2025.03] Lumina-Image 2.0: A Unified and Efficient Image Generative Framework  [[PDF](https://arxiv.org/abs/2503.21758)]
@@ -289,13 +329,21 @@
 [arxiv 2026.03] OmniDiT: Extending Diffusion Transformer to Omni-VTON Framework [[[PDF](https://arxiv.org/abs/2603.19643)]]
 
 [arxiv 2026.03] Efficient Zero-Shot AI-Generated Image Detection  [[PDF](https://arxiv.org/abs/2603.21619)]
+
 [arxiv 2026.03] DTVI: Dual-Stage Textual and Visual Intervention for Safe Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2603.22041)]
+
 [arxiv 2026.03] Dynamic Exposure Burst Image Restoration  [[PDF](https://arxiv.org/abs/2603.21784)]
+
 [arxiv 2026.03] Positional Segmentor-Guided Counterfactual Fine-Tuning for Spatially Localized Image Synthesis  [[PDF](https://arxiv.org/abs/2603.21213)]
+
 [arxiv 2026.03] Knowledge Priors for Identity-Disentangled Open-Set Privacy-Preserving Video FER  [[PDF](https://arxiv.org/abs/2603.21387)]
+
 [arxiv 2026.03] An InSAR Phase Unwrapping Framework for Large-scale and Complex Events  [[PDF](https://arxiv.org/abs/2603.21378)]
+
 [arxiv 2026.03] MS-CustomNet: Controllable Multi-Subject Customization with Hierarchical Relational Semantics  [[PDF](https://arxiv.org/abs/2603.21136)]
+
 [arxiv 2026.03] Efficient Coarse-to-Fine Diffusion Models with Time Step Sequence Redistribution  [[PDF](https://arxiv.org/abs/2603.21348)]
+
 [arxiv 2026.03] FIGURA: A Modular Prompt Engineering Method for Artistic Figure Photography in Safety-Filtered Text-to-Image Models  [[PDF](https://arxiv.org/abs/2603.20201)]
 
 [arxiv 2026.03] Less Gaussians, Texture More: 4K Feed-Forward Textured Splatting  [[PDF](https://arxiv.org/abs/2603.25745),[Page](https://yxlao.github.io/lgtm/)]
@@ -391,6 +439,7 @@
 [arxiv 2026.03] GaussianPile: A Unified Sparse Gaussian Splatting Framework for Slice-based Volumetric Reconstruction  [[PDF](https://arxiv.org/abs/2603.20611)]
 
 [arxiv 2026.03] RayMap3R: Inference-Time RayMap for Dynamic 3D Reconstruction  [[PDF](https://arxiv.org/abs/2603.20588),[Page](https://raymap3r.github.io/)]
+
 [arxiv 2026.03] Detailed Geometry and Appearance from Opportunistic Motion  [[PDF](https://arxiv.org/abs/2603.26665)]
 
 [arxiv 2026.03] GaussianGPT: Towards Autoregressive 3D Gaussian Scene Generation  [[PDF](https://arxiv.org/abs/2603.26661),[Page](https://nicolasvonluetzow.github.io/GaussianGPT/)]
@@ -425,15 +474,53 @@
 
 [arxiv 2026.03] Learning to Recorrupt: Noise Distribution Agnostic Self-Supervised Image Denoising  [[PDF](https://arxiv.org/abs/2603.25869)]
 
+[arxiv 2026.03] Beyond Ground-Truth: Leveraging Image Quality Priors for Real-World Image Restoration  [[PDF](https://arxiv.org/abs/2603.29773)]
+
+[arxiv 2026.03] GRVS: a Generalizable and Recurrent Approach to Monocular Dynamic View Synthesis  [[PDF](https://arxiv.org/abs/2603.29734)]
+
+[arxiv 2026.03] FED-Bench: A Cross-Granular Benchmark for Disentangled Evaluation of Facial Expression Editing  [[PDF](https://arxiv.org/abs/2603.29697)]
+
+[arxiv 2026.03] MacTok: Robust Continuous Tokenization for Image Generation  [[PDF](https://arxiv.org/abs/2603.29634)]
+
+[arxiv 2026.03] Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis  [[PDF](https://arxiv.org/abs/2603.29620),[Page](https://github.com/shawn0728/Unify-Agent)] ![Code](https://img.shields.io/github/stars/shawn0728/Unify-Agent?style=social&label=Star)
+
+[arxiv 2026.03] FlowID : Enhancing Forensic Identification with Latent Flow-Matching Models  [[PDF](https://arxiv.org/abs/2603.29591)]
+
+[arxiv 2026.03] A2BFR: Attribute-Aware Blind Face Restoration  [[PDF](https://arxiv.org/abs/2603.29423)]
+
+[arxiv 2026.03] AA-Splat: Anti-Aliased Feed-forward Gaussian Splatting  [[PDF](https://arxiv.org/abs/2603.29394),[Page](https://kaist-viclab.github.io/aasplat-site/)]
+
+[arxiv 2026.03] Extend3D: Town-Scale 3D Generation  [[PDF](https://arxiv.org/abs/2603.29387),[Page](http://seungwoo-yoon.github.io/extend3d-page)]
+
+[arxiv 2026.03] PromptForge-350k: A Large-Scale Dataset and Contrastive Framework for Prompt-Based AI Image Forgery Localization  [[PDF](https://arxiv.org/abs/2603.29386)]
+
+[arxiv 2026.03] MotionScale: Reconstructing Appearance, Geometry, and Motion of Dynamic Scenes with Scalable 4D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2603.29296)]
+
+[arxiv 2026.03] LightHarmony3D: Harmonizing Illumination and Shadows for Object Insertion in 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2603.29209)]
+
+[arxiv 2026.03] Hierarchical Visual Relocalization with Nearest View Synthesis from Feature Gaussian Splatting  [[PDF](https://arxiv.org/abs/2603.29185)]
+
+[arxiv 2026.03] MMFace-DiT: A Dual-Stream Diffusion Transformer for High-Fidelity Multimodal Face Generation  [[PDF](https://arxiv.org/abs/2603.29029),[Page](https://vcbsl.github.io/MMFace-DiT/)] ![Code](https://img.shields.io/github/stars/Bharath-K3/MMFace-DiT?style=social&label=Star)
+
+[arxiv 2026.03] UltraG-Ray: Physics-Based Gaussian Ray Casting for Novel Ultrasound View Synthesis  [[PDF](https://arxiv.org/abs/2603.29022)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]
+
 [arxiv 2026.03] OARS: Process-Aware Online Alignment for Generative Real-World Image Super-Resolution  [[PDF](https://arxiv.org/abs/2603.12811)]
+
 [arxiv 2026.03] RefReward-SR: LR-Conditioned Reward Modeling for Preference-Aligned Super-Resolution  [[PDF](https://arxiv.org/abs/2603.24198)]
+
 [arxiv 2026.03] Heuristic-inspired Reasoning Priors Facilitate Data-Efficient Referring Object Detection  [[PDF](https://arxiv.org/abs/2603.24166)]
+
 [arxiv 2026.03] LightSplat: Fast and Memory-Efficient Open-Vocabulary 3D Scene Understanding in Five Seconds  [[PDF](https://arxiv.org/abs/2603.24146)]
+
 [arxiv 2026.03] Attention-aware Inference Optimizations for Large Vision-Language Models with Memory-efficient Decoding  [[PDF](https://arxiv.org/abs/2603.23914)]
+
 [arxiv 2026.03] 3D-LLDM: Label-Guided 3D Latent Diffusion Model for Improving High-Resolution Synthetic MR Imaging in Hepatic Structure Segmentation  [[PDF](https://arxiv.org/abs/2603.23845)]
+
 [arxiv 2026.03] MoCHA: Denoising Caption Supervision for Motion-Text Retrieval  [[PDF](https://arxiv.org/abs/2603.23684)]
 
 ## pixel 
@@ -475,6 +562,7 @@
 [arxiv 2026.03] Safety-Guided Flow (SGF): A Unified Framework for Negative Guidance in Safe Generation  [[PDF](https://arxiv.org/abs/2603.13300)] ![Code](https://img.shields.io/github/stars/MingyuKim87/SGF?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 [arxiv 2026.03] UNet-AF: An alias-free UNet for image restoration  [[PDF](https://arxiv.org/abs/2603.11323)]
 
 ## Editing 
@@ -1188,6 +1276,7 @@
 [arxiv 2026.03] MultiBind: A Benchmark for Attribute Misbinding in Multi-Subject Generation  [[PDF](https://arxiv.org/abs/2603.21937)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 [arxiv 2026.03] WeEdit: A Dataset, Benchmark and Glyph-Guided Framework for Text-centric Image Editing  [[PDF](https://arxiv.org/abs/2603.11593)]
 
 ## end of editing 
@@ -1226,6 +1315,7 @@
 [arxiv 2026.03] COT-FM: Cluster-wise Optimal Transport Flow Matching  [[PDF](https://arxiv.org/abs/2603.13395)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 [arxiv 2026.03] EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models  [[PDF](https://arxiv.org/abs/2603.12252)]
 
 ## Unified Generation
@@ -1376,17 +1466,27 @@
 [arxiv 2026.03] DSS-GAN: Directional State Space GAN with Mamba Backbone for Class-Conditional Image Synthesis  [[PDF](https://arxiv.org/abs/2603.17637)]
 
 [arxiv 2026.03] Beyond Strict Pairing: Arbitrarily Paired Training for High-Performance Infrared and Visible Image Fusion  [[PDF](https://arxiv.org/abs/2603.21820)]
+
 [arxiv 2026.03] MERIT: Multi-domain Efficient RAW Image Translation  [[PDF](https://arxiv.org/abs/2603.20836)]
+
 [arxiv 2026.03] Memory-Efficient Fine-Tuning Diffusion Transformers via Dynamic Patch Sampling and Block Skipping  [[PDF](https://arxiv.org/abs/2603.20755)]
+
 [arxiv 2026.03] TAFG-MAN: Timestep-Adaptive Frequency-Gated Latent Diffusion for Efficient and High-Quality Low-Dose CT Image Denoising  [[PDF](https://arxiv.org/abs/2603.20868)]
+
 [arxiv 2026.03] ReDiffuse: Rotation Equivariant Diffusion Model for Multi-focus Image Fusion  [[PDF](https://arxiv.org/abs/2603.21129)]
+
 [arxiv 2026.03] LPNSR: Prior-Enhanced Diffusion Image Super-Resolution via LR-Guided Noise Prediction  [[PDF](https://arxiv.org/abs/2603.21045)]
+
 [arxiv 2026.03] Mamba Learns in Context: Structure-Aware Domain Generalization for Multi-Task Point Cloud Understanding  [[PDF](https://arxiv.org/abs/2603.20739)]
+
 [arxiv 2026.03] Training-Free Instance-Aware 3D Scene Reconstruction and Diffusion-Based View Synthesis from Sparse Images  [[PDF](https://arxiv.org/abs/2603.21166)]
+
 [arxiv 2026.03] InjectFlow: Weak Guides Strong via Orthogonal Injection for Flow Matching  [[PDF](https://arxiv.org/abs/2603.20303)]
+
 [arxiv 2026.03] Improving Diffusion Generalization with Weak-to-Strong Segmented Guidance  [[PDF](https://arxiv.org/abs/2603.20584)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 [arxiv 2026.03] Fractals made Practical: Denoising Diffusion as Partitioned Iterated Function Systems  [[PDF](https://arxiv.org/abs/2603.13069)]
 
 ## Distribution 
@@ -1813,14 +1913,19 @@
 [arxiv 2026.03] High-Fidelity Text-to-Image Generation from Pre-Trained Vision-Language Models via Distribution-Conditioned Diffusion Decoding  [[PDF](https://arxiv.org/abs/2603.13389)]
 
 [arxiv 2026.03] End-to-End Training for Unified Tokenization and Latent Denoising  [[PDF](https://arxiv.org/abs/2603.22283)]
+
 [arxiv 2026.03] Speed by Simplicity: A Single-Stream Architecture for Fast Audio-Video Generative Foundation Model  [[PDF](https://arxiv.org/abs/2603.21986)]
+
 [arxiv 2026.03] Repurposing Geometric Foundation Models for Multi-view Diffusion  [[PDF](https://arxiv.org/abs/2603.22275)]
+
 [arxiv 2026.03] DA-VAE: Plug-in Latent Compression for Diffusion via Detail Alignment  [[PDF](https://arxiv.org/abs/2603.22125)]
+
 [arxiv 2026.03] Taming Sampling Perturbations with Variance Expansion Loss for Latent Diffusion Models  [[PDF](https://arxiv.org/abs/2603.21085)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] RPiAE: A Representation-Pivoted Autoencoder Enhancing Both Image Generation and Editing  [[PDF](https://arxiv.org/abs/2603.19206)]
+
 [arxiv 2026.03] EvoTok: A Unified Image Tokenizer via Residual Latent Evolution for Visual Understanding and Generation  [[PDF](https://arxiv.org/abs/2603.12108),[Page](https://github.com/VisionXLab/EvoTok)] ![Code](https://img.shields.io/github/stars/VisionXLab/EvoTok?style=social&label=Star)
 
 ## autoregressive
@@ -2059,6 +2164,7 @@
 [arxiv 2026.03] RBF-Solver: A Multistep Sampler for Diffusion Probabilistic Models via Radial Basis Functions  [[PDF](https://arxiv.org/abs/2603.13330)]
 
 [arxiv 2026.03] MFSR: MeanFlow Distillation for One Step Real-World Image Super Resolution  [[PDF](https://arxiv.org/abs/2603.20690)]
+
 [arxiv 2026.03] Transferable Multi-Bit Watermarking Across Frozen Diffusion Models via Latent Consistency Bridges  [[PDF](https://arxiv.org/abs/2603.20304)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2197,6 +2303,7 @@
 [arxiv 2026.03] Garments2Look: A Multi-Reference Dataset for High-Fidelity Outfit-Level Virtual Try-On with Clothing and Accessories  [[PDF](https://arxiv.org/abs/2603.14153)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 [arxiv 2026.03] VTEdit-Bench: A Comprehensive Benchmark for Multi-Reference Image Editing Models in Virtual Try-On  [[PDF](https://arxiv.org/abs/2603.11734)]
 
 ## Model adapatation/Merge 
@@ -4821,10 +4928,15 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 # real-to-cg
 <!-- Added on 2026-03-25 -->
 [arxiv 2026.03] OccAny: Generalized Unconstrained Urban 3D Occupancy  [[PDF](https://arxiv.org/abs/2603.23502)]
+
 [arxiv 2026.03] Pose-Free Omnidirectional Gaussian Splatting for 360-Degree Videos with Consistent Depth Priors  [[PDF](https://arxiv.org/abs/2603.23324)]
+
 [arxiv 2026.03] Drop-In Perceptual Optimization for 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2603.23297)]
+
 [arxiv 2026.03] Gimbal360: Differentiable Auto-Leveling for Canonicalized 360^\circ Panoramic Image Completion  [[PDF](https://arxiv.org/abs/2603.23179)]
+
 [arxiv 2026.03] Zero-Shot Personalization of Objects via Textual Inversion  [[PDF](https://arxiv.org/abs/2603.23010)]
+
 [arxiv 2026.03] Policy-based Tuning of Autoregressive Image Models with Instance- and Distribution-Level Rewards  [[PDF](https://arxiv.org/abs/2603.23086)]
 
 [arxiv 2024.09]Synergy and Synchrony in Couple Dances [[PDF](https://arxiv.org/abs/2409.04440), [Page](https://von31.github.io/synNsync/)]
