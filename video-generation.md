@@ -2,6 +2,13 @@
 <!-- Added on 2026-04-01 -->
 <!-- Added on 2026-03-25 -->
 <!-- Added on 2026-03-26 -->
+<!-- Added on 2026-04-02 -->
+[arxiv 2026.04] ONE-SHOT: Compositional Human-Environment Video Synthesis via Spatial-Decoupled Motion Injection and Hybrid Context Integration  [[PDF](https://arxiv.org/abs/2604.01043v1),[Page](https://martayang.github.io/ONE-SHOT/)]
+
+[arxiv 2026.04] TRACE: High-Fidelity 3D Scene Editing via Tangible Reconstruction and Geometry-Aligned Contextual Video Masking  [[PDF](https://arxiv.org/abs/2604.01207v1)]
+
+[arxiv 2026.04] Query-Conditioned Evidential Keyframe Sampling for MLLM-Based Long-Form Video Understanding  [[PDF](https://arxiv.org/abs/2604.01002v1)]
+
 [arxiv 2026.03] B-MoE: A Body-Part-Aware Mixture-of-Experts "All Parts Matter" Approach to Micro-Action Recognition  [[PDF](https://arxiv.org/abs/2603.24245)]
 
 [arxiv 2026.03] ViHOI: Human-Object Interaction Synthesis with Visual Priors  [[PDF](https://arxiv.org/abs/2603.24383)]

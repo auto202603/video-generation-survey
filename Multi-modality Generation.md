@@ -2,6 +2,61 @@
 
 <!-- Added on 2026-03-25 -->
 <!-- Added on 2026-03-26 -->
+<!-- Added on 2026-04-02 -->
+[arxiv 2026.04] Benchmarking and Mechanistic Analysis of Vision-Language Models for Cross-Depiction Assembly Instruction Alignment  [[PDF](https://arxiv.org/abs/2604.00913v1),[Page](https://ryenhails.github.io/IKEA-Bench/)]
+
+[arxiv 2026.04] Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding  [[PDF](https://arxiv.org/abs/2604.00528v1)]
+
+[arxiv 2026.04] All Roads Lead to Rome: Incentivizing Divergent Thinking in Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.00479v1),[Page](https://xytian1008.github.io/MUPO/)]
+
+[arxiv 2026.04] The 1st Winner for 5th PVUW MeViS-Text Challenge: Strong MLLMs Meet SAM3 for Referring Video Object Segmentation  [[PDF](https://arxiv.org/abs/2604.00404v1)] ![Code](https://img.shields.io/github/stars/Moujuruo/MeViSv2_Track_Solution_2026?style=social&label=Star)
+
+[arxiv 2026.04] HippoCamp: Benchmarking Contextual Agents on Personal Computers  [[PDF](https://arxiv.org/abs/2604.01221v1),[Page](https://hippocamp-ai.github.io/)]
+
+[arxiv 2026.04] Customizing Large Vision Model-Guided Low-Rank Approximation for Ground-Roll Denoise  [[PDF](https://arxiv.org/abs/2604.00998v1)]
+
+[arxiv 2026.04] AceTone: Bridging Words and Colors for Conditional Image Grading  [[PDF](https://arxiv.org/abs/2604.00530v1)]
+
+[arxiv 2026.04] MOON3.0: Reasoning-aware Multimodal Representation Learning for E-commerce Product Understanding  [[PDF](https://arxiv.org/abs/2604.00513v1)]
+
+[arxiv 2026.04] The Geometry of Compromise: Unlocking Generative Capabilities via Controllable Modality Alignment  [[PDF](https://arxiv.org/abs/2604.00279v1)]
+
+[arxiv 2026.04] OmniSch: A Multimodal PCB Schematic Benchmark For Structured Diagram Visual Reasoning  [[PDF](https://arxiv.org/abs/2604.00270v1)]
+
+[arxiv 2026.04] Multimodal Language Models Cannot Spot Spatial Inconsistencies  [[PDF](https://arxiv.org/abs/2604.00799v1)]
+
+[arxiv 2026.04] JAMMEval: A Refined Collection of Japanese Benchmarks for Reliable VLM Evaluation  [[PDF](https://arxiv.org/abs/2604.00909v1)]
+
+[arxiv 2026.04] First Logit Boosting: Visual Grounding Method to Mitigate Object Hallucination in Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.00455v1)] ![Code](https://img.shields.io/github/stars/jiwooha20/FLB?style=social&label=Star)
+
+[arxiv 2026.04] Q-Mask: Query-driven Causal Masks for Text Anchoring in OCR-Oriented Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.00161v1)]
+
+[arxiv 2026.04] Hierarchical Pre-Training of Vision Encoders with Large Language Models  [[PDF](https://arxiv.org/abs/2604.00086v1)]
+
+[arxiv 2026.04] ACT Now: Preempting LVLM Hallucinations via Adaptive Context Integration  [[PDF](https://arxiv.org/abs/2604.00983v1)]
+
+[arxiv 2026.04] PixelPrune: Pixel-Level Adaptive Visual Token Reduction via Predictive Coding  [[PDF](https://arxiv.org/abs/2604.00886v1)] ![Code](https://img.shields.io/github/stars/OPPO-Mente-Lab/PixelPrune?style=social&label=Star)
+
+[arxiv 2026.04] IWP: Token Pruning as Implicit Weight Pruning in Large Vision Language Models  [[PDF](https://arxiv.org/abs/2604.00757v1)]
+
+[arxiv 2026.04] A ROS 2 Wrapper for Florence-2: Multi-Mode Local Vision-Language Inference for Robotic Systems  [[PDF](https://arxiv.org/abs/2604.01179v1)] ![Code](https://img.shields.io/github/stars/JEDominguezVidal/florence2_ros2_wrapper?style=social&label=Star)
+
+[arxiv 2026.04] Lightweight Prompt-Guided CLIP Adaptation for Monocular Depth Estimation  [[PDF](https://arxiv.org/abs/2604.01118v1)]
+
+[arxiv 2026.04] Advancing Complex Video Object Segmentation via Tracking-Enhanced Prompt: The 1st Winner for 5th PVUW MOSE Challenge  [[PDF](https://arxiv.org/abs/2604.00395v1)]
+
+[arxiv 2026.04] TTA-Vid: Generalized Test-Time Adaptation for Video Reasoning  [[PDF](https://arxiv.org/abs/2604.00696v1)]
+
+[arxiv 2026.04] ProCap: Projection-Aware Captioning for Spatial Augmented Reality  [[PDF](https://arxiv.org/abs/2604.00912v1),[Page](https://ZimoCao.github.io/ProCap/)]
+
+[arxiv 2026.04] LinguDistill: Recovering Linguistic Ability in Vision- Language Models via Selective Cross-Modal Distillation  [[PDF](https://arxiv.org/abs/2604.00829v1)]
+
+[arxiv 2026.04] HarassGuard: Detecting Harassment Behaviors in Social Virtual Reality with Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.00592v1)]
+
+[arxiv 2026.04] Generalizable Dense Reward for Long-Horizon Robotic Tasks  [[PDF](https://arxiv.org/abs/2604.00055v1),[Page](https://silongyong.github.io/vllr_project_page/)]
+
+[arxiv 2026.04] True (VIS) Lies: Analyzing How Generative AI Recognizes Intentionality, Rhetoric, and Misleadingness in Visualization Lies  [[PDF](https://arxiv.org/abs/2604.01181v1)]
+
 [arxiv 2026.03] VERIA: Verification-Centric Multimodal Instance Augmentation for Long-Tailed 3D Object Detection  [[PDF](https://arxiv.org/abs/2603.24294)]
 
 [arxiv 2026.03] TAG: Target-Agnostic Guidance for Stable Object-Centric Inference in Vision-Language-Action Models  [[PDF](https://arxiv.org/abs/2603.24584)]

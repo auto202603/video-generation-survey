@@ -375,6 +375,19 @@
 
 # LLM 
 <!-- Added on 2026-03-25 -->
+<!-- Added on 2026-04-02 -->
+[arxiv 2026.04] Sparkle: A Robust and Versatile Representation for Point Cloud based Human Motion Capture  [[PDF](https://arxiv.org/abs/2604.00857v1)]
+
+[arxiv 2026.04] PrivHAR-Bench: A Graduated Privacy Benchmark Dataset for Video-Based Action Recognition  [[PDF](https://arxiv.org/abs/2604.00761v1)]
+
+[arxiv 2026.04] Learning Humanoid Navigation from Human Data  [[PDF](https://arxiv.org/abs/2604.00416v1)]
+
+[arxiv 2026.04] Toward Personalized Darts Training: A Data-Driven Framework Based on Skeleton-Based Biomechanical Analysis and Motion Modeling  [[PDF](https://arxiv.org/abs/2604.01130v1)]
+
+[arxiv 2026.04] Autoregressive Appearance Prediction for 3D Gaussian Avatars  [[PDF](https://arxiv.org/abs/2604.00928v1),[Page](https://steimich96.github.io/AAP-3DGA/)]
+
+[arxiv 2026.04] Learning Quantised Structure-Preserving Motion Representations for Dance Fingerprinting  [[PDF](https://arxiv.org/abs/2604.00927v1)]
+
 [arxiv 2026.03] FG-Portrait: 3D Flow Guided Editable Portrait Animation  [[PDF](https://arxiv.org/abs/2603.23381)]
 
 [arxiv 2026.03] Object Pose Transformer: Unifying Unseen Object Pose Estimation  [[PDF](https://arxiv.org/abs/2603.23370)]

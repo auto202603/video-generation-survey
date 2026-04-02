@@ -4927,6 +4927,41 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 # real-to-cg
 <!-- Added on 2026-03-25 -->
+<!-- Added on 2026-04-02 -->
+[arxiv 2026.04] EmoScene: A Dual-space Dataset for Controllable Affective Image Generation  [[PDF](https://arxiv.org/abs/2604.00933v1)]
+
+[arxiv 2026.04] MotionGrounder: Grounded Multi-Object Motion Transfer via Diffusion Transformer  [[PDF](https://arxiv.org/abs/2604.00853v1),[Page](https://kaist-viclab.github.io/motiongrounder-site/)]
+
+[arxiv 2026.04] TRiGS: Temporal Rigid-Body Motion for Scalable 4D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.00538v1),[Page](https://wwwjjn.github.io/TRiGS-project_page/)]
+
+[arxiv 2026.04] mmAnomaly: Leveraging Visual Context for Robust Anomaly Detection in the Non-Visual World with mmWave Radar  [[PDF](https://arxiv.org/abs/2604.00382v1)]
+
+[arxiv 2026.04] ARGS: Auto-Regressive Gaussian Splatting via Parallel Progressive Next-Scale Prediction  [[PDF](https://arxiv.org/abs/2604.00494v1)]
+
+[arxiv 2026.04] Disentangling to Re-couple: Resolving the Similarity-Controllability Paradox in Subject-Driven Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2604.00849v1)]
+
+[arxiv 2026.04] DLWM: Dual Latent World Models enable Holistic Gaussian-centric Pre-training in Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.00969v1)]
+
+[arxiv 2026.04] Forecasting Motion in the Wild  [[PDF](https://arxiv.org/abs/2604.01015v1),[Page](https://motion-forecasting.github.io/)]
+
+[arxiv 2026.04] Enhancing Gradient Inversion Attacks in Federated Learning via Hierarchical Feature Optimization  [[PDF](https://arxiv.org/abs/2604.00955v1)]
+
+[arxiv 2026.04] IDDM: Identity-Decoupled Personalized Diffusion Models with a Tunable Privacy-Utility Trade-off  [[PDF](https://arxiv.org/abs/2604.00903v1)]
+
+[arxiv 2026.04] RT-GS: Gaussian Splatting with Reflection and Transmittance Primitives  [[PDF](https://arxiv.org/abs/2604.00509v1)]
+
+[arxiv 2026.04] Neural Harmonic Textures for High-Quality Primitive Based Neural Reconstruction  [[PDF](https://arxiv.org/abs/2604.01204v1)]
+
+[arxiv 2026.04] Diff3R: Feed-forward 3D Gaussian Splatting with Uncertainty-aware Differentiable Optimization  [[PDF](https://arxiv.org/abs/2604.01030v1),[Page](https://liu115.github.io/diff3r)]
+
+[arxiv 2026.04] DirectFisheye-GS: Enabling Native Fisheye Input in Gaussian Splatting with Cross-View Joint Optimization  [[PDF](https://arxiv.org/abs/2604.00648v1)]
+
+[arxiv 2026.04] Compact Keyframe-Optimized Multi-Agent Gaussian Splatting SLAM  [[PDF](https://arxiv.org/abs/2604.00804v1)] ![Code](https://img.shields.io/github/stars/lemonci/coko-slam?style=social&label=Star)
+
+[arxiv 2026.04] RawGen: Learning Camera Raw Image Generation  [[PDF](https://arxiv.org/abs/2604.00093v1)]
+
+[arxiv 2026.04] UCMNet: Uncertainty-Aware Context Memory Network for Under-Display Camera Image Restoration  [[PDF](https://arxiv.org/abs/2604.00381v1),[Page](https://kdhrick2222.github.io/projects/UCMNet/}{https://kdhrick2222.github.io/projects/UCMNet})]
+
 [arxiv 2026.03] OccAny: Generalized Unconstrained Urban 3D Occupancy  [[PDF](https://arxiv.org/abs/2603.23502)]
 
 [arxiv 2026.03] Pose-Free Omnidirectional Gaussian Splatting for 360-Degree Videos with Consistent Depth Priors  [[PDF](https://arxiv.org/abs/2603.23324)]
