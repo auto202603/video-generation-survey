@@ -854,6 +854,56 @@
 [arxiv 2026.03] Bioinspired123D: Generative 3D Modeling System for Bioinspired Structures  [[PDF](https://arxiv.org/abs/2603.29592)]
 
 
+[arxiv 2026.04] Steerable Visual Representations  [[PDF](https://arxiv.org/abs/2604.02327)]
+
+[arxiv 2026.04] Beyond Referring Expressions: Scenario Comprehension Visual Grounding  [[PDF](https://arxiv.org/abs/2604.02323),[Page](https://catherine-r-he.github.io/RSC/)]
+
+[arxiv 2026.04] VOID: Video Object and Interaction Deletion  [[PDF](https://arxiv.org/abs/2604.02296)]
+
+[arxiv 2026.04] Omni123: Exploring 3D Native Foundation Models with Limited 3D Data by Unifying Text to 2D and 3D Generation  [[PDF](https://arxiv.org/abs/2604.02289)]
+
+[arxiv 2026.04] SPAR: Single-Pass Any-Resolution ViT for Open-vocabulary Segmentation  [[PDF](https://arxiv.org/abs/2604.02252)]
+
+[arxiv 2026.04] UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02190),[Page](https://github.com/xiaomi-research/unidrivevla)]
+
+[arxiv 2026.04] GroundVTS: Visual Token Sampling in Multimodal Large Language Models for Video Temporal Grounding  [[PDF](https://arxiv.org/abs/2604.02093)]
+
+[arxiv 2026.04] PLUME: Latent Reasoning Based Universal Multimodal Embedding  [[PDF](https://arxiv.org/abs/2604.02073)]
+
+[arxiv 2026.04] Mining Instance-Centric Vision-Language Contexts for Human-Object Interaction Detection  [[PDF](https://arxiv.org/abs/2604.02071),[Page](https://github.com/nowuss/InCoM-Net)]
+
+[arxiv 2026.04] Jagle: Building a Large-Scale Japanese Multimodal Post-Training Dataset for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02048)]
+
+[arxiv 2026.04] Efficient Reasoning via Thought Compression for Language Segmentation  [[PDF](https://arxiv.org/abs/2604.02040)]
+
+[arxiv 2026.04] Attention at Rest Stays at Rest: Breaking Visual Inertia for Cognitive Hallucination Mitigation  [[PDF](https://arxiv.org/abs/2604.01989)]
+
+[arxiv 2026.04] Ego-Grounding for Personalized Question-Answering in Egocentric Videos  [[PDF](https://arxiv.org/abs/2604.01966)]
+
+[arxiv 2026.04] Captioning Daily Activity Images in Early Childhood Education: Benchmark and Algorithm  [[PDF](https://arxiv.org/abs/2604.01941)]
+
+[arxiv 2026.04] Lifting Unlabeled Internet-level Data for 3D Scene Understanding  [[PDF](https://arxiv.org/abs/2604.01907),[Page](https://sv-pp.github.io/)]
+
+[arxiv 2026.04] A3R: Agentic Affordance Reasoning via Cross-Dimensional Evidence in 3D Gaussian Scenes  [[PDF](https://arxiv.org/abs/2604.01882)]
+
+[arxiv 2026.04] Semantic Richness or Geometric Reasoning? The Fragility of VLM&#39;s Visual Invariance  [[PDF](https://arxiv.org/abs/2604.01848)]
+
+[arxiv 2026.04] STRIVE: Structured Spatiotemporal Exploration for Reinforcement Learning in Video Question Answering  [[PDF](https://arxiv.org/abs/2604.01824)]
+
+[arxiv 2026.04] Hidden Meanings in Plain Sight: RebusBench for Evaluating Cognitive Visual Reasoning  [[PDF](https://arxiv.org/abs/2604.01764)]
+
+[arxiv 2026.04] Director: Instance-aware Gaussian Splatting for Dynamic Scene Modeling and Understanding  [[PDF](https://arxiv.org/abs/2604.01678),[Page](https://caiyw2023.github.io/Director/)]
+
+[arxiv 2026.04] VideoZeroBench: Probing the Limits of Video MLLMs with Spatio-Temporal Evidence Verification  [[PDF](https://arxiv.org/abs/2604.01569)]
+
+[arxiv 2026.04] Reinforcing Consistency in Video MLLMs with Structured Rewards  [[PDF](https://arxiv.org/abs/2604.01460)]
+
+[arxiv 2026.04] IGLOSS: Image Generation for Lidar Open-vocabulary Semantic Segmentation  [[PDF](https://arxiv.org/abs/2604.01361)]
+
+[arxiv 2026.04] Look Twice: Training-Free Evidence Highlighting in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.01280),[Page](https://aimagelab.github.io/LoT/)]
+
+[arxiv 2026.04] DOne: Decoupling Structure and Rendering for High-Fidelity Design-to-Code Generation  [[PDF](https://arxiv.org/abs/2604.01226)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 

@@ -107,6 +107,16 @@
 [arxiv 2026.03] DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA  [[PDF](https://arxiv.org/abs/2603.29844),[Page](https://xpeng-robotics.github.io/dial)]
 
 
+[arxiv 2026.04] True to Tone? Quantifying Skin Tone Fidelity and Bias in Photographic-to-Virtual Human Pipelines  [[PDF](https://arxiv.org/abs/2604.02055)]
+
+[arxiv 2026.04] DynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data  [[PDF](https://arxiv.org/abs/2604.01666),[Page](https://jinwonjoon.github.io/DynaVid/)]
+
+[arxiv 2026.04] Nonlinear Methods for Analyzing Pose in Behavioral Research  [[PDF](https://arxiv.org/abs/2604.01453)]
+
+[arxiv 2026.04] Better Rigs, Not Bigger Networks: A Body Model Ablation for Gaussian Avatars  [[PDF](https://arxiv.org/abs/2604.01447)]
+
+[arxiv 2026.04] Human Pose Estimation in Trampoline Gymnastics: Improving Performance Using a New Synthetic Dataset  [[PDF](https://arxiv.org/abs/2604.01322)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 

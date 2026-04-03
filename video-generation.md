@@ -1,4 +1,5 @@
 # Video Generation Survey
+<!-- Added on 2026-04-03 -->
 <!-- Added on 2026-04-01 -->
 <!-- Added on 2026-03-25 -->
 <!-- Added on 2026-03-26 -->
@@ -501,6 +502,16 @@ A reading list of video generation
 
 [arxiv 2026.03] SLVMEval: Synthetic Meta Evaluation Benchmark for Text-to-Long Video Generation  [[PDF](https://arxiv.org/abs/2603.29186)]
 
+
+[arxiv 2026.04] ActionParty: Multi-Subject Action Binding in Generative Video Games  [[PDF](https://arxiv.org/abs/2604.02330),[Page](https://action-party.github.io/)]
+
+[arxiv 2026.04] A Simple Baseline for Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2604.02317),[Page](https://simple-stream.github.io/)]
+
+[arxiv 2026.04] Control-DINO: Feature Space Conditioning for Controllable Image-to-Video Diffusion  [[PDF](https://arxiv.org/abs/2604.01761),[Page](https://dedoardo.github.io/projects/control-dino/)]
+
+[arxiv 2026.04] Can Video Diffusion Models Predict Past Frames? Bidirectional Cycle Consistency for Reversible Interpolation  [[PDF](https://arxiv.org/abs/2604.01700)]
+
+[arxiv 2026.04] Moiré Video Authentication: A Physical Signature Against AI Video Generation  [[PDF](https://arxiv.org/abs/2604.01654)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

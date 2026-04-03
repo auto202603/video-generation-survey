@@ -505,6 +505,38 @@
 [arxiv 2026.03] UltraG-Ray: Physics-Based Gaussian Ray Casting for Novel Ultrasound View Synthesis  [[PDF](https://arxiv.org/abs/2603.29022)]
 
 
+[arxiv 2026.04] EventHub: Data Factory for Generalizable Event-Based Stereo Networks without Active Sensors  [[PDF](https://arxiv.org/abs/2604.02331),[Page](https://bartn8.github.io/eventhub/)]
+
+[arxiv 2026.04] Modular Energy Steering for Safe Text-to-Image Generation with Foundation Models  [[PDF](https://arxiv.org/abs/2604.02265)]
+
+[arxiv 2026.04] FlowSlider: Training-Free Continuous Image Editing via Fidelity-Steering Decomposition  [[PDF](https://arxiv.org/abs/2604.02088),[Page](https://huggingface.co/spaces/dominoer/FlowSlider)]
+
+[arxiv 2026.04] ProDiG: Progressive Diffusion-Guided Gaussian Splatting for Aerial to Ground Reconstruction  [[PDF](https://arxiv.org/abs/2604.02003)]
+
+[arxiv 2026.04] Resonance4D: Frequency-Domain Motion Supervision for Preset-Free Physical Parameter Learning in 4D Dynamic Physical Scene Simulation  [[PDF](https://arxiv.org/abs/2604.01994)]
+
+[arxiv 2026.04] NearID: Identity Representation Learning via Near-identity Distractors  [[PDF](https://arxiv.org/abs/2604.01973),[Page](https://github.com/Gorluxor/NearID)]
+
+[arxiv 2026.04] SDesc3D: Towards Layout-Aware 3D Indoor Scene Generation from Short Descriptions  [[PDF](https://arxiv.org/abs/2604.01972)]
+
+[arxiv 2026.04] GS^2: Graph-based Spatial Distribution Optimization for Compact 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.01884)]
+
+[arxiv 2026.04] MAR-MAER: Metric-Aware and Ambiguity-Adaptive Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.01864)]
+
+[arxiv 2026.04] FaCT-GS: Fast and Scalable CT Reconstruction with Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.01844)]
+
+[arxiv 2026.04] SafeRoPE: Risk-specific Head-wise Embedding Rotation for Safe Generation in Rectified Flow Transformers  [[PDF](https://arxiv.org/abs/2604.01826)]
+
+[arxiv 2026.04] SteerFlow: Steering Rectified Flows for Faithful Inversion-Based Image Editing  [[PDF](https://arxiv.org/abs/2604.01715)]
+
+[arxiv 2026.04] LivingWorld: Interactive 4D World Generation with Environmental Dynamics  [[PDF](https://arxiv.org/abs/2604.01641)]
+
+[arxiv 2026.04] F3DGS: Federated 3D Gaussian Splatting for Decentralized Multi-Agent World Modeling  [[PDF](https://arxiv.org/abs/2604.01605)]
+
+[arxiv 2026.04] LESV: Language Embedded Sparse Voxel Fusion for Open-Vocabulary 3D Scene Understanding  [[PDF](https://arxiv.org/abs/2604.01388)]
+
+[arxiv 2026.04] Why Instruction-Based Unlearning Fails in Diffusion Models?  [[PDF](https://arxiv.org/abs/2604.01514)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]
