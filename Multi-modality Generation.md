@@ -904,6 +904,52 @@
 
 [arxiv 2026.04] DOne: Decoupling Structure and Rendering for High-Fidelity Design-to-Code Generation  [[PDF](https://arxiv.org/abs/2604.01226)]
 
+[arxiv 2026.04] Moondream Segmentation: From Words to Masks  [[PDF](https://arxiv.org/abs/2604.02593v1)]
+
+[arxiv 2026.04] VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors  [[PDF](https://arxiv.org/abs/2604.02486v1)]
+
+[arxiv 2026.04] EnsemHalDet: Robust VLM Hallucination Detection via Ensemble of Internal State Detectors  [[PDF](https://arxiv.org/abs/2604.02784v1)]
+
+[arxiv 2026.04] VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation  [[PDF](https://arxiv.org/abs/2604.02467v1)]
+
+[arxiv 2026.04] The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling  [[PDF](https://arxiv.org/abs/2604.03191v1)]
+
+[arxiv 2026.04] STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models  [[PDF](https://arxiv.org/abs/2604.03045v1)]
+
+[arxiv 2026.04] QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2604.03040v1)]
+
+[arxiv 2026.04] Collaborative Multi-Mode Pruning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02956v1)] ![Code](https://img.shields.io/github/stars/Wuzimeng/CoMP?style=social&label=Star)
+
+[arxiv 2026.04] PolyReal: A Benchmark for Real-World Polymer Science Workflows  [[PDF](https://arxiv.org/abs/2604.02934v1)]
+
+[arxiv 2026.04] PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis  [[PDF](https://arxiv.org/abs/2604.02804v1)]
+
+[arxiv 2026.04] DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection  [[PDF](https://arxiv.org/abs/2604.02753v1)]
+
+[arxiv 2026.04] Token-Efficient Multimodal Reasoning via Image Prompt Packaging  [[PDF](https://arxiv.org/abs/2604.02492v1)]
+
+[arxiv 2026.04] CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning  [[PDF](https://arxiv.org/abs/2604.03231v1)]
+
+[arxiv 2026.04] WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02570v1)] ![Code](https://img.shields.io/github/stars/SAI-Lab-NYU/WSVD}{\texttt{https:?style=social&label=Star)
+
+[arxiv 2026.04] Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding  [[PDF](https://arxiv.org/abs/2604.02546v1),[Page](https://yebulabula.github.io/UniScene3D/)]
+
+[arxiv 2026.04] EffiMiniVLM: A Compact Dual-Encoder Regression Framework  [[PDF](https://arxiv.org/abs/2604.03172v1)]
+
+[arxiv 2026.04] Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models  [[PDF](https://arxiv.org/abs/2604.03179v1)]
+
+[arxiv 2026.04] GenSmoke-GS: A Multi-Stage Method for Novel View Synthesis from Smoke-Degraded Images Using a Generative Model  [[PDF](https://arxiv.org/abs/2604.03039v1)] ![Code](https://img.shields.io/github/stars/plbbl/GenSmoke-GS?style=social&label=Star)
+
+[arxiv 2026.04] Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02893v1)]
+
+[arxiv 2026.04] InstructTable: Improving Table Structure Recognition Through Instructions  [[PDF](https://arxiv.org/abs/2604.02880v1)]
+
+[arxiv 2026.04] Token Warping Helps MLLMs Look from Nearby Viewpoints  [[PDF](https://arxiv.org/abs/2604.02870v1),[Page](https://token-warping-mllm.github.io)]
+
+[arxiv 2026.04] QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.02816v1)]
+
+[arxiv 2026.04] Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs  [[PDF](https://arxiv.org/abs/2604.02689v1)] ![Code](https://img.shields.io/github/stars/sol924/Efficient3D?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
@@ -944,6 +990,52 @@
 [arxiv 2026.03] Mitigating Objectness Bias and Region-to-Text Misalignment for Open-Vocabulary Panoptic Segmentation  [[PDF](https://arxiv.org/abs/2603.21386)]
 
 [arxiv 2026.03] SSAM: Singular Subspace Alignment for Merging Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2603.21584)]
+
+[arxiv 2026.04] Moondream Segmentation: From Words to Masks  [[PDF](https://arxiv.org/abs/2604.02593v1)]
+
+[arxiv 2026.04] VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors  [[PDF](https://arxiv.org/abs/2604.02486v1)]
+
+[arxiv 2026.04] EnsemHalDet: Robust VLM Hallucination Detection via Ensemble of Internal State Detectors  [[PDF](https://arxiv.org/abs/2604.02784v1)]
+
+[arxiv 2026.04] VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation  [[PDF](https://arxiv.org/abs/2604.02467v1)]
+
+[arxiv 2026.04] The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling  [[PDF](https://arxiv.org/abs/2604.03191v1)]
+
+[arxiv 2026.04] STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models  [[PDF](https://arxiv.org/abs/2604.03045v1)]
+
+[arxiv 2026.04] QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2604.03040v1)]
+
+[arxiv 2026.04] Collaborative Multi-Mode Pruning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02956v1)] ![Code](https://img.shields.io/github/stars/Wuzimeng/CoMP?style=social&label=Star)
+
+[arxiv 2026.04] PolyReal: A Benchmark for Real-World Polymer Science Workflows  [[PDF](https://arxiv.org/abs/2604.02934v1)]
+
+[arxiv 2026.04] PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis  [[PDF](https://arxiv.org/abs/2604.02804v1)]
+
+[arxiv 2026.04] DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection  [[PDF](https://arxiv.org/abs/2604.02753v1)]
+
+[arxiv 2026.04] Token-Efficient Multimodal Reasoning via Image Prompt Packaging  [[PDF](https://arxiv.org/abs/2604.02492v1)]
+
+[arxiv 2026.04] CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning  [[PDF](https://arxiv.org/abs/2604.03231v1)]
+
+[arxiv 2026.04] WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02570v1)] ![Code](https://img.shields.io/github/stars/SAI-Lab-NYU/WSVD}{\texttt{https:?style=social&label=Star)
+
+[arxiv 2026.04] Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding  [[PDF](https://arxiv.org/abs/2604.02546v1),[Page](https://yebulabula.github.io/UniScene3D/)]
+
+[arxiv 2026.04] EffiMiniVLM: A Compact Dual-Encoder Regression Framework  [[PDF](https://arxiv.org/abs/2604.03172v1)]
+
+[arxiv 2026.04] Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models  [[PDF](https://arxiv.org/abs/2604.03179v1)]
+
+[arxiv 2026.04] GenSmoke-GS: A Multi-Stage Method for Novel View Synthesis from Smoke-Degraded Images Using a Generative Model  [[PDF](https://arxiv.org/abs/2604.03039v1)] ![Code](https://img.shields.io/github/stars/plbbl/GenSmoke-GS?style=social&label=Star)
+
+[arxiv 2026.04] Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02893v1)]
+
+[arxiv 2026.04] InstructTable: Improving Table Structure Recognition Through Instructions  [[PDF](https://arxiv.org/abs/2604.02880v1)]
+
+[arxiv 2026.04] Token Warping Helps MLLMs Look from Nearby Viewpoints  [[PDF](https://arxiv.org/abs/2604.02870v1),[Page](https://token-warping-mllm.github.io)]
+
+[arxiv 2026.04] QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.02816v1)]
+
+[arxiv 2026.04] Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs  [[PDF](https://arxiv.org/abs/2604.02689v1)] ![Code](https://img.shields.io/github/stars/sol924/Efficient3D?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -1001,6 +1093,52 @@
 [arxiv 2026.03] ScaleEdit-12M: Scaling Open-Source Image Editing Data Generation via Multi-Agent Framework  [[PDF](https://arxiv.org/abs/2603.20644)]
 
 [arxiv 2026.03] Visual Exclusivity Attacks: Automatic Multimodal Red Teaming via Agentic Planning  [[PDF](https://arxiv.org/abs/2603.20198)]
+
+[arxiv 2026.04] Moondream Segmentation: From Words to Masks  [[PDF](https://arxiv.org/abs/2604.02593v1)]
+
+[arxiv 2026.04] VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors  [[PDF](https://arxiv.org/abs/2604.02486v1)]
+
+[arxiv 2026.04] EnsemHalDet: Robust VLM Hallucination Detection via Ensemble of Internal State Detectors  [[PDF](https://arxiv.org/abs/2604.02784v1)]
+
+[arxiv 2026.04] VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation  [[PDF](https://arxiv.org/abs/2604.02467v1)]
+
+[arxiv 2026.04] The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling  [[PDF](https://arxiv.org/abs/2604.03191v1)]
+
+[arxiv 2026.04] STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models  [[PDF](https://arxiv.org/abs/2604.03045v1)]
+
+[arxiv 2026.04] QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2604.03040v1)]
+
+[arxiv 2026.04] Collaborative Multi-Mode Pruning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02956v1)] ![Code](https://img.shields.io/github/stars/Wuzimeng/CoMP?style=social&label=Star)
+
+[arxiv 2026.04] PolyReal: A Benchmark for Real-World Polymer Science Workflows  [[PDF](https://arxiv.org/abs/2604.02934v1)]
+
+[arxiv 2026.04] PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis  [[PDF](https://arxiv.org/abs/2604.02804v1)]
+
+[arxiv 2026.04] DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection  [[PDF](https://arxiv.org/abs/2604.02753v1)]
+
+[arxiv 2026.04] Token-Efficient Multimodal Reasoning via Image Prompt Packaging  [[PDF](https://arxiv.org/abs/2604.02492v1)]
+
+[arxiv 2026.04] CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning  [[PDF](https://arxiv.org/abs/2604.03231v1)]
+
+[arxiv 2026.04] WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02570v1)] ![Code](https://img.shields.io/github/stars/SAI-Lab-NYU/WSVD}{\texttt{https:?style=social&label=Star)
+
+[arxiv 2026.04] Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding  [[PDF](https://arxiv.org/abs/2604.02546v1),[Page](https://yebulabula.github.io/UniScene3D/)]
+
+[arxiv 2026.04] EffiMiniVLM: A Compact Dual-Encoder Regression Framework  [[PDF](https://arxiv.org/abs/2604.03172v1)]
+
+[arxiv 2026.04] Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models  [[PDF](https://arxiv.org/abs/2604.03179v1)]
+
+[arxiv 2026.04] GenSmoke-GS: A Multi-Stage Method for Novel View Synthesis from Smoke-Degraded Images Using a Generative Model  [[PDF](https://arxiv.org/abs/2604.03039v1)] ![Code](https://img.shields.io/github/stars/plbbl/GenSmoke-GS?style=social&label=Star)
+
+[arxiv 2026.04] Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02893v1)]
+
+[arxiv 2026.04] InstructTable: Improving Table Structure Recognition Through Instructions  [[PDF](https://arxiv.org/abs/2604.02880v1)]
+
+[arxiv 2026.04] Token Warping Helps MLLMs Look from Nearby Viewpoints  [[PDF](https://arxiv.org/abs/2604.02870v1),[Page](https://token-warping-mllm.github.io)]
+
+[arxiv 2026.04] QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.02816v1)]
+
+[arxiv 2026.04] Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs  [[PDF](https://arxiv.org/abs/2604.02689v1)] ![Code](https://img.shields.io/github/stars/sol924/Efficient3D?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -1228,6 +1366,52 @@
 
 [arxiv 2026.03] Image-Based Structural Analysis Using Computer Vision and LLMs: PhotoBeamSolver  [[PDF](https://arxiv.org/abs/2603.21432)]
 
+[arxiv 2026.04] Moondream Segmentation: From Words to Masks  [[PDF](https://arxiv.org/abs/2604.02593v1)]
+
+[arxiv 2026.04] VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors  [[PDF](https://arxiv.org/abs/2604.02486v1)]
+
+[arxiv 2026.04] EnsemHalDet: Robust VLM Hallucination Detection via Ensemble of Internal State Detectors  [[PDF](https://arxiv.org/abs/2604.02784v1)]
+
+[arxiv 2026.04] VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation  [[PDF](https://arxiv.org/abs/2604.02467v1)]
+
+[arxiv 2026.04] The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling  [[PDF](https://arxiv.org/abs/2604.03191v1)]
+
+[arxiv 2026.04] STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models  [[PDF](https://arxiv.org/abs/2604.03045v1)]
+
+[arxiv 2026.04] QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2604.03040v1)]
+
+[arxiv 2026.04] Collaborative Multi-Mode Pruning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02956v1)] ![Code](https://img.shields.io/github/stars/Wuzimeng/CoMP?style=social&label=Star)
+
+[arxiv 2026.04] PolyReal: A Benchmark for Real-World Polymer Science Workflows  [[PDF](https://arxiv.org/abs/2604.02934v1)]
+
+[arxiv 2026.04] PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis  [[PDF](https://arxiv.org/abs/2604.02804v1)]
+
+[arxiv 2026.04] DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection  [[PDF](https://arxiv.org/abs/2604.02753v1)]
+
+[arxiv 2026.04] Token-Efficient Multimodal Reasoning via Image Prompt Packaging  [[PDF](https://arxiv.org/abs/2604.02492v1)]
+
+[arxiv 2026.04] CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning  [[PDF](https://arxiv.org/abs/2604.03231v1)]
+
+[arxiv 2026.04] WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02570v1)] ![Code](https://img.shields.io/github/stars/SAI-Lab-NYU/WSVD}{\texttt{https:?style=social&label=Star)
+
+[arxiv 2026.04] Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding  [[PDF](https://arxiv.org/abs/2604.02546v1),[Page](https://yebulabula.github.io/UniScene3D/)]
+
+[arxiv 2026.04] EffiMiniVLM: A Compact Dual-Encoder Regression Framework  [[PDF](https://arxiv.org/abs/2604.03172v1)]
+
+[arxiv 2026.04] Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models  [[PDF](https://arxiv.org/abs/2604.03179v1)]
+
+[arxiv 2026.04] GenSmoke-GS: A Multi-Stage Method for Novel View Synthesis from Smoke-Degraded Images Using a Generative Model  [[PDF](https://arxiv.org/abs/2604.03039v1)] ![Code](https://img.shields.io/github/stars/plbbl/GenSmoke-GS?style=social&label=Star)
+
+[arxiv 2026.04] Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02893v1)]
+
+[arxiv 2026.04] InstructTable: Improving Table Structure Recognition Through Instructions  [[PDF](https://arxiv.org/abs/2604.02880v1)]
+
+[arxiv 2026.04] Token Warping Helps MLLMs Look from Nearby Viewpoints  [[PDF](https://arxiv.org/abs/2604.02870v1),[Page](https://token-warping-mllm.github.io)]
+
+[arxiv 2026.04] QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.02816v1)]
+
+[arxiv 2026.04] Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs  [[PDF](https://arxiv.org/abs/2604.02689v1)] ![Code](https://img.shields.io/github/stars/sol924/Efficient3D?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 [arxiv 2026.03] Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding  [[PDF](https://arxiv.org/abs/2603.19235)]
@@ -1261,6 +1445,52 @@
 ## sound-video understanding 
 [arxiv 2025.12] JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation  [[PDF](https://arxiv.org/abs/2512.22905),[Page](https://github.com/JavisVerse/JavisGPT)] ![Code](https://img.shields.io/github/stars/JavisVerse/JavisGPT?style=social&label=Star) 
 
+[arxiv 2026.04] Moondream Segmentation: From Words to Masks  [[PDF](https://arxiv.org/abs/2604.02593v1)]
+
+[arxiv 2026.04] VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors  [[PDF](https://arxiv.org/abs/2604.02486v1)]
+
+[arxiv 2026.04] EnsemHalDet: Robust VLM Hallucination Detection via Ensemble of Internal State Detectors  [[PDF](https://arxiv.org/abs/2604.02784v1)]
+
+[arxiv 2026.04] VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation  [[PDF](https://arxiv.org/abs/2604.02467v1)]
+
+[arxiv 2026.04] The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling  [[PDF](https://arxiv.org/abs/2604.03191v1)]
+
+[arxiv 2026.04] STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models  [[PDF](https://arxiv.org/abs/2604.03045v1)]
+
+[arxiv 2026.04] QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2604.03040v1)]
+
+[arxiv 2026.04] Collaborative Multi-Mode Pruning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02956v1)] ![Code](https://img.shields.io/github/stars/Wuzimeng/CoMP?style=social&label=Star)
+
+[arxiv 2026.04] PolyReal: A Benchmark for Real-World Polymer Science Workflows  [[PDF](https://arxiv.org/abs/2604.02934v1)]
+
+[arxiv 2026.04] PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis  [[PDF](https://arxiv.org/abs/2604.02804v1)]
+
+[arxiv 2026.04] DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection  [[PDF](https://arxiv.org/abs/2604.02753v1)]
+
+[arxiv 2026.04] Token-Efficient Multimodal Reasoning via Image Prompt Packaging  [[PDF](https://arxiv.org/abs/2604.02492v1)]
+
+[arxiv 2026.04] CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning  [[PDF](https://arxiv.org/abs/2604.03231v1)]
+
+[arxiv 2026.04] WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02570v1)] ![Code](https://img.shields.io/github/stars/SAI-Lab-NYU/WSVD}{\texttt{https:?style=social&label=Star)
+
+[arxiv 2026.04] Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding  [[PDF](https://arxiv.org/abs/2604.02546v1),[Page](https://yebulabula.github.io/UniScene3D/)]
+
+[arxiv 2026.04] EffiMiniVLM: A Compact Dual-Encoder Regression Framework  [[PDF](https://arxiv.org/abs/2604.03172v1)]
+
+[arxiv 2026.04] Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models  [[PDF](https://arxiv.org/abs/2604.03179v1)]
+
+[arxiv 2026.04] GenSmoke-GS: A Multi-Stage Method for Novel View Synthesis from Smoke-Degraded Images Using a Generative Model  [[PDF](https://arxiv.org/abs/2604.03039v1)] ![Code](https://img.shields.io/github/stars/plbbl/GenSmoke-GS?style=social&label=Star)
+
+[arxiv 2026.04] Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02893v1)]
+
+[arxiv 2026.04] InstructTable: Improving Table Structure Recognition Through Instructions  [[PDF](https://arxiv.org/abs/2604.02880v1)]
+
+[arxiv 2026.04] Token Warping Helps MLLMs Look from Nearby Viewpoints  [[PDF](https://arxiv.org/abs/2604.02870v1),[Page](https://token-warping-mllm.github.io)]
+
+[arxiv 2026.04] QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.02816v1)]
+
+[arxiv 2026.04] Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs  [[PDF](https://arxiv.org/abs/2604.02689v1)] ![Code](https://img.shields.io/github/stars/sol924/Efficient3D?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
@@ -1270,6 +1500,52 @@
 [arxiv 2025.09] AdsQA: Towards Advertisement Video Understanding  [[PDF](https://arxiv.org/pdf/2509.08621),[Page](https://github.com/TsinghuaC3I/AdsQA)] ![Code](https://img.shields.io/github/stars/TsinghuaC3I/AdsQA?style=social&label=Star) 
 
 [arxiv 2025.11]  VidEmo: Affective-Tree Reasoning for Emotion-Centric Video Foundation Models [[PDF](https://arxiv.org/abs/2511.02712)]
+
+[arxiv 2026.04] Moondream Segmentation: From Words to Masks  [[PDF](https://arxiv.org/abs/2604.02593v1)]
+
+[arxiv 2026.04] VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors  [[PDF](https://arxiv.org/abs/2604.02486v1)]
+
+[arxiv 2026.04] EnsemHalDet: Robust VLM Hallucination Detection via Ensemble of Internal State Detectors  [[PDF](https://arxiv.org/abs/2604.02784v1)]
+
+[arxiv 2026.04] VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation  [[PDF](https://arxiv.org/abs/2604.02467v1)]
+
+[arxiv 2026.04] The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling  [[PDF](https://arxiv.org/abs/2604.03191v1)]
+
+[arxiv 2026.04] STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models  [[PDF](https://arxiv.org/abs/2604.03045v1)]
+
+[arxiv 2026.04] QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2604.03040v1)]
+
+[arxiv 2026.04] Collaborative Multi-Mode Pruning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02956v1)] ![Code](https://img.shields.io/github/stars/Wuzimeng/CoMP?style=social&label=Star)
+
+[arxiv 2026.04] PolyReal: A Benchmark for Real-World Polymer Science Workflows  [[PDF](https://arxiv.org/abs/2604.02934v1)]
+
+[arxiv 2026.04] PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis  [[PDF](https://arxiv.org/abs/2604.02804v1)]
+
+[arxiv 2026.04] DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection  [[PDF](https://arxiv.org/abs/2604.02753v1)]
+
+[arxiv 2026.04] Token-Efficient Multimodal Reasoning via Image Prompt Packaging  [[PDF](https://arxiv.org/abs/2604.02492v1)]
+
+[arxiv 2026.04] CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning  [[PDF](https://arxiv.org/abs/2604.03231v1)]
+
+[arxiv 2026.04] WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02570v1)] ![Code](https://img.shields.io/github/stars/SAI-Lab-NYU/WSVD}{\texttt{https:?style=social&label=Star)
+
+[arxiv 2026.04] Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding  [[PDF](https://arxiv.org/abs/2604.02546v1),[Page](https://yebulabula.github.io/UniScene3D/)]
+
+[arxiv 2026.04] EffiMiniVLM: A Compact Dual-Encoder Regression Framework  [[PDF](https://arxiv.org/abs/2604.03172v1)]
+
+[arxiv 2026.04] Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models  [[PDF](https://arxiv.org/abs/2604.03179v1)]
+
+[arxiv 2026.04] GenSmoke-GS: A Multi-Stage Method for Novel View Synthesis from Smoke-Degraded Images Using a Generative Model  [[PDF](https://arxiv.org/abs/2604.03039v1)] ![Code](https://img.shields.io/github/stars/plbbl/GenSmoke-GS?style=social&label=Star)
+
+[arxiv 2026.04] Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02893v1)]
+
+[arxiv 2026.04] InstructTable: Improving Table Structure Recognition Through Instructions  [[PDF](https://arxiv.org/abs/2604.02880v1)]
+
+[arxiv 2026.04] Token Warping Helps MLLMs Look from Nearby Viewpoints  [[PDF](https://arxiv.org/abs/2604.02870v1),[Page](https://token-warping-mllm.github.io)]
+
+[arxiv 2026.04] QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.02816v1)]
+
+[arxiv 2026.04] Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs  [[PDF](https://arxiv.org/abs/2604.02689v1)] ![Code](https://img.shields.io/github/stars/sol924/Efficient3D?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -1332,6 +1608,52 @@
 [arxiv 2025.11]  Seeing the Forest and the Trees: Query-Aware Tokenizer for Long-Video Multimodal Language Models [[PDF](https://arxiv.org/abs/2511.11910),[Page](https://github.com/Siyou-Li/QTSplus)] ![Code](https://img.shields.io/github/stars/Siyou-Li/QTSplus?style=social&label=Star) 
 
 [arxiv 2025.12] VideoZoomer: Reinforcement-Learned Temporal Focusing for Long Video Reasoning  [[PDF](https://arxiv.org/abs/2512.22315)]
+
+[arxiv 2026.04] Moondream Segmentation: From Words to Masks  [[PDF](https://arxiv.org/abs/2604.02593v1)]
+
+[arxiv 2026.04] VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors  [[PDF](https://arxiv.org/abs/2604.02486v1)]
+
+[arxiv 2026.04] EnsemHalDet: Robust VLM Hallucination Detection via Ensemble of Internal State Detectors  [[PDF](https://arxiv.org/abs/2604.02784v1)]
+
+[arxiv 2026.04] VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation  [[PDF](https://arxiv.org/abs/2604.02467v1)]
+
+[arxiv 2026.04] The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling  [[PDF](https://arxiv.org/abs/2604.03191v1)]
+
+[arxiv 2026.04] STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models  [[PDF](https://arxiv.org/abs/2604.03045v1)]
+
+[arxiv 2026.04] QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2604.03040v1)]
+
+[arxiv 2026.04] Collaborative Multi-Mode Pruning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02956v1)] ![Code](https://img.shields.io/github/stars/Wuzimeng/CoMP?style=social&label=Star)
+
+[arxiv 2026.04] PolyReal: A Benchmark for Real-World Polymer Science Workflows  [[PDF](https://arxiv.org/abs/2604.02934v1)]
+
+[arxiv 2026.04] PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis  [[PDF](https://arxiv.org/abs/2604.02804v1)]
+
+[arxiv 2026.04] DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection  [[PDF](https://arxiv.org/abs/2604.02753v1)]
+
+[arxiv 2026.04] Token-Efficient Multimodal Reasoning via Image Prompt Packaging  [[PDF](https://arxiv.org/abs/2604.02492v1)]
+
+[arxiv 2026.04] CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning  [[PDF](https://arxiv.org/abs/2604.03231v1)]
+
+[arxiv 2026.04] WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02570v1)] ![Code](https://img.shields.io/github/stars/SAI-Lab-NYU/WSVD}{\texttt{https:?style=social&label=Star)
+
+[arxiv 2026.04] Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding  [[PDF](https://arxiv.org/abs/2604.02546v1),[Page](https://yebulabula.github.io/UniScene3D/)]
+
+[arxiv 2026.04] EffiMiniVLM: A Compact Dual-Encoder Regression Framework  [[PDF](https://arxiv.org/abs/2604.03172v1)]
+
+[arxiv 2026.04] Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models  [[PDF](https://arxiv.org/abs/2604.03179v1)]
+
+[arxiv 2026.04] GenSmoke-GS: A Multi-Stage Method for Novel View Synthesis from Smoke-Degraded Images Using a Generative Model  [[PDF](https://arxiv.org/abs/2604.03039v1)] ![Code](https://img.shields.io/github/stars/plbbl/GenSmoke-GS?style=social&label=Star)
+
+[arxiv 2026.04] Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02893v1)]
+
+[arxiv 2026.04] InstructTable: Improving Table Structure Recognition Through Instructions  [[PDF](https://arxiv.org/abs/2604.02880v1)]
+
+[arxiv 2026.04] Token Warping Helps MLLMs Look from Nearby Viewpoints  [[PDF](https://arxiv.org/abs/2604.02870v1),[Page](https://token-warping-mllm.github.io)]
+
+[arxiv 2026.04] QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.02816v1)]
+
+[arxiv 2026.04] Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs  [[PDF](https://arxiv.org/abs/2604.02689v1)] ![Code](https://img.shields.io/github/stars/sol924/Efficient3D?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -1468,6 +1790,52 @@
 
 [arxiv 2026.03] JANUS: A Lightweight Framework for Jailbreaking Text-to-Image Models via Distribution Optimization  [[PDF](https://arxiv.org/abs/2603.21208)]
 
+[arxiv 2026.04] Moondream Segmentation: From Words to Masks  [[PDF](https://arxiv.org/abs/2604.02593v1)]
+
+[arxiv 2026.04] VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors  [[PDF](https://arxiv.org/abs/2604.02486v1)]
+
+[arxiv 2026.04] EnsemHalDet: Robust VLM Hallucination Detection via Ensemble of Internal State Detectors  [[PDF](https://arxiv.org/abs/2604.02784v1)]
+
+[arxiv 2026.04] VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation  [[PDF](https://arxiv.org/abs/2604.02467v1)]
+
+[arxiv 2026.04] The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling  [[PDF](https://arxiv.org/abs/2604.03191v1)]
+
+[arxiv 2026.04] STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models  [[PDF](https://arxiv.org/abs/2604.03045v1)]
+
+[arxiv 2026.04] QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2604.03040v1)]
+
+[arxiv 2026.04] Collaborative Multi-Mode Pruning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02956v1)] ![Code](https://img.shields.io/github/stars/Wuzimeng/CoMP?style=social&label=Star)
+
+[arxiv 2026.04] PolyReal: A Benchmark for Real-World Polymer Science Workflows  [[PDF](https://arxiv.org/abs/2604.02934v1)]
+
+[arxiv 2026.04] PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis  [[PDF](https://arxiv.org/abs/2604.02804v1)]
+
+[arxiv 2026.04] DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection  [[PDF](https://arxiv.org/abs/2604.02753v1)]
+
+[arxiv 2026.04] Token-Efficient Multimodal Reasoning via Image Prompt Packaging  [[PDF](https://arxiv.org/abs/2604.02492v1)]
+
+[arxiv 2026.04] CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning  [[PDF](https://arxiv.org/abs/2604.03231v1)]
+
+[arxiv 2026.04] WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02570v1)] ![Code](https://img.shields.io/github/stars/SAI-Lab-NYU/WSVD}{\texttt{https:?style=social&label=Star)
+
+[arxiv 2026.04] Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding  [[PDF](https://arxiv.org/abs/2604.02546v1),[Page](https://yebulabula.github.io/UniScene3D/)]
+
+[arxiv 2026.04] EffiMiniVLM: A Compact Dual-Encoder Regression Framework  [[PDF](https://arxiv.org/abs/2604.03172v1)]
+
+[arxiv 2026.04] Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models  [[PDF](https://arxiv.org/abs/2604.03179v1)]
+
+[arxiv 2026.04] GenSmoke-GS: A Multi-Stage Method for Novel View Synthesis from Smoke-Degraded Images Using a Generative Model  [[PDF](https://arxiv.org/abs/2604.03039v1)] ![Code](https://img.shields.io/github/stars/plbbl/GenSmoke-GS?style=social&label=Star)
+
+[arxiv 2026.04] Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02893v1)]
+
+[arxiv 2026.04] InstructTable: Improving Table Structure Recognition Through Instructions  [[PDF](https://arxiv.org/abs/2604.02880v1)]
+
+[arxiv 2026.04] Token Warping Helps MLLMs Look from Nearby Viewpoints  [[PDF](https://arxiv.org/abs/2604.02870v1),[Page](https://token-warping-mllm.github.io)]
+
+[arxiv 2026.04] QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.02816v1)]
+
+[arxiv 2026.04] Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs  [[PDF](https://arxiv.org/abs/2604.02689v1)] ![Code](https://img.shields.io/github/stars/sol924/Efficient3D?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## Omni
@@ -1475,11 +1843,103 @@
 
 [arxiv 2025.10] InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue  [[PDF](https://arxiv.org/abs/2510.13747),[Page](https://github.com/SenseTime-FVG/InteractiveOmni)] ![Code](https://img.shields.io/github/stars/SenseTime-FVG/InteractiveOmni?style=social&label=Star) 
 
+[arxiv 2026.04] Moondream Segmentation: From Words to Masks  [[PDF](https://arxiv.org/abs/2604.02593v1)]
+
+[arxiv 2026.04] VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors  [[PDF](https://arxiv.org/abs/2604.02486v1)]
+
+[arxiv 2026.04] EnsemHalDet: Robust VLM Hallucination Detection via Ensemble of Internal State Detectors  [[PDF](https://arxiv.org/abs/2604.02784v1)]
+
+[arxiv 2026.04] VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation  [[PDF](https://arxiv.org/abs/2604.02467v1)]
+
+[arxiv 2026.04] The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling  [[PDF](https://arxiv.org/abs/2604.03191v1)]
+
+[arxiv 2026.04] STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models  [[PDF](https://arxiv.org/abs/2604.03045v1)]
+
+[arxiv 2026.04] QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2604.03040v1)]
+
+[arxiv 2026.04] Collaborative Multi-Mode Pruning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02956v1)] ![Code](https://img.shields.io/github/stars/Wuzimeng/CoMP?style=social&label=Star)
+
+[arxiv 2026.04] PolyReal: A Benchmark for Real-World Polymer Science Workflows  [[PDF](https://arxiv.org/abs/2604.02934v1)]
+
+[arxiv 2026.04] PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis  [[PDF](https://arxiv.org/abs/2604.02804v1)]
+
+[arxiv 2026.04] DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection  [[PDF](https://arxiv.org/abs/2604.02753v1)]
+
+[arxiv 2026.04] Token-Efficient Multimodal Reasoning via Image Prompt Packaging  [[PDF](https://arxiv.org/abs/2604.02492v1)]
+
+[arxiv 2026.04] CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning  [[PDF](https://arxiv.org/abs/2604.03231v1)]
+
+[arxiv 2026.04] WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02570v1)] ![Code](https://img.shields.io/github/stars/SAI-Lab-NYU/WSVD}{\texttt{https:?style=social&label=Star)
+
+[arxiv 2026.04] Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding  [[PDF](https://arxiv.org/abs/2604.02546v1),[Page](https://yebulabula.github.io/UniScene3D/)]
+
+[arxiv 2026.04] EffiMiniVLM: A Compact Dual-Encoder Regression Framework  [[PDF](https://arxiv.org/abs/2604.03172v1)]
+
+[arxiv 2026.04] Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models  [[PDF](https://arxiv.org/abs/2604.03179v1)]
+
+[arxiv 2026.04] GenSmoke-GS: A Multi-Stage Method for Novel View Synthesis from Smoke-Degraded Images Using a Generative Model  [[PDF](https://arxiv.org/abs/2604.03039v1)] ![Code](https://img.shields.io/github/stars/plbbl/GenSmoke-GS?style=social&label=Star)
+
+[arxiv 2026.04] Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02893v1)]
+
+[arxiv 2026.04] InstructTable: Improving Table Structure Recognition Through Instructions  [[PDF](https://arxiv.org/abs/2604.02880v1)]
+
+[arxiv 2026.04] Token Warping Helps MLLMs Look from Nearby Viewpoints  [[PDF](https://arxiv.org/abs/2604.02870v1),[Page](https://token-warping-mllm.github.io)]
+
+[arxiv 2026.04] QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.02816v1)]
+
+[arxiv 2026.04] Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs  [[PDF](https://arxiv.org/abs/2604.02689v1)] ![Code](https://img.shields.io/github/stars/sol924/Efficient3D?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## diffusion LLM
 [arxiv 2025.05]  MMaDA: Multimodal Large Diffusion Language Models [[PDF](https://arxiv.org/abs/2505.15809),[Page](https://github.com/Gen-Verse/MMaDA)] ![Code](https://img.shields.io/github/stars/Gen-Verse/MMaDA?style=social&label=Star) 
+
+[arxiv 2026.04] Moondream Segmentation: From Words to Masks  [[PDF](https://arxiv.org/abs/2604.02593v1)]
+
+[arxiv 2026.04] VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors  [[PDF](https://arxiv.org/abs/2604.02486v1)]
+
+[arxiv 2026.04] EnsemHalDet: Robust VLM Hallucination Detection via Ensemble of Internal State Detectors  [[PDF](https://arxiv.org/abs/2604.02784v1)]
+
+[arxiv 2026.04] VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation  [[PDF](https://arxiv.org/abs/2604.02467v1)]
+
+[arxiv 2026.04] The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling  [[PDF](https://arxiv.org/abs/2604.03191v1)]
+
+[arxiv 2026.04] STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models  [[PDF](https://arxiv.org/abs/2604.03045v1)]
+
+[arxiv 2026.04] QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2604.03040v1)]
+
+[arxiv 2026.04] Collaborative Multi-Mode Pruning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02956v1)] ![Code](https://img.shields.io/github/stars/Wuzimeng/CoMP?style=social&label=Star)
+
+[arxiv 2026.04] PolyReal: A Benchmark for Real-World Polymer Science Workflows  [[PDF](https://arxiv.org/abs/2604.02934v1)]
+
+[arxiv 2026.04] PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis  [[PDF](https://arxiv.org/abs/2604.02804v1)]
+
+[arxiv 2026.04] DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection  [[PDF](https://arxiv.org/abs/2604.02753v1)]
+
+[arxiv 2026.04] Token-Efficient Multimodal Reasoning via Image Prompt Packaging  [[PDF](https://arxiv.org/abs/2604.02492v1)]
+
+[arxiv 2026.04] CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning  [[PDF](https://arxiv.org/abs/2604.03231v1)]
+
+[arxiv 2026.04] WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02570v1)] ![Code](https://img.shields.io/github/stars/SAI-Lab-NYU/WSVD}{\texttt{https:?style=social&label=Star)
+
+[arxiv 2026.04] Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding  [[PDF](https://arxiv.org/abs/2604.02546v1),[Page](https://yebulabula.github.io/UniScene3D/)]
+
+[arxiv 2026.04] EffiMiniVLM: A Compact Dual-Encoder Regression Framework  [[PDF](https://arxiv.org/abs/2604.03172v1)]
+
+[arxiv 2026.04] Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models  [[PDF](https://arxiv.org/abs/2604.03179v1)]
+
+[arxiv 2026.04] GenSmoke-GS: A Multi-Stage Method for Novel View Synthesis from Smoke-Degraded Images Using a Generative Model  [[PDF](https://arxiv.org/abs/2604.03039v1)] ![Code](https://img.shields.io/github/stars/plbbl/GenSmoke-GS?style=social&label=Star)
+
+[arxiv 2026.04] Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02893v1)]
+
+[arxiv 2026.04] InstructTable: Improving Table Structure Recognition Through Instructions  [[PDF](https://arxiv.org/abs/2604.02880v1)]
+
+[arxiv 2026.04] Token Warping Helps MLLMs Look from Nearby Viewpoints  [[PDF](https://arxiv.org/abs/2604.02870v1),[Page](https://token-warping-mllm.github.io)]
+
+[arxiv 2026.04] QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.02816v1)]
+
+[arxiv 2026.04] Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs  [[PDF](https://arxiv.org/abs/2604.02689v1)] ![Code](https://img.shields.io/github/stars/sol924/Efficient3D?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -1698,6 +2158,52 @@
 
 [arxiv 2026.03] PRM-as-a-Judge: A Dense Evaluation Paradigm for Fine-Grained Robotic Auditing  [[PDF](https://arxiv.org/abs/2603.21669)]
 
+[arxiv 2026.04] Moondream Segmentation: From Words to Masks  [[PDF](https://arxiv.org/abs/2604.02593v1)]
+
+[arxiv 2026.04] VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors  [[PDF](https://arxiv.org/abs/2604.02486v1)]
+
+[arxiv 2026.04] EnsemHalDet: Robust VLM Hallucination Detection via Ensemble of Internal State Detectors  [[PDF](https://arxiv.org/abs/2604.02784v1)]
+
+[arxiv 2026.04] VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation  [[PDF](https://arxiv.org/abs/2604.02467v1)]
+
+[arxiv 2026.04] The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling  [[PDF](https://arxiv.org/abs/2604.03191v1)]
+
+[arxiv 2026.04] STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models  [[PDF](https://arxiv.org/abs/2604.03045v1)]
+
+[arxiv 2026.04] QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2604.03040v1)]
+
+[arxiv 2026.04] Collaborative Multi-Mode Pruning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02956v1)] ![Code](https://img.shields.io/github/stars/Wuzimeng/CoMP?style=social&label=Star)
+
+[arxiv 2026.04] PolyReal: A Benchmark for Real-World Polymer Science Workflows  [[PDF](https://arxiv.org/abs/2604.02934v1)]
+
+[arxiv 2026.04] PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis  [[PDF](https://arxiv.org/abs/2604.02804v1)]
+
+[arxiv 2026.04] DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection  [[PDF](https://arxiv.org/abs/2604.02753v1)]
+
+[arxiv 2026.04] Token-Efficient Multimodal Reasoning via Image Prompt Packaging  [[PDF](https://arxiv.org/abs/2604.02492v1)]
+
+[arxiv 2026.04] CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning  [[PDF](https://arxiv.org/abs/2604.03231v1)]
+
+[arxiv 2026.04] WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02570v1)] ![Code](https://img.shields.io/github/stars/SAI-Lab-NYU/WSVD}{\texttt{https:?style=social&label=Star)
+
+[arxiv 2026.04] Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding  [[PDF](https://arxiv.org/abs/2604.02546v1),[Page](https://yebulabula.github.io/UniScene3D/)]
+
+[arxiv 2026.04] EffiMiniVLM: A Compact Dual-Encoder Regression Framework  [[PDF](https://arxiv.org/abs/2604.03172v1)]
+
+[arxiv 2026.04] Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models  [[PDF](https://arxiv.org/abs/2604.03179v1)]
+
+[arxiv 2026.04] GenSmoke-GS: A Multi-Stage Method for Novel View Synthesis from Smoke-Degraded Images Using a Generative Model  [[PDF](https://arxiv.org/abs/2604.03039v1)] ![Code](https://img.shields.io/github/stars/plbbl/GenSmoke-GS?style=social&label=Star)
+
+[arxiv 2026.04] Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02893v1)]
+
+[arxiv 2026.04] InstructTable: Improving Table Structure Recognition Through Instructions  [[PDF](https://arxiv.org/abs/2604.02880v1)]
+
+[arxiv 2026.04] Token Warping Helps MLLMs Look from Nearby Viewpoints  [[PDF](https://arxiv.org/abs/2604.02870v1),[Page](https://token-warping-mllm.github.io)]
+
+[arxiv 2026.04] QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.02816v1)]
+
+[arxiv 2026.04] Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs  [[PDF](https://arxiv.org/abs/2604.02689v1)] ![Code](https://img.shields.io/github/stars/sol924/Efficient3D?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 [arxiv 2026.03] CausalVAD: De-confounding End-to-End Autonomous Driving via Causal Intervention  [[PDF](https://arxiv.org/abs/2603.18561)]
@@ -1839,6 +2345,52 @@
 
 [arxiv 2026.03] Attention in Space: Functional Roles of VLM Heads for Spatial Reasoning  [[PDF](https://arxiv.org/abs/2603.20662)]
 
+[arxiv 2026.04] Moondream Segmentation: From Words to Masks  [[PDF](https://arxiv.org/abs/2604.02593v1)]
+
+[arxiv 2026.04] VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors  [[PDF](https://arxiv.org/abs/2604.02486v1)]
+
+[arxiv 2026.04] EnsemHalDet: Robust VLM Hallucination Detection via Ensemble of Internal State Detectors  [[PDF](https://arxiv.org/abs/2604.02784v1)]
+
+[arxiv 2026.04] VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation  [[PDF](https://arxiv.org/abs/2604.02467v1)]
+
+[arxiv 2026.04] The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling  [[PDF](https://arxiv.org/abs/2604.03191v1)]
+
+[arxiv 2026.04] STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models  [[PDF](https://arxiv.org/abs/2604.03045v1)]
+
+[arxiv 2026.04] QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2604.03040v1)]
+
+[arxiv 2026.04] Collaborative Multi-Mode Pruning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02956v1)] ![Code](https://img.shields.io/github/stars/Wuzimeng/CoMP?style=social&label=Star)
+
+[arxiv 2026.04] PolyReal: A Benchmark for Real-World Polymer Science Workflows  [[PDF](https://arxiv.org/abs/2604.02934v1)]
+
+[arxiv 2026.04] PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis  [[PDF](https://arxiv.org/abs/2604.02804v1)]
+
+[arxiv 2026.04] DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection  [[PDF](https://arxiv.org/abs/2604.02753v1)]
+
+[arxiv 2026.04] Token-Efficient Multimodal Reasoning via Image Prompt Packaging  [[PDF](https://arxiv.org/abs/2604.02492v1)]
+
+[arxiv 2026.04] CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning  [[PDF](https://arxiv.org/abs/2604.03231v1)]
+
+[arxiv 2026.04] WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02570v1)] ![Code](https://img.shields.io/github/stars/SAI-Lab-NYU/WSVD}{\texttt{https:?style=social&label=Star)
+
+[arxiv 2026.04] Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding  [[PDF](https://arxiv.org/abs/2604.02546v1),[Page](https://yebulabula.github.io/UniScene3D/)]
+
+[arxiv 2026.04] EffiMiniVLM: A Compact Dual-Encoder Regression Framework  [[PDF](https://arxiv.org/abs/2604.03172v1)]
+
+[arxiv 2026.04] Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models  [[PDF](https://arxiv.org/abs/2604.03179v1)]
+
+[arxiv 2026.04] GenSmoke-GS: A Multi-Stage Method for Novel View Synthesis from Smoke-Degraded Images Using a Generative Model  [[PDF](https://arxiv.org/abs/2604.03039v1)] ![Code](https://img.shields.io/github/stars/plbbl/GenSmoke-GS?style=social&label=Star)
+
+[arxiv 2026.04] Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02893v1)]
+
+[arxiv 2026.04] InstructTable: Improving Table Structure Recognition Through Instructions  [[PDF](https://arxiv.org/abs/2604.02880v1)]
+
+[arxiv 2026.04] Token Warping Helps MLLMs Look from Nearby Viewpoints  [[PDF](https://arxiv.org/abs/2604.02870v1),[Page](https://token-warping-mllm.github.io)]
+
+[arxiv 2026.04] QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.02816v1)]
+
+[arxiv 2026.04] Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs  [[PDF](https://arxiv.org/abs/2604.02689v1)] ![Code](https://img.shields.io/github/stars/sol924/Efficient3D?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 [arxiv 2026.03] Counting Circuits: Mechanistic Interpretability of Visual Reasoning in Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2603.18523)]
@@ -1879,6 +2431,52 @@
 [arxiv 2026.03] Balancing Multimodal Domain Generalization via Gradient Modulation and Projection  [[PDF](https://arxiv.org/abs/2603.14175)]
 
 [arxiv 2026.03] Empirical Recipes for Efficient and Compact Vision-Language Models  [[PDF](https://arxiv.org/abs/2603.16987)]
+
+[arxiv 2026.04] Moondream Segmentation: From Words to Masks  [[PDF](https://arxiv.org/abs/2604.02593v1)]
+
+[arxiv 2026.04] VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors  [[PDF](https://arxiv.org/abs/2604.02486v1)]
+
+[arxiv 2026.04] EnsemHalDet: Robust VLM Hallucination Detection via Ensemble of Internal State Detectors  [[PDF](https://arxiv.org/abs/2604.02784v1)]
+
+[arxiv 2026.04] VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation  [[PDF](https://arxiv.org/abs/2604.02467v1)]
+
+[arxiv 2026.04] The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling  [[PDF](https://arxiv.org/abs/2604.03191v1)]
+
+[arxiv 2026.04] STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models  [[PDF](https://arxiv.org/abs/2604.03045v1)]
+
+[arxiv 2026.04] QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2604.03040v1)]
+
+[arxiv 2026.04] Collaborative Multi-Mode Pruning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02956v1)] ![Code](https://img.shields.io/github/stars/Wuzimeng/CoMP?style=social&label=Star)
+
+[arxiv 2026.04] PolyReal: A Benchmark for Real-World Polymer Science Workflows  [[PDF](https://arxiv.org/abs/2604.02934v1)]
+
+[arxiv 2026.04] PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis  [[PDF](https://arxiv.org/abs/2604.02804v1)]
+
+[arxiv 2026.04] DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection  [[PDF](https://arxiv.org/abs/2604.02753v1)]
+
+[arxiv 2026.04] Token-Efficient Multimodal Reasoning via Image Prompt Packaging  [[PDF](https://arxiv.org/abs/2604.02492v1)]
+
+[arxiv 2026.04] CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning  [[PDF](https://arxiv.org/abs/2604.03231v1)]
+
+[arxiv 2026.04] WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02570v1)] ![Code](https://img.shields.io/github/stars/SAI-Lab-NYU/WSVD}{\texttt{https:?style=social&label=Star)
+
+[arxiv 2026.04] Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding  [[PDF](https://arxiv.org/abs/2604.02546v1),[Page](https://yebulabula.github.io/UniScene3D/)]
+
+[arxiv 2026.04] EffiMiniVLM: A Compact Dual-Encoder Regression Framework  [[PDF](https://arxiv.org/abs/2604.03172v1)]
+
+[arxiv 2026.04] Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models  [[PDF](https://arxiv.org/abs/2604.03179v1)]
+
+[arxiv 2026.04] GenSmoke-GS: A Multi-Stage Method for Novel View Synthesis from Smoke-Degraded Images Using a Generative Model  [[PDF](https://arxiv.org/abs/2604.03039v1)] ![Code](https://img.shields.io/github/stars/plbbl/GenSmoke-GS?style=social&label=Star)
+
+[arxiv 2026.04] Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02893v1)]
+
+[arxiv 2026.04] InstructTable: Improving Table Structure Recognition Through Instructions  [[PDF](https://arxiv.org/abs/2604.02880v1)]
+
+[arxiv 2026.04] Token Warping Helps MLLMs Look from Nearby Viewpoints  [[PDF](https://arxiv.org/abs/2604.02870v1),[Page](https://token-warping-mllm.github.io)]
+
+[arxiv 2026.04] QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.02816v1)]
+
+[arxiv 2026.04] Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs  [[PDF](https://arxiv.org/abs/2604.02689v1)] ![Code](https://img.shields.io/github/stars/sol924/Efficient3D?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -1932,12 +2530,104 @@
 [arxiv 2026.02]  UniWeTok: An Unified Binary Tokenizer with Codebook Size 2 up 128 for Unified Multimodal Large Language Model [[PDF](https://arxiv.org/abs/2602.14178)]
 
 
+[arxiv 2026.04] Moondream Segmentation: From Words to Masks  [[PDF](https://arxiv.org/abs/2604.02593v1)]
+
+[arxiv 2026.04] VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors  [[PDF](https://arxiv.org/abs/2604.02486v1)]
+
+[arxiv 2026.04] EnsemHalDet: Robust VLM Hallucination Detection via Ensemble of Internal State Detectors  [[PDF](https://arxiv.org/abs/2604.02784v1)]
+
+[arxiv 2026.04] VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation  [[PDF](https://arxiv.org/abs/2604.02467v1)]
+
+[arxiv 2026.04] The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling  [[PDF](https://arxiv.org/abs/2604.03191v1)]
+
+[arxiv 2026.04] STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models  [[PDF](https://arxiv.org/abs/2604.03045v1)]
+
+[arxiv 2026.04] QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2604.03040v1)]
+
+[arxiv 2026.04] Collaborative Multi-Mode Pruning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02956v1)] ![Code](https://img.shields.io/github/stars/Wuzimeng/CoMP?style=social&label=Star)
+
+[arxiv 2026.04] PolyReal: A Benchmark for Real-World Polymer Science Workflows  [[PDF](https://arxiv.org/abs/2604.02934v1)]
+
+[arxiv 2026.04] PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis  [[PDF](https://arxiv.org/abs/2604.02804v1)]
+
+[arxiv 2026.04] DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection  [[PDF](https://arxiv.org/abs/2604.02753v1)]
+
+[arxiv 2026.04] Token-Efficient Multimodal Reasoning via Image Prompt Packaging  [[PDF](https://arxiv.org/abs/2604.02492v1)]
+
+[arxiv 2026.04] CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning  [[PDF](https://arxiv.org/abs/2604.03231v1)]
+
+[arxiv 2026.04] WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02570v1)] ![Code](https://img.shields.io/github/stars/SAI-Lab-NYU/WSVD}{\texttt{https:?style=social&label=Star)
+
+[arxiv 2026.04] Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding  [[PDF](https://arxiv.org/abs/2604.02546v1),[Page](https://yebulabula.github.io/UniScene3D/)]
+
+[arxiv 2026.04] EffiMiniVLM: A Compact Dual-Encoder Regression Framework  [[PDF](https://arxiv.org/abs/2604.03172v1)]
+
+[arxiv 2026.04] Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models  [[PDF](https://arxiv.org/abs/2604.03179v1)]
+
+[arxiv 2026.04] GenSmoke-GS: A Multi-Stage Method for Novel View Synthesis from Smoke-Degraded Images Using a Generative Model  [[PDF](https://arxiv.org/abs/2604.03039v1)] ![Code](https://img.shields.io/github/stars/plbbl/GenSmoke-GS?style=social&label=Star)
+
+[arxiv 2026.04] Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02893v1)]
+
+[arxiv 2026.04] InstructTable: Improving Table Structure Recognition Through Instructions  [[PDF](https://arxiv.org/abs/2604.02880v1)]
+
+[arxiv 2026.04] Token Warping Helps MLLMs Look from Nearby Viewpoints  [[PDF](https://arxiv.org/abs/2604.02870v1),[Page](https://token-warping-mllm.github.io)]
+
+[arxiv 2026.04] QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.02816v1)]
+
+[arxiv 2026.04] Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs  [[PDF](https://arxiv.org/abs/2604.02689v1)] ![Code](https://img.shields.io/github/stars/sol924/Efficient3D?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 [arxiv 2026.03] Frequency-Modulated Visual Restoration for Matryoshka Large Multimodal Models  [[PDF](https://arxiv.org/abs/2603.11220),[Page](https://github.com/xiaoachen98/Open-LLaVA-NeXT)] ![Code](https://img.shields.io/github/stars/xiaoachen98/Open-LLaVA-NeXT?style=social&label=Star)
 
 ## RoPE
 [arxiv 2025.05] Circle-RoPE: Cone-like Decoupled Rotary Positional Embedding for Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2505.16416),[Page](https://github.com/lose4578/CircleRoPE)] ![Code](https://img.shields.io/github/stars/lose4578/CircleRoPE?style=social&label=Star) 
+
+[arxiv 2026.04] Moondream Segmentation: From Words to Masks  [[PDF](https://arxiv.org/abs/2604.02593v1)]
+
+[arxiv 2026.04] VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors  [[PDF](https://arxiv.org/abs/2604.02486v1)]
+
+[arxiv 2026.04] EnsemHalDet: Robust VLM Hallucination Detection via Ensemble of Internal State Detectors  [[PDF](https://arxiv.org/abs/2604.02784v1)]
+
+[arxiv 2026.04] VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation  [[PDF](https://arxiv.org/abs/2604.02467v1)]
+
+[arxiv 2026.04] The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling  [[PDF](https://arxiv.org/abs/2604.03191v1)]
+
+[arxiv 2026.04] STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models  [[PDF](https://arxiv.org/abs/2604.03045v1)]
+
+[arxiv 2026.04] QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2604.03040v1)]
+
+[arxiv 2026.04] Collaborative Multi-Mode Pruning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02956v1)] ![Code](https://img.shields.io/github/stars/Wuzimeng/CoMP?style=social&label=Star)
+
+[arxiv 2026.04] PolyReal: A Benchmark for Real-World Polymer Science Workflows  [[PDF](https://arxiv.org/abs/2604.02934v1)]
+
+[arxiv 2026.04] PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis  [[PDF](https://arxiv.org/abs/2604.02804v1)]
+
+[arxiv 2026.04] DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection  [[PDF](https://arxiv.org/abs/2604.02753v1)]
+
+[arxiv 2026.04] Token-Efficient Multimodal Reasoning via Image Prompt Packaging  [[PDF](https://arxiv.org/abs/2604.02492v1)]
+
+[arxiv 2026.04] CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning  [[PDF](https://arxiv.org/abs/2604.03231v1)]
+
+[arxiv 2026.04] WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02570v1)] ![Code](https://img.shields.io/github/stars/SAI-Lab-NYU/WSVD}{\texttt{https:?style=social&label=Star)
+
+[arxiv 2026.04] Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding  [[PDF](https://arxiv.org/abs/2604.02546v1),[Page](https://yebulabula.github.io/UniScene3D/)]
+
+[arxiv 2026.04] EffiMiniVLM: A Compact Dual-Encoder Regression Framework  [[PDF](https://arxiv.org/abs/2604.03172v1)]
+
+[arxiv 2026.04] Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models  [[PDF](https://arxiv.org/abs/2604.03179v1)]
+
+[arxiv 2026.04] GenSmoke-GS: A Multi-Stage Method for Novel View Synthesis from Smoke-Degraded Images Using a Generative Model  [[PDF](https://arxiv.org/abs/2604.03039v1)] ![Code](https://img.shields.io/github/stars/plbbl/GenSmoke-GS?style=social&label=Star)
+
+[arxiv 2026.04] Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02893v1)]
+
+[arxiv 2026.04] InstructTable: Improving Table Structure Recognition Through Instructions  [[PDF](https://arxiv.org/abs/2604.02880v1)]
+
+[arxiv 2026.04] Token Warping Helps MLLMs Look from Nearby Viewpoints  [[PDF](https://arxiv.org/abs/2604.02870v1),[Page](https://token-warping-mllm.github.io)]
+
+[arxiv 2026.04] QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.02816v1)]
+
+[arxiv 2026.04] Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs  [[PDF](https://arxiv.org/abs/2604.02689v1)] ![Code](https://img.shields.io/github/stars/sol924/Efficient3D?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -1951,6 +2641,52 @@
 [arxiv 2026.03] Evaluating Time Awareness and Cross-modal Active Perception of Large Models via 4D Escape Room Task  [[PDF](https://arxiv.org/abs/2603.15467)]
 
 [arxiv 2026.03] Complementarity-Supervised Spectral-Band Routing for Multimodal Emotion Recognition  [[PDF](https://arxiv.org/abs/2603.13340)]
+
+[arxiv 2026.04] Moondream Segmentation: From Words to Masks  [[PDF](https://arxiv.org/abs/2604.02593v1)]
+
+[arxiv 2026.04] VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors  [[PDF](https://arxiv.org/abs/2604.02486v1)]
+
+[arxiv 2026.04] EnsemHalDet: Robust VLM Hallucination Detection via Ensemble of Internal State Detectors  [[PDF](https://arxiv.org/abs/2604.02784v1)]
+
+[arxiv 2026.04] VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation  [[PDF](https://arxiv.org/abs/2604.02467v1)]
+
+[arxiv 2026.04] The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling  [[PDF](https://arxiv.org/abs/2604.03191v1)]
+
+[arxiv 2026.04] STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models  [[PDF](https://arxiv.org/abs/2604.03045v1)]
+
+[arxiv 2026.04] QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2604.03040v1)]
+
+[arxiv 2026.04] Collaborative Multi-Mode Pruning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02956v1)] ![Code](https://img.shields.io/github/stars/Wuzimeng/CoMP?style=social&label=Star)
+
+[arxiv 2026.04] PolyReal: A Benchmark for Real-World Polymer Science Workflows  [[PDF](https://arxiv.org/abs/2604.02934v1)]
+
+[arxiv 2026.04] PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis  [[PDF](https://arxiv.org/abs/2604.02804v1)]
+
+[arxiv 2026.04] DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection  [[PDF](https://arxiv.org/abs/2604.02753v1)]
+
+[arxiv 2026.04] Token-Efficient Multimodal Reasoning via Image Prompt Packaging  [[PDF](https://arxiv.org/abs/2604.02492v1)]
+
+[arxiv 2026.04] CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning  [[PDF](https://arxiv.org/abs/2604.03231v1)]
+
+[arxiv 2026.04] WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02570v1)] ![Code](https://img.shields.io/github/stars/SAI-Lab-NYU/WSVD}{\texttt{https:?style=social&label=Star)
+
+[arxiv 2026.04] Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding  [[PDF](https://arxiv.org/abs/2604.02546v1),[Page](https://yebulabula.github.io/UniScene3D/)]
+
+[arxiv 2026.04] EffiMiniVLM: A Compact Dual-Encoder Regression Framework  [[PDF](https://arxiv.org/abs/2604.03172v1)]
+
+[arxiv 2026.04] Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models  [[PDF](https://arxiv.org/abs/2604.03179v1)]
+
+[arxiv 2026.04] GenSmoke-GS: A Multi-Stage Method for Novel View Synthesis from Smoke-Degraded Images Using a Generative Model  [[PDF](https://arxiv.org/abs/2604.03039v1)] ![Code](https://img.shields.io/github/stars/plbbl/GenSmoke-GS?style=social&label=Star)
+
+[arxiv 2026.04] Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02893v1)]
+
+[arxiv 2026.04] InstructTable: Improving Table Structure Recognition Through Instructions  [[PDF](https://arxiv.org/abs/2604.02880v1)]
+
+[arxiv 2026.04] Token Warping Helps MLLMs Look from Nearby Viewpoints  [[PDF](https://arxiv.org/abs/2604.02870v1),[Page](https://token-warping-mllm.github.io)]
+
+[arxiv 2026.04] QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.02816v1)]
+
+[arxiv 2026.04] Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs  [[PDF](https://arxiv.org/abs/2604.02689v1)] ![Code](https://img.shields.io/github/stars/sol924/Efficient3D?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -1969,6 +2705,52 @@
 [arxiv 2026.03] Toward Scalable Co-located Practical Learning: Assisting with Computer Vision and Multimodal Analytics  [[PDF](https://arxiv.org/abs/2603.13679)]
 
 [arxiv 2026.03] Hidden Clones: Exposing and Fixing Family Bias in Vision-Language Model Ensembles  [[PDF](https://arxiv.org/abs/2603.17111)]
+
+[arxiv 2026.04] Moondream Segmentation: From Words to Masks  [[PDF](https://arxiv.org/abs/2604.02593v1)]
+
+[arxiv 2026.04] VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors  [[PDF](https://arxiv.org/abs/2604.02486v1)]
+
+[arxiv 2026.04] EnsemHalDet: Robust VLM Hallucination Detection via Ensemble of Internal State Detectors  [[PDF](https://arxiv.org/abs/2604.02784v1)]
+
+[arxiv 2026.04] VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation  [[PDF](https://arxiv.org/abs/2604.02467v1)]
+
+[arxiv 2026.04] The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling  [[PDF](https://arxiv.org/abs/2604.03191v1)]
+
+[arxiv 2026.04] STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models  [[PDF](https://arxiv.org/abs/2604.03045v1)]
+
+[arxiv 2026.04] QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2604.03040v1)]
+
+[arxiv 2026.04] Collaborative Multi-Mode Pruning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02956v1)] ![Code](https://img.shields.io/github/stars/Wuzimeng/CoMP?style=social&label=Star)
+
+[arxiv 2026.04] PolyReal: A Benchmark for Real-World Polymer Science Workflows  [[PDF](https://arxiv.org/abs/2604.02934v1)]
+
+[arxiv 2026.04] PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis  [[PDF](https://arxiv.org/abs/2604.02804v1)]
+
+[arxiv 2026.04] DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection  [[PDF](https://arxiv.org/abs/2604.02753v1)]
+
+[arxiv 2026.04] Token-Efficient Multimodal Reasoning via Image Prompt Packaging  [[PDF](https://arxiv.org/abs/2604.02492v1)]
+
+[arxiv 2026.04] CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning  [[PDF](https://arxiv.org/abs/2604.03231v1)]
+
+[arxiv 2026.04] WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02570v1)] ![Code](https://img.shields.io/github/stars/SAI-Lab-NYU/WSVD}{\texttt{https:?style=social&label=Star)
+
+[arxiv 2026.04] Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding  [[PDF](https://arxiv.org/abs/2604.02546v1),[Page](https://yebulabula.github.io/UniScene3D/)]
+
+[arxiv 2026.04] EffiMiniVLM: A Compact Dual-Encoder Regression Framework  [[PDF](https://arxiv.org/abs/2604.03172v1)]
+
+[arxiv 2026.04] Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models  [[PDF](https://arxiv.org/abs/2604.03179v1)]
+
+[arxiv 2026.04] GenSmoke-GS: A Multi-Stage Method for Novel View Synthesis from Smoke-Degraded Images Using a Generative Model  [[PDF](https://arxiv.org/abs/2604.03039v1)] ![Code](https://img.shields.io/github/stars/plbbl/GenSmoke-GS?style=social&label=Star)
+
+[arxiv 2026.04] Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02893v1)]
+
+[arxiv 2026.04] InstructTable: Improving Table Structure Recognition Through Instructions  [[PDF](https://arxiv.org/abs/2604.02880v1)]
+
+[arxiv 2026.04] Token Warping Helps MLLMs Look from Nearby Viewpoints  [[PDF](https://arxiv.org/abs/2604.02870v1),[Page](https://token-warping-mllm.github.io)]
+
+[arxiv 2026.04] QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.02816v1)]
+
+[arxiv 2026.04] Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs  [[PDF](https://arxiv.org/abs/2604.02689v1)] ![Code](https://img.shields.io/github/stars/sol924/Efficient3D?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -1989,6 +2771,52 @@
 [arxiv 2025.09]  Tool-R1: Sample-Efficient Reinforcement Learning for Agentic Tool Use [[PDF](https://arxiv.org/pdf/2509.12867),[Page](https://github.com/YBYBZhang/Tool-R1)] 
 
 [arxiv 2025.12] Step-GUI Technical Report  [[PDF](https://arxiv.org/abs/2512.15431),[Page](https://github.com/stepfun-ai/gelab-zero)] ![Code](https://img.shields.io/github/stars/stepfun-ai/gelab-zero?style=social&label=Star) 
+
+[arxiv 2026.04] Moondream Segmentation: From Words to Masks  [[PDF](https://arxiv.org/abs/2604.02593v1)]
+
+[arxiv 2026.04] VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors  [[PDF](https://arxiv.org/abs/2604.02486v1)]
+
+[arxiv 2026.04] EnsemHalDet: Robust VLM Hallucination Detection via Ensemble of Internal State Detectors  [[PDF](https://arxiv.org/abs/2604.02784v1)]
+
+[arxiv 2026.04] VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation  [[PDF](https://arxiv.org/abs/2604.02467v1)]
+
+[arxiv 2026.04] The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling  [[PDF](https://arxiv.org/abs/2604.03191v1)]
+
+[arxiv 2026.04] STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models  [[PDF](https://arxiv.org/abs/2604.03045v1)]
+
+[arxiv 2026.04] QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2604.03040v1)]
+
+[arxiv 2026.04] Collaborative Multi-Mode Pruning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02956v1)] ![Code](https://img.shields.io/github/stars/Wuzimeng/CoMP?style=social&label=Star)
+
+[arxiv 2026.04] PolyReal: A Benchmark for Real-World Polymer Science Workflows  [[PDF](https://arxiv.org/abs/2604.02934v1)]
+
+[arxiv 2026.04] PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis  [[PDF](https://arxiv.org/abs/2604.02804v1)]
+
+[arxiv 2026.04] DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection  [[PDF](https://arxiv.org/abs/2604.02753v1)]
+
+[arxiv 2026.04] Token-Efficient Multimodal Reasoning via Image Prompt Packaging  [[PDF](https://arxiv.org/abs/2604.02492v1)]
+
+[arxiv 2026.04] CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning  [[PDF](https://arxiv.org/abs/2604.03231v1)]
+
+[arxiv 2026.04] WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02570v1)] ![Code](https://img.shields.io/github/stars/SAI-Lab-NYU/WSVD}{\texttt{https:?style=social&label=Star)
+
+[arxiv 2026.04] Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding  [[PDF](https://arxiv.org/abs/2604.02546v1),[Page](https://yebulabula.github.io/UniScene3D/)]
+
+[arxiv 2026.04] EffiMiniVLM: A Compact Dual-Encoder Regression Framework  [[PDF](https://arxiv.org/abs/2604.03172v1)]
+
+[arxiv 2026.04] Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models  [[PDF](https://arxiv.org/abs/2604.03179v1)]
+
+[arxiv 2026.04] GenSmoke-GS: A Multi-Stage Method for Novel View Synthesis from Smoke-Degraded Images Using a Generative Model  [[PDF](https://arxiv.org/abs/2604.03039v1)] ![Code](https://img.shields.io/github/stars/plbbl/GenSmoke-GS?style=social&label=Star)
+
+[arxiv 2026.04] Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02893v1)]
+
+[arxiv 2026.04] InstructTable: Improving Table Structure Recognition Through Instructions  [[PDF](https://arxiv.org/abs/2604.02880v1)]
+
+[arxiv 2026.04] Token Warping Helps MLLMs Look from Nearby Viewpoints  [[PDF](https://arxiv.org/abs/2604.02870v1),[Page](https://token-warping-mllm.github.io)]
+
+[arxiv 2026.04] QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.02816v1)]
+
+[arxiv 2026.04] Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs  [[PDF](https://arxiv.org/abs/2604.02689v1)] ![Code](https://img.shields.io/github/stars/sol924/Efficient3D?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -2133,6 +2961,52 @@
 
 [arxiv 2026.03] TreeTeaming: Autonomous Red-Teaming of Vision-Language Models via Hierarchical Strategy Exploration  [[PDF](https://arxiv.org/abs/2603.22882)]
 
+[arxiv 2026.04] Moondream Segmentation: From Words to Masks  [[PDF](https://arxiv.org/abs/2604.02593v1)]
+
+[arxiv 2026.04] VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors  [[PDF](https://arxiv.org/abs/2604.02486v1)]
+
+[arxiv 2026.04] EnsemHalDet: Robust VLM Hallucination Detection via Ensemble of Internal State Detectors  [[PDF](https://arxiv.org/abs/2604.02784v1)]
+
+[arxiv 2026.04] VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation  [[PDF](https://arxiv.org/abs/2604.02467v1)]
+
+[arxiv 2026.04] The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling  [[PDF](https://arxiv.org/abs/2604.03191v1)]
+
+[arxiv 2026.04] STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models  [[PDF](https://arxiv.org/abs/2604.03045v1)]
+
+[arxiv 2026.04] QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2604.03040v1)]
+
+[arxiv 2026.04] Collaborative Multi-Mode Pruning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02956v1)] ![Code](https://img.shields.io/github/stars/Wuzimeng/CoMP?style=social&label=Star)
+
+[arxiv 2026.04] PolyReal: A Benchmark for Real-World Polymer Science Workflows  [[PDF](https://arxiv.org/abs/2604.02934v1)]
+
+[arxiv 2026.04] PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis  [[PDF](https://arxiv.org/abs/2604.02804v1)]
+
+[arxiv 2026.04] DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection  [[PDF](https://arxiv.org/abs/2604.02753v1)]
+
+[arxiv 2026.04] Token-Efficient Multimodal Reasoning via Image Prompt Packaging  [[PDF](https://arxiv.org/abs/2604.02492v1)]
+
+[arxiv 2026.04] CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning  [[PDF](https://arxiv.org/abs/2604.03231v1)]
+
+[arxiv 2026.04] WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02570v1)] ![Code](https://img.shields.io/github/stars/SAI-Lab-NYU/WSVD}{\texttt{https:?style=social&label=Star)
+
+[arxiv 2026.04] Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding  [[PDF](https://arxiv.org/abs/2604.02546v1),[Page](https://yebulabula.github.io/UniScene3D/)]
+
+[arxiv 2026.04] EffiMiniVLM: A Compact Dual-Encoder Regression Framework  [[PDF](https://arxiv.org/abs/2604.03172v1)]
+
+[arxiv 2026.04] Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models  [[PDF](https://arxiv.org/abs/2604.03179v1)]
+
+[arxiv 2026.04] GenSmoke-GS: A Multi-Stage Method for Novel View Synthesis from Smoke-Degraded Images Using a Generative Model  [[PDF](https://arxiv.org/abs/2604.03039v1)] ![Code](https://img.shields.io/github/stars/plbbl/GenSmoke-GS?style=social&label=Star)
+
+[arxiv 2026.04] Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02893v1)]
+
+[arxiv 2026.04] InstructTable: Improving Table Structure Recognition Through Instructions  [[PDF](https://arxiv.org/abs/2604.02880v1)]
+
+[arxiv 2026.04] Token Warping Helps MLLMs Look from Nearby Viewpoints  [[PDF](https://arxiv.org/abs/2604.02870v1),[Page](https://token-warping-mllm.github.io)]
+
+[arxiv 2026.04] QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.02816v1)]
+
+[arxiv 2026.04] Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs  [[PDF](https://arxiv.org/abs/2604.02689v1)] ![Code](https://img.shields.io/github/stars/sol924/Efficient3D?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## context
@@ -2140,6 +3014,52 @@
 
 [arxiv 2025.10]  DeepSeek-OCR: Contexts Optical Compression [[PDF](https://arxiv.org/abs/2510.18234),[Page](https://github.com/deepseek-ai/DeepSeek-OCR)] ![Code](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-OCR?style=social&label=Star) 
 
+
+[arxiv 2026.04] Moondream Segmentation: From Words to Masks  [[PDF](https://arxiv.org/abs/2604.02593v1)]
+
+[arxiv 2026.04] VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors  [[PDF](https://arxiv.org/abs/2604.02486v1)]
+
+[arxiv 2026.04] EnsemHalDet: Robust VLM Hallucination Detection via Ensemble of Internal State Detectors  [[PDF](https://arxiv.org/abs/2604.02784v1)]
+
+[arxiv 2026.04] VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation  [[PDF](https://arxiv.org/abs/2604.02467v1)]
+
+[arxiv 2026.04] The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling  [[PDF](https://arxiv.org/abs/2604.03191v1)]
+
+[arxiv 2026.04] STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models  [[PDF](https://arxiv.org/abs/2604.03045v1)]
+
+[arxiv 2026.04] QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2604.03040v1)]
+
+[arxiv 2026.04] Collaborative Multi-Mode Pruning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02956v1)] ![Code](https://img.shields.io/github/stars/Wuzimeng/CoMP?style=social&label=Star)
+
+[arxiv 2026.04] PolyReal: A Benchmark for Real-World Polymer Science Workflows  [[PDF](https://arxiv.org/abs/2604.02934v1)]
+
+[arxiv 2026.04] PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis  [[PDF](https://arxiv.org/abs/2604.02804v1)]
+
+[arxiv 2026.04] DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection  [[PDF](https://arxiv.org/abs/2604.02753v1)]
+
+[arxiv 2026.04] Token-Efficient Multimodal Reasoning via Image Prompt Packaging  [[PDF](https://arxiv.org/abs/2604.02492v1)]
+
+[arxiv 2026.04] CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning  [[PDF](https://arxiv.org/abs/2604.03231v1)]
+
+[arxiv 2026.04] WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02570v1)] ![Code](https://img.shields.io/github/stars/SAI-Lab-NYU/WSVD}{\texttt{https:?style=social&label=Star)
+
+[arxiv 2026.04] Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding  [[PDF](https://arxiv.org/abs/2604.02546v1),[Page](https://yebulabula.github.io/UniScene3D/)]
+
+[arxiv 2026.04] EffiMiniVLM: A Compact Dual-Encoder Regression Framework  [[PDF](https://arxiv.org/abs/2604.03172v1)]
+
+[arxiv 2026.04] Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models  [[PDF](https://arxiv.org/abs/2604.03179v1)]
+
+[arxiv 2026.04] GenSmoke-GS: A Multi-Stage Method for Novel View Synthesis from Smoke-Degraded Images Using a Generative Model  [[PDF](https://arxiv.org/abs/2604.03039v1)] ![Code](https://img.shields.io/github/stars/plbbl/GenSmoke-GS?style=social&label=Star)
+
+[arxiv 2026.04] Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02893v1)]
+
+[arxiv 2026.04] InstructTable: Improving Table Structure Recognition Through Instructions  [[PDF](https://arxiv.org/abs/2604.02880v1)]
+
+[arxiv 2026.04] Token Warping Helps MLLMs Look from Nearby Viewpoints  [[PDF](https://arxiv.org/abs/2604.02870v1),[Page](https://token-warping-mllm.github.io)]
+
+[arxiv 2026.04] QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.02816v1)]
+
+[arxiv 2026.04] Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs  [[PDF](https://arxiv.org/abs/2604.02689v1)] ![Code](https://img.shields.io/github/stars/sol924/Efficient3D?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -2165,6 +3085,52 @@
 
 
 [arxiv 2026.03] Look Where It Matters: High-Resolution Crops Retrieval for Efficient VLMs  [[PDF](https://arxiv.org/abs/2603.16932)]
+
+[arxiv 2026.04] Moondream Segmentation: From Words to Masks  [[PDF](https://arxiv.org/abs/2604.02593v1)]
+
+[arxiv 2026.04] VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors  [[PDF](https://arxiv.org/abs/2604.02486v1)]
+
+[arxiv 2026.04] EnsemHalDet: Robust VLM Hallucination Detection via Ensemble of Internal State Detectors  [[PDF](https://arxiv.org/abs/2604.02784v1)]
+
+[arxiv 2026.04] VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation  [[PDF](https://arxiv.org/abs/2604.02467v1)]
+
+[arxiv 2026.04] The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling  [[PDF](https://arxiv.org/abs/2604.03191v1)]
+
+[arxiv 2026.04] STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models  [[PDF](https://arxiv.org/abs/2604.03045v1)]
+
+[arxiv 2026.04] QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2604.03040v1)]
+
+[arxiv 2026.04] Collaborative Multi-Mode Pruning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02956v1)] ![Code](https://img.shields.io/github/stars/Wuzimeng/CoMP?style=social&label=Star)
+
+[arxiv 2026.04] PolyReal: A Benchmark for Real-World Polymer Science Workflows  [[PDF](https://arxiv.org/abs/2604.02934v1)]
+
+[arxiv 2026.04] PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis  [[PDF](https://arxiv.org/abs/2604.02804v1)]
+
+[arxiv 2026.04] DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection  [[PDF](https://arxiv.org/abs/2604.02753v1)]
+
+[arxiv 2026.04] Token-Efficient Multimodal Reasoning via Image Prompt Packaging  [[PDF](https://arxiv.org/abs/2604.02492v1)]
+
+[arxiv 2026.04] CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning  [[PDF](https://arxiv.org/abs/2604.03231v1)]
+
+[arxiv 2026.04] WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02570v1)] ![Code](https://img.shields.io/github/stars/SAI-Lab-NYU/WSVD}{\texttt{https:?style=social&label=Star)
+
+[arxiv 2026.04] Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding  [[PDF](https://arxiv.org/abs/2604.02546v1),[Page](https://yebulabula.github.io/UniScene3D/)]
+
+[arxiv 2026.04] EffiMiniVLM: A Compact Dual-Encoder Regression Framework  [[PDF](https://arxiv.org/abs/2604.03172v1)]
+
+[arxiv 2026.04] Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models  [[PDF](https://arxiv.org/abs/2604.03179v1)]
+
+[arxiv 2026.04] GenSmoke-GS: A Multi-Stage Method for Novel View Synthesis from Smoke-Degraded Images Using a Generative Model  [[PDF](https://arxiv.org/abs/2604.03039v1)] ![Code](https://img.shields.io/github/stars/plbbl/GenSmoke-GS?style=social&label=Star)
+
+[arxiv 2026.04] Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02893v1)]
+
+[arxiv 2026.04] InstructTable: Improving Table Structure Recognition Through Instructions  [[PDF](https://arxiv.org/abs/2604.02880v1)]
+
+[arxiv 2026.04] Token Warping Helps MLLMs Look from Nearby Viewpoints  [[PDF](https://arxiv.org/abs/2604.02870v1),[Page](https://token-warping-mllm.github.io)]
+
+[arxiv 2026.04] QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.02816v1)]
+
+[arxiv 2026.04] Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs  [[PDF](https://arxiv.org/abs/2604.02689v1)] ![Code](https://img.shields.io/github/stars/sol924/Efficient3D?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -2245,6 +3211,52 @@
 [arxiv 2026.03] Transformers are Stateless Differentiable Neural Computers [[PDF](https://arxiv.org/abs/2603.19272)]
 
 [arxiv 2026.03] Significance-Gain Pair Encoding for LLMs: A Statistical Alternative to Frequency-Based Subword Merging [[PDF](https://arxiv.org/abs/2603.19261)]
+
+[arxiv 2026.04] Moondream Segmentation: From Words to Masks  [[PDF](https://arxiv.org/abs/2604.02593v1)]
+
+[arxiv 2026.04] VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors  [[PDF](https://arxiv.org/abs/2604.02486v1)]
+
+[arxiv 2026.04] EnsemHalDet: Robust VLM Hallucination Detection via Ensemble of Internal State Detectors  [[PDF](https://arxiv.org/abs/2604.02784v1)]
+
+[arxiv 2026.04] VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation  [[PDF](https://arxiv.org/abs/2604.02467v1)]
+
+[arxiv 2026.04] The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling  [[PDF](https://arxiv.org/abs/2604.03191v1)]
+
+[arxiv 2026.04] STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models  [[PDF](https://arxiv.org/abs/2604.03045v1)]
+
+[arxiv 2026.04] QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2604.03040v1)]
+
+[arxiv 2026.04] Collaborative Multi-Mode Pruning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02956v1)] ![Code](https://img.shields.io/github/stars/Wuzimeng/CoMP?style=social&label=Star)
+
+[arxiv 2026.04] PolyReal: A Benchmark for Real-World Polymer Science Workflows  [[PDF](https://arxiv.org/abs/2604.02934v1)]
+
+[arxiv 2026.04] PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis  [[PDF](https://arxiv.org/abs/2604.02804v1)]
+
+[arxiv 2026.04] DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection  [[PDF](https://arxiv.org/abs/2604.02753v1)]
+
+[arxiv 2026.04] Token-Efficient Multimodal Reasoning via Image Prompt Packaging  [[PDF](https://arxiv.org/abs/2604.02492v1)]
+
+[arxiv 2026.04] CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning  [[PDF](https://arxiv.org/abs/2604.03231v1)]
+
+[arxiv 2026.04] WSVD: Weighted Low-Rank Approximation for Fast and Efficient Execution of Low-Precision Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02570v1)] ![Code](https://img.shields.io/github/stars/SAI-Lab-NYU/WSVD}{\texttt{https:?style=social&label=Star)
+
+[arxiv 2026.04] Contrastive Language-Colored Pointmap Pretraining for Unified 3D Scene Understanding  [[PDF](https://arxiv.org/abs/2604.02546v1),[Page](https://yebulabula.github.io/UniScene3D/)]
+
+[arxiv 2026.04] EffiMiniVLM: A Compact Dual-Encoder Regression Framework  [[PDF](https://arxiv.org/abs/2604.03172v1)]
+
+[arxiv 2026.04] Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models  [[PDF](https://arxiv.org/abs/2604.03179v1)]
+
+[arxiv 2026.04] GenSmoke-GS: A Multi-Stage Method for Novel View Synthesis from Smoke-Degraded Images Using a Generative Model  [[PDF](https://arxiv.org/abs/2604.03039v1)] ![Code](https://img.shields.io/github/stars/plbbl/GenSmoke-GS?style=social&label=Star)
+
+[arxiv 2026.04] Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.02893v1)]
+
+[arxiv 2026.04] InstructTable: Improving Table Structure Recognition Through Instructions  [[PDF](https://arxiv.org/abs/2604.02880v1)]
+
+[arxiv 2026.04] Token Warping Helps MLLMs Look from Nearby Viewpoints  [[PDF](https://arxiv.org/abs/2604.02870v1),[Page](https://token-warping-mllm.github.io)]
+
+[arxiv 2026.04] QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.02816v1)]
+
+[arxiv 2026.04] Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs  [[PDF](https://arxiv.org/abs/2604.02689v1)] ![Code](https://img.shields.io/github/stars/sol924/Efficient3D?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

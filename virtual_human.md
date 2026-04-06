@@ -117,6 +117,18 @@
 
 [arxiv 2026.04] Human Pose Estimation in Trampoline Gymnastics: Improving Performance Using a New Synthetic Dataset  [[PDF](https://arxiv.org/abs/2604.01322)]
 
+[arxiv 2026.04] CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator  [[PDF](https://arxiv.org/abs/2604.03156v1)]
+
+[arxiv 2026.04] Exploring Motion-Language Alignment for Text-driven Motion Generation  [[PDF](https://arxiv.org/abs/2604.02973v1)]
+
+[arxiv 2026.04] MMTalker: Multiresolution 3D Talking Head Synthesis with Multimodal Feature Fusion  [[PDF](https://arxiv.org/abs/2604.02941v1)]
+
+[arxiv 2026.04] SentiAvatar: Towards Expressive and Interactive Digital Humans  [[PDF](https://arxiv.org/abs/2604.02908v1),[Page](https://sentiavatar.github.io)]
+
+[arxiv 2026.04] Information-Regularized Constrained Inversion for Stable Avatar Editing from Sparse Supervision  [[PDF](https://arxiv.org/abs/2604.02883v1)]
+
+[arxiv 2026.04] UNICA: A Unified Neural Framework for Controllable 3D Avatars  [[PDF](https://arxiv.org/abs/2604.02799v1)] ![Code](https://img.shields.io/github/stars/zjh21/UNICA?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -133,6 +145,18 @@
 [arxiv 2026.03] TDMM-LM: Bridging Facial Understanding and Animation via Language Models  [[PDF](https://arxiv.org/abs/2603.16936)]
 
 [arxiv 2026.03] ECHO: Towards Emotionally Appropriate and Contextually Aware Interactive Head Generation  [[PDF](https://arxiv.org/abs/2603.17427)]
+
+[arxiv 2026.04] CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator  [[PDF](https://arxiv.org/abs/2604.03156v1)]
+
+[arxiv 2026.04] Exploring Motion-Language Alignment for Text-driven Motion Generation  [[PDF](https://arxiv.org/abs/2604.02973v1)]
+
+[arxiv 2026.04] MMTalker: Multiresolution 3D Talking Head Synthesis with Multimodal Feature Fusion  [[PDF](https://arxiv.org/abs/2604.02941v1)]
+
+[arxiv 2026.04] SentiAvatar: Towards Expressive and Interactive Digital Humans  [[PDF](https://arxiv.org/abs/2604.02908v1),[Page](https://sentiavatar.github.io)]
+
+[arxiv 2026.04] Information-Regularized Constrained Inversion for Stable Avatar Editing from Sparse Supervision  [[PDF](https://arxiv.org/abs/2604.02883v1)]
+
+[arxiv 2026.04] UNICA: A Unified Neural Framework for Controllable 3D Avatars  [[PDF](https://arxiv.org/abs/2604.02799v1)] ![Code](https://img.shields.io/github/stars/zjh21/UNICA?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -329,6 +353,18 @@
 
 [arxiv 2026.03] GraPHFormer: A Multimodal Graph Persistent Homology Transformer for the Analysis of Neuroscience Morphologies  [[PDF](https://arxiv.org/abs/2603.20970)]
 
+[arxiv 2026.04] CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator  [[PDF](https://arxiv.org/abs/2604.03156v1)]
+
+[arxiv 2026.04] Exploring Motion-Language Alignment for Text-driven Motion Generation  [[PDF](https://arxiv.org/abs/2604.02973v1)]
+
+[arxiv 2026.04] MMTalker: Multiresolution 3D Talking Head Synthesis with Multimodal Feature Fusion  [[PDF](https://arxiv.org/abs/2604.02941v1)]
+
+[arxiv 2026.04] SentiAvatar: Towards Expressive and Interactive Digital Humans  [[PDF](https://arxiv.org/abs/2604.02908v1),[Page](https://sentiavatar.github.io)]
+
+[arxiv 2026.04] Information-Regularized Constrained Inversion for Stable Avatar Editing from Sparse Supervision  [[PDF](https://arxiv.org/abs/2604.02883v1)]
+
+[arxiv 2026.04] UNICA: A Unified Neural Framework for Controllable 3D Avatars  [[PDF](https://arxiv.org/abs/2604.02799v1)] ![Code](https://img.shields.io/github/stars/zjh21/UNICA?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer  [[PDF](https://arxiv.org/abs/2603.19227),[Page](https://rheallyc.github.io/projects/motok)] ![Code](https://img.shields.io/github/stars/rheallyc/MoTok?style=social&label=Star)
@@ -348,6 +384,18 @@
 
 [arxiv 2025.03]  ExGes: Expressive Human Motion Retrieval and Modulation for Audio-Driven Gesture Synthesis [[PDF](https://arxiv.org/pdf/2503.06499)]
 
+
+[arxiv 2026.04] CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator  [[PDF](https://arxiv.org/abs/2604.03156v1)]
+
+[arxiv 2026.04] Exploring Motion-Language Alignment for Text-driven Motion Generation  [[PDF](https://arxiv.org/abs/2604.02973v1)]
+
+[arxiv 2026.04] MMTalker: Multiresolution 3D Talking Head Synthesis with Multimodal Feature Fusion  [[PDF](https://arxiv.org/abs/2604.02941v1)]
+
+[arxiv 2026.04] SentiAvatar: Towards Expressive and Interactive Digital Humans  [[PDF](https://arxiv.org/abs/2604.02908v1),[Page](https://sentiavatar.github.io)]
+
+[arxiv 2026.04] Information-Regularized Constrained Inversion for Stable Avatar Editing from Sparse Supervision  [[PDF](https://arxiv.org/abs/2604.02883v1)]
+
+[arxiv 2026.04] UNICA: A Unified Neural Framework for Controllable 3D Avatars  [[PDF](https://arxiv.org/abs/2604.02799v1)] ![Code](https://img.shields.io/github/stars/zjh21/UNICA?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -374,11 +422,35 @@
 
 [arxiv 2026.03] Enhancing Hands in 3D Whole-Body Pose Estimation with Conditional Hands Modulator  [[PDF](https://arxiv.org/abs/2603.14726)]
 
+[arxiv 2026.04] CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator  [[PDF](https://arxiv.org/abs/2604.03156v1)]
+
+[arxiv 2026.04] Exploring Motion-Language Alignment for Text-driven Motion Generation  [[PDF](https://arxiv.org/abs/2604.02973v1)]
+
+[arxiv 2026.04] MMTalker: Multiresolution 3D Talking Head Synthesis with Multimodal Feature Fusion  [[PDF](https://arxiv.org/abs/2604.02941v1)]
+
+[arxiv 2026.04] SentiAvatar: Towards Expressive and Interactive Digital Humans  [[PDF](https://arxiv.org/abs/2604.02908v1),[Page](https://sentiavatar.github.io)]
+
+[arxiv 2026.04] Information-Regularized Constrained Inversion for Stable Avatar Editing from Sparse Supervision  [[PDF](https://arxiv.org/abs/2604.02883v1)]
+
+[arxiv 2026.04] UNICA: A Unified Neural Framework for Controllable 3D Avatars  [[PDF](https://arxiv.org/abs/2604.02799v1)] ![Code](https://img.shields.io/github/stars/zjh21/UNICA?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 # ego
 [arxiv 2025.04]  The Invisible EgoHand: 3D Hand Forecasting through EgoBody Pose Estimation [[PDF](https://arxiv.org/abs/2504.08654),[Page](https://masashi-hatano.github.io/EgoH4/)] ![Code](https://img.shields.io/github/stars/masashi-hatano/EgoH4?style=social&label=Star)
+
+[arxiv 2026.04] CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator  [[PDF](https://arxiv.org/abs/2604.03156v1)]
+
+[arxiv 2026.04] Exploring Motion-Language Alignment for Text-driven Motion Generation  [[PDF](https://arxiv.org/abs/2604.02973v1)]
+
+[arxiv 2026.04] MMTalker: Multiresolution 3D Talking Head Synthesis with Multimodal Feature Fusion  [[PDF](https://arxiv.org/abs/2604.02941v1)]
+
+[arxiv 2026.04] SentiAvatar: Towards Expressive and Interactive Digital Humans  [[PDF](https://arxiv.org/abs/2604.02908v1),[Page](https://sentiavatar.github.io)]
+
+[arxiv 2026.04] Information-Regularized Constrained Inversion for Stable Avatar Editing from Sparse Supervision  [[PDF](https://arxiv.org/abs/2604.02883v1)]
+
+[arxiv 2026.04] UNICA: A Unified Neural Framework for Controllable 3D Avatars  [[PDF](https://arxiv.org/abs/2604.02799v1)] ![Code](https://img.shields.io/github/stars/zjh21/UNICA?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -407,6 +479,18 @@
 [arxiv 2026.03] PhysSkin: Real-Time and Generalizable Physics-Based Animation via Self-Supervised Neural Skinning  [[PDF](https://arxiv.org/abs/2603.23194)]
 
 [arxiv 2025.12] M.I.O: Towards Interactive Intelligence for Digital Humans  [[PDF](https://arxiv.org/abs/2512.13674),[Page](https://shandaai.github.io/project_mio_page/)] 
+
+[arxiv 2026.04] CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator  [[PDF](https://arxiv.org/abs/2604.03156v1)]
+
+[arxiv 2026.04] Exploring Motion-Language Alignment for Text-driven Motion Generation  [[PDF](https://arxiv.org/abs/2604.02973v1)]
+
+[arxiv 2026.04] MMTalker: Multiresolution 3D Talking Head Synthesis with Multimodal Feature Fusion  [[PDF](https://arxiv.org/abs/2604.02941v1)]
+
+[arxiv 2026.04] SentiAvatar: Towards Expressive and Interactive Digital Humans  [[PDF](https://arxiv.org/abs/2604.02908v1),[Page](https://sentiavatar.github.io)]
+
+[arxiv 2026.04] Information-Regularized Constrained Inversion for Stable Avatar Editing from Sparse Supervision  [[PDF](https://arxiv.org/abs/2604.02883v1)]
+
+[arxiv 2026.04] UNICA: A Unified Neural Framework for Controllable 3D Avatars  [[PDF](https://arxiv.org/abs/2604.02799v1)] ![Code](https://img.shields.io/github/stars/zjh21/UNICA?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -526,6 +610,18 @@
 
 [arxiv 2026.03] GraphiContact: Pose-aware Human-Scene Robust Contact Perception for Interactive Systems  [[PDF](https://arxiv.org/abs/2603.20310)]
 
+[arxiv 2026.04] CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator  [[PDF](https://arxiv.org/abs/2604.03156v1)]
+
+[arxiv 2026.04] Exploring Motion-Language Alignment for Text-driven Motion Generation  [[PDF](https://arxiv.org/abs/2604.02973v1)]
+
+[arxiv 2026.04] MMTalker: Multiresolution 3D Talking Head Synthesis with Multimodal Feature Fusion  [[PDF](https://arxiv.org/abs/2604.02941v1)]
+
+[arxiv 2026.04] SentiAvatar: Towards Expressive and Interactive Digital Humans  [[PDF](https://arxiv.org/abs/2604.02908v1),[Page](https://sentiavatar.github.io)]
+
+[arxiv 2026.04] Information-Regularized Constrained Inversion for Stable Avatar Editing from Sparse Supervision  [[PDF](https://arxiv.org/abs/2604.02883v1)]
+
+[arxiv 2026.04] UNICA: A Unified Neural Framework for Controllable 3D Avatars  [[PDF](https://arxiv.org/abs/2604.02799v1)] ![Code](https://img.shields.io/github/stars/zjh21/UNICA?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] GHOST: Fast Category-agnostic Hand-Object Interaction Reconstruction from RGB Videos using Gaussian Splatting  [[PDF](https://arxiv.org/abs/2603.18912)]
@@ -545,8 +641,32 @@
 
 [arxiv 2025.08] HOID-R1: Reinforcement Learning for Open-World Human-Object Interaction Detection Reasoning with Multimodal Large Language Model  [[PDF](https://arxiv.org/abs/2508.11350)]
 
+[arxiv 2026.04] CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator  [[PDF](https://arxiv.org/abs/2604.03156v1)]
+
+[arxiv 2026.04] Exploring Motion-Language Alignment for Text-driven Motion Generation  [[PDF](https://arxiv.org/abs/2604.02973v1)]
+
+[arxiv 2026.04] MMTalker: Multiresolution 3D Talking Head Synthesis with Multimodal Feature Fusion  [[PDF](https://arxiv.org/abs/2604.02941v1)]
+
+[arxiv 2026.04] SentiAvatar: Towards Expressive and Interactive Digital Humans  [[PDF](https://arxiv.org/abs/2604.02908v1),[Page](https://sentiavatar.github.io)]
+
+[arxiv 2026.04] Information-Regularized Constrained Inversion for Stable Avatar Editing from Sparse Supervision  [[PDF](https://arxiv.org/abs/2604.02883v1)]
+
+[arxiv 2026.04] UNICA: A Unified Neural Framework for Controllable 3D Avatars  [[PDF](https://arxiv.org/abs/2604.02799v1)] ![Code](https://img.shields.io/github/stars/zjh21/UNICA?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+
+[arxiv 2026.04] CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator  [[PDF](https://arxiv.org/abs/2604.03156v1)]
+
+[arxiv 2026.04] Exploring Motion-Language Alignment for Text-driven Motion Generation  [[PDF](https://arxiv.org/abs/2604.02973v1)]
+
+[arxiv 2026.04] MMTalker: Multiresolution 3D Talking Head Synthesis with Multimodal Feature Fusion  [[PDF](https://arxiv.org/abs/2604.02941v1)]
+
+[arxiv 2026.04] SentiAvatar: Towards Expressive and Interactive Digital Humans  [[PDF](https://arxiv.org/abs/2604.02908v1),[Page](https://sentiavatar.github.io)]
+
+[arxiv 2026.04] Information-Regularized Constrained Inversion for Stable Avatar Editing from Sparse Supervision  [[PDF](https://arxiv.org/abs/2604.02883v1)]
+
+[arxiv 2026.04] UNICA: A Unified Neural Framework for Controllable 3D Avatars  [[PDF](https://arxiv.org/abs/2604.02799v1)] ![Code](https://img.shields.io/github/stars/zjh21/UNICA?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -570,6 +690,18 @@
 [arxiv 2026.01] Dynamic Worlds, Dynamic Humans: Generating Virtual Human-Scene Interaction Motion in Dynamic Scenes  [[PDF](https://arxiv.org/abs/2601.19484)]
 
 
+[arxiv 2026.04] CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator  [[PDF](https://arxiv.org/abs/2604.03156v1)]
+
+[arxiv 2026.04] Exploring Motion-Language Alignment for Text-driven Motion Generation  [[PDF](https://arxiv.org/abs/2604.02973v1)]
+
+[arxiv 2026.04] MMTalker: Multiresolution 3D Talking Head Synthesis with Multimodal Feature Fusion  [[PDF](https://arxiv.org/abs/2604.02941v1)]
+
+[arxiv 2026.04] SentiAvatar: Towards Expressive and Interactive Digital Humans  [[PDF](https://arxiv.org/abs/2604.02908v1),[Page](https://sentiavatar.github.io)]
+
+[arxiv 2026.04] Information-Regularized Constrained Inversion for Stable Avatar Editing from Sparse Supervision  [[PDF](https://arxiv.org/abs/2604.02883v1)]
+
+[arxiv 2026.04] UNICA: A Unified Neural Framework for Controllable 3D Avatars  [[PDF](https://arxiv.org/abs/2604.02799v1)] ![Code](https://img.shields.io/github/stars/zjh21/UNICA?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## VLA
@@ -577,6 +709,18 @@
 
 [arxiv 2026.02] VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model  [[PDF](https://arxiv.org/abs/2602.10098),[Page](https://github.com/ginwind/VLA-JEPA/)] ![Code](https://img.shields.io/github/stars/ginwind/VLA-JEPA/?style=social&label=Star)
 
+
+[arxiv 2026.04] CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator  [[PDF](https://arxiv.org/abs/2604.03156v1)]
+
+[arxiv 2026.04] Exploring Motion-Language Alignment for Text-driven Motion Generation  [[PDF](https://arxiv.org/abs/2604.02973v1)]
+
+[arxiv 2026.04] MMTalker: Multiresolution 3D Talking Head Synthesis with Multimodal Feature Fusion  [[PDF](https://arxiv.org/abs/2604.02941v1)]
+
+[arxiv 2026.04] SentiAvatar: Towards Expressive and Interactive Digital Humans  [[PDF](https://arxiv.org/abs/2604.02908v1),[Page](https://sentiavatar.github.io)]
+
+[arxiv 2026.04] Information-Regularized Constrained Inversion for Stable Avatar Editing from Sparse Supervision  [[PDF](https://arxiv.org/abs/2604.02883v1)]
+
+[arxiv 2026.04] UNICA: A Unified Neural Framework for Controllable 3D Avatars  [[PDF](https://arxiv.org/abs/2604.02799v1)] ![Code](https://img.shields.io/github/stars/zjh21/UNICA?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -641,6 +785,18 @@
 [arxiv 2026.03] Benchmarking Efficient &amp; Effective Camera Pose Estimation Strategies for Novel View Synthesis  [[PDF](https://arxiv.org/abs/2603.20428)]
 
 [arxiv 2026.03] Monocular Models are Strong Learners for Multi-View Human Mesh Recovery  [[PDF](https://arxiv.org/abs/2603.20391)]
+
+[arxiv 2026.04] CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator  [[PDF](https://arxiv.org/abs/2604.03156v1)]
+
+[arxiv 2026.04] Exploring Motion-Language Alignment for Text-driven Motion Generation  [[PDF](https://arxiv.org/abs/2604.02973v1)]
+
+[arxiv 2026.04] MMTalker: Multiresolution 3D Talking Head Synthesis with Multimodal Feature Fusion  [[PDF](https://arxiv.org/abs/2604.02941v1)]
+
+[arxiv 2026.04] SentiAvatar: Towards Expressive and Interactive Digital Humans  [[PDF](https://arxiv.org/abs/2604.02908v1),[Page](https://sentiavatar.github.io)]
+
+[arxiv 2026.04] Information-Regularized Constrained Inversion for Stable Avatar Editing from Sparse Supervision  [[PDF](https://arxiv.org/abs/2604.02883v1)]
+
+[arxiv 2026.04] UNICA: A Unified Neural Framework for Controllable 3D Avatars  [[PDF](https://arxiv.org/abs/2604.02799v1)] ![Code](https://img.shields.io/github/stars/zjh21/UNICA?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

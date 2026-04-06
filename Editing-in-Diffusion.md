@@ -537,6 +537,34 @@
 
 [arxiv 2026.04] Why Instruction-Based Unlearning Fails in Diffusion Models?  [[PDF](https://arxiv.org/abs/2604.01514)]
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]
@@ -592,6 +620,34 @@
 [arxiv 2026.03] IAML: Illumination-Aware Mirror Loss for Progressive Learning in Low-Light Image Enhancement Auto-encoders  [[PDF](https://arxiv.org/abs/2603.13363)]
 
 [arxiv 2026.03] Safety-Guided Flow (SGF): A Unified Framework for Negative Guidance in Safe Generation  [[PDF](https://arxiv.org/abs/2603.13300)] ![Code](https://img.shields.io/github/stars/MingyuKim87/SGF?style=social&label=Star)
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1307,6 +1363,34 @@
 
 [arxiv 2026.03] MultiBind: A Benchmark for Attribute Misbinding in Multi-Subject Generation  [[PDF](https://arxiv.org/abs/2603.21937)]
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] WeEdit: A Dataset, Benchmark and Glyph-Guided Framework for Text-centric Image Editing  [[PDF](https://arxiv.org/abs/2603.11593)]
@@ -1316,6 +1400,34 @@
 
 ## Analysis
 [arxiv 2025.02]  SliderSpace: Decomposing the Visual Capabilities of Diffusion Models [[PDF](https://arxiv.org/pdf/2502.01639),[Page](https://sliderspace.baulab.info/)] 
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1345,6 +1457,34 @@
 
 
 [arxiv 2026.03] COT-FM: Cluster-wise Optimal Transport Flow Matching  [[PDF](https://arxiv.org/abs/2603.13395)]
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1431,6 +1571,34 @@
 [arxiv 2026.02]  CoLoGen: Progressive Learning of Concept–Localization Duality for Unified Image Generation [[PDF](https://arxiv.org/abs/2602.22150)]
 
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1439,7 +1607,63 @@
 
 [arxiv 2024.11] Scaling Properties of Diffusion Models for Perceptual Tasks  [[PDF](https://arxiv.org/abs/2411.08034),[Page](https://scaling-diffusion-perception.github.io/)]
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1517,6 +1741,34 @@
 
 [arxiv 2026.03] Improving Diffusion Generalization with Weak-to-Strong Segmented Guidance  [[PDF](https://arxiv.org/abs/2603.20584)]
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] Fractals made Practical: Denoising Diffusion as Partitioned Iterated Function Systems  [[PDF](https://arxiv.org/abs/2603.13069)]
@@ -1584,6 +1836,34 @@
 [arxiv 2026.01]  FlowConsist: Make Your Flow Consistent with Real Trajectory [[PDF](https://arxiv.org/pdf/2602.06346)]
 
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1603,6 +1883,34 @@
 [arxiv 2025.10]  Rectified-CFG++ for Flow Based Models [[PDF](https://arxiv.org/abs/2510.07631),[Page](https://rectified-cfgpp.github.io/)] ![Code](https://img.shields.io/github/stars/shreshthsaini/Rectified-CFGpp?style=social&label=Star)
 
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1610,10 +1918,66 @@
 
 [arxiv 2025.02] VideoRoPE: What Makes for Good Video Rotary Position Embedding?  [[PDF](https://arxiv.org/abs/2502.05173),[Page](https://github.com/Wiselnn570/VideoRoPE)] ![Code](https://img.shields.io/github/stars/Wiselnn570/VideoRoPE?style=social&label=Star)
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 # VLM guided Generation
 [arxiv 2025.06] Dual-Process Image Generation  [[PDF](https://arxiv.org/abs/2506.01955),[Page](https://dual-process.github.io/)] ![Code](https://img.shields.io/github/stars/https://github.com/g-luo/dual_process?style=social&label=Star)
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1644,6 +2008,34 @@
 [arxiv 2024.12] Instruction-based Image Manipulation by Watching How Things Move  [[PDF](https://arxiv.org/abs/2412.12087),[Page](https://ljzycmd.github.io/projects/InstructMove/)] 
 
 [arxiv 2024.12] UIP2P: Unsupervised Instruction-based Image Editing via Cycle Edit Consistency  [[PDF](https://arxiv.org/abs/2412.15216),[Page](https://enis.dev/uip2p/)]
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1874,12 +2266,68 @@
 
 [arxiv 2026.01] Agentic Retoucher for Text-To-Image Generation  [[PDF](https://arxiv.org/pdf/2601.02046)]
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## data augmentation
 [arxiv 2025.03] How far can we go with ImageNet for Text-to-Image generation?  [[PDF](https://arxiv.org/abs/2502.21318),[Page](https://lucasdegeorge.github.io/projects/t2i_imagenet/)] ![Code](https://img.shields.io/github/stars/lucasdegeorge/T2I-ImageNet?style=social&label=Star)
 
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1953,6 +2401,34 @@
 [arxiv 2026.03] DA-VAE: Plug-in Latent Compression for Diffusion via Detail Alignment  [[PDF](https://arxiv.org/abs/2603.22125)]
 
 [arxiv 2026.03] Taming Sampling Perturbations with Variance Expansion Loss for Latent Diffusion Models  [[PDF](https://arxiv.org/abs/2603.21085)]
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2057,6 +2533,34 @@
 [arxiv 2026.02]  BitDance: Scaling Autoregressive Generative Models with Binary Tokens [[PDF](https://arxiv.org/abs/2602.14041),[Page](https://bitdance.csuhan.com/)] ![Code](https://img.shields.io/github/stars/shallowdream204/BitDance?style=social&label=Star)
 
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens  [[PDF](https://arxiv.org/abs/2603.19232)] ![Code](https://img.shields.io/github/stars/YuqingWang1029/CubiD?style=social&label=Star)
@@ -2069,6 +2573,34 @@
 
 [arxiv 2025.12]  DiverseVAR: Balancing Diversity and Quality of Next-Scale Visual Autoregressive Models [[PDF](https://arxiv.org/pdf/2511.21415)]
 
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2083,6 +2615,34 @@
 [arxiv 2025.08]  Visual Autoregressive Modeling for Instruction-Guided Image Editing [[PDF](https://arxiv.org/abs/2508.15772),[Page](https://github.com/HiDream-ai/VAREdit)] ![Code](https://img.shields.io/github/stars/HiDream-ai/VAREdit?style=social&label=Star)
 
 [arxiv 2025.09]  Discrete Noise Inversion for Next-scale Autoregressive Text-based Image Editing [[PDF](https://arxiv.org/abs/2509.01984)]
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2099,6 +2659,34 @@
 [arxiv 2026.01]  DreamVAR: Taming Reinforced Visual Autoregressive Model for High-Fidelity Subject-Driven Image Generation [[PDF](https://arxiv.org/abs/2601.22507)]
 
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2109,11 +2697,67 @@
 
 [arxiv 2025.07] Locality-aware Parallel Decoding for Efficient Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2507.01957),[Page](https://github.com/mit-han-lab/lpd)] ![Code](https://img.shields.io/github/stars/mit-han-lab/lpd?style=social&label=Star)
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## autoregressive continuous
 [arxiv 2025.05]  Continuous Visual Autoregressive Generation via Score Maximization [[PDF](https://arxiv.org/pdf/2505.07812)]
 
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2124,16 +2768,100 @@
 [arxiv 2025.07]  CSD-VAR: Content-Style Decomposition in Visual Autoregressive Models [[PDF](https://arxiv.org/pdf/2507.13984)]
 
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## autoregressive cot
 [arxiv 2025.10] Improving Chain-of-Thought Efficiency for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2510.05593)]
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## autoregressive feedback
 [arxiv 2025.08] AR-GRPO: Training Autoregressive Image Generation Models via Reinforcement Learning [[PDF](https://arxiv.org/pdf/2508.06924),[Page](https://github.com/Kwai-Klear/AR-GRPO)] ![Code](https://img.shields.io/github/stars/Kwai-Klear/AR-GRPO?style=social&label=Star)
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2198,6 +2926,34 @@
 [arxiv 2026.03] MFSR: MeanFlow Distillation for One Step Real-World Image Super Resolution  [[PDF](https://arxiv.org/abs/2603.20690)]
 
 [arxiv 2026.03] Transferable Multi-Bit Watermarking Across Frozen Diffusion Models via Latent Consistency Bridges  [[PDF](https://arxiv.org/abs/2603.20304)]
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2334,6 +3090,34 @@
 
 [arxiv 2026.03] Garments2Look: A Multi-Reference Dataset for High-Fidelity Outfit-Level Virtual Try-On with Clothing and Accessories  [[PDF](https://arxiv.org/abs/2603.14153)]
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] VTEdit-Bench: A Comprehensive Benchmark for Multi-Reference Image Editing Models in Virtual Try-On  [[PDF](https://arxiv.org/abs/2603.11734)]
@@ -2343,6 +3127,34 @@
 
 [arxiv 2024.10]  Model merging with SVD to tie the Knots [[PDF](https://arxiv.org/abs/2410.19735),[Page](https://github.com/gstoica27/KnOTS)]
 
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2409,6 +3221,34 @@
 
 [arxiv 2026.03] Training-free Detection of Generated Videos via Spatial-Temporal Likelihoods  [[PDF](https://arxiv.org/abs/2603.15026),[Page](https://omerbenhayun.github.io/stall-video)]
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Caption 
@@ -2432,6 +3272,34 @@
 [arxiv 2025.10] Grasp Any Region: Towards Precise, Contextual Pixel Understanding for Multimodal LLMs  [[PDF](https://arxiv.org/abs/2510.18876),[Page](https://github.com/Haochen-Wang409/Grasp-Any-Region)] ![Code](https://img.shields.io/github/stars/Haochen-Wang409/Grasp-Any-Region?style=social&label=Star)
 
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2441,6 +3309,34 @@
 [github] [Reactor](https://github.com/Gourieff/sd-webui-reactor)
 
 [arxiv 2024.11] MegaPortrait: Revisiting Diffusion Control for High-fidelity Portrait Generation  [[PDF](https://arxiv.org/abs/2411.04357)]
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
  
@@ -2894,6 +3790,34 @@
 [arxiv 2026.03] IdGlow: Dynamic Identity Modulation for Multi-Subject Generation  [[PDF](https://arxiv.org/pdf/2603.00607),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2902,6 +3826,34 @@
 
 ## MV Concept 
 [arxiv 2025.10] MVCustom: Multi-View Customized Diffusion via Geometric Latent Rendering and Completion  [[PDF](https://arxiv.org/abs/2510.13702),[Page](https://minjung-s.github.io/mvcustom)] ![Code](https://img.shields.io/github/stars/minjung-s/MVCustom?style=social&label=Star)
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2918,6 +3870,34 @@
 [arxiv 2025.12]  Ar2Can: An Architect and an Artist Leveraging a Canvas for Multi-Human Generation [[PDF](https://arxiv.org/pdf/2511.22690)]
 
 [arxiv 2026.02]  UniRef-Image-Edit: Towards Scalable and Consistent Multi-Reference Image Editing [[PDF](https://arxiv.org/abs/2602.14186)]
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2946,10 +3926,66 @@
 
 [arxiv 2025.08] Scaling Group Inference for Diverse and High-Quality Generation  [[PDF](https://arxiv.org/abs/2508.15773),[Page](https://www.cs.cmu.edu/~group-inference/)] ![Code](https://img.shields.io/github/stars/GaParmar/group-inference?style=social&label=Star)
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## interleave generation 
 [arxiv 2025.10] IUT-Plug: A Plug-in tool for Interleaved Image-Text Generation  [[PDF](https://arxiv.org/abs/2510.10969)]
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2959,6 +3995,34 @@
 
 [arxiv 2024.12] MV-Adapter: Multi-view Consistent Image Generation Made Easy  [[PDF](https://arxiv.org/abs/2412.03632),[Page](https://huanngzh.github.io/MV-Adapter-Page/)] ![Code](https://img.shields.io/github/stars/huanngzh/MV-Adapter?style=social&label=Star)
 
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3042,8 +4106,64 @@
 
 [arxiv 2025.12] IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation  [[PDF](https://arxiv.org/abs/2512.23519)]
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3131,6 +4251,34 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2025.10] SEGA: A Stepwise Evolution Paradigm for Content-Aware Layout Generation with Design Prior  [[PDF](https://arxiv.org/abs/2510.15749),[Page](https://brucew91.github.io/SEGA.github.io/)] ![Code](https://img.shields.io/github/stars/BruceW91/SEGA?style=social&label=Star) 
 
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
@@ -3182,6 +4330,34 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2025.11]  VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual Representation [[PDF](https://arxiv.org/abs/2511.02778),[Page](https://csu-jpg.github.io/VCode)] ![Code](https://img.shields.io/github/stars/CSU-JPG/VCode?style=social&label=Star)
 
 [arxiv 2025.12] DuetSVG: Unified Multimodal SVG Generation with Internal Visual Guidance  [[PDF](https://arxiv.org/abs/2512.10894),[Page](https://intchous.github.io/DuetSVG-site)] 
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3551,6 +4727,34 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03] HiFi-Inpaint: Towards High-Fidelity Reference-Based Inpainting for Generating Detail-Preserving Human-Product Images  [[PDF](https://arxiv.org/pdf/2603.02210),[Page](https://correr-zhou.github.io/HiFi-Inpaint/)] ![Code](https://img.shields.io/github/stars/Correr-Zhou/HiFi-Inpaint?style=social&label=Star)
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3838,6 +5042,34 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.03]  AlignVAR: Towards Globally Consistent Visual Autoregression for Image Super-Resolution [[PDF](https://arxiv.org/pdf/2603.00589)]
 
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] Color image restoration based on nonlocal saturation-value similarity  [[PDF](https://arxiv.org/abs/2603.18586)]
@@ -3852,11 +5084,67 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.02] RelaCtrl: Relevance-Guided Efficient Control for Diffusion Transformers  [[PDF](https://arxiv.org/abs/2502.14377),[Page](https://relactrl.github.io/RelaCtrl/)] 
 
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## action transfer 
 [arxiv 2023.11]Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2311.15841)]
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4045,6 +5333,34 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.02]  CleanStyle: Plug-and-Play Style Conditioning Purification for Text-to-Image Stylization [[PDF](https://arxiv.org/pdf/2602.20721),[Page](https://github.com/Westlake-AGI-Lab/CleanStyle)] ![Code](https://img.shields.io/github/stars/Westlake-AGI-Lab/CleanStyle?style=social&label=Star)
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -4053,6 +5369,34 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.05] IA-T2I: Internet-Augmented Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2505.15779)]
 
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4076,6 +5420,34 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.11]  Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation [[PDF](https://arxiv.org/abs/2511.16671),[Page](https://think-while-gen.github.io/)] ![Code](https://img.shields.io/github/stars/ZiyuGuo99/Thinking-while-Generating?style=social&label=Star)
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -4093,6 +5465,34 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.12]  VisionDirector: Vision-Language Guided Closed-Loop Refinement for Generative Image Synthesis [[PDF](https://arxiv.org/abs/2512.19243)]
 
 [arxiv 2026.02]  PhotoAgent:Where Aesthetic Intent Becomes Visual Reality [[PDF](https://arxiv.org/abs/2602.22809),[Page](https://mdyao.github.io/PhotoAgent/)] ![Code](https://img.shields.io/github/stars/mdyao/PhotoAgent?style=social&label=Star)
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4167,6 +5567,34 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.03] LogoDiffuser: Training-Free Multilingual Logo Generation and Stylization via Letter-Aware Attention Control  [[PDF](https://arxiv.org/pdf/2603.09759)]
 
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -4178,12 +5606,68 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.04]  From Reflection to Perfection: Scaling Inference-Time Optimization for Text-to-Image Diffusion Models via Reflection Tuning [[PDF](https://arxiv.org/abs/2504.16080),[Page](https://diffusion-cot.github.io/reflection2perfection/)] ![Code](https://img.shields.io/github/stars/Diffusion-CoT/ReflectionFlow?style=social&label=Star)
 
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Joint generation
 
 [arxiv 2025.01] Orchid: Image Latent Diffusion for Joint Appearance and Geometry Generation  [[PDF](https://arxiv.org/abs/2501.13087),[Page](https://orchid3d.github.io/)] 
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4194,11 +5678,67 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.10]  DiffCamera: Arbitrary Refocusing on Images [[PDF](https://arxiv.org/abs/2509.26599)]
 
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Mesh generation
 [arxiv 2024.09]  EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation [[PDF](https://arxiv.org/abs/2409.18114),[Page](https://research.nvidia.com/labs/dir/edgerunner/)]
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4207,12 +5747,68 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2024.09]Self-Distilled Depth Refinement with Noisy Poisson Fusion [[PDF](https://arxiv.org/abs/2409.17880),[Page](https://github.com/lijia7/SDDR)]
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## layer 
 [arxiv 2025.12] Qwen-Image-Layered: Towards Inherent Editability via Layer Decomposition  [[PDF](https://arxiv.org/abs/2512.15603),[Page](https://github.com/QwenLM/Qwen-Image-Layered)] ![Code](https://img.shields.io/github/stars/QwenLM/Qwen-Image-Layered?style=social&label=Star)
 
 [arxiv 2026.01]  Controllable Layered Image Generation for Real-World Editing [[PDF](https://arxiv.org/pdf/2601.15507),[Page](https://rayjryang.github.io/LASAGNA-Page/)]
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4223,6 +5819,34 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2024.12]  Efficient Scaling of Diffusion Transformers for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2412.12391)]
 
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4244,6 +5868,34 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.03]  HyperLoRA: Parameter-Efficient Adaptive Generation for Portrait Synthesis [[PDF](https://arxiv.org/pdf/2503.16944)]
 
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4498,6 +6150,34 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.02] ArcFlow: Unleashing 2-Step Text-to-Image Generation via High-Precision Non-Linear Flow Distillation  [[PDF](https://arxiv.org/abs/2602.09014),[Page](https://github.com/pnotp/ArcFlow)] ![Code](https://img.shields.io/github/stars/pnotp/ArcFlow?style=social&label=Star)
 
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -4509,6 +6189,34 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2024.10]  Stable Consistency Tuning: Understanding and Improving Consistency Models [[PDF](https://arxiv.org/abs/2410.18958),[Page](https://github.com/G-U-N/Stable-Consistency-Tuning)]
 
 [arxiv 2024.10] Truncated Consistency Models  [[PDF](https://arxiv.org/abs/2410.14895),[Page](https://truncated-cm.github.io/)]
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4581,6 +6289,34 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.10] LayerSync: Self-aligning Intermediate Layers  [[PDF](https://arxiv.org/abs/2510.12581),[Page](https://github.com/vita-epfl/LayerSync)] ![Code](https://img.shields.io/github/stars/vita-epfl/LayerSync?style=social&label=Star)
 
 [arxiv 2025.12] Is Nano Banana Pro a Low-Level Vision All-Rounder? A Comprehensive Evaluation on 14 Tasks and 40 Datasets  [[PDF](https://arxiv.org/abs/2512.15110),[Page](https://lowlevelbanana.github.io/)] ![Code](https://img.shields.io/github/stars/zplusdragon/LowLevelBanana?style=social&label=Star)
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4670,6 +6406,34 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.01]  GenArena: How Can We Achieve Human-Aligned Evaluation for Visual Generation Tasks? [[PDF](https://arxiv.org/abs/2602.06013),[Page](https://genarena.github.io/)] ![Code](https://img.shields.io/github/stars/ruihanglix/genarena?style=social&label=Star)
 
 [arxiv 2026.01] RISE-Video: Can Video Generators Decode Implicit World Rules?  [[PDF](https://arxiv.org/abs/2602.05986),[Page](https://github.com/VisionXLab/RISE-Video)] ![Code](https://img.shields.io/github/stars/VisionXLab/RISE-Video?style=social&label=Star)
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4794,6 +6558,34 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03] Do Understanding and Generation Fight? A Diagnostic Study of DPO for Unified Multimodal Models  [[PDF](https://arxiv.org/abs/2603.17044)]
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] CRAFT: Aligning Diffusion Models with Fine-Tuning Is Easier Than You Think  [[PDF](https://arxiv.org/abs/2603.18991)]
@@ -4806,6 +6598,34 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.10] EditReward: A Human-Aligned Reward Model for Instruction-Guided Image Editing  [[PDF](https://arxiv.org/abs/2509.26346),[Page](https://tiger-ai-lab.github.io/EditReward/)] ![Code](https://img.shields.io/github/stars/TIGER-AI-Lab/EditReward?style=social&label=Star)
 
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4884,6 +6704,34 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.11]  SAM 3: Segment Anything with Concepts [[PDF](https://arxiv.org/pdf/2511.16719),[Page](https://github.com/facebookresearch/sam3)] ![Code](https://img.shields.io/github/stars/facebookresearch/sam3?style=social&label=Star)
 
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -4940,6 +6788,34 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.01]  PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss [[PDF](https://arxiv.org/abs/2602.02493),[Page](https://zehong-ma.github.io/PixelGen/)] ![Code](https://img.shields.io/github/stars/Zehong-Ma/PixelGen?style=social&label=Star)
 
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -5008,6 +6884,34 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2024.09]Synergy and Synchrony in Couple Dances [[PDF](https://arxiv.org/abs/2409.04440), [Page](https://von31.github.io/synNsync/)]
 
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -5050,6 +6954,34 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.03] Beyond Single Tokens: Distilling Discrete Diffusion Models via Discrete MMD [[PDF](https://arxiv.org/abs/2603.20155)]
 
 [arxiv 2026.03] Offshore oil and gas platform dynamics in the North Sea, Gulf of Mexico, and Persian Gulf: Exploiting the Sentinel-1 archive [[PDF](https://arxiv.org/abs/2603.19801)]
+
+[arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
+
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
+
+[arxiv 2026.04] SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction  [[PDF](https://arxiv.org/abs/2604.03069v1),[Page](https://victkk.github.io/SparseSplat-page/)]
+
+[arxiv 2026.04] The Eleventh NTIRE 2026 Efficient Super-Resolution Challenge Report  [[PDF](https://arxiv.org/abs/2604.03198v1)]
+
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.04] GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes  [[PDF](https://arxiv.org/abs/2604.02915v1)]
+
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+[arxiv 2026.04] Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices  [[PDF](https://arxiv.org/abs/2604.02836v1),[Page](https://facthash.github.io/)]
+
+[arxiv 2026.04] Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.02996v1)]
+
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+[arxiv 2026.04] Gram-MMD: A Texture-Aware Metric for Image Realism Assessment  [[PDF](https://arxiv.org/abs/2604.03064v1)]
+
+[arxiv 2026.04] NavCrafter: Exploring 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2604.02828v1)]
+
+[arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

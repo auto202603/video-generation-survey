@@ -1,4 +1,5 @@
 # Video Generation Survey
+<!-- Added on 2026-04-06 -->
 <!-- Added on 2026-04-03 -->
 <!-- Added on 2026-04-01 -->
 <!-- Added on 2026-03-25 -->
@@ -513,6 +514,16 @@ A reading list of video generation
 
 [arxiv 2026.04] Moiré Video Authentication: A Physical Signature Against AI Video Generation  [[PDF](https://arxiv.org/abs/2604.01654)]
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -572,6 +583,16 @@ A reading list of video generation
 [arxiv 2026.02] Flash-VAED: Plug-and-Play VAE Decoders for Efficient Video Generation  [[PDF](https://arxiv.org/abs/2602.19161),[Page](https://github.com/Aoko955/Flash-VAED)] ![Code](https://img.shields.io/github/stars/Aoko955/Flash-VAED?style=social&label=Star)
 
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -602,6 +623,16 @@ A reading list of video generation
 [arxiv 2025.12] Towards Scalable Pre-training of Visual Tokenizers for Generation  [[PDF](https://arxiv.org/abs/2512.13687),[Page](https://github.com/MiniMax-AI/VTP)] ![Code](https://img.shields.io/github/stars/MiniMax-AI/VTP?style=social&label=Star)
 
 [arxiv 2026.03] UniMotion: A Unified Framework for Motion-Text-Vision Understanding and Generation  [[PDF](https://arxiv.org/abs/2603.22282)]
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -664,6 +695,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior  [[PDF](https://arxiv.org/abs/2410.21264),[Page](https://hywang66.github.io/larp/)]
 
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -868,6 +909,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] Uni-Classifier: Leveraging Video Diffusion Priors for Universal Guidance Classifier  [[PDF](https://arxiv.org/abs/2603.20382)]
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -875,6 +926,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.11] InfinityStar: Unified Spacetime AutoRegressive Modeling for Visual Generation  [[PDF](https://arxiv.org/abs/2511.04675),[Page](https://github.com/FoundationVision/InfinityStar)] ![Code](https://img.shields.io/github/stars/FoundationVision/InfinityStar?style=social&label=Star)
 
 [arxiv 2025.11] Adaptive Begin-of-Video Tokens for Autoregressive Video Diffusion Models  [[PDF](https://arxiv.org/abs/2511.12099)]
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -887,6 +948,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.07] Omni-Video: Democratizing Unified Video Understanding and Generation  [[PDF](https://arxiv.org/pdf/2507.06119),[Page](https://sais-fuxi.github.io/Omni-Video/)] 
 
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -897,8 +968,28 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] Allegro: Open the Black Box of Commercial-Level Video Generation Model  [[PDF](https://arxiv.org/abs/2410.15458),[Page](https://rhymes.ai/allegro_gallery)]
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -910,6 +1001,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03]  VisionCreator: A Native Visual-Generation Agentic Model with Understanding, Thinking, Planning and Creation [[PDF](https://arxiv.org/pdf/2603.02681)]
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -920,6 +1021,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## State Space-based 
 [arxiv 2024.03]SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces [[PDF](https://arxiv.org/abs/2403.07711),[Page](https://github.com/shim0114/SSM-Meets-Video-Diffusion-Models)]
 
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1028,6 +1139,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] Chain of Event-Centric Causal Thought for Physically Plausible Video Generation  [[PDF](https://arxiv.org/pdf/2603.09094)]
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] PhysVideo: Physically Plausible Video Generation with Cross-View Geometry Guidance  [[PDF](https://arxiv.org/abs/2603.18639)]
@@ -1037,6 +1158,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## loss 
 [arxiv 2025.04]  REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers [[PDF](https://arxiv.org/abs/2504.10483),[Page](https://end2end-diffusion.github.io/)] ![Code](https://img.shields.io/github/stars/End2End-Diffusion/REPA-E?style=social&label=Star)
 
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1081,6 +1212,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] Training-free Motion Factorization for Compositional Video Generation  [[PDF](https://arxiv.org/pdf/2603.09104)】
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1116,12 +1257,32 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.02]  TimeChat-Captioner: Scripting Multi-Scene Videos with Time-Aware and Structural Audio-Visual Captions [[PDF](https://arxiv.org/pdf/2602.08711),[Page](https://github.com/yaolinli/TimeChat-Captioner)] ![Code](https://img.shields.io/github/stars/yaolinli/TimeChat-Captioner?style=social&label=Star)
 
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## multi-concept
 [arxiv 2025.12]  Composing Concepts from Images and Videos via Concept-prompt Binding [[PDF](https://arxiv.org/abs/2512.09824),[Page](https://refkxh.github.io/BiCo_Webpage/)] ![Code](https://img.shields.io/github/stars/refkxh/bico?style=social&label=Star)
 
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1139,6 +1300,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.12] DreaMontage: Arbitrary Frame-Guided One-Shot Video Generation  [[PDF](https://arxiv.org/pdf/2512.21252),[Page](https://dreamontage.github.io/DreaMontage/)] 
 
 [arxiv 2026.01]  VideoMemory: Toward Consistent Video Generation via Memory Integration [[PDF](https://arxiv.org/pdf/2601.03655),[Page](https://hit-perfect.github.io/VideoMemory/)] 
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1160,6 +1331,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.09] From Prompt to Progression: Taming Video Diffusion Models for Seamless Attribute Transition  [[PDF](https://arxiv.org/pdf/2509.19690),[Page](https://github.com/lynn-ling-lo/Prompt2Progression)] ![Code](https://img.shields.io/github/stars/lynn-ling-lo/Prompt2Progression?style=social&label=Star)
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1169,6 +1350,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.12] Active Intelligence in Video Avatars via Closed-loop World Modeling  [[PDF](https://arxiv.org/abs/2512.20615),[Page](https://xuanhuahe.github.io/ORCA/)] ![Code](https://img.shields.io/github/stars/xuanhuahe/ORCA?style=social&label=Star)
 
 [arxiv 2026.03] SwitchCraft: Training-Free Multi-Event Video Generation with Attention Controls  [[PDF](https://arxiv.org/abs/2602.23956),[Page](https://switchcraft-project.github.io/)] ![Code](https://img.shields.io/github/stars/Westlake-AGI-Lab/SwitchCraft?style=social&label=Star)
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1306,6 +1497,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] Mode Seeking meets Mean Seeking for Fast Long Video Generation  [[PDF](https://arxiv.org/abs/2602.24289),[Page](https://primecai.github.io/mmm/)] 
 
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1392,16 +1593,46 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] ST-GDance++: A Scalable Spatial-Temporal Diffusion for Long-Duration Group Choreography  [[PDF](https://arxiv.org/abs/2603.22316)]
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## cot
 [arxiv 2025.10] VChain: Chain-of-Visual-Thought for Reasoning in Video Generation  [[PDF](https://arxiv.org/abs/2510.05094),[Page](https://eyeline-labs.github.io/VChain)] ![Code](https://img.shields.io/github/stars/Eyeline-Labs/VChain?style=social&label=Star)
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## robot 
 [arxiv 2025.06] Learning Video Generation for Robotic Manipulation with Collaborative Trajectory Control  [[PDF](https://arxiv.org/abs/2506.01943),[Page](https://fuxiao0719.github.io/projects/robomaster/)] ![Code](https://img.shields.io/github/stars/KwaiVGI/RoboMaster?style=social&label=Star)
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1454,6 +1685,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03]  InfinityStory: Unlimited Video Generation with World Consistency and Character-Aware Shot Transitions [[PDF](https://arxiv.org/pdf/2603.03646)]
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## study
@@ -1463,6 +1704,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] Temporal Gains, Spatial Costs: Revisiting Video Fine-Tuning in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2603.17541)]
 
 [arxiv 2026.03] Shot-Aware Frame Sampling for Video Understanding  [[PDF](https://arxiv.org/abs/2603.17374)]
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1476,6 +1727,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.02] A Very Big Video Reasoning Suite  [[PDF](https://arxiv.org/abs/2602.20159),[Page](https://video-reason.com/)] 
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1483,12 +1744,32 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09]StereoCrafter: Diffusion-based Generation of Long and High-fidelity Stereoscopic 3D from Monocular Videos  [[PDF](https://arxiv.org/abs/2409.07447),[Page](https://stereocrafter.github.io/)]
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Controllable Video Generation: time and event 
 [arxiv 2025.12]  AlcheMinT: Fine-grained Temporal Control for Multi-Reference Consistent Video Generation [[PDF](https://arxiv.org/abs/2512.10943),[Page](https://snap-research.github.io/Video-AlcheMinT/)] 
 
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1682,6 +1963,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] ProGVC: Progressive-based Generative Video Compression via Auto-Regressive Context Modeling  [[PDF](https://arxiv.org/abs/2603.17546)]
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1817,6 +2108,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] Kling-MotionControl Technical Report  [[PDF](https://arxiv.org/pdf/2603.03160)]
 
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1832,11 +2133,31 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10] Real-Time Motion-Controllable Autoregressive Video Diffusion  [[PDF](https://arxiv.org/abs/2510.08131),[Page](https://kesenzhao.github.io/AR-Drag.github.io/)] 
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## text 
 [arxiv 2024.06]  Text-Animator: Controllable Visual Text Video Generation[[PDF](https://arxiv.org/abs/2406.17777),[Page](https://laulampaul.github.io/text-animator.html)]
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1985,6 +2306,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] FrescoDiffusion: 4K Image-to-Video with Prior-Regularized Tiled Diffusion  [[PDF](https://arxiv.org/abs/2603.17555)]
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## lighting 
@@ -1993,6 +2324,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.06]  TC-Light: Temporally Consistent Relighting for Dynamic Long Videos [[PDF](https://arxiv.org/abs/2506.18904),[Page](https://dekuliutesla.github.io/tclight/)] ![Code](https://img.shields.io/github/stars/Linketic/TC-Light?style=social&label=Star)
 
 [arxiv 2025.10]  UniLumos: Fast and Unified Image and Video Relighting with Physics-Plausible Feedback [[PDF](https://arxiv.org/abs/2511.01678),[Page](https://github.com/alibaba-damo-academy/Lumos-Custom)] ![Code](https://img.shields.io/github/stars/alibaba-damo-academy/Lumos-Custom?style=social&label=Star)
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2034,6 +2375,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.11] Unified Long Video Inpainting and Outpainting via Overlapping High-Order Co-Denoising  [[PDF](https://arxiv.org/pdf/2511.03272)]
 
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2139,6 +2490,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.01]  Zero-Shot Video Restoration and Enhancement with Assistance of Video Diffusion Models [[PDF](https://arxiv.org/abs/2601.21922)]
 
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2165,6 +2526,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] DUO-VSR: Dual-Stream Distillation for One-Step Video Super-Resolution  [[PDF](https://arxiv.org/abs/2603.22271)]
 
 [arxiv 2026.03] High-Quality and Efficient Turbulence Mitigation with Events  [[PDF](https://arxiv.org/abs/2603.20708)]
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2285,6 +2656,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.01]  CoMoVi: Co-Generation of 3D Human Motions and Realistic Videos [[PDF](https://arxiv.org/abs/2601.10632),[Page](https://igl-hkust.github.io/CoMoVi/)] ![Code](https://img.shields.io/github/stars/IGL-HKUST/CoMoVi?style=social&label=Star)
 
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Concept 
@@ -2397,11 +2778,31 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] WildActor Unconstrained Identity-Preserving Video Generation [[PDF](https://wildactor.github.io/#),[Page](https://wildactor.github.io/)] ![Code](https://img.shields.io/github/stars/MeiGen-AI/WildActor?style=social&label=Star)
 
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## multi-view 
 [arxiv 2026.01] MV-S2V: Multi-View Subject-Consistent Video Generation  [[PDF](https://arxiv.org/abs/2601.17756),[Page](https://szy-young.github.io/mv-s2v/)] 
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2409,6 +2810,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## relation 
 [arxiv 2025.03]  DreamRelation: Relation-Centric Video Customization [[PDF](https://arxiv.org/abs/2503.07602),[Page](https://dreamrelation.github.io/)] 
 
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2544,6 +2955,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] ECHO: Towards Emotionally Appropriate and Contextually Aware Interactive Head Generation  [[PDF](https://arxiv.org/abs/2603.17427)]
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2627,6 +3048,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] FreeTalk: Emotional Topology-Free 3D Talking Heads  [[PDF](https://arxiv.org/abs/2603.15512)]
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Listen
@@ -2635,10 +3066,30 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.06] Diffusion-based Realistic Listening Head Generation via Hybrid Motion Modeling  [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Diffusion-based_Realistic_Listening_Head_Generation_via_Hybrid_Motion_Modeling_CVPR_2025_paper.pdf),[Page](https://nuo1wang.github.io/DiffListener/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## av joint Talker 
 [arxiv 2026.02]  DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation [[PDF](https://arxiv.org/abs/2602.12160),[Page](https://guoxu1233.github.io/DreamID-Omni/)] ![Code](https://img.shields.io/github/stars/Guoxu1233/DreamID-Omni?style=social&label=Star)
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2662,6 +3113,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.02] EchoTorrent: Towards Swift, Sustained, and Streaming Multi-Modal Video Generation  [[PDF](https://arxiv.org/abs/2602.13669)]
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2673,12 +3134,32 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.08]  ShoulderShot: Generating Over-the-Shoulder Dialogue Videos [[PDF](https://arxiv.org/abs/2508.07597),[Page](https://shouldershot.github.io/)]
 
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## HOI 
 
 [arxiv 2024.11] AnchorCrafter: Animate CyberAnchors Saling Your Products via Human-Object Interacting Video Generation  [[PDF](https://arxiv.org/abs/2411.17383),[Page](https://cangcz.github.io/Anchor-Crafter/)] ![Code](https://img.shields.io/github/stars/cangcz/AnchorCrafter?style=social&label=Star)
 
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2689,6 +3170,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.07]  FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers [[PDF](https://arxiv.org/abs/2507.12956),[Page](https://fantasy-amap.github.io/fantasy-portrait/)] ![Code](https://img.shields.io/github/stars/Fantasy-AMAP/fantasy-portrait?style=social&label=Star)
 
 [arxiv 2025.09] Wan-Animate: Unified Character Animation and Replacement with Holistic Replication  [[PDF](https://arxiv.org/abs/2509.14055),[Page](https://humanaigc.github.io/wan-animate/)] 
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2719,11 +3210,31 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] OmniEdit: A Training-free framework for Lip Synchronization and Audio-Visual Editing  [[PDF](https://arxiv.org/pdf/2603.09084),[Page](https://github.com/l1346792580123/OmniEdit)] ![Code](https://img.shields.io/github/stars/l1346792580123/OmniEdit?style=social&label=Star)
 
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## chatting
 [arxiv 2025.09]  X-Streamer: Unified Human World Modeling with Audiovisual Interaction [[PDF](https://arxiv.org/abs/2509.21574),[Page](https://byteaigc.github.io/X-Streamer/)] 
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2734,6 +3245,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.02] IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System  [[PDF](https://arxiv.org/pdf/2502.05512),[Page](https://index-tts.github.io/)] ![Code](https://img.shields.io/github/stars/index-tts/index-tts?style=social&label=Star)
 
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2742,6 +3263,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.07]  ARIG: Autoregressive Interactive Head Generation for Real-time Conversations [[PDF](https://arxiv.org/abs/2507.00472),[Page](https://jinyugy21.github.io/ARIG/)] 
 
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2752,6 +3283,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.11] StreamDiffusionV2: A Streaming System for Dynamic and Interactive Video Generation  [[PDF](https://arxiv.org/abs/2511.07399),[Page](http://streamdiffusionv2.github.io/)] ![Code](https://img.shields.io/github/stars/chenfengxu714/StreamDiffusionV2?style=social&label=Star)
 
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2768,6 +3309,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.06]  Controllable and Expressive One-Shot Video Head Swapping [[PDF](https://humanaigc.github.io/SwapAnyHead/),[Page](https://guoxu1233.github.io/DreamID-V/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.01] DreamID-V:Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer  [[PDF](https://arxiv.org/abs/2601.01425),[Page]()] ![Code](https://img.shields.io/github/stars/bytedance/DreamID-V?style=social&label=Star)
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2839,6 +3390,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.02] MotionAgent: Fine-grained Controllable Video Generation via Motion Field Agent  [[PDF](https://arxiv.org/pdf/2502.03207)]
 
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2898,12 +3459,32 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] PhysAlign: Physics-Coherent Image-to-Video Generation through Feature and 3D Representation Alignment  [[PDF](https://arxiv.org/abs/2603.13770),[Page](https://physalign.github.io/PhysAlign)]
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] Catalyst4D: High-Fidelity 3D-to-4D Scene Editing via Dynamic Propagation  [[PDF](https://arxiv.org/abs/2603.12766),[Page](https://junliao2025.github.io/Catalyst4D-ProjectPage/)]
 
 ## stereo video generation
 [arxiv 2025.05] HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation  [[PDF](https://arxiv.org/abs/2504.21650),[Page](https://zhouhyocean.github.io/holotime/)] ![Code](https://img.shields.io/github/stars/PKU-YuanGroup/HoloTime?style=social&label=Star)
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2936,6 +3517,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.06]  Audio-Sync Video Generation with Multi-Stream Temporal Control [[PDF](https://arxiv.org/pdf/2506.08003),[Page](https://hjzheng.net/projects/MTV/)] ![Code](https://img.shields.io/github/stars/suimuc/MTV_Framework?style=social&label=Star)
 
 [arxiv 2025.09] Syncphony: Synchronized Audio-to-Video Generation with Diffusion Transformers  [[PDF](https://arxiv.org/abs/2509.21893),[Page](https://jibin86.github.io/syncphony_project_page/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2972,6 +3563,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.02]  JavisDiT++: Unified Modeling and Optimization for Joint Audio-Video Generation [[PDF](https://arxiv.org/abs/2602.19163),[Page](https://javisverse.github.io/JavisDiT2-page)] ![Code](https://img.shields.io/github/stars/JavisVerse/JavisDiT?style=social&label=Star)
 
 [arxiv 2026.02]  SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model [[PDF](https://arxiv.org/abs/2602.21818)]
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3016,6 +3617,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.01]  SpatialV2A: Visual-Guided High-fidelity Spatial Audio Generation [[PDF](https://arxiv.org/abs/2601.15017)]
 
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3050,6 +3661,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.02] Omni-Video 2: Scaling MLLM-Conditioned Diffusion for Unified Video Generation and Editing  [[PDF](https://arxiv.org/abs/2602.08820),[Page](https://howellyoung-s.github.io/Omni-Video2-project/)] ![Code](https://img.shields.io/github/stars/SAIS-FUXI/Omni-Video?style=social&label=Star)
 
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3177,6 +3798,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] When to Lock Attention: Training-Free KV Control in Video Diffusion  [[PDF](https://arxiv.org/pdf/2603.09657)]
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing  [[PDF](https://arxiv.org/abs/2603.19228)]
@@ -3302,8 +3933,28 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] DIVE: Taming DINO for Subject-Driven Video Editing  [[PDF](https://arxiv.org/abs/2412.03347),[Page](https://dino-video-editing.github.io/)] 
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3387,6 +4038,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10]  MultiCOIN: Multi-Modal COntrollable Video INbetweening [[PDF](https://arxiv.org/abs/2510.08561),[Page](https://multicoinx.github.io/multicoin/)] 
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3420,6 +4081,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.01]  TeleStyle: Content-Preserving Style Transfer in Images and Videos [[PDF](https://arxiv.org/abs/2601.20175),[Page](https://tele-ai.github.io/TeleStyle/)] ![Code](https://img.shields.io/github/stars/Tele-AI/TeleStyle?style=social&label=Star)
 
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3441,11 +4112,31 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.01] Stable Velocity: A Variance Perspective on Flow Matching  [[PDF](https://arxiv.org/pdf/2602.05435),[Page](https://github.com/linYDTHU/StableVelocity)] ![Code](https://img.shields.io/github/stars/linYDTHU/StableVelocity?style=social&label=Star)
 
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## embodied AI
 [arxiv 2026.01] Rethinking Video Generation Model for the Embodied World  [[PDF](https://arxiv.org/abs/2601.15282),[Page](https://dagroup-pku.github.io/ReVidgen.github.io/)] ![Code](https://img.shields.io/github/stars/DAGroup-PKU/ReVidgen/?style=social&label=Star)
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3585,6 +4276,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] Lessons and Open Questions from a Unified Study of Camera-Trap Species Recognition Over Time  [[PDF](https://arxiv.org/abs/2603.20509)]
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] VCBench: A Streaming Counting Benchmark for Spatial-Temporal State Maintenance in Long Videos  [[PDF](https://arxiv.org/abs/2603.12703),[Page](https://github.com/buaplay/VCBench)] ![Code](https://img.shields.io/github/stars/buaplay/VCBench?style=social&label=Star)
@@ -3606,6 +4307,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.01]  S2DiT: Sandwich Diffusion Transformer for Mobile Streaming Video Generation [[PDF](https://arxiv.org/pdf/2601.12719)]
 
 [arxiv 2026.01] NanoFLUX: Distillation-Driven Compression of Large Text-to-Image Generation Models for Mobile Devices  [[PDF](https://arxiv.org/abs/2602.06879)]
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3760,6 +4471,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] SVG-EAR: Parameter-Free Linear Compensation for Sparse Video Generation via Error-aware Routing  [[PDF](https://arxiv.org/pdf/2603.08982)]
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] Em-Garde: A Propose-Match Framework for Proactive Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2603.19054)]
@@ -3801,6 +4522,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01]  Sim2real Image Translation Enables Viewpoint-Robust Policies from Fixed-Camera Datasets [[PDF](https://arxiv.org/abs/2601.09605)]
 
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3958,6 +4689,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] EARTalking: End-to-end GPT-style Autoregressive Talking Head Synthesis with Frame-wise Control  [[PDF](https://arxiv.org/abs/2603.20307)]
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## memory
@@ -3976,6 +4717,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.01] Memory-V2V: Augmenting Video-to-Video Diffusion Models with Memory  [[PDF](https://arxiv.org/abs/2601.16296),[Page](https://dohunlee1.github.io/MemoryV2V/)] ![Code](https://img.shields.io/github/stars/DoHunLee1/Memory-V2V?style=social&label=Star)
 
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3986,6 +4737,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10] Seed3D 1.0: From Images to High-Fidelity Simulation-Ready 3D Assets  [[PDF](https://arxiv.org/abs/2510.19944),[Page](https://seed.bytedance.com/seed3d)] 
 
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4041,8 +4802,28 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01]  InstaDrive: Instance-Aware Driving World Models for Realistic and Consistent Video Generation [[PDF](https://arxiv.org/abs/2602.03242),[Page](https://shanpoyang654.github.io/InstaDrive/page.html)] ![Code](https://img.shields.io/github/stars/shanpoyang654/InstaDrive?style=social&label=Star)
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4097,6 +4878,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.01] Human detectors are surprisingly powerful reward models  [[PDF](https://arxiv.org/pdf/2601.14037),[Page](https://huda-reward-model.github.io/)] 
 
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -4130,6 +4921,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.01] Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos  [[PDF](https://arxiv.org/abs/2501.04001),[Page](https://lxtgh.github.io/project/sa2va/)] ![Code](https://img.shields.io/github/stars/magic-research/Sa2VA?style=social&label=Star)
 
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -4151,6 +4952,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.02]  WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models [[PDF](https://arxiv.org/abs/2602.08971)]
 
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4206,6 +5017,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] Layered Quantum Architecture Search for 3D Point Cloud Classification [[PDF](https://arxiv.org/abs/2603.20024)]
 
 [arxiv 2026.03] PhyGile: Physics-Prefix Guided Motion Generation for Agile General Humanoid Motion Tracking [[PDF](https://arxiv.org/abs/2603.19305)]
+
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt}{https:?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
+[arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
