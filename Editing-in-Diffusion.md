@@ -565,6 +565,54 @@
 
 [arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
+[arxiv 2026.04] HandDreamer: Zero-Shot Text to 3D Hand Model Generation using Corrective Hand Shape Guidance [[PDF](https://arxiv.org/abs/2604.04425v1)]
+
+[arxiv 2026.04] Multimodal Backdoor Attack on VLMs for Autonomous Driving via Graffiti and Cross-Lingual Triggers [[PDF](https://arxiv.org/abs/2604.04630v1)]
+
+[arxiv 2026.04] Free-Range Gaussians: Non-Grid-Aligned Generative 3D Gaussian Reconstruction [[PDF](https://arxiv.org/abs/2604.04874v1)]
+
+[arxiv 2026.04] Think in Strokes, Not Pixels: Process-Driven Image Generation via Interleaved Reasoning [[PDF](https://arxiv.org/abs/2604.04746v1)]
+
+[arxiv 2026.04] 4C4D: 4 Camera 4D Gaussian Splatting [[PDF](https://arxiv.org/abs/2604.04063v1)]
+
+[arxiv 2026.04] 3D Gaussian Splatting for Annular Dark Field Scanning Transmission Electron Microscopy Tomography Reconstruction [[PDF](https://arxiv.org/abs/2604.04693v1)]
+
+[arxiv 2026.04] Training-Free Refinement of Flow Matching with Divergence-based Sampling [[PDF](https://arxiv.org/abs/2604.04646v1)]
+
+[arxiv 2026.04] Training-Free Image Editing with Visual Context Integration and Concept Alignment [[PDF](https://arxiv.org/abs/2604.04487v1)]
+
+[arxiv 2026.04] GA-GS: Generation-Assisted Gaussian Splatting for Static Scene Reconstruction [[PDF](https://arxiv.org/abs/2604.04331v1)]
+
+[arxiv 2026.04] Stochastic Generative Plug-and-Play Priors [[PDF](https://arxiv.org/abs/2604.03603v1)]
+
+[arxiv 2026.04] Erasure or Erosion? Evaluating Compositional Degradation in Unlearned Text-To-Image Diffusion Models [[PDF](https://arxiv.org/abs/2604.04575v1)]
+
+[arxiv 2026.04] TM-BSN: Triangular-Masked Blind-Spot Network for Real-World Self-Supervised Image Denoising [[PDF](https://arxiv.org/abs/2604.04484v1)]
+
+[arxiv 2026.04] TreeGaussian: Tree-Guided Cascaded Contrastive Learning for Hierarchical Consistent 3D Gaussian Scene Segmentation and Understanding [[PDF](https://arxiv.org/abs/2604.03309v1)]
+
+[arxiv 2026.04] DiffSparse: Accelerating Diffusion Transformers with Learned Token Sparsity [[PDF](https://arxiv.org/abs/2604.03674v1)]
+
+[arxiv 2026.04] Banana100: Breaking NR-IQA Metrics by 100 Iterative Image Replications with Nano Banana Pro [[PDF](https://arxiv.org/abs/2604.03400v1)]
+
+[arxiv 2026.04] AvatarPointillist: AutoRegressive 4D Gaussian Avatarization [[PDF](https://arxiv.org/abs/2604.04787v1)]
+
+[arxiv 2026.04] SpectralSplat: Appearance-Disentangled Feed-Forward Gaussian Splatting for Driving Scenes [[PDF](https://arxiv.org/abs/2604.03462v1)]
+
+[arxiv 2026.04] Graphic-Design-Bench: A Comprehensive Benchmark for Evaluating AI on Graphic Design Tasks [[PDF](https://arxiv.org/abs/2604.04192v1)]
+
+[arxiv 2026.04] 3D-Fixer: Coarse-to-Fine In-place Completion for 3D Scenes from a Single Image [[PDF](https://arxiv.org/abs/2604.04406v1)]
+
+[arxiv 2026.04] PR-IQA: Partial-Reference Image Quality Assessment for Diffusion-Based Novel View Synthesis [[PDF](https://arxiv.org/abs/2604.04576v1)]
+
+[arxiv 2026.04] ExpressEdit: Fast Editing of Stylized Facial Expressions with Diffusion Models in Photoshop [[PDF](https://arxiv.org/abs/2604.03448v1)]
+
+[arxiv 2026.04] 1.x-Distill: Breaking the Diversity, Quality, and Efficiency Barrier in Distribution Matching Distillation [[PDF](https://arxiv.org/abs/2604.04018v1)]
+
+[arxiv 2026.04] M2StyleGS: Multi-Modality 3D Style Transfer with Gaussian Splatting [[PDF](https://arxiv.org/abs/2604.03773v1)]
+
+[arxiv 2026.04] CGHair: Compact Gaussian Hair Reconstruction with Card Clustering [[PDF](https://arxiv.org/abs/2604.03716v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]

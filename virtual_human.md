@@ -129,6 +129,18 @@
 
 [arxiv 2026.04] UNICA: A Unified Neural Framework for Controllable 3D Avatars  [[PDF](https://arxiv.org/abs/2604.02799v1)] ![Code](https://img.shields.io/github/stars/zjh21/UNICA?style=social&label=Star)
 
+[arxiv 2026.04] Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision [[PDF](https://arxiv.org/abs/2604.04934v1)]
+
+[arxiv 2026.04] Visual Prompt Based Reasoning for Offroad Mapping using Multimodal LLMs [[PDF](https://arxiv.org/abs/2604.04564v1)]
+
+[arxiv 2026.04] BiTDiff: Fine-Grained 3D Conducting Motion Generation via BiMamba-Transformer Diffusion [[PDF](https://arxiv.org/abs/2604.04395v1)]
+
+[arxiv 2026.04] HOIGS: Human-Object Interaction Gaussian Splatting [[PDF](https://arxiv.org/abs/2604.04016v1)]
+
+[arxiv 2026.04] Diffusion Path Alignment for Long-Range Motion Generation and Domain Transitions [[PDF](https://arxiv.org/abs/2604.03310v1)]
+
+[arxiv 2026.04] Motion-Adaptive Multi-Scale Temporal Modelling with Skeleton-Constrained Spatial Graphs for Efficient 3D Human Pose Estimation [[PDF](https://arxiv.org/abs/2604.03652v1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 

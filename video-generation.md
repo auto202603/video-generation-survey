@@ -1,4 +1,5 @@
 # Video Generation Survey
+<!-- Added on 2026-04-07 -->
 <!-- Added on 2026-04-06 -->
 <!-- Added on 2026-04-03 -->
 <!-- Added on 2026-04-01 -->
@@ -523,6 +524,18 @@ A reading list of video generation
 [arxiv 2026.04] Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model  [[PDF](https://arxiv.org/abs/2604.03181v1),[Page](https://lpy1219.github.io/MV-VDP-Web/)]
 
 [arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
+[arxiv 2026.04] A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens [[PDF](https://arxiv.org/abs/2604.04913v1)]
+
+[arxiv 2026.04] HVG-3D: Bridging Real and Simulation Domains for 3D-Conditional Hand-Object Interaction Video Synthesis [[PDF](https://arxiv.org/abs/2604.03305v1)]
+
+[arxiv 2026.04] Beyond Few-Step Inference: Accelerating Video Diffusion Transformer Model Serving with Inter-Request Caching Reuse [[PDF](https://arxiv.org/abs/2604.04451v1)]
+
+[arxiv 2026.04] CRAFT: Video Diffusion for Bimanual Robot Data Generation [[PDF](https://arxiv.org/abs/2604.03552v1)]
+
+[arxiv 2026.04] Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation [[PDF](https://arxiv.org/abs/2604.03738v1)]
+
+[arxiv 2026.04] SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation [[PDF](https://arxiv.org/abs/2604.03723v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
