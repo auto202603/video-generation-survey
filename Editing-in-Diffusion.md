@@ -1,4 +1,49 @@
 # Image Editing In Diffusion 
+<!-- Added on 2026-04-08 -->
+[arxiv 2026.04] PoM: A Linear-Time Replacement for Attention with the Polynomial Mixer  [[PDF](https://arxiv.org/abs/2604.06129)] ![Star](https://img.shields.io/github/stars/davidpicard/pom?style=social&label=Star)
+
+[arxiv 2026.04] SEM-ROVER: Semantic Voxel-Guided Diffusion for Large-Scale Driving Scene Generation  [[PDF](https://arxiv.org/abs/2604.06113)]
+
+[arxiv 2026.04] Graph-PiT: Enhancing Structural Coherence in Part-Based Image Synthesis via Graph Priors  [[PDF](https://arxiv.org/abs/2604.06074)] ![Star](https://img.shields.io/github/stars/wolf-bailang/Graph-PiT?style=social&label=Star)
+
+[arxiv 2026.04] EDGE-Shield: Efficient Denoising-staGE Shield for Violative Content Filtering via Scalable Reference-Based Matching  [[PDF](https://arxiv.org/abs/2604.06063)]
+
+[arxiv 2026.04] Attention, May I Have Your Decision? Localizing Generative Choices in Diffusion Models  [[PDF](https://arxiv.org/abs/2604.06052)] ![Star](https://img.shields.io/github/stars/kzaleskaa/icm?style=social&label=Star)
+
+[arxiv 2026.04] Appearance Decomposition Gaussian Splatting for Multi-Traversal Reconstruction  [[PDF](https://arxiv.org/abs/2604.05908)] ![Star](https://img.shields.io/github/stars/IRMVLab/ADM-GS?style=social&label=Star)
+
+[arxiv 2026.04] Selective Aggregation of Attention Maps Improves Diffusion-Based Visual Interpretation  [[PDF](https://arxiv.org/abs/2604.05906)]
+
+[arxiv 2026.04] Neural Network Pruning via QUBO Optimization  [[PDF](https://arxiv.org/abs/2604.05856)]
+
+[arxiv 2026.04] RHVI-FDD: A Hierarchical Decoupling Framework for Low-Light Image Enhancement  [[PDF](https://arxiv.org/abs/2604.05781)]
+
+[arxiv 2026.04] Improving Controllable Generation: Faster Training and Better Performance via $x_0$-Supervision  [[PDF](https://arxiv.org/abs/2604.05761)] ![Star](https://img.shields.io/github/stars/CEA-LIST/x0-supervision?style=social&label=Star)
+
+[arxiv 2026.04] FoleyDesigner: Immersive Stereo Foley Generation with Precise Spatio-Temporal Alignment for Film Clips  [[PDF](https://arxiv.org/abs/2604.05731)]
+
+[arxiv 2026.04] Single-Stage Signal Attenuation Diffusion Model for Low-Light Image Enhancement and Denoising  [[PDF](https://arxiv.org/abs/2604.05727)]
+
+[arxiv 2026.04] GaussianGrow: Geometry-aware Gaussian Growing from 3D Point Clouds with Text Guidance  [[PDF](https://arxiv.org/abs/2604.05721),[Page](https://weiqi-zhang.github.io/GaussianGrow)]
+
+[arxiv 2026.04] In Depth We Trust: Reliable Monocular Depth Supervision for Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.05715)]
+
+[arxiv 2026.04] PanopticQuery: Unified Query-Time Reasoning for 4D Scenes  [[PDF](https://arxiv.org/abs/2604.05638)]
+
+[arxiv 2026.04] Cross-Resolution Diffusion Models via Network Pruning  [[PDF](https://arxiv.org/abs/2604.05524)]
+
+[arxiv 2026.04] 3DTurboQuant: Training-Free Near-Optimal Quantization for 3D Reconstruction Models  [[PDF](https://arxiv.org/abs/2604.05366)] ![Star](https://img.shields.io/github/stars/JaeLee18/3DTurboQuant?style=social&label=Star)
+
+[arxiv 2026.04] SmokeGS-R: Physics-Guided Pseudo-Clean 3DGS for Real-World Multi-View Smoke Restoration  [[PDF](https://arxiv.org/abs/2604.05301)] ![Star](https://img.shields.io/github/stars/windrise/3drr_Track2_SmokeGS-R?style=social&label=Star)
+
+[arxiv 2026.04] Coverage Optimization for Camera View Selection  [[PDF](https://arxiv.org/abs/2604.05259)]
+
+[arxiv 2026.04] Protecting and Preserving Protest Dynamics for Responsible Analysis  [[PDF](https://arxiv.org/abs/2604.05256)]
+
+[arxiv 2026.04] ID-Sim: An Identity-Focused Similarity Metric  [[PDF](https://arxiv.org/abs/2604.05039),[Page](https://juliachae.github.io/id_sim.github.io/)]
+
+[arxiv 2026.04] Part-Level 3D Gaussian Vehicle Generation with Joint and Hinge Axis Estimation  [[PDF](https://arxiv.org/abs/2604.05070)]
+
 <!-- Added on 2026-04-01 -->
 <!-- Added on 2026-03-26 -->
 [arxiv 2026.03] ViHOI: Human-Object Interaction Synthesis with Visual Priors  [[PDF](https://arxiv.org/abs/2603.24383)]
@@ -612,29 +657,6 @@
 [arxiv 2026.04] M2StyleGS: Multi-Modality 3D Style Transfer with Gaussian Splatting [[PDF](https://arxiv.org/abs/2604.03773v1)]
 
 [arxiv 2026.04] CGHair: Compact Gaussian Hair Reconstruction with Card Clustering [[PDF](https://arxiv.org/abs/2604.03716v1)]
-
-[arxiv 2026.04] PoM: A Linear-Time Replacement for Attention with the Polynomial Mixer  [[PDF](https://arxiv.org/abs/2604.06129)]
-[arxiv 2026.04] SEM-ROVER: Semantic Voxel-Guided Diffusion for Large-Scale Driving Scene Generation  [[PDF](https://arxiv.org/abs/2604.06113)]
-[arxiv 2026.04] Graph-PiT: Enhancing Structural Coherence in Part-Based Image Synthesis via Graph Priors  [[PDF](https://arxiv.org/abs/2604.06074)]
-[arxiv 2026.04] EDGE-Shield: Efficient Denoising-staGE Shield for Violative Content Filtering via Scalable Reference-Based Matching  [[PDF](https://arxiv.org/abs/2604.06063)]
-[arxiv 2026.04] Attention, May I Have Your Decision? Localizing Generative Choices in Diffusion Models  [[PDF](https://arxiv.org/abs/2604.06052)]
-[arxiv 2026.04] Appearance Decomposition Gaussian Splatting for Multi-Traversal Reconstruction  [[PDF](https://arxiv.org/abs/2604.05908)]
-[arxiv 2026.04] Selective Aggregation of Attention Maps Improves Diffusion-Based Visual Interpretation  [[PDF](https://arxiv.org/abs/2604.05906)]
-[arxiv 2026.04] Neural Network Pruning via QUBO Optimization  [[PDF](https://arxiv.org/abs/2604.05856)]
-[arxiv 2026.04] RHVI-FDD: A Hierarchical Decoupling Framework for Low-Light Image Enhancement  [[PDF](https://arxiv.org/abs/2604.05781)]
-[arxiv 2026.04] Improving Controllable Generation: Faster Training and Better Performance via $x_0$-Supervision  [[PDF](https://arxiv.org/abs/2604.05761)]
-[arxiv 2026.04] FoleyDesigner: Immersive Stereo Foley Generation with Precise Spatio-Temporal Alignment for Film Clips  [[PDF](https://arxiv.org/abs/2604.05731)]
-[arxiv 2026.04] Single-Stage Signal Attenuation Diffusion Model for Low-Light Image Enhancement and Denoising  [[PDF](https://arxiv.org/abs/2604.05727)]
-[arxiv 2026.04] GaussianGrow: Geometry-aware Gaussian Growing from 3D Point Clouds with Text Guidance  [[PDF](https://arxiv.org/abs/2604.05721)]
-[arxiv 2026.04] In Depth We Trust: Reliable Monocular Depth Supervision for Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.05715)]
-[arxiv 2026.04] PanopticQuery: Unified Query-Time Reasoning for 4D Scenes  [[PDF](https://arxiv.org/abs/2604.05638)]
-[arxiv 2026.04] Cross-Resolution Diffusion Models via Network Pruning  [[PDF](https://arxiv.org/abs/2604.05524)]
-[arxiv 2026.04] 3DTurboQuant: Training-Free Near-Optimal Quantization for 3D Reconstruction Models  [[PDF](https://arxiv.org/abs/2604.05366)]
-[arxiv 2026.04] SmokeGS-R: Physics-Guided Pseudo-Clean 3DGS for Real-World Multi-View Smoke Restoration  [[PDF](https://arxiv.org/abs/2604.05301)]
-[arxiv 2026.04] Coverage Optimization for Camera View Selection  [[PDF](https://arxiv.org/abs/2604.05259)]
-[arxiv 2026.04] Protecting and Preserving Protest Dynamics for Responsible Analysis  [[PDF](https://arxiv.org/abs/2604.05256)]
-[arxiv 2026.04] ID-Sim: An Identity-Focused Similarity Metric  [[PDF](https://arxiv.org/abs/2604.05039)]
-[arxiv 2026.04] Part-Level 3D Gaussian Vehicle Generation with Joint and Hinge Axis Estimation  [[PDF](https://arxiv.org/abs/2604.05070)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

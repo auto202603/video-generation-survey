@@ -1,4 +1,11 @@
 ## Dataset
+<!-- Added on 2026-04-08 -->
+[arxiv 2026.04] HumANDiff: Articulated Noise Diffusion for Motion-Consistent Human Video Generation  [[PDF](https://arxiv.org/abs/2604.05961),[Page](https://taohuumd.github.io/projects/HumANDiff/)]
+
+[arxiv 2026.04] EfficientMonoHair: Fast Strand-Level Reconstruction from Monocular Video via Multi-View Direction Fusion  [[PDF](https://arxiv.org/abs/2604.05794)]
+
+[arxiv 2026.04] Human Interaction-Aware 3D Reconstruction from a Single Image  [[PDF](https://arxiv.org/abs/2604.05436)]
+
 <!-- Added on 2026-04-01 -->
 [arxiv 2026.03] HandX: Scaling Bimanual Motion and Interaction Generation  [[PDF](https://arxiv.org/abs/2603.28766)]
 
@@ -140,10 +147,6 @@
 [arxiv 2026.04] Diffusion Path Alignment for Long-Range Motion Generation and Domain Transitions [[PDF](https://arxiv.org/abs/2604.03310v1)]
 
 [arxiv 2026.04] Motion-Adaptive Multi-Scale Temporal Modelling with Skeleton-Constrained Spatial Graphs for Efficient 3D Human Pose Estimation [[PDF](https://arxiv.org/abs/2604.03652v1)]
-
-[arxiv 2026.04] HumANDiff: Articulated Noise Diffusion for Motion-Consistent Human Video Generation  [[PDF](https://arxiv.org/abs/2604.05961)]
-[arxiv 2026.04] EfficientMonoHair: Fast Strand-Level Reconstruction from Monocular Video via Multi-View Direction Fusion  [[PDF](https://arxiv.org/abs/2604.05794)]
-[arxiv 2026.04] Human Interaction-Aware 3D Reconstruction from a Single Image  [[PDF](https://arxiv.org/abs/2604.05436)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

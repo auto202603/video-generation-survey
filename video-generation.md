@@ -1,5 +1,15 @@
 # Video Generation Survey
 <!-- Added on 2026-04-08 -->
+[arxiv 2026.04] Action Images: End-to-End Policy Learning via Multiview Video Generation  [[PDF](https://arxiv.org/abs/2604.06168),[Page](https://actionimages.github.io/)]
+
+[arxiv 2026.04] DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models  [[PDF](https://arxiv.org/abs/2604.06161),[Page](https://yzmblog.github.io/projects/DiffHDR/)]
+
+[arxiv 2026.04] OmniCamera: A Unified Framework for Multi-task Video Generation with Arbitrary Camera Control  [[PDF](https://arxiv.org/abs/2604.06010)]
+
+[arxiv 2026.04] SVAgent: Storyline-Guided Long Video Understanding via Cross-Modal Multi-Agent Collaboration  [[PDF](https://arxiv.org/abs/2604.05079)]
+
+[arxiv 2026.04] Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding  [[PDF](https://arxiv.org/abs/2604.05015),[Page](https://video-mme-v2.netlify.app/)]
+
 <!-- Added on 2026-04-07 -->
 <!-- Added on 2026-04-06 -->
 <!-- Added on 2026-04-03 -->
@@ -537,12 +547,6 @@ A reading list of video generation
 [arxiv 2026.04] Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation [[PDF](https://arxiv.org/abs/2604.03738v1)]
 
 [arxiv 2026.04] SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation [[PDF](https://arxiv.org/abs/2604.03723v1)]
-
-[arxiv 2026.04] Action Images: End-to-End Policy Learning via Multiview Video Generation  [[PDF](https://arxiv.org/abs/2604.06168)]
-[arxiv 2026.04] DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models  [[PDF](https://arxiv.org/abs/2604.06161)]
-[arxiv 2026.04] OmniCamera: A Unified Framework for Multi-task Video Generation with Arbitrary Camera Control  [[PDF](https://arxiv.org/abs/2604.06010)]
-[arxiv 2026.04] SVAgent: Storyline-Guided Long Video Understanding via Cross-Modal Multi-Agent Collaboration  [[PDF](https://arxiv.org/abs/2604.05079)]
-[arxiv 2026.04] Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding  [[PDF](https://arxiv.org/abs/2604.05015)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
