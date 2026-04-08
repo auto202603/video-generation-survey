@@ -1024,6 +1024,34 @@
 
 [arxiv 2026.04] Scale-Aware Vision-Language Adaptation for Extreme Far-Distance Video Person Re-identification [[PDF](https://arxiv.org/abs/2604.04183v1)]
 
+[arxiv 2026.04] HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.06165)]
+[arxiv 2026.04] MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control  [[PDF](https://arxiv.org/abs/2604.06156)]
+[arxiv 2026.04] Scientific Graphics Program Synthesis via Dual Self-Consistency Reinforcement Learning  [[PDF](https://arxiv.org/abs/2604.06079)]
+[arxiv 2026.04] Is CLIP Cross-Eyed? Revealing and Mitigating Center Bias in the CLIP Family  [[PDF](https://arxiv.org/abs/2604.05971)]
+[arxiv 2026.04] Mixture-of-Modality-Experts with Holistic Token Learning for Fine-Grained Multimodal Visual Analytics in Driver Action Recognition  [[PDF](https://arxiv.org/abs/2604.05947)]
+[arxiv 2026.04] AICA-Bench: Holistically Examining the Capabilities of VLMs in Affective Image Content Analysis  [[PDF](https://arxiv.org/abs/2604.05900)]
+[arxiv 2026.04] Reading Between the Pixels: An Inscriptive Jailbreak Attack on Text-to-Image Models  [[PDF](https://arxiv.org/abs/2604.05853)]
+[arxiv 2026.04] WikiSeeker: Rethinking the Role of Vision-Language Models in Knowledge-Based Visual Question Answering  [[PDF](https://arxiv.org/abs/2604.05818)]
+[arxiv 2026.04] Beyond the Beep: Scalable Collision Anticipation and Real-Time Explainability with BADAS-2.0  [[PDF](https://arxiv.org/abs/2604.05767)]
+[arxiv 2026.04] Let Geometry GUIDE: Layer-wise Unrolling of Geometric Priors in Multimodal LLMs  [[PDF](https://arxiv.org/abs/2604.05695)]
+[arxiv 2026.04] 3D Smoke Scene Reconstruction Guided by Vision Priors from Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.05687)]
+[arxiv 2026.04] DetailVerifyBench: A Benchmark for Dense Hallucination Localization in Long Image Captions  [[PDF](https://arxiv.org/abs/2604.05623)]
+[arxiv 2026.04] ID-Selection: Importance-Diversity Based Visual Token Selection for Efficient LVLM Inference  [[PDF](https://arxiv.org/abs/2604.05601)]
+[arxiv 2026.04] Benchmarking Vision-Language Models under Contradictory Virtual Content Attacks in Augmented Reality  [[PDF](https://arxiv.org/abs/2604.05510)]
+[arxiv 2026.04] Unifying VLM-Guided Flow Matching and Spectral Anomaly Detection for Interpretable Veterinary Diagnosis  [[PDF](https://arxiv.org/abs/2604.05482)]
+[arxiv 2026.04] A Synthetic Eye Movement Dataset for Script Reading Detection: Real Trajectory Replay on a 3D Simulator  [[PDF](https://arxiv.org/abs/2604.05475)]
+[arxiv 2026.04] VideoStir: Understanding Long Videos via Spatio-Temporally Structured and Intent-Aware RAG  [[PDF](https://arxiv.org/abs/2604.05418)]
+[arxiv 2026.04] Region-R1: Reinforcing Query-Side Region Cropping for Multi-Modal Re-Ranking  [[PDF](https://arxiv.org/abs/2604.05268)]
+[arxiv 2026.04] Integration of Object Detection and Small VLMs for Construction Safety Hazard Identification  [[PDF](https://arxiv.org/abs/2604.05210)]
+[arxiv 2026.04] MIRAGE: Benchmarking and Aligning Multi-Instance Image Editing  [[PDF](https://arxiv.org/abs/2604.05180)]
+[arxiv 2026.04] Watch Before You Answer: Learning from Visually Grounded Post-Training  [[PDF](https://arxiv.org/abs/2604.05117)]
+[arxiv 2026.04] RCP: Representation Consistency Pruner for Mitigating Distribution Shift in Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.04972)]
+[arxiv 2026.04] Generative AI for Video Trailer Synthesis: From Extractive Heuristics to Autoregressive Creativity  [[PDF](https://arxiv.org/abs/2604.04953)]
+[arxiv 2026.04] CoStream: Codec-Guided Resource-Efficient System for Video Streaming Analytics  [[PDF](https://arxiv.org/abs/2604.06036)]
+[arxiv 2026.04] Thinking Diffusion: Penalize and Guide Visual-Grounded Reasoning in Diffusion Multimodal Language Models  [[PDF](https://arxiv.org/abs/2604.05497)]
+[arxiv 2026.04] StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing  [[PDF](https://arxiv.org/abs/2604.05014)]
+[arxiv 2026.04] Evaluation of Embedding-Based and Generative Methods for LLM-Driven Document Classification: Opportunities and Challenges  [[PDF](https://arxiv.org/abs/2604.04997)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
