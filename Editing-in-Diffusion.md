@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-04-08 -->
+<!-- Added on 2026-04-09 -->
 [arxiv 2026.04] PoM: A Linear-Time Replacement for Attention with the Polynomial Mixer  [[PDF](https://arxiv.org/abs/2604.06129)] ![Star](https://img.shields.io/github/stars/davidpicard/pom?style=social&label=Star)
 
 [arxiv 2026.04] SEM-ROVER: Semantic Voxel-Guided Diffusion for Large-Scale Driving Scene Generation  [[PDF](https://arxiv.org/abs/2604.06113)]
@@ -657,6 +657,38 @@
 [arxiv 2026.04] M2StyleGS: Multi-Modality 3D Style Transfer with Gaussian Splatting [[PDF](https://arxiv.org/abs/2604.03773v1)]
 
 [arxiv 2026.04] CGHair: Compact Gaussian Hair Reconstruction with Card Clustering [[PDF](https://arxiv.org/abs/2604.03716v1)]
+
+[arxiv 2026.04] From Blobs to Spokes: High-Fidelity Surface Reconstruction via Oriented Gaussians  [[PDF](https://arxiv.org/abs/2604.07337),[Page](http://diego1401.github.io/BlobsToSpokesWebsite/index.html)]
+
+[arxiv 2026.04] Geo-EVS: Geometry-Conditioned Extrapolative View Synthesis for Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.07250)]
+
+[arxiv 2026.04] PhyEdit: Towards Real-World Object Manipulation via Physically-Grounded Image Editing  [[PDF](https://arxiv.org/abs/2604.07230)]
+
+[arxiv 2026.04] VersaVogue: Visual Expert Orchestration and Preference Alignment for Unified Fashion Synthesis  [[PDF](https://arxiv.org/abs/2604.07210)]
+
+[arxiv 2026.04] AnchorSplat: Feed-Forward 3D Gaussian SplattingWith 3D Geometric Priors  [[PDF](https://arxiv.org/abs/2604.07053)]
+
+[arxiv 2026.04] IQ-LUT: interpolated and quantized LUT for efficient image super-resolution  [[PDF](https://arxiv.org/abs/2604.07000)]
+
+[arxiv 2026.04] MAR-GRPO: Stabilized GRPO for AR-diffusion Hybrid Image Generation  [[PDF](https://arxiv.org/abs/2604.06966)]
+
+[arxiv 2026.04] RefineAnything: Multimodal Region-Specific Refinement for Perfect Local Details  [[PDF](https://arxiv.org/abs/2604.06870)]
+
+[arxiv 2026.04] LiveStre4m: Feed-Forward Live Streaming of Novel Views from Unposed Multi-View Video  [[PDF](https://arxiv.org/abs/2604.06740)]
+
+[arxiv 2026.04] DOC-GS: Dual-Domain Observation and Calibration for Reliable Sparse-View Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.06739)]
+
+[arxiv 2026.04] WeatherRemover: All-in-one Adverse Weather Removal with Multi-scale Feature Map Compression  [[PDF](https://arxiv.org/abs/2604.06623)]
+
+[arxiv 2026.04] PhysHead: Simulation-Ready Gaussian Head Avatars  [[PDF](https://arxiv.org/abs/2604.06467),[Page](https://phys-head.github.io/)]
+
+[arxiv 2026.04] FP4 Explore, BF16 Train: Diffusion Reinforcement Learning via Efficient Rollout Scaling  [[PDF](https://arxiv.org/abs/2604.06916)]
+
+[arxiv 2026.04] Enhanced Self-Supervised Multi-Image Super-Resolution for Camera Array Images  [[PDF](https://arxiv.org/abs/2604.06816)]
+
+[arxiv 2026.04] 4D Vessel Reconstruction for Benchtop Thrombectomy Analysis  [[PDF](https://arxiv.org/abs/2604.06671),[Page](https://ethanuser.github.io/vessel4D/)]
+
+[arxiv 2026.04] A Noise Constrained Diffusion (NC-Diffusion) Framework for High Fidelity Image Compression  [[PDF](https://arxiv.org/abs/2604.06568)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

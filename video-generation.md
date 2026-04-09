@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-04-08 -->
+<!-- Added on 2026-04-09 -->
 [arxiv 2026.04] Action Images: End-to-End Policy Learning via Multiview Video Generation  [[PDF](https://arxiv.org/abs/2604.06168),[Page](https://actionimages.github.io/)]
 
 [arxiv 2026.04] DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models  [[PDF](https://arxiv.org/abs/2604.06161),[Page](https://yzmblog.github.io/projects/DiffHDR/)]
@@ -547,6 +547,8 @@ A reading list of video generation
 [arxiv 2026.04] Rethinking Position Embedding as a Context Controller for Multi-Reference and Multi-Shot Video Generation [[PDF](https://arxiv.org/abs/2604.03738v1)]
 
 [arxiv 2026.04] SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation [[PDF](https://arxiv.org/abs/2604.03723v1)]
+
+[arxiv 2026.04] Grounded Forcing: Bridging Time-Independent Semantics and Proximal Dynamics in Autoregressive Video Synthesis  [[PDF](https://arxiv.org/abs/2604.06939)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

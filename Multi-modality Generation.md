@@ -1,5 +1,5 @@
 <!-- Added on 2026-04-01 -->
-<!-- Added on 2026-04-08 -->
+<!-- Added on 2026-04-09 -->
 [arxiv 2026.04] HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.06165)]
 
 [arxiv 2026.04] MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control  [[PDF](https://arxiv.org/abs/2604.06156)]
@@ -1078,6 +1078,44 @@
 [arxiv 2026.04] CLEAR: Unlocking Generative Potential for Degraded Image Understanding in Unified Multimodal Models [[PDF](https://arxiv.org/abs/2604.04780v1)]
 
 [arxiv 2026.04] Scale-Aware Vision-Language Adaptation for Extreme Far-Distance Video Person Re-identification [[PDF](https://arxiv.org/abs/2604.04183v1)]
+
+[arxiv 2026.04] Appear2Meaning: A Cross-Cultural Benchmark for Structured Cultural Metadata Inference from Images  [[PDF](https://arxiv.org/abs/2604.07338)]
+
+[arxiv 2026.04] Learning to Search: A Decision-Based Agent for Knowledge-Based Visual Question Answering  [[PDF](https://arxiv.org/abs/2604.07146)]
+
+[arxiv 2026.04] Q-Zoom: Query-Aware Adaptive Perception for Efficient Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.06912)]
+
+[arxiv 2026.04] Generate, Analyze, and Refine: Training-Free Sound Source Localization via MLLM Meta-Reasoning  [[PDF](https://arxiv.org/abs/2604.06824)]
+
+[arxiv 2026.04] Walk the Talk: Bridging the Reasoning-Action Gap for Thinking with Images via Multimodal Agentic Policy Optimization  [[PDF](https://arxiv.org/abs/2604.06777)]
+
+[arxiv 2026.04] FlowExtract: Procedural Knowledge Extraction from Maintenance Flowcharts  [[PDF](https://arxiv.org/abs/2604.06770)] ![Code](https://img.shields.io/github/stars/guille-gil/FlowExtract?style=social&label=Star)
+
+[arxiv 2026.04] FlowInOne:Unifying Multimodal Generation as Image-in, Image-out Flow Matching  [[PDF](https://arxiv.org/abs/2604.06757)]
+
+[arxiv 2026.04] How Well Do Vision-Language Models Understand Sequential Driving Scenes? A Sensitivity Study  [[PDF](https://arxiv.org/abs/2604.06750)]
+
+[arxiv 2026.04] URMF: Uncertainty-aware Robust Multimodal Fusion for Multimodal Sarcasm Detection  [[PDF](https://arxiv.org/abs/2604.06728)]
+
+[arxiv 2026.04] Enhancing MLLM Spatial Understanding via Active 3D Scene Exploration for Multi-Perspective Reasoning  [[PDF](https://arxiv.org/abs/2604.06725)]
+
+[arxiv 2026.04] Specializing Large Models for Oracle Bone Script Interpretation via Component-Grounded Multimodal Knowledge Augmentation  [[PDF](https://arxiv.org/abs/2604.06711)]
+
+[arxiv 2026.04] RASR: Retrieval-Augmented Semantic Reasoning for Fake News Video Detection  [[PDF](https://arxiv.org/abs/2604.06687)]
+
+[arxiv 2026.04] Holistic Optimal Label Selection for Robust Prompt Learning under Partial Labels  [[PDF](https://arxiv.org/abs/2604.06614)]
+
+[arxiv 2026.04] MTA-Agent: An Open Recipe for Multimodal Deep Search Agents  [[PDF](https://arxiv.org/abs/2604.06376)]
+
+[arxiv 2026.04] DISSECT: Diagnosing Where Vision Ends and Language Priors Begin in Scientific VLMs  [[PDF](https://arxiv.org/abs/2604.06250)]
+
+[arxiv 2026.04] KITE: Keyframe-Indexed Tokenized Evidence for VLM-Based Robot Failure Analysis  [[PDF](https://arxiv.org/abs/2604.07034),[Page](https://m80hz.github.io/kite/)]
+
+[arxiv 2026.04] XR-CareerAssist: An Immersive Platform for Personalised Career Guidance Leveraging Extended Reality and Multimodal AI  [[PDF](https://arxiv.org/abs/2604.06901)]
+
+[arxiv 2026.04] Steering the Verifiability of Multimodal AI Hallucinations  [[PDF](https://arxiv.org/abs/2604.06714)]
+
+[arxiv 2026.04] When to Call an Apple Red: Humans Follow Introspective Rules, VLMs Don&#39;t  [[PDF](https://arxiv.org/abs/2604.06422)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

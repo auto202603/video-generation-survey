@@ -1,5 +1,5 @@
 ## Dataset
-<!-- Added on 2026-04-08 -->
+<!-- Added on 2026-04-09 -->
 [arxiv 2026.04] HumANDiff: Articulated Noise Diffusion for Motion-Consistent Human Video Generation  [[PDF](https://arxiv.org/abs/2604.05961),[Page](https://taohuumd.github.io/projects/HumANDiff/)]
 
 [arxiv 2026.04] EfficientMonoHair: Fast Strand-Level Reconstruction from Monocular Video via Multi-View Direction Fusion  [[PDF](https://arxiv.org/abs/2604.05794)]
@@ -147,6 +147,12 @@
 [arxiv 2026.04] Diffusion Path Alignment for Long-Range Motion Generation and Domain Transitions [[PDF](https://arxiv.org/abs/2604.03310v1)]
 
 [arxiv 2026.04] Motion-Adaptive Multi-Scale Temporal Modelling with Skeleton-Constrained Spatial Graphs for Efficient 3D Human Pose Estimation [[PDF](https://arxiv.org/abs/2604.03652v1)]
+
+[arxiv 2026.04] GenLCA: 3D Diffusion for Full-Body Avatars from In-the-Wild Videos  [[PDF](https://arxiv.org/abs/2604.07273)]
+
+[arxiv 2026.04] CSA-Graphs: A Privacy-Preserving Structural Dataset for Child Sexual Abuse Research  [[PDF](https://arxiv.org/abs/2604.07132)]
+
+[arxiv 2026.04] RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild  [[PDF](https://arxiv.org/abs/2604.07331),[Page](https://roshi-mocap.github.io/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
