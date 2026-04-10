@@ -1,5 +1,5 @@
 ## Dataset
-<!-- Added on 2026-04-09 -->
+<!-- Added on 2026-04-10 -->
 [arxiv 2026.04] HumANDiff: Articulated Noise Diffusion for Motion-Consistent Human Video Generation  [[PDF](https://arxiv.org/abs/2604.05961),[Page](https://taohuumd.github.io/projects/HumANDiff/)]
 
 [arxiv 2026.04] EfficientMonoHair: Fast Strand-Level Reconstruction from Monocular Video via Multi-View Direction Fusion  [[PDF](https://arxiv.org/abs/2604.05794)]
@@ -153,6 +153,12 @@
 [arxiv 2026.04] CSA-Graphs: A Privacy-Preserving Structural Dataset for Child Sexual Abuse Research  [[PDF](https://arxiv.org/abs/2604.07132)]
 
 [arxiv 2026.04] RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild  [[PDF](https://arxiv.org/abs/2604.07331),[Page](https://roshi-mocap.github.io/)]
+
+[arxiv 2026.04] ETCH-X: Robustify Expressive Body Fitting to Clothed Humans with Composable Datasets  [[PDF](https://arxiv.org/abs/2604.08548),[Page](https://xiaobenli00.github.io/ETCH-X/)]
+
+[arxiv 2026.04] E-3DPSM: A State Machine for Event-Based Egocentric 3D Human Pose Estimation  [[PDF](https://arxiv.org/abs/2604.08543),[Page](https://4dqv.mpi-inf.mpg.de/E-3DPSM/)]
+
+[arxiv 2026.04] Visually-grounded Humanoid Agents  [[PDF](https://arxiv.org/abs/2604.08509),[Page](https://alvinyh.github.io/VGHuman/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

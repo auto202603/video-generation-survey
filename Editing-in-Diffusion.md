@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-04-09 -->
+<!-- Added on 2026-04-10 -->
 [arxiv 2026.04] PoM: A Linear-Time Replacement for Attention with the Polynomial Mixer  [[PDF](https://arxiv.org/abs/2604.06129)] ![Star](https://img.shields.io/github/stars/davidpicard/pom?style=social&label=Star)
 
 [arxiv 2026.04] SEM-ROVER: Semantic Voxel-Guided Diffusion for Large-Scale Driving Scene Generation  [[PDF](https://arxiv.org/abs/2604.06113)]
@@ -689,6 +689,40 @@
 [arxiv 2026.04] 4D Vessel Reconstruction for Benchtop Thrombectomy Analysis  [[PDF](https://arxiv.org/abs/2604.06671),[Page](https://ethanuser.github.io/vessel4D/)]
 
 [arxiv 2026.04] A Noise Constrained Diffusion (NC-Diffusion) Framework for High Fidelity Image Compression  [[PDF](https://arxiv.org/abs/2604.06568)]
+
+[arxiv 2026.04] BLaDA: Bridging Language to Functional Dexterous Actions within 3DGS Fields  [[PDF](https://arxiv.org/abs/2604.08410),[Page](https://github.com/PopeyePxx/BLaDA)]
+
+[arxiv 2026.04] SurfelSplat: Learning Efficient and Generalizable Gaussian Surfel Representations for Sparse-View Surface Reconstruction  [[PDF](https://arxiv.org/abs/2604.08370),[Page](https://github.com/Simon-Dcs/Surfel_Splat)]
+
+[arxiv 2026.04] MegaStyle: Constructing Diverse and Scalable Style Dataset via Consistent Text-to-Image Style Mapping  [[PDF](https://arxiv.org/abs/2604.08364),[Page](https://jeoyal.github.io/MegaStyle/)]
+
+[arxiv 2026.04] GroundingAnomaly: Spatially-Grounded Diffusion for Few-Shot Anomaly Synthesis  [[PDF](https://arxiv.org/abs/2604.08301)]
+
+[arxiv 2026.04] Preventing Overfitting in Deep Image Prior for Hyperspectral Image Denoising  [[PDF](https://arxiv.org/abs/2604.08272)]
+
+[arxiv 2026.04] LINE: LLM-based Iterative Neuron Explanations for Vision Models  [[PDF](https://arxiv.org/abs/2604.08039)]
+
+[arxiv 2026.04] SearchAD: Large-Scale Rare Image Retrieval Dataset for Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.08008)]
+
+[arxiv 2026.04] SAT: Selective Aggregation Transformer for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.07994)]
+
+[arxiv 2026.04] DP-DeGauss: Dynamic Probabilistic Gaussian Decomposition for Egocentric 4D Scene Reconstruction  [[PDF](https://arxiv.org/abs/2604.07986)]
+
+[arxiv 2026.04] Generative 3D Gaussian Splatting for Arbitrary-ResolutionAtmospheric Downscaling and Forecasting  [[PDF](https://arxiv.org/abs/2604.07928)]
+
+[arxiv 2026.04] AnomalyAgent: Agentic Industrial Anomaly Synthesis via Tool-Augmented Reinforcement Learning  [[PDF](https://arxiv.org/abs/2604.07900)]
+
+[arxiv 2026.04] ReconPhys: Reconstruct Appearance and Physical Attributes from Single Video  [[PDF](https://arxiv.org/abs/2604.07882)]
+
+[arxiv 2026.04] FlowGuard: Towards Lightweight In-Generation Safety Detection for Diffusion Models via Linear Latent Decoding  [[PDF](https://arxiv.org/abs/2604.07879)]
+
+[arxiv 2026.04] LPM 1.0: Video-based Character Performance Model  [[PDF](https://arxiv.org/abs/2604.07823),[Page](https://large-performance-model.github.io)]
+
+[arxiv 2026.04] GEAR: GEometry-motion Alternating Refinement for Articulated Object Modeling with Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.07728)]
+
+[arxiv 2026.04] Personalizing Text-to-Image Generation to Individual Taste  [[PDF](https://arxiv.org/abs/2604.07427)]
+
+[arxiv 2026.04] PrivFedTalk: Privacy-Aware Federated Diffusion with Identity-Stable Adapters for Personalized Talking-Head Generation  [[PDF](https://arxiv.org/abs/2604.08037),[Page](https://github.com/mazumdarsoumya/PrivFedTalk)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

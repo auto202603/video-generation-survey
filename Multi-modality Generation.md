@@ -1,5 +1,5 @@
 <!-- Added on 2026-04-01 -->
-<!-- Added on 2026-04-09 -->
+<!-- Added on 2026-04-10 -->
 [arxiv 2026.04] HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.06165)]
 
 [arxiv 2026.04] MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control  [[PDF](https://arxiv.org/abs/2604.06156)]
@@ -1116,6 +1116,84 @@
 [arxiv 2026.04] Steering the Verifiability of Multimodal AI Hallucinations  [[PDF](https://arxiv.org/abs/2604.06714)]
 
 [arxiv 2026.04] When to Call an Apple Red: Humans Follow Introspective Rules, VLMs Don&#39;t  [[PDF](https://arxiv.org/abs/2604.06422)]
+
+[arxiv 2026.04] Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts  [[PDF](https://arxiv.org/abs/2604.08541)]
+
+[arxiv 2026.04] OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks  [[PDF](https://arxiv.org/abs/2604.08539),[Page](https://github.com/uclanlp/openvlthinker)]
+
+[arxiv 2026.04] ParseBench: A Document Parsing Benchmark for AI Agents  [[PDF](https://arxiv.org/abs/2604.08538)]
+
+[arxiv 2026.04] RewardFlow: Generate Images by Optimizing What You Reward  [[PDF](https://arxiv.org/abs/2604.08536),[Page](https://plan-lab.github.io/rewardflow)]
+
+[arxiv 2026.04] UniversalVTG: A Universal and Lightweight Foundation Model for Video Temporal Grounding  [[PDF](https://arxiv.org/abs/2604.08522),[Page](https://vision.cs.utexas.edu/projects/universalvtg)]
+
+[arxiv 2026.04] What They Saw, Not Just Where They Looked: Semantic Scanpath Similarity via VLMs and NLP metric  [[PDF](https://arxiv.org/abs/2604.08494)]
+
+[arxiv 2026.04] Faithful GRPO: Improving Visual Spatial Reasoning in Multimodal Language Models via Constrained Policy Optimization  [[PDF](https://arxiv.org/abs/2604.08476)]
+
+[arxiv 2026.04] OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance  [[PDF](https://arxiv.org/abs/2604.08461)]
+
+[arxiv 2026.04] Entropy-Gradient Grounding: Training-Free Evidence Retrieval in Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.08456),[Page](https://entropy-gradient-grounding.github.io/)]
+
+[arxiv 2026.04] Phantasia: Context-Adaptive Backdoors in Vision Language Models  [[PDF](https://arxiv.org/abs/2604.08395)]
+
+[arxiv 2026.04] PokeGym: A Visually-Driven Long-Horizon Benchmark for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.08340)]
+
+[arxiv 2026.04] Can Vision Language Models Judge Action Quality? An Empirical Evaluation  [[PDF](https://arxiv.org/abs/2604.08294)]
+
+[arxiv 2026.04] EditCaption: Human-Aligned Instruction Synthesis for Image Editing via Supervised Fine-Tuning and Direct Preference Optimization  [[PDF](https://arxiv.org/abs/2604.08213)]
+
+[arxiv 2026.04] Vision-Language Foundation Models for Comprehensive Automated Pavement Condition Assessment  [[PDF](https://arxiv.org/abs/2604.08212)]
+
+[arxiv 2026.04] SciFigDetect: A Benchmark for AI-Generated Scientific Figure Detection  [[PDF](https://arxiv.org/abs/2604.08211)]
+
+[arxiv 2026.04] OV-Stitcher: A Global Context-Aware Framework for Training-Free Open-Vocabulary Semantic Segmentation  [[PDF](https://arxiv.org/abs/2604.08110)]
+
+[arxiv 2026.04] AtlasOCR: Building the First Open-Source Darija OCR Model with Vision Language Models  [[PDF](https://arxiv.org/abs/2604.08070)]
+
+[arxiv 2026.04] Brain3D: EEG-to-3D Decoding of Visual Representations via Multimodal Reasoning  [[PDF](https://arxiv.org/abs/2604.08068)]
+
+[arxiv 2026.04] EEG2Vision: A Multimodal EEG-Based Framework for 2D Visual Reconstruction in Cognitive Neuroscience  [[PDF](https://arxiv.org/abs/2604.08063)]
+
+[arxiv 2026.04] Bridging Time and Space: Decoupled Spatio-Temporal Alignment for Video Grounding  [[PDF](https://arxiv.org/abs/2604.08014)]
+
+[arxiv 2026.04] Few-Shot Incremental 3D Object Detection in Dynamic Indoor Environments  [[PDF](https://arxiv.org/abs/2604.07997)]
+
+[arxiv 2026.04] Tarot-SAM3: Training-free SAM3 for Any Referring Expression Segmentation  [[PDF](https://arxiv.org/abs/2604.07916)]
+
+[arxiv 2026.04] Mitigating Entangled Steering in Large Vision-Language Models for Hallucination Reduction  [[PDF](https://arxiv.org/abs/2604.07914)]
+
+[arxiv 2026.04] AgriChain Visually Grounded Expert Verified Reasoning for Interpretable Agricultural Vision Language Models  [[PDF](https://arxiv.org/abs/2604.07814)]
+
+[arxiv 2026.04] HAWK: Head Importance-Aware Visual Token Pruning in Multimodal Models  [[PDF](https://arxiv.org/abs/2604.07812)]
+
+[arxiv 2026.04] Latent Anomaly Knowledge Excavation: Unveiling Sparse Sensitive Neurons in Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.07802)]
+
+[arxiv 2026.04] ESOM: Efficiently Understanding Streaming Video Anomalies with Open-world Dynamic Definitions  [[PDF](https://arxiv.org/abs/2604.07772)]
+
+[arxiv 2026.04] RemoteAgent: Bridging Vague Human Intents and Earth Observation with RL-based Agentic MLLMs  [[PDF](https://arxiv.org/abs/2604.07765)]
+
+[arxiv 2026.04] Symbiotic-MoE: Unlocking the Synergy between Generation and Understanding  [[PDF](https://arxiv.org/abs/2604.07753)]
+
+[arxiv 2026.04] Beyond Pedestrians: Caption-Guided CLIP Framework for High-Difficulty Video-based Person Re-Identification  [[PDF](https://arxiv.org/abs/2604.07740)]
+
+[arxiv 2026.04] VSAS-BENCH: Real-Time Evaluation of Visual Streaming Assistant Models  [[PDF](https://arxiv.org/abs/2604.07634)]
+
+[arxiv 2026.04] HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents  [[PDF](https://arxiv.org/abs/2604.07430)]
+
+[arxiv 2026.04] GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents  [[PDF](https://arxiv.org/abs/2604.07429)]
+
+[arxiv 2026.04] FORGE:Fine-grained Multimodal Evaluation for Manufacturing Scenarios  [[PDF](https://arxiv.org/abs/2604.07413),[Page](https://ai4manufacturing.github.io/forge-web)]
+
+[arxiv 2026.04] U-CECE: A Universal Multi-Resolution Framework for Conceptual Counterfactual Explanations  [[PDF](https://arxiv.org/abs/2604.08295)]
+
+[arxiv 2026.04] WorldMAP: Bootstrapping Vision-Language Navigation Trajectory Prediction with Generative World Models  [[PDF](https://arxiv.org/abs/2604.07957)]
+
+[arxiv 2026.04] Kuramoto Oscillatory Phase Encoding: Neuro-inspired Synchronization for Improved Learning Efficiency  [[PDF](https://arxiv.org/abs/2604.07904)]
+
+[arxiv 2026.04] Are GUI Agents Focused Enough? Automated Distraction via Semantic-level UI Element Injection  [[PDF](https://arxiv.org/abs/2604.07831),[Page](https://github.com/HashTAG00002/UI-Injection)]
+
+[arxiv 2026.04] RoboAgent: Chaining Basic Capabilities for Embodied Task Planning  [[PDF](https://arxiv.org/abs/2604.07774)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

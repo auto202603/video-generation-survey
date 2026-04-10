@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-04-09 -->
+<!-- Added on 2026-04-10 -->
 [arxiv 2026.04] Action Images: End-to-End Policy Learning via Multiview Video Generation  [[PDF](https://arxiv.org/abs/2604.06168),[Page](https://actionimages.github.io/)]
 
 [arxiv 2026.04] DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models  [[PDF](https://arxiv.org/abs/2604.06161),[Page](https://yzmblog.github.io/projects/DiffHDR/)]
@@ -549,6 +549,28 @@ A reading list of video generation
 [arxiv 2026.04] SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation [[PDF](https://arxiv.org/abs/2604.03723v1)]
 
 [arxiv 2026.04] Grounded Forcing: Bridging Time-Independent Semantics and Proximal Dynamics in Autoregressive Video Synthesis  [[PDF](https://arxiv.org/abs/2604.06939)]
+
+[arxiv 2026.04] When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models  [[PDF](https://arxiv.org/abs/2604.08546),[Page](https://h-embodvis.github.io/NUMINA)]
+
+[arxiv 2026.04] AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation  [[PDF](https://arxiv.org/abs/2604.08540)]
+
+[arxiv 2026.04] Phantom: Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics  [[PDF](https://arxiv.org/abs/2604.08503)]
+
+[arxiv 2026.04] Novel View Synthesis as Video Completion  [[PDF](https://arxiv.org/abs/2604.08500),[Page](https://frame-crafter.github.io/)]
+
+[arxiv 2026.04] Uni-ViGU: Towards Unified Video Generation and Understanding via A Diffusion-Based Video Generator  [[PDF](https://arxiv.org/abs/2604.08121),[Page](https://fr0zencrane.github.io/uni-vigu-page/)]
+
+[arxiv 2026.04] Small Vision-Language Models are Smart Compressors for Long Video Understanding  [[PDF](https://arxiv.org/abs/2604.08120),[Page](https://FeiElysia.github.io/tempo-page/)]
+
+[arxiv 2026.04] DiffVC: A Non-autoregressive Framework Based on Diffusion Model for Video Captioning  [[PDF](https://arxiv.org/abs/2604.08084)]
+
+[arxiv 2026.04] AdaSpark: Adaptive Sparsity for Efficient Long-Video Understanding  [[PDF](https://arxiv.org/abs/2604.08077)]
+
+[arxiv 2026.04] ABMAMBA: Multimodal Large Language Model with Aligned Hierarchical Bidirectional Scan for Efficient Video Captioning  [[PDF](https://arxiv.org/abs/2604.08050)]
+
+[arxiv 2026.04] Lighting-grounded Video Generation with Renderer-based Agent Reasoning  [[PDF](https://arxiv.org/abs/2604.07966)]
+
+[arxiv 2026.04] ImVideoEdit: Image-learning Video Editing via 2D Spatial Difference Attention Blocks  [[PDF](https://arxiv.org/abs/2604.07958)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
