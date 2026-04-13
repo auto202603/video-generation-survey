@@ -160,6 +160,14 @@
 
 [arxiv 2026.04] Visually-grounded Humanoid Agents  [[PDF](https://arxiv.org/abs/2604.08509),[Page](https://alvinyh.github.io/VGHuman/)]
 
+[arxiv 2026.04] Structure-Aware Fine-Grained Gaussian Splatting for Expressive Avatar Reconstruction  [[PDF](https://arxiv.org/abs/2604.09324),[Page](https://github.com/Su245811YZ/SFGS)]
+
+[arxiv 2026.04] Physically Grounded 3D Generative Reconstruction under Hand Occlusion using Proprioception and Multi-Contact Touch  [[PDF](https://arxiv.org/abs/2604.09100)]
+
+[arxiv 2026.04] TAIHRI: Task-Aware 3D Human Keypoints Localization for Close-Range Human-Robot Interaction  [[PDF](https://arxiv.org/abs/2604.08921)]
+
+[arxiv 2026.04] AniGen: Unified $S^3$ Fields for Animatable 3D Asset Generation  [[PDF](https://arxiv.org/abs/2604.08746)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 

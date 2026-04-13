@@ -1195,6 +1195,50 @@
 
 [arxiv 2026.04] RoboAgent: Chaining Basic Capabilities for Embodied Task Planning  [[PDF](https://arxiv.org/abs/2604.07774)]
 
+[arxiv 2026.04] Seeing is Believing: Robust Vision-Guided Cross-Modal Prompt Learning under Label Noise  [[PDF](https://arxiv.org/abs/2604.09532)]
+
+[arxiv 2026.04] VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images  [[PDF](https://arxiv.org/abs/2604.09531),[Page](https://zlab-princeton.github.io/VisionFoundry/)]
+
+[arxiv 2026.04] VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning  [[PDF](https://arxiv.org/abs/2604.09529),[Page](https://github.com/Mr-Loevan/VL-Calibration)]
+
+[arxiv 2026.04] VISOR: Agentic Visual Retrieval-Augmented Generation via Iterative Search and Over-horizon Reasoning  [[PDF](https://arxiv.org/abs/2604.09508)]
+
+[arxiv 2026.04] Do Vision Language Models Need to Process Image Tokens?  [[PDF](https://arxiv.org/abs/2604.09425)]
+
+[arxiv 2026.04] Arbitration Failure, Not Perceptual Blindness: How Vision-Language Models Resolve Visual-Linguistic Conflicts  [[PDF](https://arxiv.org/abs/2604.09364)]
+
+[arxiv 2026.04] Visually-Guided Policy Optimization for Multimodal Reasoning  [[PDF](https://arxiv.org/abs/2604.09349)]
+
+[arxiv 2026.04] Mosaic: Multimodal Jailbreak against Closed-Source VLMs via Multi-View Ensemble Optimization  [[PDF](https://arxiv.org/abs/2604.09253)]
+
+[arxiv 2026.04] FashionStylist: An Expert Knowledge-enhanced Multimodal Dataset for Fashion Understanding  [[PDF](https://arxiv.org/abs/2604.09249)]
+
+[arxiv 2026.04] MAG-3D: Multi-Agent Grounded Reasoning for 3D Understanding  [[PDF](https://arxiv.org/abs/2604.09167)]
+
+[arxiv 2026.04] FIRE-CIR: Fine-grained Reasoning for Composed Fashion Image Retrieval  [[PDF](https://arxiv.org/abs/2604.09114)]
+
+[arxiv 2026.04] Skill-Conditioned Visual Geolocation for Vision-Language  [[PDF](https://arxiv.org/abs/2604.09025)]
+
+[arxiv 2026.04] Leave My Images Alone: Preventing Multi-Modal Large Language Models from Analyzing Images via Visual Prompt Injection  [[PDF](https://arxiv.org/abs/2604.09024)]
+
+[arxiv 2026.04] PinpointQA: A Dataset and Benchmark for Small Object-Centric Spatial Understanding in Indoor Videos  [[PDF](https://arxiv.org/abs/2604.08991)]
+
+[arxiv 2026.04] ActFER: Agentic Facial Expression Recognition via Active Tool-Augmented Visual Reasoning  [[PDF](https://arxiv.org/abs/2604.08990)]
+
+[arxiv 2026.04] How Should Video LLMs Output Time? An Analysis of Efficient Temporal Grounding Paradigms  [[PDF](https://arxiv.org/abs/2604.08966)]
+
+[arxiv 2026.04] LMGenDrive: Bridging Multimodal Understanding and Generative World Modeling for End-to-End Driving  [[PDF](https://arxiv.org/abs/2604.08719)]
+
+[arxiv 2026.04] 3D-VCD: Hallucination Mitigation in 3D-LLM Embodied Agents through Visual Contrastive Decoding  [[PDF](https://arxiv.org/abs/2604.08645)]
+
+[arxiv 2026.04] MARINER: A 3E-Driven Benchmark for Fine-Grained Perception and Complex Reasoning in Open-Water Environments  [[PDF](https://arxiv.org/abs/2604.08615)]
+
+[arxiv 2026.04] Detection of Hate and Threat in Digital Forensics: A Case-Driven Multimodal Approach  [[PDF](https://arxiv.org/abs/2604.08609)]
+
+[arxiv 2026.04] Through Their Eyes: Fixation-aligned Tuning for Personalized User Emulation  [[PDF](https://arxiv.org/abs/2604.09368)]
+
+[arxiv 2026.04] CLIP-Inspector: Model-Level Backdoor Detection for Prompt-Tuned CLIP via OOD Trigger Inversion  [[PDF](https://arxiv.org/abs/2604.09101)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 

@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-04-10 -->
+<!-- Added on 2026-04-13 -->
 [arxiv 2026.04] Action Images: End-to-End Policy Learning via Multiview Video Generation  [[PDF](https://arxiv.org/abs/2604.06168),[Page](https://actionimages.github.io/)]
 
 [arxiv 2026.04] DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models  [[PDF](https://arxiv.org/abs/2604.06161),[Page](https://yzmblog.github.io/projects/DiffHDR/)]
@@ -10,13 +10,13 @@
 
 [arxiv 2026.04] Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding  [[PDF](https://arxiv.org/abs/2604.05015),[Page](https://video-mme-v2.netlify.app/)]
 
-<!-- Added on 2026-04-07 -->
-<!-- Added on 2026-04-06 -->
-<!-- Added on 2026-04-03 -->
-<!-- Added on 2026-04-01 -->
-<!-- Added on 2026-03-25 -->
-<!-- Added on 2026-03-26 -->
-<!-- Added on 2026-04-02 -->
+<!-- Added on 2026-04-13 -->
+<!-- Added on 2026-04-13 -->
+<!-- Added on 2026-04-13 -->
+<!-- Added on 2026-04-13 -->
+<!-- Added on 2026-04-13 -->
+<!-- Added on 2026-04-13 -->
+<!-- Added on 2026-04-13 -->
 [arxiv 2026.04] ONE-SHOT: Compositional Human-Environment Video Synthesis via Spatial-Decoupled Motion Injection and Hybrid Context Integration  [[PDF](https://arxiv.org/abs/2604.01043v1),[Page](https://martayang.github.io/ONE-SHOT/)]
 
 [arxiv 2026.04] TRACE: High-Fidelity 3D Scene Editing via Tangible Reconstruction and Geometry-Aligned Contextual Video Masking  [[PDF](https://arxiv.org/abs/2604.01207v1)]
@@ -571,6 +571,14 @@ A reading list of video generation
 [arxiv 2026.04] Lighting-grounded Video Generation with Renderer-based Agent Reasoning  [[PDF](https://arxiv.org/abs/2604.07966)]
 
 [arxiv 2026.04] ImVideoEdit: Image-learning Video Editing via 2D Spatial Difference Attention Blocks  [[PDF](https://arxiv.org/abs/2604.07958)]
+
+[arxiv 2026.04] CT-1: Vision-Language-Camera Models Transfer Spatial Reasoning Knowledge to Camera-Controllable Video Generation  [[PDF](https://arxiv.org/abs/2604.09201)]
+
+[arxiv 2026.04] Tora3: Trajectory-Guided Audio-Video Generation with Physical Coherence  [[PDF](https://arxiv.org/abs/2604.09057)]
+
+[arxiv 2026.04] StreamMeCo: Long-Term Agent Memory Compression for Efficient Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2604.09000)]
+
+[arxiv 2026.04] InsEdit: Towards Instruction-based Visual Editing via Data-Efficient Video Diffusion Models Adaptation  [[PDF](https://arxiv.org/abs/2604.08646)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

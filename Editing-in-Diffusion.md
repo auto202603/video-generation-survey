@@ -724,6 +724,32 @@
 
 [arxiv 2026.04] PrivFedTalk: Privacy-Aware Federated Diffusion with Identity-Stable Adapters for Personalized Talking-Head Generation  [[PDF](https://arxiv.org/abs/2604.08037),[Page](https://github.com/mazumdarsoumya/PrivFedTalk)]
 
+[arxiv 2026.04] RIRF: Reasoning Image Restoration Framework  [[PDF](https://arxiv.org/abs/2604.09511)]
+
+[arxiv 2026.04] SCoRe: Clean Image Generation from Diffusion Models Trained on Noisy Images  [[PDF](https://arxiv.org/abs/2604.09436)]
+
+[arxiv 2026.04] Region-Constrained Group Relative Policy Optimization for Flow-Based Image Editing  [[PDF](https://arxiv.org/abs/2604.09386)]
+
+[arxiv 2026.04] Hitem3D 2.0: Multi-View Guided Native 3D Texture Generation  [[PDF](https://arxiv.org/abs/2604.09231)]
+
+[arxiv 2026.04] SHIFT: Steering Hidden Intermediates in Flow Transformers  [[PDF](https://arxiv.org/abs/2604.09213)]
+
+[arxiv 2026.04] Off-the-shelf Vision Models Benefit Image Manipulation Localization  [[PDF](https://arxiv.org/abs/2604.09096)]
+
+[arxiv 2026.04] Scene-Agnostic Object-Centric Representation Learning for 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.09045)]
+
+[arxiv 2026.04] CatalogStitch: Dimension-Aware and Occlusion-Preserving Object Compositing for Catalog Image Generation  [[PDF](https://arxiv.org/abs/2604.08836),[Page](https://catalogstitch.github.io)]
+
+[arxiv 2026.04] SIC3D: Style Image Conditioned Text-to-3D Gaussian Splatting Generation  [[PDF](https://arxiv.org/abs/2604.08760)]
+
+[arxiv 2026.04] What Matters in Virtual Try-Off? Dual-UNet Diffusion Model For Garment Reconstruction  [[PDF](https://arxiv.org/abs/2604.08716)]
+
+[arxiv 2026.04] A Semi-Automated Framework for 3D Reconstruction of Medieval Manuscript Miniatures  [[PDF](https://arxiv.org/abs/2604.08610)]
+
+[arxiv 2026.04] UHD Low-Light Image Enhancement via Real-Time Enhancement Methods with Clifford Information Fusion  [[PDF](https://arxiv.org/abs/2604.09321)]
+
+[arxiv 2026.04] Pretrain-then-Adapt: Uncertainty-Aware Test-Time Adaptation for Text-based Person Search  [[PDF](https://arxiv.org/abs/2604.08598)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]
