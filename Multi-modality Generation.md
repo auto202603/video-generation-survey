@@ -1,5 +1,109 @@
 <!-- Added on 2026-04-01 -->
 <!-- Added on 2026-04-10 -->
+<!-- Added on 2026-04-14 -->
+
+[arxiv 2026.04] LottieGPT: Tokenizing Vector Animation for Autoregressive Generation  [[PDF](https://arxiv.org/abs/2604.11792),[Page](https://lottiegpt.github.io/)]
+
+[arxiv 2026.04] LMMs Meet Object-Centric Vision: Understanding, Segmentation, Editing and Generation  [[PDF](https://arxiv.org/abs/2604.11789)]
+
+[arxiv 2026.04] POINTS-Long: Adaptive Dual-Mode Visual Reasoning in MLLMs  [[PDF](https://arxiv.org/abs/2604.11627)]
+
+[arxiv 2026.04] Geoparsing: Diagram Parsing for Plane and Solid Geometry with a Unified Formal Language  [[PDF](https://arxiv.org/abs/2604.11600)]
+
+[arxiv 2026.04] MLLM-as-a-Judge Exhibits Model Preference Bias  [[PDF](https://arxiv.org/abs/2604.11589)]
+
+[arxiv 2026.04] CLAY: Conditional Visual Similarity Modulation in Vision-Language Embedding Space  [[PDF](https://arxiv.org/abs/2604.11539),[Page](https://sohwi-lim.github.io/CLAY)]
+
+[arxiv 2026.04] SVD-Prune: Training-Free Token Pruning For Efficient Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.11530)]
+
+[arxiv 2026.04] Revisiting Compositionality in Dual-Encoder Vision-Language Models: The Role of Inference  [[PDF](https://arxiv.org/abs/2604.11496)]
+
+[arxiv 2026.04] Scene Change Detection with Vision-Language Representation Learning  [[PDF](https://arxiv.org/abs/2604.11402)]
+
+[arxiv 2026.04] What Do Vision-Language Models Encode for Personalized Image Aesthetics Assessment?  [[PDF](https://arxiv.org/abs/2604.11374)]
+
+[arxiv 2026.04] Empowering Video Translation using Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.11283)]
+
+[arxiv 2026.04] Script-a-Video: Deep Structured Audio-visual Captions via Factorized Streams and Relational Grounding  [[PDF](https://arxiv.org/abs/2604.11244)]
+
+[arxiv 2026.04] Decoupled Similarity for Task-Aware Token Pruning in Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.11240)]
+
+[arxiv 2026.04] Sign Language Recognition in the Age of LLMs  [[PDF](https://arxiv.org/abs/2604.11225)]
+
+[arxiv 2026.04] Do Thought Streams Matter? Evaluating Reasoning in Gemini Vision-Language Models for Video Scene Understanding  [[PDF](https://arxiv.org/abs/2604.11177)]
+
+[arxiv 2026.04] rPPG-VQA: A Video Quality Assessment Framework for Unsupervised rPPG Training  [[PDF](https://arxiv.org/abs/2604.11156)]
+
+[arxiv 2026.04] Hierarchical Textual Knowledge for Enhanced Image Clustering  [[PDF](https://arxiv.org/abs/2604.11144)]
+
+[arxiv 2026.04] BoxTuning: Directly Injecting the Object Box for Multimodal Model Fine-Tuning  [[PDF](https://arxiv.org/abs/2604.11136)]
+
+[arxiv 2026.04] OmniScript: Towards Audio-Visual Script Generation for Long-Form Cinematic Video  [[PDF](https://arxiv.org/abs/2604.11102),[Page](https://arcomniscript.github.io)]
+
+[arxiv 2026.04] RESP: Reference-guided Sequential Prompting for Visual Glitch Detection in Video Games  [[PDF](https://arxiv.org/abs/2604.11082)]
+
+[arxiv 2026.04] Improving Layout Representation Learning Across Inconsistently Annotated Datasets via Agentic Harmonization  [[PDF](https://arxiv.org/abs/2604.11042)]
+
+[arxiv 2026.04] Test-time Scaling over Perception: Resolving the Grounding Paradox in Thinking with Images  [[PDF](https://arxiv.org/abs/2604.11025)]
+
+[arxiv 2026.04] Panoptic Pairwise Distortion Graph  [[PDF](https://arxiv.org/abs/2604.11004)]
+
+[arxiv 2026.04] TraversalBench: Challenging Paths to Follow for Vision Language Models  [[PDF](https://arxiv.org/abs/2604.10999)]
+
+[arxiv 2026.04] MMR-AD: A Large-Scale Multimodal Dataset for Benchmarking General Anomaly Detection with Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.10971)]
+
+[arxiv 2026.04] ReXSonoVQA: A Video QA Benchmark for Procedure-Centric Ultrasound Understanding  [[PDF](https://arxiv.org/abs/2604.10916)]
+
+[arxiv 2026.04] HOG-Layout: Hierarchical 3D Scene Generation, Optimization and Editing via Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.10772)]
+
+[arxiv 2026.04] Retrieving to Recover: Towards Incomplete Audio-Visual Question Answering via Semantic-consistent Purification  [[PDF](https://arxiv.org/abs/2604.10695)]
+
+[arxiv 2026.04] HiddenObjects: Scalable Diffusion-Distilled Spatial Priors for Object Placement  [[PDF](https://arxiv.org/abs/2604.10675)]
+
+[arxiv 2026.04] BareBones: Benchmarking Zero-Shot Geometric Comprehension in VLMs  [[PDF](https://arxiv.org/abs/2604.10528)]
+
+[arxiv 2026.04] STORM: End-to-End Referring Multi-Object Tracking in Videos  [[PDF](https://arxiv.org/abs/2604.10527)]
+
+[arxiv 2026.04] DiningBench: A Hierarchical Multi-view Benchmark for Perception and Reasoning in the Dietary Domain  [[PDF](https://arxiv.org/abs/2604.10425)]
+
+[arxiv 2026.04] Seeing No Evil: Blinding Large Vision-Language Models to Safety Instructions via Adversarial Attention Hijacking  [[PDF](https://arxiv.org/abs/2604.10299),[Page](https://github.com/Landsayy/AttentionJailbreak)] ![Code](https://img.shields.io/github/stars/Landsayy/AttentionJailbreak?style=social&label=Star)
+
+[arxiv 2026.04] FashionMV: Product-Level Composed Image Retrieval with Multi-View Fashion Data  [[PDF](https://arxiv.org/abs/2604.10297)]
+
+[arxiv 2026.04] Spotlight and Shadow: Attention-Guided Dual-Anchor Introspective Decoding for MLLM Hallucination Mitigation  [[PDF](https://arxiv.org/abs/2604.10071)]
+
+[arxiv 2026.04] On The Application of Linear Attention in Multimodal Transformers  [[PDF](https://arxiv.org/abs/2604.10064)]
+
+[arxiv 2026.04] Counting to Four is still a Chore for VLMs  [[PDF](https://arxiv.org/abs/2604.10039)]
+
+[arxiv 2026.04] Cross-Cultural Value Awareness in Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.09945)]
+
+[arxiv 2026.04] BLPR: Robust License Plate Recognition under Viewpoint and Illumination Variations via Confidence-Driven VLM Fallback  [[PDF](https://arxiv.org/abs/2604.09927)]
+
+[arxiv 2026.04] Text-Guided 6D Object Pose Rearrangement via Closed-Loop VLM Agents  [[PDF](https://arxiv.org/abs/2604.09781)]
+
+[arxiv 2026.04] See Fair, Speak Truth: Equitable Attention Improves Grounding and Reduces Hallucination in Vision-Language Alignment  [[PDF](https://arxiv.org/abs/2604.09749)]
+
+[arxiv 2026.04] LAST: Leveraging Tools as Hints to Enhance Spatial Reasoning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.09712)]
+
+[arxiv 2026.04] Head-wise Modality Specialization within MLLMs for Robust Fake News Detection under Missing Modality  [[PDF](https://arxiv.org/abs/2604.09711)]
+
+[arxiv 2026.04] Multi-Granularity Reasoning for Image Quality Assessment via Attribute-Aware Reinforcement Learning to Rank  [[PDF](https://arxiv.org/abs/2604.09704)]
+
+[arxiv 2026.04] Assessing Privacy Preservation and Utility in Online Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.09695)]
+
+[arxiv 2026.04] Grid2Matrix: Revealing Digital Agnosia in Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.09687)]
+
+[arxiv 2026.04] Anthropogenic Regional Adaptation in Multimodal Vision-Language Model  [[PDF](https://arxiv.org/abs/2604.11490)]
+
+[arxiv 2026.04] Back to the Barn with LLAMAs: Evolving Pretrained LLM Backbones in Finetuning Vision Language Models  [[PDF](https://arxiv.org/abs/2604.10985)]
+
+[arxiv 2026.04] Audio-Omni: Extending Multi-modal Understanding to Versatile Audio Generation and Editing  [[PDF](https://arxiv.org/abs/2604.10708)]
+
+[arxiv 2026.04] Belief-Aware VLM Model for Human-like Reasoning  [[PDF](https://arxiv.org/abs/2604.09686)]
+
+[arxiv 2026.04] Evaluating Visual Prompts with Eye-Tracking Data for MLLM-Based Human Activity Recognition  [[PDF](https://arxiv.org/abs/2604.09585)]
+
 [arxiv 2026.04] HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.06165)]
 
 [arxiv 2026.04] MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control  [[PDF](https://arxiv.org/abs/2604.06156)]

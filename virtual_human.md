@@ -1,5 +1,15 @@
 ## Dataset
 <!-- Added on 2026-04-10 -->
+<!-- Added on 2026-04-14 -->
+
+[arxiv 2026.04] UDAPose: Unsupervised Domain Adaptation for Low-Light Human Pose Estimation  [[PDF](https://arxiv.org/abs/2604.10485)]
+
+[arxiv 2026.04] Do vision models perceive illusory motion in static images like humans?  [[PDF](https://arxiv.org/abs/2604.09853)]
+
+[arxiv 2026.04] MuPPet: Multi-person 2D-to-3D Pose Lifting  [[PDF](https://arxiv.org/abs/2604.09715)]
+
+[arxiv 2026.04] Tipiano: Cascaded Piano Hand Motion Synthesis via Fingertip Priors  [[PDF](https://arxiv.org/abs/2604.09692)]
+
 [arxiv 2026.04] HumANDiff: Articulated Noise Diffusion for Motion-Consistent Human Video Generation  [[PDF](https://arxiv.org/abs/2604.05961),[Page](https://taohuumd.github.io/projects/HumANDiff/)]
 
 [arxiv 2026.04] EfficientMonoHair: Fast Strand-Level Reconstruction from Monocular Video via Multi-View Direction Fusion  [[PDF](https://arxiv.org/abs/2604.05794)]

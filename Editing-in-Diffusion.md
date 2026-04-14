@@ -1,5 +1,87 @@
 # Image Editing In Diffusion 
 <!-- Added on 2026-04-10 -->
+<!-- Added on 2026-04-14 -->
+
+[arxiv 2026.04] Unfolding 3D Gaussian Splatting via Iterative Gaussian Synopsis  [[PDF](https://arxiv.org/abs/2604.11685)]
+
+[arxiv 2026.04] Training-Free Model Ensemble for Single-Image Super-Resolution via Strong-Branch Compensation  [[PDF](https://arxiv.org/abs/2604.11564)]
+
+[arxiv 2026.04] Degradation-Aware and Structure-Preserving Diffusion for Real-World Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.11470)]
+
+[arxiv 2026.04] Beyond Model Design: Data-Centric Training and Self-Ensemble for Gaussian Color Image Denoising  [[PDF](https://arxiv.org/abs/2604.11468)]
+
+[arxiv 2026.04] GS4City: Hierarchical Semantic Gaussian Splatting via City-Model Priors  [[PDF](https://arxiv.org/abs/2604.11401)]
+
+[arxiv 2026.04] Beyond Reconstruction: Reconstruction-to-Vector Diffusion for Hyperspectral Anomaly Detection  [[PDF](https://arxiv.org/abs/2604.11390)]
+
+[arxiv 2026.04] Any 3D Scene is Worth 1K Tokens: 3D-Grounded Representation for Scene Generation at Scale  [[PDF](https://arxiv.org/abs/2604.11331),[Page](https://wswdx.github.io/3DRAE)]
+
+[arxiv 2026.04] NTIRE 2026 The 3rd Restore Any Image Model (RAIM) Challenge: AI Flash Portrait (Track 3)  [[PDF](https://arxiv.org/abs/2604.11230)]
+
+[arxiv 2026.04] Naka-GS: A Bionics-inspired Dual-Branch Naka Correction and Progressive Point Pruning for Low-Light 3DGS  [[PDF](https://arxiv.org/abs/2604.11142)]
+
+[arxiv 2026.04] Efficient Transceiver Design for Aerial Image Transmission and Large-scale Scene Reconstruction  [[PDF](https://arxiv.org/abs/2604.11098)]
+
+[arxiv 2026.04] Structured State-Space Regularization for Compact and Generation-Friendly Image Tokenization  [[PDF](https://arxiv.org/abs/2604.11089),[Page](https://jinsingsangsung.github.io/collections/blog/)]
+
+[arxiv 2026.04] Lightweight Low-Light Image Enhancement via Distribution-Normalizing Preprocessing and Depthwise U-Net  [[PDF](https://arxiv.org/abs/2604.11071)]
+
+[arxiv 2026.04] LumiMotion: Improving Gaussian Relighting with Scene Dynamics  [[PDF](https://arxiv.org/abs/2604.10994)]
+
+[arxiv 2026.04] Energy-oriented Diffusion Bridge for Image Restoration with Foundational Diffusion Models  [[PDF](https://arxiv.org/abs/2604.10983)]
+
+[arxiv 2026.04] FineEdit: Fine-Grained Image Edit with Bounding Box Guidance  [[PDF](https://arxiv.org/abs/2604.10954)]
+
+[arxiv 2026.04] Pseudo-Unification: Entropy Probing Reveals Divergent Information Patterns in Unified Multimodal Models  [[PDF](https://arxiv.org/abs/2604.10949)]
+
+[arxiv 2026.04] STGV: Spatio-Temporal Hash Encoding for Gaussian-based Video Representation  [[PDF](https://arxiv.org/abs/2604.10910)]
+
+[arxiv 2026.04] Language Prompt vs. Image Enhancement: Boosting Object Detection With CLIP in Hazy Environments  [[PDF](https://arxiv.org/abs/2604.10637)]
+
+[arxiv 2026.04] Learning 3D Representations for Spatial Intelligence from Unposed Multi-View Images  [[PDF](https://arxiv.org/abs/2604.10573)]
+
+[arxiv 2026.04] FreeScale: Scaling 3D Scenes via Certainty-Aware Free-View Generation  [[PDF](https://arxiv.org/abs/2604.10512)]
+
+[arxiv 2026.04] AIM-Bench: Benchmarking and Improving Affective Image Manipulation via Fine-Grained Hierarchical Control  [[PDF](https://arxiv.org/abs/2604.10454)]
+
+[arxiv 2026.04] Multinex: Lightweight Low-light Image Enhancement via Multi-prior Retinex  [[PDF](https://arxiv.org/abs/2604.10359)]
+
+[arxiv 2026.04] NTIRE 2026 Challenge on Single Image Reflection Removal in the Wild: Datasets, Results, and Methods  [[PDF](https://arxiv.org/abs/2604.10321)]
+
+[arxiv 2026.04] FastSHADE: Fast Self-augmented Hierarchical Asymmetric Denoising for Efficient inference on mobile devices  [[PDF](https://arxiv.org/abs/2604.10275)]
+
+[arxiv 2026.04] Dual-Exposure Imaging with Events  [[PDF](https://arxiv.org/abs/2604.10273)]
+
+[arxiv 2026.04] EditCrafter: Tuning-free High-Resolution Image Editing via Pretrained Diffusion Model  [[PDF](https://arxiv.org/abs/2604.10268),[Page](https://editcrafter.github.io/)]
+
+[arxiv 2026.04] Real-Time Human Reconstruction and Animation using Feed-Forward Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.10259)]
+
+[arxiv 2026.04] Semantic Manipulation Localization  [[PDF](https://arxiv.org/abs/2604.10132)]
+
+[arxiv 2026.04] MatRes: Zero-Shot Test-Time Model Adaptation for Simultaneous Matching and Restoration  [[PDF](https://arxiv.org/abs/2604.10081)]
+
+[arxiv 2026.04] FREE-Switch: Frequency-based Dynamic LoRA Switch for Style Transfer  [[PDF](https://arxiv.org/abs/2604.10023)]
+
+[arxiv 2026.04] GIF: A Conditional Multimodal Generative Framework for IR Drop Imaging in Chip Layouts  [[PDF](https://arxiv.org/abs/2604.09999)]
+
+[arxiv 2026.04] PointSplat: Efficient Geometry-Driven Pruning and Transformer Refinement for 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.09903)]
+
+[arxiv 2026.04] Training-Free Object-Background Compositional T2I via Dynamic Spatial Guidance and Multi-Path Pruning  [[PDF](https://arxiv.org/abs/2604.09850)]
+
+[arxiv 2026.04] F3G-Avatar : Face Focused Full-body Gaussian Avatar  [[PDF](https://arxiv.org/abs/2604.09835)]
+
+[arxiv 2026.04] Immunizing 3D Gaussian Generative Models Against Unauthorized Fine-Tuning via Attribute-Space Traps  [[PDF](https://arxiv.org/abs/2604.09688)]
+
+[arxiv 2026.04] 3D Multi-View Stylization with Pose-Free Correspondences Matching for Robust 3D Geometry Preservation  [[PDF](https://arxiv.org/abs/2604.09639)]
+
+[arxiv 2026.04] Continuous Adversarial Flow Models  [[PDF](https://arxiv.org/abs/2604.11521)]
+
+[arxiv 2026.04] ViserDex: Visual Sim-to-Real for Robust Dexterous In-hand Reorientation  [[PDF](https://arxiv.org/abs/2604.11138)]
+
+[arxiv 2026.04] Brain-Grasp: Graph-based Saliency Priors for Improved fMRI-based Visual Brain Decoding  [[PDF](https://arxiv.org/abs/2604.10617)]
+
+[arxiv 2026.04] GLEaN: A Text-to-image Bias Detection Approach for Public Comprehension  [[PDF](https://arxiv.org/abs/2604.09923)]
+
 [arxiv 2026.04] PoM: A Linear-Time Replacement for Attention with the Polynomial Mixer  [[PDF](https://arxiv.org/abs/2604.06129)] ![Star](https://img.shields.io/github/stars/davidpicard/pom?style=social&label=Star)
 
 [arxiv 2026.04] SEM-ROVER: Semantic Voxel-Guided Diffusion for Large-Scale Driving Scene Generation  [[PDF](https://arxiv.org/abs/2604.06113)]

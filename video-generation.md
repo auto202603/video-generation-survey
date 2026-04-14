@@ -1,5 +1,25 @@
 # Video Generation Survey
 <!-- Added on 2026-04-13 -->
+<!-- Added on 2026-04-14 -->
+
+[arxiv 2026.04] OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation  [[PDF](https://arxiv.org/abs/2604.11804),[Page](https://correr-zhou.github.io/OmniShow/)]
+
+[arxiv 2026.04] HDR Video Generation via Latent Alignment with Logarithmic Encoding  [[PDF](https://arxiv.org/abs/2604.11788),[Page](https://HDR-LumiVid.github.io)]
+
+[arxiv 2026.04] Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction  [[PDF](https://arxiv.org/abs/2604.11707)]
+
+[arxiv 2026.04] STS-Mixer: Spatio-Temporal-Spectral Mixer for 4D Point Cloud Video Understanding  [[PDF](https://arxiv.org/abs/2604.11637)]
+
+[arxiv 2026.04] Rein3D: Reinforced 3D Indoor Scene Generation with Panoramic Video Diffusion Models  [[PDF](https://arxiv.org/abs/2604.10578)]
+
+[arxiv 2026.04] Agentic Video Generation: From Text to Executable Event Graphs via Tool-Constrained LLM Planning  [[PDF](https://arxiv.org/abs/2604.10383)]
+
+[arxiv 2026.04] Long-Horizon Streaming Video Generation via Hybrid Attention with Decoupled Distillation  [[PDF](https://arxiv.org/abs/2604.10103)]
+
+[arxiv 2026.04] Prompt Relay: Inference-Time Temporal Control for Multi-Event Video Generation  [[PDF](https://arxiv.org/abs/2604.10030)]
+
+[arxiv 2026.04] LVSum: A Benchmark for Timestamp-Aware Long Video Summarization  [[PDF](https://arxiv.org/abs/2604.10024)]
+
 [arxiv 2026.04] Action Images: End-to-End Policy Learning via Multiview Video Generation  [[PDF](https://arxiv.org/abs/2604.06168),[Page](https://actionimages.github.io/)]
 
 [arxiv 2026.04] DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models  [[PDF](https://arxiv.org/abs/2604.06161),[Page](https://yzmblog.github.io/projects/DiffHDR/)]
