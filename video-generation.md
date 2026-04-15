@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-04-13 -->
+<!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-14 -->
 
 [arxiv 2026.04] OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation  [[PDF](https://arxiv.org/abs/2604.11804),[Page](https://correr-zhou.github.io/OmniShow/)]
@@ -599,6 +599,16 @@ A reading list of video generation
 [arxiv 2026.04] StreamMeCo: Long-Term Agent Memory Compression for Efficient Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2604.09000)]
 
 [arxiv 2026.04] InsEdit: Towards Instruction-based Visual Editing via Data-Efficient Video Diffusion Models Adaptation  [[PDF](https://arxiv.org/abs/2604.08646)]
+
+[arxiv 2026.04] VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization  [[PDF](https://arxiv.org/abs/2604.12887),[Page](https://videoflextok.epfl.ch/)]
+
+[arxiv 2026.04] All in One: A Unified Synthetic Data Pipeline for Multimodal Video Understanding  [[PDF](https://arxiv.org/abs/2604.12335)]
+
+[arxiv 2026.04] Towards Realistic and Consistent Orbital Video Generation via 3D Foundation Priors  [[PDF](https://arxiv.org/abs/2604.12309)]
+
+[arxiv 2026.04] ArtifactWorld: Scaling 3D Gaussian Splatting Artifact Restoration via Video Generation Models  [[PDF](https://arxiv.org/abs/2604.12251)]
+
+[arxiv 2026.04] Ride the Wave: Precision-Allocated Sparse Attention for Smooth Video Generation  [[PDF](https://arxiv.org/abs/2604.12219)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

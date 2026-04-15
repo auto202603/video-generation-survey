@@ -1,4 +1,4 @@
-<!-- Added on 2026-04-01 -->
+<!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-10 -->
 <!-- Added on 2026-04-14 -->
 
@@ -1342,6 +1342,60 @@
 [arxiv 2026.04] Through Their Eyes: Fixation-aligned Tuning for Personalized User Emulation  [[PDF](https://arxiv.org/abs/2604.09368)]
 
 [arxiv 2026.04] CLIP-Inspector: Model-Level Backdoor Detection for Prompt-Tuned CLIP via OOD Trigger Inversion  [[PDF](https://arxiv.org/abs/2604.09101)]
+
+[arxiv 2026.04] SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis  [[PDF](https://arxiv.org/abs/2604.13035),[Page](https://lab-spell.github.io/SceneCritic/)]
+
+[arxiv 2026.04] Visual Preference Optimization with Rubric Rewards  [[PDF](https://arxiv.org/abs/2604.13029)]
+
+[arxiv 2026.04] See, Point, Refine: Multi-Turn Approach to GUI Grounding with Visual Feedback  [[PDF](https://arxiv.org/abs/2604.13019)]
+
+[arxiv 2026.04] Boosting Visual Instruction Tuning with Self-Supervised Guidance  [[PDF](https://arxiv.org/abs/2604.12966)]
+
+[arxiv 2026.04] Distorted or Fabricated? A Survey on Hallucination in Video LLMs  [[PDF](https://arxiv.org/abs/2604.12944)]
+
+[arxiv 2026.04] Don&#39;t Show Pixels, Show Cues: Unlocking Visual Tool Reasoning in Language Models via Perception Programs  [[PDF](https://arxiv.org/abs/2604.12896)]
+
+[arxiv 2026.04] DPC-VQA: Decoupling Quality Perception and Residual Calibration for Video Quality Assessment  [[PDF](https://arxiv.org/abs/2604.12813)]
+
+[arxiv 2026.04] CLASP: Class-Adaptive Layer Fusion and Dual-Stage Pruning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.12767)]
+
+[arxiv 2026.04] PromptEcho: Annotation-Free Reward from Vision-Language Models for Text-to-Image Reinforcement Learning  [[PDF](https://arxiv.org/abs/2604.12652)]
+
+[arxiv 2026.04] GeoAlign: Geometric Feature Realignment for MLLM Spatial Reasoning  [[PDF](https://arxiv.org/abs/2604.12630)]
+
+[arxiv 2026.04] Cross-Attentive Multiview Fusion of Vision-Language Embeddings  [[PDF](https://arxiv.org/abs/2604.12551)]
+
+[arxiv 2026.04] MODIX: A Training-Free Multimodal Information-Driven Positional Index Scaling for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.12537)]
+
+[arxiv 2026.04] NTIRE 2026 The 3rd Restore Any Image Model (RAIM) Challenge: Professional Image Quality Assessment (Track 1)  [[PDF](https://arxiv.org/abs/2604.12512)]
+
+[arxiv 2026.04] From Attenuation to Attention: Variational Information Flow Manipulation for Fine-Grained Visual Perception  [[PDF](https://arxiv.org/abs/2604.12508)]
+
+[arxiv 2026.04] Dual-Modality Anchor-Guided Filtering for Test-time Prompt Tuning  [[PDF](https://arxiv.org/abs/2604.12403)]
+
+[arxiv 2026.04] Reading Between the Pixels: Linking Text-Image Embedding Alignment to Typographic Attack Success on Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.12371)]
+
+[arxiv 2026.04] Why and When Visual Token Pruning Fails? A Study on Relevant Visual Information Shift in MLLMs Decoding  [[PDF](https://arxiv.org/abs/2604.12358),[Page](https://ptkjw1997.github.io/DSTP-page/)]
+
+[arxiv 2026.04] Redefining Quality Criteria and Distance-Aware Score Modeling for Image Editing Assessment  [[PDF](https://arxiv.org/abs/2604.12175)]
+
+[arxiv 2026.04] Beyond Perception Errors: Semantic Fixation in Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.12119)]
+
+[arxiv 2026.04] HTDC: Hesitation-Triggered Differential Calibration for Mitigating Hallucination in Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.12115)]
+
+[arxiv 2026.04] Does Visual Token Pruning Improve Calibration? An Empirical Study on Confidence in MLLMs  [[PDF](https://arxiv.org/abs/2604.12035)]
+
+[arxiv 2026.04] TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment  [[PDF](https://arxiv.org/abs/2604.12012)]
+
+[arxiv 2026.04] INDOTABVQA: A Benchmark for Cross-Lingual Table Understanding in Bahasa Indonesia Documents  [[PDF](https://arxiv.org/abs/2604.11970)]
+
+[arxiv 2026.04] GlotOCR Bench: OCR Models Still Struggle Beyond a Handful of Unicode Scripts  [[PDF](https://arxiv.org/abs/2604.12978)]
+
+[arxiv 2026.04] Decoding by Perturbation: Mitigating MLLM Hallucinations via Dynamic Textual Perturbation  [[PDF](https://arxiv.org/abs/2604.12424)]
+
+[arxiv 2026.04] ReflectCAP: Detailed Image Captioning with Reflective Memory  [[PDF](https://arxiv.org/abs/2604.12357)]
+
+[arxiv 2026.04] Benchmarking Deflection and Hallucination in Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.12033)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

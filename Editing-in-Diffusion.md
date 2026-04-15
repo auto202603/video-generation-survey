@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-04-10 -->
+<!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-14 -->
 
 [arxiv 2026.04] Unfolding 3D Gaussian Splatting via Iterative Gaussian Synopsis  [[PDF](https://arxiv.org/abs/2604.11685)]
@@ -831,6 +831,44 @@
 [arxiv 2026.04] UHD Low-Light Image Enhancement via Real-Time Enhancement Methods with Clifford Information Fusion  [[PDF](https://arxiv.org/abs/2604.09321)]
 
 [arxiv 2026.04] Pretrain-then-Adapt: Uncertainty-Aware Test-Time Adaptation for Text-based Person Search  [[PDF](https://arxiv.org/abs/2604.08598)]
+
+[arxiv 2026.04] Generative Refinement Networks for Visual Synthesis  [[PDF](https://arxiv.org/abs/2604.13030),[Page](https://github.com/MGenAI/GRN)]
+
+[arxiv 2026.04] M3D-Stereo: A Multiple-Medium and Multiple-Degradation Dataset for Stereo Image Restoration  [[PDF](https://arxiv.org/abs/2604.12917)]
+
+[arxiv 2026.04] Image-to-Image Translation Framework Embedded with Rotation Symmetry Priors  [[PDF](https://arxiv.org/abs/2604.12805)]
+
+[arxiv 2026.04] Brain-DiT: A Universal Multi-state fMRI Foundation Model with Metadata-Conditioned Pretraining  [[PDF](https://arxiv.org/abs/2604.12683)]
+
+[arxiv 2026.04] OFA-Diffusion Compression: Compressing Diffusion Model in One-Shot Manner  [[PDF](https://arxiv.org/abs/2604.12668)]
+
+[arxiv 2026.04] Spatial-Spectral Adaptive Fidelity and Noise Prior Reduction Guided Hyperspectral Image Denoising  [[PDF](https://arxiv.org/abs/2604.12600)]
+
+[arxiv 2026.04] ELoG-GS: Dual-Branch Gaussian Splatting with Luminance-Guided Enhancement for Extreme Low-light 3D Reconstruction  [[PDF](https://arxiv.org/abs/2604.12592),[Page](https://www.codabench.org/competitions/13854/)]
+
+[arxiv 2026.04] PDF-GS: Progressive Distractor Filtering for Robust 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.12580)]
+
+[arxiv 2026.04] StructDiff: A Structure-Preserving and Spatially Controllable Diffusion Model for Single-Image Generation  [[PDF](https://arxiv.org/abs/2604.12575)]
+
+[arxiv 2026.04] CoD-Lite: Real-Time Diffusion-Based Generative Image Compression  [[PDF](https://arxiv.org/abs/2604.12525)]
+
+[arxiv 2026.04] Bridging the Micro--Macro Gap: Frequency-Aware Semantic Alignment for Image Manipulation Localization  [[PDF](https://arxiv.org/abs/2604.12341)]
+
+[arxiv 2026.04] Self-Adversarial One Step Generation via Condition Shifting  [[PDF](https://arxiv.org/abs/2604.12322)]
+
+[arxiv 2026.04] Cell Instance Segmentation via Multi-Task Image-to-Image Schrödinger Bridge  [[PDF](https://arxiv.org/abs/2604.12318)]
+
+[arxiv 2026.04] LiveMoments: Reselected Key Photo Restoration in Live Photos via Reference-guided Diffusion  [[PDF](https://arxiv.org/abs/2604.12286)]
+
+[arxiv 2026.04] Style-Decoupled Adaptive Routing Network for Underwater Image Enhancement  [[PDF](https://arxiv.org/abs/2604.12257)]
+
+[arxiv 2026.04] Nucleus-Image: Sparse MoE for Image Generation  [[PDF](https://arxiv.org/abs/2604.12163)]
+
+[arxiv 2026.04] Scaling Exposes the Trigger: Input-Level Backdoor Detection in Text-to-Image Diffusion Models via Cross-Attention Scaling  [[PDF](https://arxiv.org/abs/2604.12446)]
+
+[arxiv 2026.04] CoSyncDiT: Cognitive Synchronous Diffusion Transformer for Movie Dubbing  [[PDF](https://arxiv.org/abs/2604.12292)]
+
+[arxiv 2026.04] ReefMapGS: Enabling Large-Scale Underwater Reconstruction by Closing the Loop Between Multimodal SLAM and Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.11992)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

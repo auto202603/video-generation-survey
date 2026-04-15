@@ -1,5 +1,5 @@
 ## Dataset
-<!-- Added on 2026-04-10 -->
+<!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-14 -->
 
 [arxiv 2026.04] UDAPose: Unsupervised Domain Adaptation for Low-Light Human Pose Estimation  [[PDF](https://arxiv.org/abs/2604.10485)]
@@ -177,6 +177,14 @@
 [arxiv 2026.04] TAIHRI: Task-Aware 3D Human Keypoints Localization for Close-Range Human-Robot Interaction  [[PDF](https://arxiv.org/abs/2604.08921)]
 
 [arxiv 2026.04] AniGen: Unified $S^3$ Fields for Animatable 3D Asset Generation  [[PDF](https://arxiv.org/abs/2604.08746)]
+
+[arxiv 2026.04] Pi-HOC: Pairwise 3D Human-Object Contact Estimation  [[PDF](https://arxiv.org/abs/2604.12923)]
+
+[arxiv 2026.04] Radar-Camera BEV Multi-Task Learning with Cross-Task Attention Bridge for Joint 3D Detection and Segmentation  [[PDF](https://arxiv.org/abs/2604.12918)]
+
+[arxiv 2026.04] A Dataset and Evaluation for Complex 4D Markerless Human Motion Capture  [[PDF](https://arxiv.org/abs/2604.12765)]
+
+[arxiv 2026.04] Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.12626),[Page](https://zju3dv.github.io/habitat-gs/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
