@@ -186,6 +186,14 @@
 
 [arxiv 2026.04] Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.12626),[Page](https://zju3dv.github.io/habitat-gs/)]
 
+[arxiv 2026.04] DiffMagicFace: Identity Consistent Facial Editing of Real Videos  [[PDF](https://arxiv.org/abs/2604.13841)]
+
+[arxiv 2026.04] SocialMirror: Reconstructing 3D Human Interaction Behaviors from Monocular Videos with Semantic and Geometric Guidance  [[PDF](https://arxiv.org/abs/2604.13581)]
+
+[arxiv 2026.04] SEDTalker: Emotion-Aware 3D Facial Animation Using Frame-Level Speech Emotion Diarization  [[PDF](https://arxiv.org/abs/2604.13335)]
+
+[arxiv 2026.04] 3DRealHead: Few-Shot Detailed Head Avatar  [[PDF](https://arxiv.org/abs/2604.13171)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 

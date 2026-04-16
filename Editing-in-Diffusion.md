@@ -870,6 +870,50 @@
 
 [arxiv 2026.04] ReefMapGS: Enabling Large-Scale Underwater Reconstruction by Closing the Loop Between Multimodal SLAM and Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.11992)]
 
+[arxiv 2026.04] OneHOI: Unifying Human-Object Interaction Generation and Editing  [[PDF](https://arxiv.org/abs/2604.14062)]
+
+[arxiv 2026.04] HiProto: Hierarchical Prototype Learning for Interpretable Object Detection Under Low-quality Conditions  [[PDF](https://arxiv.org/abs/2604.13981)]
+
+[arxiv 2026.04] ASTRA: Enhancing Multi-Subject Generation with Retrieval-Augmented Pose Guidance and Disentangled Position Embedding  [[PDF](https://arxiv.org/abs/2604.13938)]
+
+[arxiv 2026.04] PartNerFace: Part-based Neural Radiance Fields for Animatable Facial Avatar Reconstruction  [[PDF](https://arxiv.org/abs/2604.13918)]
+
+[arxiv 2026.04] Rethinking Image-to-3D Generation with Sparse Queries: Efficiency, Capacity, and Input-View Bias  [[PDF](https://arxiv.org/abs/2604.13905),[Page](https://github.com/Pixtella/SparseGen)] ![Code](https://img.shields.io/github/stars/Pixtella/SparseGen?style=social&label=Star)
+
+[arxiv 2026.04] PostureObjectstitch: Anomaly Image Generation Considering Assembly Relationships in Industrial Scenarios  [[PDF](https://arxiv.org/abs/2604.13863)]
+
+[arxiv 2026.04] Any3DAvatar: Fast and High-Quality Full-Head 3D Avatar Reconstruction from Single Portrait Image  [[PDF](https://arxiv.org/abs/2604.13856)]
+
+[arxiv 2026.04] ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion Multi-View Dynamic Scene Reconstruction  [[PDF](https://arxiv.org/abs/2604.13746),[Page](https://liangjie1999.github.io/ClipGStreamWeb/)]
+
+[arxiv 2026.04] ReConText3D: Replay-based Continual Text-to-3D Generation  [[PDF](https://arxiv.org/abs/2604.13730)]
+
+[arxiv 2026.04] Beyond Voxel 3D Editing: Learning from 3D Masks and Self-Constructed Data  [[PDF](https://arxiv.org/abs/2604.13688)]
+
+[arxiv 2026.04] Dehaze-then-Splat: Generative Dehazing with Physics-Informed 3D Gaussian Splatting for Smoke-Free Novel View Synthesis  [[PDF](https://arxiv.org/abs/2604.13589)]
+
+[arxiv 2026.04] Reconstruction of a 3D wireframe from a single line drawing via generative depth estimation  [[PDF](https://arxiv.org/abs/2604.13549)]
+
+[arxiv 2026.04] DiT as Real-Time Rerenderer: Streaming Video Stylization with Autoregressive Diffusion Transformer  [[PDF](https://arxiv.org/abs/2604.13509)]
+
+[arxiv 2026.04] MaMe &amp; MaRe: Matrix-Based Token Merging and Restoration for Efficient Visual Perception and Synthesis  [[PDF](https://arxiv.org/abs/2604.13432)]
+
+[arxiv 2026.04] DF3DV-1K: A Large-Scale Dataset and Benchmark for Distractor-Free Novel View Synthesis  [[PDF](https://arxiv.org/abs/2604.13416)]
+
+[arxiv 2026.04] MSGS: Multispectral 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.13340)]
+
+[arxiv 2026.04] SSD-GS: Scattering and Shadow Decomposition for Relightable 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.13333),[Page](https://github.com/irisfreesiri/SSD-GS)] ![Code](https://img.shields.io/github/stars/irisfreesiri/SSD-GS?style=social&label=Star)
+
+[arxiv 2026.04] Bias at the End of the Score  [[PDF](https://arxiv.org/abs/2604.13305)]
+
+[arxiv 2026.04] PatchPoison: Poisoning Multi-View Datasets to Degrade 3D Reconstruction  [[PDF](https://arxiv.org/abs/2604.13153)]
+
+[arxiv 2026.04] Creo: From One-Shot Image Generation to Progressive, Co-Creative Ideation  [[PDF](https://arxiv.org/abs/2604.13956)]
+
+[arxiv 2026.04] RadarSplat-RIO: Indoor Radar-Inertial Odometry with Gaussian Splatting-Based Radar Bundle Adjustment  [[PDF](https://arxiv.org/abs/2604.13492)]
+
+[arxiv 2026.04] RobotPan: A 360$^\circ$ Surround-View Robotic Vision System for Embodied Perception  [[PDF](https://arxiv.org/abs/2604.13476),[Page](https://robotpan.github.io/)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]

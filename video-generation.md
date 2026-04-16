@@ -1,4 +1,5 @@
 # Video Generation Survey
+<!-- Added on 2026-04-16 -->
 <!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-14 -->
 
@@ -609,6 +610,10 @@ A reading list of video generation
 [arxiv 2026.04] ArtifactWorld: Scaling 3D Gaussian Splatting Artifact Restoration via Video Generation Models  [[PDF](https://arxiv.org/abs/2604.12251)]
 
 [arxiv 2026.04] Ride the Wave: Precision-Allocated Sparse Attention for Smooth Video Generation  [[PDF](https://arxiv.org/abs/2604.12219)]
+
+[arxiv 2026.04] One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding  [[PDF](https://arxiv.org/abs/2604.14149)]
+
+[arxiv 2026.04] Seedance 2.0: Advancing Video Generation for World Complexity  [[PDF](https://arxiv.org/abs/2604.14148)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

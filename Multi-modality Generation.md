@@ -1397,6 +1397,46 @@
 
 [arxiv 2026.04] Benchmarking Deflection and Hallucination in Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.12033)]
 
+[arxiv 2026.04] ROSE: Retrieval-Oriented Segmentation Enhancement  [[PDF](https://arxiv.org/abs/2604.14147),[Page](https://henghuiding.com/ROSE/)]
+
+[arxiv 2026.04] HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System  [[PDF](https://arxiv.org/abs/2604.14125),[Page](https://tianshuoy.github.io/HiVLA-page/)]
+
+[arxiv 2026.04] Training-Free Semantic Multi-Object Tracking with Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.14074)]
+
+[arxiv 2026.04] Towards Unconstrained Human-Object Interaction  [[PDF](https://arxiv.org/abs/2604.14069)]
+
+[arxiv 2026.04] Seek-and-Solve: Benchmarking MLLMs for Visual Clue-Driven Reasoning in Daily Scenarios  [[PDF](https://arxiv.org/abs/2604.14041),[Page](https://xiaominli1020.github.io/DailyClue/)]
+
+[arxiv 2026.04] POINTS-Seeker: Towards Training a Multimodal Agentic Search Model from Scratch  [[PDF](https://arxiv.org/abs/2604.14029)]
+
+[arxiv 2026.04] Gaslight, Gatekeep, V1-V3: Early Visual Cortex Alignment Shields Vision-Language Models from Sycophantic Manipulation  [[PDF](https://arxiv.org/abs/2604.13803)]
+
+[arxiv 2026.04] SLQ: Bridging Modalities via Shared Latent Queries for Retrieval with Frozen MLLMs  [[PDF](https://arxiv.org/abs/2604.13710)]
+
+[arxiv 2026.04] Free Lunch for Unified Multimodal Models: Enhancing Generation via Reflective Rectification with Inherent Understanding  [[PDF](https://arxiv.org/abs/2604.13540)]
+
+[arxiv 2026.04] Enhanced Text-to-Image Generation by Fine-grained Multimodal Reasoning  [[PDF](https://arxiv.org/abs/2604.13491)]
+
+[arxiv 2026.04] A Study of Failure Modes in Two-Stage Human-Object Interaction Detection  [[PDF](https://arxiv.org/abs/2604.13448)]
+
+[arxiv 2026.04] Why Multimodal In-Context Learning Lags Behind? Unveiling the Inner Mechanisms and Bottlenecks  [[PDF](https://arxiv.org/abs/2604.13403)]
+
+[arxiv 2026.04] Why MLLMs Struggle to Determine Object Orientations  [[PDF](https://arxiv.org/abs/2604.13321)]
+
+[arxiv 2026.04] Indexing Multimodal Language Models for Large-scale Image Retrieval  [[PDF](https://arxiv.org/abs/2604.13268)]
+
+[arxiv 2026.04] SemiFA: An Agentic Multi-Modal Framework for Autonomous Semiconductor Failure Analysis Report Generation  [[PDF](https://arxiv.org/abs/2604.13236),[Page](https://huggingface.co/datasets/ShivamChand/SemiFA-930)] ![Code](https://img.shields.io/github/stars/Shivamckaushik/SemiFA?style=social&label=Star)
+
+[arxiv 2026.04] Reward Design for Physical Reasoning in Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.13993)]
+
+[arxiv 2026.04] Failure Identification in Imitation Learning Via Statistical and Semantic Filtering  [[PDF](https://arxiv.org/abs/2604.13788)]
+
+[arxiv 2026.04] Evolvable Embodied Agent for Robotic Manipulation via Long Short-Term Reflection and Optimization  [[PDF](https://arxiv.org/abs/2604.13533)]
+
+[arxiv 2026.04] PersonaVLM: Long-Term Personalized Multimodal LLMs  [[PDF](https://arxiv.org/abs/2604.13074),[Page](https://PersonaVLM.github.io)]
+
+[arxiv 2026.04] Caption First, VQA Second: Knowledge Density, Not Task Format, Drives Multimodal Scaling  [[PDF](https://arxiv.org/abs/2604.13054)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
