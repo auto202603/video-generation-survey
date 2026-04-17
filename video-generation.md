@@ -1,4 +1,5 @@
 # Video Generation Survey
+<!-- Added on 2026-04-17 -->
 <!-- Added on 2026-04-16 -->
 <!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-14 -->
@@ -614,6 +615,16 @@ A reading list of video generation
 [arxiv 2026.04] One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding  [[PDF](https://arxiv.org/abs/2604.14149)]
 
 [arxiv 2026.04] Seedance 2.0: Advancing Video Generation for World Complexity  [[PDF](https://arxiv.org/abs/2604.14148)]
+
+[arxiv 2026.04] Flow of Truth: Proactive Temporal Forensics for Image-to-Video Generation  [[PDF](https://arxiv.org/abs/2604.15003)]
+
+[arxiv 2026.04] Prompt-to-Gesture: Measuring the Capabilities of Image-to-Video Deictic Gesture Generation  [[PDF](https://arxiv.org/abs/2604.14953)]
+
+[arxiv 2026.04] Chain-of-Glimpse: Search-Guided Progressive Object-Grounded Reasoning for Video Understanding  [[PDF](https://arxiv.org/abs/2604.14692)]
+
+[arxiv 2026.04] Controllable Video Object Insertion via Multiview Priors  [[PDF](https://arxiv.org/abs/2604.14556)]
+
+[arxiv 2026.04] ControlFoley: Unified and Controllable Video-to-Audio Generation with Cross-Modal Conflict Handling  [[PDF](https://arxiv.org/abs/2604.15086)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

@@ -194,6 +194,10 @@
 
 [arxiv 2026.04] 3DRealHead: Few-Shot Detailed Head Avatar  [[PDF](https://arxiv.org/abs/2604.13171)]
 
+[arxiv 2026.04] TurboTalk: Progressive Distillation for One-Step Audio-Driven Talking Avatar Generation  [[PDF](https://arxiv.org/abs/2604.14580)]
+
+[arxiv 2026.04] Vision-Based Safe Human-Robot Collaboration with Uncertainty Guarantees  [[PDF](https://arxiv.org/abs/2604.15221)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 

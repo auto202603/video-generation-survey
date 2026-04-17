@@ -914,6 +914,34 @@
 
 [arxiv 2026.04] RobotPan: A 360$^\circ$ Surround-View Robotic Vision System for Embodied Perception  [[PDF](https://arxiv.org/abs/2604.13476),[Page](https://robotpan.github.io/)]
 
+[arxiv 2026.04] TokenLight: Precise Lighting Control in Images using Attribute Tokens  [[PDF](https://arxiv.org/abs/2604.15310)]
+
+[arxiv 2026.04] GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens  [[PDF](https://arxiv.org/abs/2604.15284)]
+
+[arxiv 2026.04] TokenGS: Decoupling 3D Gaussian Prediction from Pixels with Learnable Tokens  [[PDF](https://arxiv.org/abs/2604.15239),[Page](https://research.nvidia.com/labs/toronto-ai/tokengs)]
+
+[arxiv 2026.04] An Analysis of Regularization and Fokker-Planck Residuals in Diffusion Models for Image Generation  [[PDF](https://arxiv.org/abs/2604.15171)]
+
+[arxiv 2026.04] OmniLight: One Model to Rule All Lighting Conditions  [[PDF](https://arxiv.org/abs/2604.15170)]
+
+[arxiv 2026.04] KVNN: Learnable Multi-Kernel Volterra Neural Networks  [[PDF](https://arxiv.org/abs/2604.15141)]
+
+[arxiv 2026.04] Hybrid Latents -- Geometry-Appearance-Aware Surfel Splatting  [[PDF](https://arxiv.org/abs/2604.14928)]
+
+[arxiv 2026.04] Beyond Prompts: Unconditional 3D Inversion for Out-of-Distribution Shapes  [[PDF](https://arxiv.org/abs/2604.14914)]
+
+[arxiv 2026.04] One-shot Compositional 3D Head Avatars with Deformable Hair  [[PDF](https://arxiv.org/abs/2604.14782),[Page](https://yuansun-xjtu.github.io/CompHairHead.io)]
+
+[arxiv 2026.04] NG-GS: NeRF-Guided 3D Gaussian Splatting Segmentation  [[PDF](https://arxiv.org/abs/2604.14706)]
+
+[arxiv 2026.04] Prompt-Guided Image Editing with Masked Logit Nudging in Visual Autoregressive Models  [[PDF](https://arxiv.org/abs/2604.14591)]
+
+[arxiv 2026.04] The Fourth Challenge on Image Super-Resolution ($\times$4) at NTIRE 2026: Benchmark Results and Method Overview  [[PDF](https://arxiv.org/abs/2604.14558),[Page](https://cvlai.net/ntire/2026)]
+
+[arxiv 2026.04] Geometrically Consistent Multi-View Scene Generation from Freehand Sketches  [[PDF](https://arxiv.org/abs/2604.14302)]
+
+[arxiv 2026.04] HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds  [[PDF](https://arxiv.org/abs/2604.14268),[Page](https://3d-models.hunyuan.tencent.com/world/)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]

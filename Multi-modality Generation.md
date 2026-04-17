@@ -1437,6 +1437,40 @@
 
 [arxiv 2026.04] Caption First, VQA Second: Knowledge Density, Not Task Format, Drives Multimodal Scaling  [[PDF](https://arxiv.org/abs/2604.13054)]
 
+[arxiv 2026.04] Why Do Vision Language Models Struggle To Recognize Human Emotions?  [[PDF](https://arxiv.org/abs/2604.15280)]
+
+[arxiv 2026.04] VisPCO: Visual Token Pruning Configuration Optimization via Budget-Aware Pareto-Frontier Learning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.15188)]
+
+[arxiv 2026.04] Beyond Visual Cues: Semantic-Driven Token Filtering and Expert Routing for Anytime Person ReID  [[PDF](https://arxiv.org/abs/2604.15090)]
+
+[arxiv 2026.04] UniDoc-RL: Coarse-to-Fine Visual RAG with Hierarchical Actions and Dense Rewards  [[PDF](https://arxiv.org/abs/2604.14967)]
+
+[arxiv 2026.04] RaTA-Tool: Retrieval-based Tool Selection with Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.14951)]
+
+[arxiv 2026.04] Zero-Shot Retail Theft Detection via Orchestrated Vision Models: A Model-Agnostic, Cost-Effective Alternative to Trained Single-Model Systems  [[PDF](https://arxiv.org/abs/2604.14846),[Page](https://github.com/xHaileab/Paza-AI)]
+
+[arxiv 2026.04] AIM: Asymmetric Information Masking for Visual Question Answering Continual Learning  [[PDF](https://arxiv.org/abs/2604.14779)]
+
+[arxiv 2026.04] G-MIXER: Geodesic Mixup-based Implicit Semantic Expansion and Explicit Semantic Re-ranking for Zero-Shot Composed Image Retrieval  [[PDF](https://arxiv.org/abs/2604.14710)]
+
+[arxiv 2026.04] DETR-ViP: Detection Transformer with Robust Discriminative Visual Prompts  [[PDF](https://arxiv.org/abs/2604.14684)]
+
+[arxiv 2026.04] Switch-KD: Visual-Switch Knowledge Distillation for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.14629)]
+
+[arxiv 2026.04] Learning Adaptive Reasoning Paths for Efficient Visual Reasoning  [[PDF](https://arxiv.org/abs/2604.14568)]
+
+[arxiv 2026.04] Chain of Modality: From Static Fusion to Dynamic Orchestration in Omni-MLLMs  [[PDF](https://arxiv.org/abs/2604.14520)]
+
+[arxiv 2026.04] OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis  [[PDF](https://arxiv.org/abs/2604.15093)]
+
+[arxiv 2026.04] ADAPT: Benchmarking Commonsense Planning under Unspecified Affordance Constraints  [[PDF](https://arxiv.org/abs/2604.14902)]
+
+[arxiv 2026.04] Reasoning Dynamics and the Limits of Monitoring Modality Reliance in Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.14888)]
+
+[arxiv 2026.04] Knowing When Not to Answer: Evaluating Abstention in Multimodal Reasoning Systems  [[PDF](https://arxiv.org/abs/2604.14799)]
+
+[arxiv 2026.04] The Cost of Language: Centroid Erasure Exposes and Exploits Modal Competition in Multimodal Language Models  [[PDF](https://arxiv.org/abs/2604.14363)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
