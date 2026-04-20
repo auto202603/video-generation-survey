@@ -1,4 +1,5 @@
 ## Dataset
+<!-- Added on 2026-04-20 -->
 <!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-14 -->
 
@@ -197,6 +198,10 @@
 [arxiv 2026.04] TurboTalk: Progressive Distillation for One-Step Audio-Driven Talking Avatar Generation  [[PDF](https://arxiv.org/abs/2604.14580)]
 
 [arxiv 2026.04] Vision-Based Safe Human-Robot Collaboration with Uncertainty Guarantees  [[PDF](https://arxiv.org/abs/2604.15221)]
+
+[arxiv 2026.04] Motion-Adapter: A Diffusion Model Adapter for Text-to-Motion Generation of Compound Actions  [[PDF](https://arxiv.org/abs/2604.16135)]
+
+[arxiv 2026.04] CLOTH-HUGS: Cloth Aware Human Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.15875)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

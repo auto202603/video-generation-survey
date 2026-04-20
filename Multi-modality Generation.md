@@ -1,4 +1,5 @@
 <!-- Added on 2026-04-15 -->
+<!-- Added on 2026-04-20 -->
 <!-- Added on 2026-04-10 -->
 <!-- Added on 2026-04-14 -->
 
@@ -1470,6 +1471,52 @@
 [arxiv 2026.04] Knowing When Not to Answer: Evaluating Abstention in Multimodal Reasoning Systems  [[PDF](https://arxiv.org/abs/2604.14799)]
 
 [arxiv 2026.04] The Cost of Language: Centroid Erasure Exposes and Exploits Modal Competition in Multimodal Language Models  [[PDF](https://arxiv.org/abs/2604.14363)]
+
+[arxiv 2026.04] Information Router for Mitigating Modality Dominance in Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.16264)]
+
+[arxiv 2026.04] Do Vision-Language Models Truly Perform Vision Reasoning? A Rigorous Study of the Modality Gap  [[PDF](https://arxiv.org/abs/2604.16256)]
+
+[arxiv 2026.04] Where Do Vision-Language Models Fail? World Scale Analysis for Image Geolocalization  [[PDF](https://arxiv.org/abs/2604.16248)]
+
+[arxiv 2026.04] DenTab: A Dataset for Table Recognition and Visual QA on Real-World Dental Estimates  [[PDF](https://arxiv.org/abs/2604.16099)]
+
+[arxiv 2026.04] Chain-of-Thought Degrades Visual Spatial Reasoning Capabilities of Multimodal LLMs  [[PDF](https://arxiv.org/abs/2604.16060)]
+
+[arxiv 2026.04] Mind&#39;s Eye: A Benchmark of Visual Abstraction, Transformation and Composition for Multimodal LLMs  [[PDF](https://arxiv.org/abs/2604.16054)]
+
+[arxiv 2026.04] SENSE: Stereo OpEN Vocabulary SEmantic Segmentation  [[PDF](https://arxiv.org/abs/2604.15946)]
+
+[arxiv 2026.04] Making Image Editing Easier via Adaptive Task Reformulation with Agentic Executions  [[PDF](https://arxiv.org/abs/2604.15917)]
+
+[arxiv 2026.04] Watching Movies Like a Human: Egocentric Emotion Understanding for Embodied Companions  [[PDF](https://arxiv.org/abs/2604.15823)]
+
+[arxiv 2026.04] Aligning What Vision-Language Models See and Perceive with Adaptive Information Flow  [[PDF](https://arxiv.org/abs/2604.15809),[Page](https://cxliu0.github.io/AIF/)]
+
+[arxiv 2026.04] Concept-wise Attention for Fine-grained Concept Bottleneck Models  [[PDF](https://arxiv.org/abs/2604.15748)]
+
+[arxiv 2026.04] RefereeBench: Are Video MLLMs Ready to be Multi-Sport Referees  [[PDF](https://arxiv.org/abs/2604.15736)]
+
+[arxiv 2026.04] P3T: Prototypical Point-level Prompt Tuning with Enhanced Generalization for 3D Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.15703)]
+
+[arxiv 2026.04] HyCal: A Training-Free Prototype Calibration Method for Cross-Discipline Few-Shot Class-Incremental Learning  [[PDF](https://arxiv.org/abs/2604.15678)]
+
+[arxiv 2026.04] SIMMER: Cross-Modal Food Image--Recipe Retrieval via MLLM-Based Embedding  [[PDF](https://arxiv.org/abs/2604.15628)]
+
+[arxiv 2026.04] AdaVFM: Adaptive Vision Foundation Models for Edge Intelligence via LLM-Guided Execution  [[PDF](https://arxiv.org/abs/2604.15622)]
+
+[arxiv 2026.04] Zoom Consistency: A Free Confidence Signal in Multi-Step Visual Grounding Pipelines  [[PDF](https://arxiv.org/abs/2604.15376)]
+
+[arxiv 2026.04] AEGIS: Anchor-Enforced Gradient Isolation for Knowledge-Preserving Vision-Language-Action Fine-Tuning  [[PDF](https://arxiv.org/abs/2604.16067)]
+
+[arxiv 2026.04] AstroVLM: Expert Multi-agent Collaborative Reasoning for Astronomical Imaging Quality Diagnosis  [[PDF](https://arxiv.org/abs/2604.16024)]
+
+[arxiv 2026.04] TTL: Test-time Textual Learning for OOD Detection with Pretrained Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.15756)]
+
+[arxiv 2026.04] HyperGVL: Benchmarking and Improving Large Vision-Language Models in Hypergraph Understanding and Reasoning  [[PDF](https://arxiv.org/abs/2604.15648)]
+
+[arxiv 2026.04] GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology  [[PDF](https://arxiv.org/abs/2604.15495)]
+
+[arxiv 2026.04] Automating Crash Diagram Generation Using Vision-Language Models: A Case Study on Multi-Lane Roundabouts  [[PDF](https://arxiv.org/abs/2604.15332)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

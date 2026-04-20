@@ -1,4 +1,5 @@
 # Image Editing In Diffusion 
+<!-- Added on 2026-04-20 -->
 <!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-14 -->
 
@@ -941,6 +942,26 @@
 [arxiv 2026.04] Geometrically Consistent Multi-View Scene Generation from Freehand Sketches  [[PDF](https://arxiv.org/abs/2604.14302)]
 
 [arxiv 2026.04] HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds  [[PDF](https://arxiv.org/abs/2604.14268),[Page](https://3d-models.hunyuan.tencent.com/world/)]
+
+[arxiv 2026.04] Hero-Mamba: Mamba-based Dual Domain Learning for Underwater Image Enhancement  [[PDF](https://arxiv.org/abs/2604.16266)]
+
+[arxiv 2026.04] From Competition to Coopetition: Coopetitive Training-Free Image Editing Based on Text Guidance  [[PDF](https://arxiv.org/abs/2604.15948)]
+
+[arxiv 2026.04] Neural Gabor Splatting: Enhanced Gaussian Splatting with Neural Gabor for High-frequency Surface Reconstruction  [[PDF](https://arxiv.org/abs/2604.15941)]
+
+[arxiv 2026.04] Beyond Text Prompts: Precise Concept Erasure through Text-Image Collaboration  [[PDF](https://arxiv.org/abs/2604.15829)]
+
+[arxiv 2026.04] Diffusion Autoencoder for Unsupervised Artifact Restoration in Handheld Fundus Images  [[PDF](https://arxiv.org/abs/2604.15723)]
+
+[arxiv 2026.04] From Zero to Detail: A Progressive Spectral Decoupling Paradigm for UHD Image Restoration with New Benchmark  [[PDF](https://arxiv.org/abs/2604.15654)]
+
+[arxiv 2026.04] Frequency-Aware Flow Matching for High-Quality Image Generation  [[PDF](https://arxiv.org/abs/2604.15521)]
+
+[arxiv 2026.04] (1D) Ordered Tokens Enable Efficient Test-Time Search  [[PDF](https://arxiv.org/abs/2604.15453),[Page](https://soto.epfl.ch/)]
+
+[arxiv 2026.04] Hierarchical Codec Diffusion for Video-to-Speech Generation  [[PDF](https://arxiv.org/abs/2604.15923)]
+
+[arxiv 2026.04] GaussianFlow SLAM: Monocular Gaussian Splatting SLAM Guided by GaussianFlow  [[PDF](https://arxiv.org/abs/2604.15612)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

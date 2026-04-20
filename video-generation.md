@@ -1,4 +1,5 @@
 # Video Generation Survey
+<!-- Added on 2026-04-20 -->
 <!-- Added on 2026-04-17 -->
 <!-- Added on 2026-04-16 -->
 <!-- Added on 2026-04-15 -->
@@ -625,6 +626,10 @@ A reading list of video generation
 [arxiv 2026.04] Controllable Video Object Insertion via Multiview Priors  [[PDF](https://arxiv.org/abs/2604.14556)]
 
 [arxiv 2026.04] ControlFoley: Unified and Controllable Video-to-Audio Generation with Cross-Modal Conflict Handling  [[PDF](https://arxiv.org/abs/2604.15086)]
+
+[arxiv 2026.04] VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects  [[PDF](https://arxiv.org/abs/2604.16272)]
+
+[arxiv 2026.04] UniEditBench: A Unified and Cost-Effective Benchmark for Image and Video Editing via Distilled MLLMs  [[PDF](https://arxiv.org/abs/2604.15871)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
