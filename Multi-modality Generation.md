@@ -1,7 +1,94 @@
 <!-- Added on 2026-04-15 -->
+<!-- Added on 2026-04-21 -->
 <!-- Added on 2026-04-20 -->
 <!-- Added on 2026-04-10 -->
 <!-- Added on 2026-04-14 -->
+
+[arxiv 2026.04] T-REN: Learning Text-Aligned Region Tokens Improves Dense Vision-Language Alignment and Scalability  [[PDF](https://arxiv.org/abs/2604.18573)]
+
+[arxiv 2026.04] S2H-DPO: Hardness-Aware Preference Optimization for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.18512)]
+
+[arxiv 2026.04] ESsEN: Training Compact Discriminative Vision-Language Transformers in a Low-Resource Setting  [[PDF](https://arxiv.org/abs/2604.18452)]
+
+[arxiv 2026.04] EVE: Verifiable Self-Evolution of MLLMs via Executable Visual Transformations  [[PDF](https://arxiv.org/abs/2604.18320)]
+
+[arxiv 2026.04] Geometry-Guided 3D Visual Token Pruning for Video-Language Models  [[PDF](https://arxiv.org/abs/2604.18260)]
+
+[arxiv 2026.04] Enhancing Continual Learning of Vision-Language Models via Dynamic Prefix Weighting  [[PDF](https://arxiv.org/abs/2604.18075)]
+
+[arxiv 2026.04] Mitigating Multimodal Hallucination via Phase-wise Self-reward  [[PDF](https://arxiv.org/abs/2604.17982)]
+
+[arxiv 2026.04] From Heads to Neurons: Causal Attribution and Steering in Multi-Task Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.17941)]
+
+[arxiv 2026.04] OneDrive: Unified Multi-Paradigm Driving with Vision-Language-Action Models  [[PDF](https://arxiv.org/abs/2604.17915)]
+
+[arxiv 2026.04] AeroRAG: Structured Multimodal Retrieval-Augmented LLM for Fine-Grained Aerial Visual Reasoning  [[PDF](https://arxiv.org/abs/2604.17889)]
+
+[arxiv 2026.04] Spatiotemporal Sycophancy: Negation-Based Gaslighting in Video Large Language Models  [[PDF](https://arxiv.org/abs/2604.17873)]
+
+[arxiv 2026.04] Weakly-Supervised Referring Video Object Segmentation through Text Supervision  [[PDF](https://arxiv.org/abs/2604.17797)]
+
+[arxiv 2026.04] AutoVQA-G: Self-Improving Agentic Framework for Automated Visual Question Answering and Grounding Annotation  [[PDF](https://arxiv.org/abs/2604.17488),[Page](https://github.com/rohnson1999/AutoVQA-G)]
+
+[arxiv 2026.04] SpatialImaginer: Towards Adaptive Visual Imagination for Spatial Reasoning  [[PDF](https://arxiv.org/abs/2604.17385)]
+
+[arxiv 2026.04] When Text Hijacks Vision: Benchmarking and Mitigating Text Overlay-Induced Hallucination in Vision Language Models  [[PDF](https://arxiv.org/abs/2604.17375)]
+
+[arxiv 2026.04] Towards Joint Quantization and Token Pruning of Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.17320)]
+
+[arxiv 2026.04] Instinct vs. Reflection: Unifying Token and Verbalized Confidence in Multimodal Large Models  [[PDF](https://arxiv.org/abs/2604.17274)]
+
+[arxiv 2026.04] PestVL-Net: Enabling Multimodal Pest Learning via Fine-grained Vision-Language Interaction  [[PDF](https://arxiv.org/abs/2604.17278)]
+
+[arxiv 2026.04] E2E-GMNER: End-to-End Generative Grounded Multimodal Named Entity Recognition  [[PDF](https://arxiv.org/abs/2604.17319)]
+
+[arxiv 2026.04] Enhancing Zero-shot Personalized Image Aesthetics Assessment with Profile-aware Multimodal LLM  [[PDF](https://arxiv.org/abs/2604.17233)]
+
+[arxiv 2026.04] Cross-Modal Attention Analysis and Optimization in Vision-Language Models: A Study on Visual Reliability  [[PDF](https://arxiv.org/abs/2604.17217)]
+
+[arxiv 2026.04] Prompt Sensitivity in Vision-Language Grounding: How Small Changes in Wording Affect Object Detection  [[PDF](https://arxiv.org/abs/2604.17126)]
+
+[arxiv 2026.04] EvoComp: Learning Visual Token Compression for Multimodal Large Language Models via Semantic-Guided Evolutionary Labeling  [[PDF](https://arxiv.org/abs/2604.17087)]
+
+[arxiv 2026.04] Comparison Drives Preference: Reference-Aware Modeling for AI-Generated Video Quality Assessment  [[PDF](https://arxiv.org/abs/2604.17074)]
+
+[arxiv 2026.04] mEOL: Training-Free Instruction-Guided Multimodal Embedder for Vector Graphics and Image Retrieval  [[PDF](https://arxiv.org/abs/2604.17054),[Page](https://scene-the-ella.github.io/meol)]
+
+[arxiv 2026.04] OASIS: On-Demand Hierarchical Event Memory for Streaming Video Reasoning  [[PDF](https://arxiv.org/abs/2604.17052)]
+
+[arxiv 2026.04] DOSE: Data Selection for Multi-Modal LLMs via Off-the-Shelf Models  [[PDF](https://arxiv.org/abs/2604.16979)]
+
+[arxiv 2026.04] CoGR-MoE: Concept-Guided Expert Routing with Consistent Selection and Flexible Reasoning for Visual Question Answering  [[PDF](https://arxiv.org/abs/2604.16930)]
+
+[arxiv 2026.04] Q-DeepSight: Incentivizing Thinking with Images for Image Quality Assessment and Refinement  [[PDF](https://arxiv.org/abs/2604.16858)]
+
+[arxiv 2026.04] Bridging Coarse and Fine Recognition: A Hybrid Approach for Open-Ended Multi-Granularity Object Recognition in Interactive Educational Games  [[PDF](https://arxiv.org/abs/2604.16785)]
+
+[arxiv 2026.04] Reducing Peak Memory Usage for Modern Multimodal Large Language Model Pipelines  [[PDF](https://arxiv.org/abs/2604.16734)]
+
+[arxiv 2026.04] AVRT: Audio-Visual Reasoning Transfer through Single-Modality Teachers  [[PDF](https://arxiv.org/abs/2604.16617)]
+
+[arxiv 2026.04] SmoGVLM: A Small, Graph-enhanced Vision-Language Model  [[PDF](https://arxiv.org/abs/2604.16517)]
+
+[arxiv 2026.04] BARD: Bridging AutoRegressive and Diffusion Vision-Language Models Via Highly Efficient Progressive Block Merging and Stage-Wise Distillation  [[PDF](https://arxiv.org/abs/2604.16514)]
+
+[arxiv 2026.04] Topology-Aware Layer Pruning for Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.16502)]
+
+[arxiv 2026.04] From Inheritance to Saturation: Disentangling the Evolution of Visual Redundancy for Architecture-Aware MLLM Inference Acceleration  [[PDF](https://arxiv.org/abs/2604.16462)]
+
+[arxiv 2026.04] MM-JudgeBias: A Benchmark for Evaluating Compositional Biases in MLLM-as-a-Judge  [[PDF](https://arxiv.org/abs/2604.18164)]
+
+[arxiv 2026.04] Culture-Aware Humorous Captioning: Multimodal Humor Generation across Cultural Contexts  [[PDF](https://arxiv.org/abs/2604.18091)]
+
+[arxiv 2026.04] ReFineVLA: Multimodal Reasoning-Aware Generalist Robotic Policies via Teacher-Guided Fine-Tuning  [[PDF](https://arxiv.org/abs/2604.17800)]
+
+[arxiv 2026.04] ReFineVLA: Reasoning-Aware Teacher-Guided Transfer Fine-Tuning  [[PDF](https://arxiv.org/abs/2505.19080)]
+
+[arxiv 2026.04] More Than Meets the Eye: Measuring the Semiotic Gap in Vision-Language Models via Semantic Anchorage  [[PDF](https://arxiv.org/abs/2604.17354)]
+
+[arxiv 2026.04] S-GRPO: Unified Post-Training for Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.16557)]
+
+[arxiv 2026.04] SynopticBench: Evaluating Vision-Language Models on Generating Weather Forecast Discussions of the Future  [[PDF](https://arxiv.org/abs/2604.16451)]
 
 [arxiv 2026.04] LottieGPT: Tokenizing Vector Animation for Autoregressive Generation  [[PDF](https://arxiv.org/abs/2604.11792),[Page](https://lottiegpt.github.io/)]
 

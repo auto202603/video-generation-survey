@@ -1,7 +1,78 @@
 # Image Editing In Diffusion 
+<!-- Added on 2026-04-21 -->
 <!-- Added on 2026-04-20 -->
 <!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-14 -->
+
+[arxiv 2026.04] MetaCloak-JPEG: JPEG-Robust Adversarial Perturbation for Preventing Unauthorized DreamBooth-Based Deepfake Generation  [[PDF](https://arxiv.org/abs/2604.18537)]
+
+[arxiv 2026.04] Asset Harvester: Extracting 3D Assets from Autonomous Driving Logs for Simulation  [[PDF](https://arxiv.org/abs/2604.18468),[Page](https://research.nvidia.com/labs/sil/projects/asset-harvester/)]
+
+[arxiv 2026.04] Towards Robust Text-to-Image Person Retrieval: Multi-View Reformulation for Semantic Compensation  [[PDF](https://arxiv.org/abs/2604.18376)]
+
+[arxiv 2026.04] Long-Text-to-Image Generation via Compositional Prompt Decomposition  [[PDF](https://arxiv.org/abs/2604.18258)]
+
+[arxiv 2026.04] A Comparative Evaluation of Geometric Accuracy in NeRF and Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.18205)]
+
+[arxiv 2026.04] Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation  [[PDF](https://arxiv.org/abs/2604.18168)]
+
+[arxiv 2026.04] Embedding Arithmetic: A Lightweight, Tuning-Free Framework for Post-hoc Bias Mitigation in Text-to-Image Models  [[PDF](https://arxiv.org/abs/2604.18167),[Page](https://github.com/cvims/EMBEDDING-ARITHMETIC)]
+
+[arxiv 2026.04] Class-specific diffusion models improve military object detection in a low-data domain  [[PDF](https://arxiv.org/abs/2604.18076)]
+
+[arxiv 2026.04] GS-STVSR: Ultra-Efficient Continuous Spatio-Temporal Video Super-Resolution via 2D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.18047)]
+
+[arxiv 2026.04] CFSR: Geometry-Conditioned Shadow Removal via Physical Disentanglement  [[PDF](https://arxiv.org/abs/2604.18032)]
+
+[arxiv 2026.04] E3VS-Bench: A Benchmark for Viewpoint-Dependent Active Perception in 3D Gaussian Splatting Scenes  [[PDF](https://arxiv.org/abs/2604.17969)]
+
+[arxiv 2026.04] MU-GeNeRF: Multi-view Uncertainty-guided Generalizable Neural Radiance Fields for Distractor-aware Scene  [[PDF](https://arxiv.org/abs/2604.17965)]
+
+[arxiv 2026.04] PlankFormer: Robust Plankton Instance Segmentation via MAE-Pretrained Vision Transformers and Pseudo Community Image Generation  [[PDF](https://arxiv.org/abs/2604.17856)]
+
+[arxiv 2026.04] PCM-NeRF: Probabilistic Camera Modeling for Neural Radiance Fields under Pose Uncertainty  [[PDF](https://arxiv.org/abs/2604.17831)]
+
+[arxiv 2026.04] Score-Based Matching with Target Guidance for Cryo-EM Denoising  [[PDF](https://arxiv.org/abs/2604.17734)]
+
+[arxiv 2026.04] Voronoi-guided Bilateral 2D Gaussian Splatting for Arbitrary-Scale Hyperspectral Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.17727)]
+
+[arxiv 2026.04] Low Light Image Enhancement Challenge at NTIRE 2026  [[PDF](https://arxiv.org/abs/2604.17669)]
+
+[arxiv 2026.04] UniGeo: Unifying Geometric Guidance for Camera-Controllable Image Editing via Video Models  [[PDF](https://arxiv.org/abs/2604.17565)]
+
+[arxiv 2026.04] Coevolving Representations in Joint Image-Feature Diffusion  [[PDF](https://arxiv.org/abs/2604.17492)]
+
+[arxiv 2026.04] UniMesh: Unifying 3D Mesh Understanding and Generation  [[PDF](https://arxiv.org/abs/2604.17472)]
+
+[arxiv 2026.04] MESA: A Training-Free Multi-Exemplar Deep Framework for Restoring Ancient Inscription Textures  [[PDF](https://arxiv.org/abs/2604.17390)]
+
+[arxiv 2026.04] The First Challenge on Mobile Real-World Image Super-Resolution at NTIRE 2026: Benchmark Results and Method Overview  [[PDF](https://arxiv.org/abs/2604.17306),[Page](https://cvlai.net/ntire/2026/)]
+
+[arxiv 2026.04] EmbodiedHead: Real-Time Listening and Speaking Avatar for Conversational Agents  [[PDF](https://arxiv.org/abs/2604.17211)]
+
+[arxiv 2026.04] Instant Colorization of Gaussian Splats  [[PDF](https://arxiv.org/abs/2604.17155)]
+
+[arxiv 2026.04] Self-Reasoning Agentic Framework for Narrative Product Grid-Collage Generation  [[PDF](https://arxiv.org/abs/2604.16958)]
+
+[arxiv 2026.04] Frequency-Decomposed INR for NIR-Assisted Low-Light RGB Image Denoising  [[PDF](https://arxiv.org/abs/2604.16800)]
+
+[arxiv 2026.04] Incoherent Deformation, Not Capacity: Diagnosing and Mitigating Overfitting in Dynamic Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.16747)]
+
+[arxiv 2026.04] C-GenReg: Training-Free 3D Point Cloud Registration by Multi-View-Consistent Geometry-to-Image Generation with Probabilistic Modalities Fusion  [[PDF](https://arxiv.org/abs/2604.16680)]
+
+[arxiv 2026.04] PoInit-of-View: Poisoning Initialization of Views Transfers Across Multiple 3D Reconstruction Systems  [[PDF](https://arxiv.org/abs/2604.16540)]
+
+[arxiv 2026.04] Operationalizing Fairness in Text-to-Image Models: A Survey of Bias, Fairness Audits and Mitigation Strategies  [[PDF](https://arxiv.org/abs/2604.16516),[Page](https://openreview.net/forum?id=8DOkyBGWwP)]
+
+[arxiv 2026.04] LayerCache: Exploiting Layer-wise Velocity Heterogeneity for Efficient Flow Matching Inference  [[PDF](https://arxiv.org/abs/2604.16492)]
+
+[arxiv 2026.04] Erasing Thousands of Concepts: Towards Scalable and Practical Concept Erasure for Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2604.16481)]
+
+[arxiv 2026.04] Dynamic Eraser for Guided Concept Erasure in Diffusion Models  [[PDF](https://arxiv.org/abs/2604.16483)]
+
+[arxiv 2026.04] Video-Robin: Autoregressive Diffusion Planning for Intent-Grounded Video-to-Music Generation  [[PDF](https://arxiv.org/abs/2604.17656)]
+
+[arxiv 2026.04] Learned Nonlocal Feature Matching and Filtering for RAW Image Denoising  [[PDF](https://arxiv.org/abs/2604.17453)]
 
 [arxiv 2026.04] Unfolding 3D Gaussian Splatting via Iterative Gaussian Synopsis  [[PDF](https://arxiv.org/abs/2604.11685)]
 

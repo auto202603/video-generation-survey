@@ -1,7 +1,30 @@
 ## Dataset
+<!-- Added on 2026-04-21 -->
 <!-- Added on 2026-04-20 -->
 <!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-14 -->
+
+[arxiv 2026.04] MUA: Mobile Ultra-detailed Animatable Avatars  [[PDF](https://arxiv.org/abs/2604.18583),[Page](https://vcai.mpi-inf.mpg.de/projects/MUA/)]
+
+[arxiv 2026.04] SynAgent: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy  [[PDF](https://arxiv.org/abs/2604.18557)]
+
+[arxiv 2026.04] Chatting about Upper-Body Expressive Human Pose and Shape Estimation  [[PDF](https://arxiv.org/abs/2604.17959)]
+
+[arxiv 2026.04] Beyond Binary Contrast: Modeling Continuous Skeleton Action Spaces with Transitional Anchors  [[PDF](https://arxiv.org/abs/2604.17914)]
+
+[arxiv 2026.04] Re$^2$MoGen: Open-Vocabulary Motion Generation via LLM Reasoning and Physics-Aware Refinement  [[PDF](https://arxiv.org/abs/2604.17807)]
+
+[arxiv 2026.04] AnyLift: Scaling Motion Reconstruction from Internet Videos via 2D Diffusion  [[PDF](https://arxiv.org/abs/2604.17818),[Page](https://awfuact.github.io/anylift/)]
+
+[arxiv 2026.04] Dual-stream Spatio-Temporal GCN-Transformer Network for 3D Human Pose Estimation  [[PDF](https://arxiv.org/abs/2604.17688),[Page](https://authors.elsevier.com/a/1mnPTWHUHYdGQ)]
+
+[arxiv 2026.04] Multi-Camera Self-Calibration in Sports Motion Capture: Leveraging Human and Stick Poses  [[PDF](https://arxiv.org/abs/2604.17567)]
+
+[arxiv 2026.04] Marrying Text-to-Motion Generation with Skeleton-Based Action Recognition  [[PDF](https://arxiv.org/abs/2604.17090)]
+
+[arxiv 2026.04] Towards Universal Skeleton-Based Action Recognition  [[PDF](https://arxiv.org/abs/2604.17013)]
+
+[arxiv 2026.04] Amortized Inverse Kinematics via Graph Attention for Real-Time Human Avatar Animation  [[PDF](https://arxiv.org/abs/2604.16629)]
 
 [arxiv 2026.04] UDAPose: Unsupervised Domain Adaptation for Low-Light Human Pose Estimation  [[PDF](https://arxiv.org/abs/2604.10485)]
 

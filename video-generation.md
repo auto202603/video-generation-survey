@@ -1,9 +1,32 @@
 # Video Generation Survey
+<!-- Added on 2026-04-21 -->
 <!-- Added on 2026-04-20 -->
 <!-- Added on 2026-04-17 -->
 <!-- Added on 2026-04-16 -->
 <!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-14 -->
+
+[arxiv 2026.04] MultiWorld: Scalable Multi-Agent Multi-View Video World Models  [[PDF](https://arxiv.org/abs/2604.18564)]
+
+[arxiv 2026.04] Progressive Online Video Understanding with Evidence-Aligned Timing and Transparent Decisions  [[PDF](https://arxiv.org/abs/2604.18459)]
+
+[arxiv 2026.04] AdaCluster: Adaptive Query-Key Clustering for Sparse Attention in Video Generation  [[PDF](https://arxiv.org/abs/2604.18348)]
+
+[arxiv 2026.04] OmniHuman: A Large-scale Dataset and Benchmark for Human-Centric Video Generation  [[PDF](https://arxiv.org/abs/2604.18326)]
+
+[arxiv 2026.04] Memorize When Needed: Decoupled Memory Control for Spatially Consistent Long-Horizon Video Generation  [[PDF](https://arxiv.org/abs/2604.18215)]
+
+[arxiv 2026.04] Speculative Decoding for Autoregressive Video Generation  [[PDF](https://arxiv.org/abs/2604.17397)]
+
+[arxiv 2026.04] Where to Focus: Query-Modulated Multimodal Keyframe Selection for Long Video Understanding  [[PDF](https://arxiv.org/abs/2604.17422)]
+
+[arxiv 2026.04] DreamShot: Personalized Storyboard Synthesis with Video Diffusion Prior  [[PDF](https://arxiv.org/abs/2604.17195)]
+
+[arxiv 2026.04] LIVE: Leveraging Image Manipulation Priors for Instruction-based Video Editing  [[PDF](https://arxiv.org/abs/2604.17021)]
+
+[arxiv 2026.04] EasyVideoR1: Easier RL for Video Understanding  [[PDF](https://arxiv.org/abs/2604.16893)]
+
+[arxiv 2026.04] Latent-Compressed Variational Autoencoder for Video Diffusion Models  [[PDF](https://arxiv.org/abs/2604.16479)]
 
 [arxiv 2026.04] OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation  [[PDF](https://arxiv.org/abs/2604.11804),[Page](https://correr-zhou.github.io/OmniShow/)]
 
