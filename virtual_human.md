@@ -226,6 +226,15 @@
 
 [arxiv 2026.04] CLOTH-HUGS: Cloth Aware Human Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.15875)]
 
+[arxiv 2026.04] DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation  [[PDF](https://arxiv.org/abs/2604.20841),[Page](https://snuvclab.github.io/devi/)]
+
+[arxiv 2026.04] LEXIS: LatEnt ProXimal Interaction Signatures for 3D HOI from an Image  [[PDF](https://arxiv.org/abs/2604.20800),[Page](https://anticdimi.github.io/lexis)]
+
+[arxiv 2026.04] HumanScore: Benchmarking Human Motions in Generated Videos  [[PDF](https://arxiv.org/abs/2604.20157)]
+
+[arxiv 2026.04] UniCon3R: Contact-aware 3D Human-Scene Reconstruction from Monocular Video  [[PDF](https://arxiv.org/abs/2604.19923),[Page](https://surtantheta.github.io/UniCon3R)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 

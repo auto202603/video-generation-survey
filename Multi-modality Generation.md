@@ -1605,6 +1605,53 @@
 
 [arxiv 2026.04] Automating Crash Diagram Generation Using Vision-Language Models: A Case Study on Multi-Lane Roundabouts  [[PDF](https://arxiv.org/abs/2604.15332)]
 
+[arxiv 2026.04] OMIBench: Benchmarking Olympiad-Level Multi-Image Reasoning in Large Vision-Language Model  [[PDF](https://arxiv.org/abs/2604.20806)]
+
+[arxiv 2026.04] LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model  [[PDF](https://arxiv.org/abs/2604.20796)]
+
+[arxiv 2026.04] Render-in-the-Loop: Vector Graphics Generation via Visual Self-Feedback  [[PDF](https://arxiv.org/abs/2604.20730)]
+
+[arxiv 2026.04] SSL-R1: Self-Supervised Visual Reinforcement Post-Training for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.20705)]
+
+[arxiv 2026.04] R-CoV: Region-Aware Chain-of-Verification for Alleviating Object Hallucinations in LVLMs  [[PDF](https://arxiv.org/abs/2604.20696)]
+
+[arxiv 2026.04] The Expense of Seeing: Attaining Trustworthy Multimodal Reasoning Within the Monolithic Paradigm  [[PDF](https://arxiv.org/abs/2604.20665)]
+
+[arxiv 2026.04] Exploring Spatial Intelligence from a Generative Perspective  [[PDF](https://arxiv.org/abs/2604.20570),[Page](https://aim-uofa.github.io/GSI-Bench/)]
+
+[arxiv 2026.04] Evian: Towards Explainable Visual Instruction-tuning Data Auditing  [[PDF](https://arxiv.org/abs/2604.20544)]
+
+[arxiv 2026.04] ProMMSearchAgent: A Generalizable Multimodal Search Agent Trained with Process-Oriented Rewards  [[PDF](https://arxiv.org/abs/2604.20486)]
+
+[arxiv 2026.04] Mitigating Hallucinations in Large Vision-Language Models without Performance Degradation  [[PDF](https://arxiv.org/abs/2604.20366)]
+
+[arxiv 2026.04] Object Referring-Guided Scanpath Prediction with Perception-Enhanced Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.20361)]
+
+[arxiv 2026.04] Hybrid Latent Reasoning with Decoupled Policy Optimization  [[PDF](https://arxiv.org/abs/2604.20328)]
+
+[arxiv 2026.04] UniCVR: From Alignment to Reranking for Unified Zero-Shot Composed Visual Retrieval  [[PDF](https://arxiv.org/abs/2604.20318)]
+
+[arxiv 2026.04] From Scene to Object: Text-Guided Dual-Gaze Prediction  [[PDF](https://arxiv.org/abs/2604.20191)]
+
+[arxiv 2026.04] WildFireVQA: A Large-Scale Radiometric Thermal VQA Benchmark for Aerial Wildfire Monitoring  [[PDF](https://arxiv.org/abs/2604.20190)]
+
+[arxiv 2026.04] Semantic-Fast-SAM: Efficient Semantic Segmenter  [[PDF](https://arxiv.org/abs/2604.20169)]
+
+[arxiv 2026.04] IMPACT-CYCLE: A Contract-Based Multi-Agent System for Claim-Level Supervisory Correction of Long-Video Semantic Memory  [[PDF](https://arxiv.org/abs/2604.20136),[Page](https://github.com/MKong17/IMPACT_CYCLE)]
+
+[arxiv 2026.04] EmbodiedMidtrain: Bridging the Gap between Vision-Language Models and Vision-Language-Action Models via Mid-training  [[PDF](https://arxiv.org/abs/2604.20012)]
+
+[arxiv 2026.04] DistortBench: Benchmarking Vision Language Models on Image Distortion Identification  [[PDF](https://arxiv.org/abs/2604.19966)]
+
+[arxiv 2026.04] Visual Reasoning through Tool-supervised Reinforcement Learning  [[PDF](https://arxiv.org/abs/2604.19945)]
+
+[arxiv 2026.04] MMCORE: MultiModal COnnection with Representation Aligned Latent Embeddings  [[PDF](https://arxiv.org/abs/2604.19902)]
+
+[arxiv 2026.04] Environmental Understanding Vision-Language Model for Embodied Agent  [[PDF](https://arxiv.org/abs/2604.19839),[Page](https://eu-ea.github.io)]
+
+[arxiv 2026.04] CHASM: Unveiling Covert Advertisements on Chinese Social Media  [[PDF](https://arxiv.org/abs/2604.20511)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 

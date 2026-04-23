@@ -1034,6 +1034,35 @@
 
 [arxiv 2026.04] GaussianFlow SLAM: Monocular Gaussian Splatting SLAM Guided by GaussianFlow  [[PDF](https://arxiv.org/abs/2604.15612)]
 
+[arxiv 2026.04] GeoRelight: Learning Joint Geometrical Relighting and Reconstruction with Flexible Multi-Modal Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.20715),[Page](https://yuxuan-xue.com)]
+
+[arxiv 2026.04] Hallucination Early Detection in Diffusion Models  [[PDF](https://arxiv.org/abs/2604.20354)]
+
+[arxiv 2026.04] Image Generators are Generalist Vision Learners  [[PDF](https://arxiv.org/abs/2604.20329),[Page](http://vision-banana.github.io)]
+
+[arxiv 2026.04] Efficient INT8 Single-Image Super-Resolution via Deployment-Aware Quantization and Teacher-Guided Training  [[PDF](https://arxiv.org/abs/2604.20291)]
+
+[arxiv 2026.04] Rethinking Where to Edit: Task-Aware Localization for Instruction-Based Image Editing  [[PDF](https://arxiv.org/abs/2604.20258)]
+
+[arxiv 2026.04] GSCompleter: A Distillation-Free Plugin for Metric-Aware 3D Gaussian Splatting Completion in Seconds  [[PDF](https://arxiv.org/abs/2604.20155)]
+
+[arxiv 2026.04] Semi-Supervised Flow Matching for Mosaiced and Panchromatic Fusion Imaging  [[PDF](https://arxiv.org/abs/2604.20128)]
+
+[arxiv 2026.04] Gaussians on a Diet: High-Quality Memory-Bounded 3D Gaussian Splatting Training  [[PDF](https://arxiv.org/abs/2604.20046)]
+
+[arxiv 2026.04] FluSplat: Sparse-View 3D Editing without Test-Time Optimization  [[PDF](https://arxiv.org/abs/2604.20038)]
+
+[arxiv 2026.04] Lucky High Dynamic Range Smartphone Imaging  [[PDF](https://arxiv.org/abs/2604.19976)]
+
+[arxiv 2026.04] Camera Control for Text-to-Image Generation via Learning Viewpoint Tokens  [[PDF](https://arxiv.org/abs/2604.19954)]
+
+[arxiv 2026.04] Wan-Image: Pushing the Boundaries of Generative Visual Intelligence  [[PDF](https://arxiv.org/abs/2604.19858)]
+
+[arxiv 2026.04] TactileEval: A Step Towards Automated Fine-Grained Evaluation and Editing of Tactile Graphics  [[PDF](https://arxiv.org/abs/2604.19829),[Page](https://TactileEval.github.io/)]
+
+[arxiv 2026.04] ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control  [[PDF](https://arxiv.org/abs/2604.20816),[Page](https://shelley-golan.github.io/ParetoSlider-webpage/)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]

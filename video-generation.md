@@ -1,4 +1,5 @@
 # Video Generation Survey
+<!-- Added on 2026-04-23 -->
 <!-- Added on 2026-04-21 -->
 <!-- Added on 2026-04-20 -->
 <!-- Added on 2026-04-17 -->
@@ -653,6 +654,13 @@ A reading list of video generation
 [arxiv 2026.04] VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects  [[PDF](https://arxiv.org/abs/2604.16272)]
 
 [arxiv 2026.04] UniEditBench: A Unified and Cost-Effective Benchmark for Image and Video Editing via Distilled MLLMs  [[PDF](https://arxiv.org/abs/2604.15871)]
+
+[arxiv 2026.04] Exploring High-Order Self-Similarity for Video Understanding  [[PDF](https://arxiv.org/abs/2604.20760)]
+
+[arxiv 2026.04] DynamicRad: Content-Adaptive Sparse Attention for Long Video Diffusion  [[PDF](https://arxiv.org/abs/2604.20470)]
+
+[arxiv 2026.04] X-Cache: Cross-Chunk Block Caching for Few-Step Autoregressive World Models Inference  [[PDF](https://arxiv.org/abs/2604.20289)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
