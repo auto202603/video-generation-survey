@@ -4,6 +4,38 @@
 <!-- Added on 2026-04-10 -->
 <!-- Added on 2026-04-14 -->
 
+<!-- Added on 2026-04-24 -->
+
+[arxiv 2026.04] Context Unrolling in Omni Models  [[PDF](https://arxiv.org/abs/2604.21921)]
+
+[arxiv 2026.04] When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs  [[PDF](https://arxiv.org/abs/2604.21911)]
+
+[arxiv 2026.04] From Codebooks to VLMs: Evaluating Automated Visual Discourse Analysis for Climate Change on Social Media  [[PDF](https://arxiv.org/abs/2604.21786)]
+
+[arxiv 2026.04] Ramen: Robust Test-Time Adaptation of Vision-Language Models with Active Sample Selection  [[PDF](https://arxiv.org/abs/2604.21728)]
+
+[arxiv 2026.04] Seeing Isn&#39;t Believing: Uncovering Blind Spots in Evaluator Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.21523)]
+
+[arxiv 2026.04] Do MLLMs Understand Pointing? Benchmarking and Enhancing Referential Reasoning in Egocentric Vision  [[PDF](https://arxiv.org/abs/2604.21461)]
+
+[arxiv 2026.04] S1-VL: Scientific Multimodal Reasoning Model with Thinking-with-Images  [[PDF](https://arxiv.org/abs/2604.21409)]
+
+[arxiv 2026.04] VG-CoT: Towards Trustworthy Visual Reasoning via Grounded Chain-of-Thought  [[PDF](https://arxiv.org/abs/2604.21396)]
+
+[arxiv 2026.04] Prototype-Based Test-Time Adaptation of Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.21360)]
+
+[arxiv 2026.04] Latent Denoising Improves Visual Alignment in Large Multimodal Models  [[PDF](https://arxiv.org/abs/2604.21343)]
+
+[arxiv 2026.04] MiMIC: Mitigating Visual Modality Collapse in Universal Multimodal Retrieval While Avoiding Semantic Misalignment  [[PDF](https://arxiv.org/abs/2604.21326)]
+
+[arxiv 2026.04] SpatiO: Adaptive Test-Time Orchestration of Vision-Language Agents for Spatial Reasoning  [[PDF](https://arxiv.org/abs/2604.21190)]
+
+[arxiv 2026.04] Reinforcing 3D Understanding in Point-VLMs via Geometric Reward Credit Assignment  [[PDF](https://arxiv.org/abs/2604.21160)]
+
+[arxiv 2026.04] Foveated Reasoning: Stateful, Action-based Visual Focusing for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.21079)]
+
+[arxiv 2026.04] Symbolic Grounding Reveals Representational Bottlenecks in Abstract Visual Reasoning  [[PDF](https://arxiv.org/abs/2604.21346)]
+
 [arxiv 2026.04] T-REN: Learning Text-Aligned Region Tokens Improves Dense Vision-Language Alignment and Scalability  [[PDF](https://arxiv.org/abs/2604.18573)]
 
 [arxiv 2026.04] S2H-DPO: Hardness-Aware Preference Optimization for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.18512)]

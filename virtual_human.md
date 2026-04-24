@@ -4,6 +4,18 @@
 <!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-14 -->
 
+<!-- Added on 2026-04-24 -->
+
+[arxiv 2026.04] Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs  [[PDF](https://arxiv.org/abs/2604.21926),[Page](https://tianhang-cheng.github.io/IMU4D)]
+
+[arxiv 2026.04] Discriminative-Generative Synergy for Occlusion Robust 3D Human Mesh Recovery  [[PDF](https://arxiv.org/abs/2604.21712)]
+
+[arxiv 2026.04] Encoder-Free Human Motion Understanding via Structured Motion Descriptions  [[PDF](https://arxiv.org/abs/2604.21668)]
+
+[arxiv 2026.04] OmniFit: Multi-modal 3D Body Fitting via Scale-agnostic Dense Landmark Prediction  [[PDF](https://arxiv.org/abs/2604.21575),[Page](https://zcai0612.github.io/OmniFit/)]
+
+[arxiv 2026.04] Exploring the Role of Synthetic Data Augmentation in Controllable Human-Centric Video Generation  [[PDF](https://arxiv.org/abs/2604.21291)]
+
 [arxiv 2026.04] MUA: Mobile Ultra-detailed Animatable Avatars  [[PDF](https://arxiv.org/abs/2604.18583),[Page](https://vcai.mpi-inf.mpg.de/projects/MUA/)]
 
 [arxiv 2026.04] SynAgent: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy  [[PDF](https://arxiv.org/abs/2604.18557)]

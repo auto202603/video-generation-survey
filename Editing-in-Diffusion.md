@@ -4,6 +4,36 @@
 <!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-14 -->
 
+<!-- Added on 2026-04-24 -->
+
+[arxiv 2026.04] UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection  [[PDF](https://arxiv.org/abs/2604.21904)]
+
+[arxiv 2026.04] Addressing Image Authenticity When Cameras Use Generative AI  [[PDF](https://arxiv.org/abs/2604.21879)]
+
+[arxiv 2026.04] Reshoot-Anything: A Self-Supervised Model for In-the-Wild Video Reshooting  [[PDF](https://arxiv.org/abs/2604.21776)]
+
+[arxiv 2026.04] DualSplat: Robust 3D Gaussian Splatting via Pseudo-Mask Bootstrapping from Reconstruction Failures  [[PDF](https://arxiv.org/abs/2604.21631)]
+
+[arxiv 2026.04] DCMorph: Face Morphing via Dual-Stream Cross-Attention Diffusion  [[PDF](https://arxiv.org/abs/2604.21627)]
+
+[arxiv 2026.04] Sculpt4D: Generating 4D Shapes via Sparse-Attention Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.21592)]
+
+[arxiv 2026.04] VARestorer: One-Step VAR Distillation for Real-World Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.21450),[Page](https://github.com/EternalEvan/VARestorer)]
+
+[arxiv 2026.04] You Only Gaussian Once: Controllable 3D Gaussian Splatting for Ultra-Densely Sampled Scenes  [[PDF](https://arxiv.org/abs/2604.21400)]
+
+[arxiv 2026.04] AttDiff-GAN: A Hybrid Diffusion-GAN Framework for Facial Attribute Editing  [[PDF](https://arxiv.org/abs/2604.21289)]
+
+[arxiv 2026.04] WildSplatter: Feed-forward 3D Gaussian Splatting with Appearance Control from Unconstrained Images  [[PDF](https://arxiv.org/abs/2604.21182),[Page](https://github.com/yfujimura/WildSplatter)]
+
+[arxiv 2026.04] Projected Gradient Unlearning for Text-to-Image Diffusion Models: Defending Against Concept Revival Attacks  [[PDF](https://arxiv.org/abs/2604.21041)]
+
+[arxiv 2026.04] Linear Image Generation by Synthesizing Exposure Brackets  [[PDF](https://arxiv.org/abs/2604.21008)]
+
+[arxiv 2026.04] Bridging the Training-Deployment Gap: Gated Encoding and Multi-Scale Refinement for Efficient Quantization-Aware Image Enhancement  [[PDF](https://arxiv.org/abs/2604.21743)]
+
+[arxiv 2026.04] DiffNR: Diffusion-Enhanced Neural Representation Optimization for Sparse-View 3D Tomographic Reconstruction  [[PDF](https://arxiv.org/abs/2604.21518),[Page](https://ooonesevennn.github.io/DiffNR/)]
+
 [arxiv 2026.04] MetaCloak-JPEG: JPEG-Robust Adversarial Perturbation for Preventing Unauthorized DreamBooth-Based Deepfake Generation  [[PDF](https://arxiv.org/abs/2604.18537)]
 
 [arxiv 2026.04] Asset Harvester: Extracting 3D Assets from Autonomous Driving Logs for Simulation  [[PDF](https://arxiv.org/abs/2604.18468),[Page](https://research.nvidia.com/labs/sil/projects/asset-harvester/)]

@@ -7,6 +7,16 @@
 <!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-14 -->
 
+<!-- Added on 2026-04-24 -->
+
+[arxiv 2026.04] WorldMark: A Unified Benchmark Suite for Interactive Video World Models  [[PDF](https://arxiv.org/abs/2604.21686)]
+
+[arxiv 2026.04] KD-CVG: A Knowledge-Driven Approach for Creative Video Generation  [[PDF](https://arxiv.org/abs/2604.21362)]
+
+[arxiv 2026.04] Sparse Forcing: Native Trainable Sparse Attention for Real-time Autoregressive Diffusion Video Generation  [[PDF](https://arxiv.org/abs/2604.21221)]
+
+[arxiv 2026.04] AttentionBender: Manipulating Cross-Attention in Video Diffusion Transformers as a Creative Probe  [[PDF](https://arxiv.org/abs/2604.20936)]
+
 [arxiv 2026.04] MultiWorld: Scalable Multi-Agent Multi-View Video World Models  [[PDF](https://arxiv.org/abs/2604.18564)]
 
 [arxiv 2026.04] Progressive Online Video Understanding with Evidence-Aligned Timing and Transparent Decisions  [[PDF](https://arxiv.org/abs/2604.18459)]
