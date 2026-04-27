@@ -6,6 +6,20 @@
 
 <!-- Added on 2026-04-24 -->
 
+<!-- Added on 2026-04-27 -->
+
+[arxiv 2026.04] Cross-Stage Coherence in Hierarchical Driving VQA: Explicit Baselines and Learned Gated Context Projectors  [[PDF](https://arxiv.org/abs/2604.22560)]
+[arxiv 2026.04] CGC: Compositional Grounded Contrast for Fine-Grained Multi-Image Understanding  [[PDF](https://arxiv.org/abs/2604.22498)]
+[arxiv 2026.04] Contrastive Semantic Projection: Faithful Neuron Labeling with Contrastive Examples  [[PDF](https://arxiv.org/abs/2604.22477)]
+[arxiv 2026.04] SpaMEM: Benchmarking Dynamic Spatial Reasoning via Perception-Memory Integration in Embodied Environments  [[PDF](https://arxiv.org/abs/2604.22409)]
+[arxiv 2026.04] DocPrune:Efficient Document Question Answering via Background, Question, and Comprehension-aware Token Pruning  [[PDF](https://arxiv.org/abs/2604.22281)]
+[arxiv 2026.04] Beyond Chain-of-Thought: Rewrite as a Universal Interface for Generative Multimodal Embeddings  [[PDF](https://arxiv.org/abs/2604.22280)]
+[arxiv 2026.04] CAGE-SGG: Counterfactual Active Graph Evidence for Open-Vocabulary Scene Graph Generation  [[PDF](https://arxiv.org/abs/2604.22274)]
+[arxiv 2026.04] Towards Temporal Compositional Reasoning in Long-Form Sports Videos  [[PDF](https://arxiv.org/abs/2604.22226)]
+[arxiv 2026.04] CharTide: Data-Centric Chart-to-Code Generation via Tri-Perspective Tuning and Inquiry-Driven Evolution  [[PDF](https://arxiv.org/abs/2604.22192)]
+[arxiv 2026.04] Unlocking Optical Prior: Spectrum-Guided Knowledge Transfer for SAR Generalized Category Discovery  [[PDF](https://arxiv.org/abs/2604.22174)]
+[arxiv 2026.04] MTT-Bench: Predicting Social Dominance in Mice via Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2604.22492)]
+
 [arxiv 2026.04] Context Unrolling in Omni Models  [[PDF](https://arxiv.org/abs/2604.21921)]
 
 [arxiv 2026.04] When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs  [[PDF](https://arxiv.org/abs/2604.21911)]

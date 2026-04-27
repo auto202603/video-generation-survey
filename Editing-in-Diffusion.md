@@ -6,6 +6,18 @@
 
 <!-- Added on 2026-04-24 -->
 
+<!-- Added on 2026-04-27 -->
+
+[arxiv 2026.04] NRGS: Neural Regularization for Robust 3D Semantic Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.22439)]
+[arxiv 2026.04] Efficient Diffusion Distillation via Embedding Loss  [[PDF](https://arxiv.org/abs/2604.22379)]
+[arxiv 2026.04] Flow4DGS-SLAM: Optical Flow-Guided 4D Gaussian Splatting SLAM  [[PDF](https://arxiv.org/abs/2604.22339)]
+[arxiv 2026.04] Knowledge Visualization: A Benchmark and Method for Knowledge-Intensive Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2604.22302)]
+[arxiv 2026.04] Evaluation of image simulation open source solutions for simulation of synthetic images in lunar environment  [[PDF](https://arxiv.org/abs/2604.22296)]
+[arxiv 2026.04] EvFlow-GS: Event Enhanced Motion Deblurring with Optical Flow for 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.22183)]
+[arxiv 2026.04] PAGaS: Pixel-Aligned 1DoF Gaussian Splatting for Depth Refinement  [[PDF](https://arxiv.org/abs/2604.22129)]
+[arxiv 2026.04] Structure-Guided Diffusion Model for EEG-Based Visual Cognition Reconstruction  [[PDF](https://arxiv.org/abs/2604.22649)]
+[arxiv 2026.04] How Many Visual Levers Drive Urban Perception? Interventional Counterfactuals via Multiple Localised Edits  [[PDF](https://arxiv.org/abs/2604.22103)]
+
 [arxiv 2026.04] UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection  [[PDF](https://arxiv.org/abs/2604.21904)]
 
 [arxiv 2026.04] Addressing Image Authenticity When Cameras Use Generative AI  [[PDF](https://arxiv.org/abs/2604.21879)]

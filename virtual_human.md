@@ -6,6 +6,11 @@
 
 <!-- Added on 2026-04-24 -->
 
+<!-- Added on 2026-04-27 -->
+
+[arxiv 2026.04] Learning Reactive Human Motion Generation from Paired Interaction Data Using Transformer-Based Models  [[PDF](https://arxiv.org/abs/2604.22164)]
+[arxiv 2026.04] Robust Camera-to-Mocap Calibration and Verification for Large-Scale Multi-Camera Data Capture  [[PDF](https://arxiv.org/abs/2604.22118)]
+
 [arxiv 2026.04] Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs  [[PDF](https://arxiv.org/abs/2604.21926),[Page](https://tianhang-cheng.github.io/IMU4D)]
 
 [arxiv 2026.04] Discriminative-Generative Synergy for Occlusion Robust 3D Human Mesh Recovery  [[PDF](https://arxiv.org/abs/2604.21712)]

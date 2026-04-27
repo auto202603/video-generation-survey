@@ -9,6 +9,10 @@
 
 <!-- Added on 2026-04-24 -->
 
+<!-- Added on 2026-04-27 -->
+
+[arxiv 2026.04] FlowAnchor: Stabilizing the Editing Signal for Inversion-Free Video Editing  [[PDF](https://arxiv.org/abs/2604.22586)]
+
 [arxiv 2026.04] WorldMark: A Unified Benchmark Suite for Interactive Video World Models  [[PDF](https://arxiv.org/abs/2604.21686)]
 
 [arxiv 2026.04] KD-CVG: A Knowledge-Driven Approach for Creative Video Generation  [[PDF](https://arxiv.org/abs/2604.21362)]
