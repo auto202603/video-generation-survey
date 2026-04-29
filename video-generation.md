@@ -11,6 +11,12 @@
 
 <!-- Added on 2026-04-27 -->
 
+<!-- Added on 2026-04-29 -->
+
+[arxiv 2026.04] A Systematic Post-Train Framework for Video Generation  [[PDF](https://arxiv.org/abs/2604.25427)]
+
+[arxiv 2026.04] FCMBench-Video: Benchmarking Document Video Intelligence  [[PDF](https://arxiv.org/abs/2604.25186)]
+
 [arxiv 2026.04] FlowAnchor: Stabilizing the Editing Signal for Inversion-Free Video Editing  [[PDF](https://arxiv.org/abs/2604.22586)]
 
 [arxiv 2026.04] WorldMark: A Unified Benchmark Suite for Interactive Video World Models  [[PDF](https://arxiv.org/abs/2604.21686)]

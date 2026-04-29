@@ -8,6 +8,30 @@
 
 <!-- Added on 2026-04-27 -->
 
+<!-- Added on 2026-04-29 -->
+
+[arxiv 2026.04] Refinement via Regeneration: Enlarging Modification Space Boosts Image Refinement in Unified Multimodal Models  [[PDF](https://arxiv.org/abs/2604.25636),[Page](https://github.com/LeapLabTHU/RvR)]
+
+[arxiv 2026.04] DDA-Thinker: Decoupled Dual-Atomic Reinforcement Learning for Reasoning-Driven Image Editing  [[PDF](https://arxiv.org/abs/2604.25477)]
+
+[arxiv 2026.04] Generalizable Human Gaussian Splatting via Multi-view Semantic Consistency  [[PDF](https://arxiv.org/abs/2604.25466)]
+
+[arxiv 2026.04] GramSR: Visual Feature Conditioning for Diffusion-Based Super-Resolution  [[PDF](https://arxiv.org/abs/2604.25457)]
+
+[arxiv 2026.04] Self-DACE++: Robust Low-Light Enhancement via Efficient Adaptive Curve Estimation  [[PDF](https://arxiv.org/abs/2604.25367)]
+
+[arxiv 2026.04] Benchmarking Layout-Guided Diffusion Models through Unified Semantic-Spatial Evaluation in Closed and Open Settings  [[PDF](https://arxiv.org/abs/2604.25358)]
+
+[arxiv 2026.04] Golden RPG: Confidence-Adaptive Region-Aware Noise for Compositional Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2604.25314)]
+
+[arxiv 2026.04] The Thinking Pixel: Recursive Sparse Reasoning in Multimodal Diffusion Latents  [[PDF](https://arxiv.org/abs/2604.25299)]
+
+[arxiv 2026.04] Benchmarking OCR Pipelines with Adaptive Enhancement for Multi-Domain Retail Bill Digitization  [[PDF](https://arxiv.org/abs/2604.25176)]
+
+[arxiv 2026.04] ResetEdit: Precise Text-guided Editing of Generated Image via Resettable Starting Latent  [[PDF](https://arxiv.org/abs/2604.25128)]
+
+[arxiv 2026.04] VibeToken: Scaling 1D Image Tokenizers and Autoregressive Models for Dynamic Resolution Generations  [[PDF](https://arxiv.org/abs/2604.24885),[Page](https://github.com/SonyResearch/VibeToken)]
+
 [arxiv 2026.04] NRGS: Neural Regularization for Robust 3D Semantic Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.22439)]
 [arxiv 2026.04] Efficient Diffusion Distillation via Embedding Loss  [[PDF](https://arxiv.org/abs/2604.22379)]
 [arxiv 2026.04] Flow4DGS-SLAM: Optical Flow-Guided 4D Gaussian Splatting SLAM  [[PDF](https://arxiv.org/abs/2604.22339)]

@@ -8,6 +8,14 @@
 
 <!-- Added on 2026-04-27 -->
 
+<!-- Added on 2026-04-29 -->
+
+[arxiv 2026.04] HuM-Eval: A Coarse-to-Fine Framework for Human-Centric Video Evaluation  [[PDF](https://arxiv.org/abs/2604.25361)]
+
+[arxiv 2026.04] IAM: Identity-Aware Human Motion and Shape Joint Generation  [[PDF](https://arxiv.org/abs/2604.25164)]
+
+[arxiv 2026.04] VISION-SLS: Safe Perception-Based Control from Learned Visual Representations via System Level Synthesis  [[PDF](https://arxiv.org/abs/2604.24894)]
+
 [arxiv 2026.04] Learning Reactive Human Motion Generation from Paired Interaction Data Using Transformer-Based Models  [[PDF](https://arxiv.org/abs/2604.22164)]
 [arxiv 2026.04] Robust Camera-to-Mocap Calibration and Verification for Large-Scale Multi-Camera Data Capture  [[PDF](https://arxiv.org/abs/2604.22118)]
 

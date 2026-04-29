@@ -8,6 +8,36 @@
 
 <!-- Added on 2026-04-27 -->
 
+<!-- Added on 2026-04-29 -->
+
+[arxiv 2026.04] SIEVES: Selective Prediction Generalizes through Visual Evidence Scoring  [[PDF](https://arxiv.org/abs/2604.25855)]
+
+[arxiv 2026.04] Instruction-Evidence Contrastive Dual-Stream Decoding for Grounded Vision-Language Reasoning  [[PDF](https://arxiv.org/abs/2604.25809)]
+
+[arxiv 2026.04] Prefill-Time Intervention for Mitigating Hallucination in Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.25642)]
+
+[arxiv 2026.04] DualGeo: A Dual-View Framework for Worldwide Image Geo-localization  [[PDF](https://arxiv.org/abs/2604.25533)]
+
+[arxiv 2026.04] OmniVTG: A Large-Scale Dataset and Training Paradigm for Open-World Video Temporal Grounding  [[PDF](https://arxiv.org/abs/2604.25276)]
+
+[arxiv 2026.04] Combating Visual Neglect and Semantic Drift in Large Multimodal Models for Enhanced Cross-Modal Retrieval  [[PDF](https://arxiv.org/abs/2604.25273)]
+
+[arxiv 2026.04] DRAGON: A Benchmark for Evidence-Grounded Visual Reasoning over Diagrams  [[PDF](https://arxiv.org/abs/2604.25231)]
+
+[arxiv 2026.04] M$^3$-VQA: A Benchmark for Multimodal, Multi-Entity, Multi-Hop Visual Question Answering  [[PDF](https://arxiv.org/abs/2604.25122)]
+
+[arxiv 2026.04] One Perturbation, Two Failure Modes: Probing VLM Safety via Embedding-Guided Typographic Perturbations  [[PDF](https://arxiv.org/abs/2604.25102)]
+
+[arxiv 2026.04] DouC: Dual-Branch CLIP for Training-Free Open-Vocabulary Segmentation  [[PDF](https://arxiv.org/abs/2604.24997)]
+
+[arxiv 2026.04] Interactive Episodic Memory with User Feedback  [[PDF](https://arxiv.org/abs/2604.24893),[Page](https://nsubedi11.github.io/refocus)]
+
+[arxiv 2026.04] QCalEval: Benchmarking Vision-Language Models for Quantum Calibration Plot Understanding  [[PDF](https://arxiv.org/abs/2604.25884)]
+
+[arxiv 2026.04] GeoSearch: Augmenting Worldwide Geolocalization with Web-Scale Reverse Image Search and Image Matching  [[PDF](https://arxiv.org/abs/2604.25390)]
+
+[arxiv 2026.04] VLM Judges Can Rank but Cannot Score: Task-Dependent Uncertainty in Multimodal Evaluation  [[PDF](https://arxiv.org/abs/2604.25235)]
+
 [arxiv 2026.04] Cross-Stage Coherence in Hierarchical Driving VQA: Explicit Baselines and Learned Gated Context Projectors  [[PDF](https://arxiv.org/abs/2604.22560)]
 [arxiv 2026.04] CGC: Compositional Grounded Contrast for Fine-Grained Multi-Image Understanding  [[PDF](https://arxiv.org/abs/2604.22498)]
 [arxiv 2026.04] Contrastive Semantic Projection: Faithful Neuron Labeling with Contrastive Examples  [[PDF](https://arxiv.org/abs/2604.22477)]
