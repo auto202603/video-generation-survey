@@ -1129,6 +1129,44 @@
 [arxiv 2026.04] ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control  [[PDF](https://arxiv.org/abs/2604.20816),[Page](https://shelley-golan.github.io/ParetoSlider-webpage/)]
 
 
+[arxiv 2026.04] Breaking Degradation Coupling: A Structural Entropy Guided Decoupled Framework and Benchmark for Infrared Enhancement  [[PDF](https://arxiv.org/abs/2604.22886)]
+
+[arxiv 2026.04] V-GRPO: Online Reinforcement Learning for Denoising Generative Models Is Easier than You Think  [[PDF](https://arxiv.org/abs/2604.23380)]
+
+[arxiv 2026.04] Oracle Noise: Faster Semantic Spherical Alignment for Interpretable Latent Optimization  [[PDF](https://arxiv.org/abs/2604.23540)]
+
+[arxiv 2026.04] Spatiotemporal Degradation-Aware 3D Gaussian Splatting for Realistic Underwater Scene Reconstruction  [[PDF](https://arxiv.org/abs/2604.23551)]
+
+[arxiv 2026.04] Identity-Decoupled Anonymization for Visual Evidence in Multi-modal Retrieval-Augmented Generation  [[PDF](https://arxiv.org/abs/2604.23584)]
+
+[arxiv 2026.04] GS-DOT: Gaussian splatting-based image reconstruction for diffuse optical tomography  [[PDF](https://arxiv.org/abs/2604.23675)]
+
+[arxiv 2026.04] Reading in the Dark: Low-light Scene Text Recognition  [[PDF](https://arxiv.org/abs/2604.23685)]
+
+[arxiv 2026.04] Edit Where You Mean: Region-Aware Adapter Injection for Mask-Free Local Image Editing  [[PDF](https://arxiv.org/abs/2604.23763)]
+
+[arxiv 2026.04] Bringing a Personal Point of View: Evaluating Dynamic 3D Gaussian Splatting for Egocentric Scene Reconstruction  [[PDF](https://arxiv.org/abs/2604.23803)]
+
+[arxiv 2026.04] Latent Inter-Frame Pruning: A Training-Free Method Bridging Traditional Video Compression and Modern Diffusion Transformers for Efficient Generation  [[PDF](https://arxiv.org/abs/2604.23858)]
+
+[arxiv 2026.04] ServImage: An Image Generation and Editing Benchmark from Real-world Commercial Imaging Services  [[PDF](https://arxiv.org/abs/2604.24023)]
+
+[arxiv 2026.04] Light &#39;em Up: Enabling Few-Shot Low-Light 3D Gaussian Splatting with Multi-Scale Explicit Retinex Illumination Decoupling  [[PDF](https://arxiv.org/abs/2604.24053),[Page](https://github.com/YhuoyuH/MERID-GS)] ![Code](https://img.shields.io/github/stars/YhuoyuH/MERID-GS?style=social&label=Star)
+
+[arxiv 2026.04] Bridging Restoration and Generation Manifolds in One-Step Diffusion for Real-World Super-Resolution  [[PDF](https://arxiv.org/abs/2604.24136)]
+
+[arxiv 2026.04] Monocular Depth Estimation via Neural Network with Learnable Algebraic Group and Ring Structures  [[PDF](https://arxiv.org/abs/2604.24328)]
+
+[arxiv 2026.04] Diffusion Templates: A Unified Plugin Framework for Controllable Diffusion  [[PDF](https://arxiv.org/abs/2604.24351)]
+
+[arxiv 2026.04] TextGround4M: A Prompt-Aligned Dataset for Layout-Aware Text Rendering  [[PDF](https://arxiv.org/abs/2604.24459),[Page](https://dongxingmao.github.io/TextGround4M.github.io/)]
+
+[arxiv 2026.04] CA-IDD: Cross-Attention Guided Identity-Conditional Diffusion for Identity-Consistent Face Swapping  [[PDF](https://arxiv.org/abs/2604.24493)]
+
+[arxiv 2026.04] Point-MF: One-step Point Cloud Generation from a Single Image via Mean Flows  [[PDF](https://arxiv.org/abs/2604.24586)]
+
+[arxiv 2026.04] Meta-CoT: Enhancing Granularity and Generalization in Image Editing  [[PDF](https://arxiv.org/abs/2604.24625),[Page](https://shiyi-zh0408.github.io/projectpages/Meta-CoT/)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]

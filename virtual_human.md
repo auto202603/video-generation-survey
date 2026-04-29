@@ -260,6 +260,22 @@
 [arxiv 2026.04] UniCon3R: Contact-aware 3D Human-Scene Reconstruction from Monocular Video  [[PDF](https://arxiv.org/abs/2604.19923),[Page](https://surtantheta.github.io/UniCon3R)]
 
 
+[arxiv 2026.04] DGHMesh: A Large-scale Dual-radar mmWave Dataset and Generalization-focused Benchmark for Human Mesh Reconstruction  [[PDF](https://arxiv.org/abs/2604.22827)]
+
+[arxiv 2026.04] 2D Pre-Training for 3D Pose Estimation  [[PDF](https://arxiv.org/abs/2604.22830),[Page](https://github.com/ECE740F21T01/pytorch-pose-hg-3d)] ![Code](https://img.shields.io/github/stars/ECE740F21T01/pytorch-pose-hg-3d?style=social&label=Star)
+
+[arxiv 2026.04] MotionHiFlow: Text-to-motion via hierarchical flow matching  [[PDF](https://arxiv.org/abs/2604.23264)]
+
+[arxiv 2026.04] EAD-Net: Emotion-Aware Talking Head Generation with Spatial Refinement and Temporal Coherence  [[PDF](https://arxiv.org/abs/2604.23325)]
+
+[arxiv 2026.04] Emotion-Conditioned Short-Horizon Human Pose Forecasting with a Lightweight Predictive World Model  [[PDF](https://arxiv.org/abs/2604.23532)]
+
+[arxiv 2026.04] Talker-T2AV: Joint Talking Audio-Video Generation with Autoregressive Diffusion Modeling  [[PDF](https://arxiv.org/abs/2604.23586)]
+
+[arxiv 2026.04] Geometry-Conditioned Diffusion for Occlusion-Robust In-Bed Pose Estimation  [[PDF](https://arxiv.org/abs/2604.23651)]
+
+[arxiv 2026.04] Unconstrained Multi-view Human Pose Estimation with Algebraic Priors  [[PDF](https://arxiv.org/abs/2604.24312)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 

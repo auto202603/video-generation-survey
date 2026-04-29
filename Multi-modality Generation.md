@@ -1728,6 +1728,90 @@
 [arxiv 2026.04] CHASM: Unveiling Covert Advertisements on Chinese Social Media  [[PDF](https://arxiv.org/abs/2604.20511)]
 
 
+[arxiv 2025.12] CPJ: Explainable Agricultural Pest Diagnosis via Caption-Prompt-Judge with LLM-Judged Refinement  [[PDF](https://arxiv.org/abs/2512.24947)]
+
+[arxiv 2026.04] When VLMs &#39;Fix&#39; Students: Identifying and Penalizing Over-Correction in the Evaluation of Multi-line Handwritten Math OCR  [[PDF](https://arxiv.org/abs/2604.22774)]
+
+[arxiv 2026.04] See No Evil: Semantic Context-Aware Privacy Risk Detection for AR  [[PDF](https://arxiv.org/abs/2604.22805)]
+
+[arxiv 2026.04] DO-Bench: An Attributable Benchmark for Diagnosing Object Hallucination in Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.22822)]
+
+[arxiv 2026.04] PivotMerge: Bridging Heterogeneous Multimodal Pre-training via Post-Alignment Model Merging  [[PDF](https://arxiv.org/abs/2604.22823)]
+
+[arxiv 2026.04] Lost in the Vibrations: Vision Language Models Fail the Dynamic Gauges Test  [[PDF](https://arxiv.org/abs/2604.22829)]
+
+[arxiv 2026.04] EgoDyn-Bench: Evaluating Ego-Motion Understanding in Vision-Centric Foundation Models for Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.22851)]
+
+[arxiv 2026.04] Probing Visual Planning in Image Editing Models  [[PDF](https://arxiv.org/abs/2604.22868),[Page](https://github.com/spatigen/amaze)] ![Code](https://img.shields.io/github/stars/spatigen/amaze?style=social&label=Star)
+
+[arxiv 2026.04] SketchVLM: Vision language models can annotate images to explain thoughts and guide users  [[PDF](https://arxiv.org/abs/2604.22875)]
+
+[arxiv 2026.04] Can Multimodal Large Language Models Truly Understand Small Objects?  [[PDF](https://arxiv.org/abs/2604.22884)]
+
+[arxiv 2026.04] INSIGHT: Indoor Scene Intelligence from Geometric-Semantic Hierarchy Transfer for Public~Safety  [[PDF](https://arxiv.org/abs/2604.23095)]
+
+[arxiv 2026.04] Breaking Lock-In: Preserving Steerability under Low-Data VLA Post-Training  [[PDF](https://arxiv.org/abs/2604.23121)]
+
+[arxiv 2026.04] UpstreamQA: A Modular Framework for Explicit Reasoning on Video Question Answering Tasks  [[PDF](https://arxiv.org/abs/2604.23145)]
+
+[arxiv 2026.04] One Identity, Many Roles: Multimodal Entity Coreference for Enhanced Video Situation Recognition  [[PDF](https://arxiv.org/abs/2604.23173),[Page](https://katha-ai.github.io/projects/cinemec/)]
+
+[arxiv 2026.04] AnalogRetriever: Learning Cross-Modal Representations for Analog Circuit Retrieval  [[PDF](https://arxiv.org/abs/2604.23195)]
+
+[arxiv 2026.04] Bridging the Pose-Semantic Gap: A Cascade Framework for Text-Based Person Anomaly Search  [[PDF](https://arxiv.org/abs/2604.23282)]
+
+[arxiv 2026.04] Exploring Hierarchical Consistency and Unbiased Objectness for Open-Vocabulary Object Detection  [[PDF](https://arxiv.org/abs/2604.23344)]
+
+[arxiv 2026.04] EmoTrans: A Benchmark for Understanding, Reasoning, and Predicting Emotion Transitions in Multimodal LLMs  [[PDF](https://arxiv.org/abs/2604.23348)]
+
+[arxiv 2026.04] PushupBench: Your VLM is not good at counting pushups  [[PDF](https://arxiv.org/abs/2604.23407)]
+
+[arxiv 2026.04] HAC: Parameter-Efficient Hyperbolic Adaptation of CLIP for Zero-Shot VQA  [[PDF](https://arxiv.org/abs/2604.23665)]
+
+[arxiv 2026.04] Agri-CPJ: A Training-Free Explainable Framework for Agricultural Pest Diagnosis Using Caption-Prompt-Judge and LLM-as-a-Judge  [[PDF](https://arxiv.org/abs/2604.23701)]
+
+[arxiv 2026.04] Zoom In, Reason Out: Efficient Far-field Anomaly Detection in Expressway Surveillance Videos via Focused VLM Reasoning Guided by Bayesian Inference  [[PDF](https://arxiv.org/abs/2604.23724)]
+
+[arxiv 2026.04] DynProto: Dynamic Prototype Evolution for Out-of-Distribution Detection  [[PDF](https://arxiv.org/abs/2604.23729)]
+
+[arxiv 2026.04] MIRAGE: A Micro-Interaction Relational Architecture for Grounded Exploration in Multi-Figure Artworks  [[PDF](https://arxiv.org/abs/2604.23788)]
+
+[arxiv 2026.04] ShredBench: Evaluating the Semantic Reasoning Capabilities of Multimodal LLMs in Document Reconstruction  [[PDF](https://arxiv.org/abs/2604.23813),[Page](https://github.com/ythere-y/ShredBench)] ![Code](https://img.shields.io/github/stars/ythere-y/ShredBench?style=social&label=Star)
+
+[arxiv 2026.04] AMAVA: Adaptive Motion-Aware Video-to-Audio Framework for Visually-Impaired Assistance  [[PDF](https://arxiv.org/abs/2604.23909)]
+
+[arxiv 2026.04] 2nd of the 5th PVUW MeViS-Audio Track: ASR-SaSaSa2VA  [[PDF](https://arxiv.org/abs/2604.23935)]
+
+[arxiv 2026.04] GoClick: Lightweight Element Grounding Model for Autonomous GUI Interaction  [[PDF](https://arxiv.org/abs/2604.23941)]
+
+[arxiv 2026.04] LearnPruner: Rethinking Attention-based Token Pruning in Vision Language Models  [[PDF](https://arxiv.org/abs/2604.23950)]
+
+[arxiv 2026.04] SMoES: Soft Modality-Guided Expert Specialization in MoE-VLMs  [[PDF](https://arxiv.org/abs/2604.23996)]
+
+[arxiv 2026.04] Robust Grounding with MLLMs against Occlusion and Small Objects via Language-guided Semantic Cues  [[PDF](https://arxiv.org/abs/2604.24036)]
+
+[arxiv 2026.04] FDIM: A Feature-distance-based Generic Video Quality Metric for Versatile Codecs  [[PDF](https://arxiv.org/abs/2604.24123)]
+
+[arxiv 2026.04] Omni-o3: Deep Nested Omnimodal Deduction for Deliberative Audio-Visual Reasoning  [[PDF](https://arxiv.org/abs/2604.24191)]
+
+[arxiv 2026.04] ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning  [[PDF](https://arxiv.org/abs/2604.24300),[Page](https://3dlg-hcvc.github.io/revsi/)]
+
+[arxiv 2026.04] See Further, Think Deeper: Advancing VLM&#39;s Reasoning Ability with Low-level Visual Cues and Reflection  [[PDF](https://arxiv.org/abs/2604.24339)]
+
+[arxiv 2026.04] SycoPhantasy: Quantifying Sycophancy and Hallucination in Small Open Weight VLMs for Vision-Language Scoring of Fantasy Characters  [[PDF](https://arxiv.org/abs/2604.24346)]
+
+[arxiv 2026.04] Global Context or Local Detail? Adaptive Visual Grounding for Hallucination Mitigation  [[PDF](https://arxiv.org/abs/2604.24396)]
+
+[arxiv 2026.04] AutoGUI-v2: A Comprehensive Multi-Modal GUI Functionality Understanding Benchmark  [[PDF](https://arxiv.org/abs/2604.24441)]
+
+[arxiv 2026.04] Zero-to-CAD: Agentic Synthesis of Interpretable CAD Programs at Million-Scale Without Real Data  [[PDF](https://arxiv.org/abs/2604.24479)]
+
+[arxiv 2026.04] Improving Vision-language Models with Perception-centric Process Reward Models  [[PDF](https://arxiv.org/abs/2604.24583)]
+
+[arxiv 2026.04] Majorization-Guided Test-Time Adaptation for Vision-Language Models under Modality-Specific Shift  [[PDF](https://arxiv.org/abs/2604.24602)]
+
+[arxiv 2026.04] Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation  [[PDF](https://arxiv.org/abs/2604.24763),[Page](https://tuna-ai.org/tuna-2)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 

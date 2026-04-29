@@ -682,6 +682,12 @@ A reading list of video generation
 [arxiv 2026.04] X-Cache: Cross-Chunk Block Caching for Few-Step Autoregressive World Models Inference  [[PDF](https://arxiv.org/abs/2604.20289)]
 
 
+[arxiv 2026.04] MuSS: A Large-Scale Dataset and Cinematic Narrative Benchmark for Multi-Shot Subject-to-Video Generation  [[PDF](https://arxiv.org/abs/2604.23789)]
+
+[arxiv 2026.04] Exploring Audio Hallucination in Egocentric Video Understanding  [[PDF](https://arxiv.org/abs/2604.23860)]
+
+[arxiv 2026.04] World-R1: Reinforcing 3D Constraints for Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2604.24764),[Page](https://aka.ms/world-r1)] ![Code](https://img.shields.io/github/stars/microsoft/World-R1?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
