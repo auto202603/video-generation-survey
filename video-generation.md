@@ -13,6 +13,14 @@
 
 <!-- Added on 2026-04-29 -->
 
+<!-- Added on 2026-04-30 -->
+
+[arxiv 2026.04] CurEvo: Curriculum-Guided Self-Evolution for Video Understanding  [[PDF](https://arxiv.org/abs/2604.26707)]
+
+[arxiv 2026.04] DenseStep2M: A Scalable, Training-Free Pipeline for Dense Instructional Video Annotation  [[PDF](https://arxiv.org/abs/2604.26565)]
+
+[arxiv 2026.04] $\text{PKS}^4$:Parallel Kinematic Selective State Space Scanners for Efficient Video Understanding  [[PDF](https://arxiv.org/abs/2604.26461)]
+
 [arxiv 2026.04] A Systematic Post-Train Framework for Video Generation  [[PDF](https://arxiv.org/abs/2604.25427)]
 
 [arxiv 2026.04] FCMBench-Video: Benchmarking Document Video Intelligence  [[PDF](https://arxiv.org/abs/2604.25186)]

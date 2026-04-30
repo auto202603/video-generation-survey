@@ -10,6 +10,12 @@
 
 <!-- Added on 2026-04-29 -->
 
+<!-- Added on 2026-04-30 -->
+
+[arxiv 2026.04] Color-Encoded Illumination for High-Speed Volumetric Scene Reconstruction  [[PDF](https://arxiv.org/abs/2604.26920)]
+
+[arxiv 2026.04] SnapPose3D: Diffusion-Based Single-Frame 2D-to-3D Lifting of Human Poses  [[PDF](https://arxiv.org/abs/2604.26620)]
+
 [arxiv 2026.04] HuM-Eval: A Coarse-to-Fine Framework for Human-Centric Video Evaluation  [[PDF](https://arxiv.org/abs/2604.25361)]
 
 [arxiv 2026.04] IAM: Identity-Aware Human Motion and Shape Joint Generation  [[PDF](https://arxiv.org/abs/2604.25164)]

@@ -10,6 +10,24 @@
 
 <!-- Added on 2026-04-29 -->
 
+<!-- Added on 2026-04-30 -->
+
+[arxiv 2026.04] Three-Step Nav: A Hierarchical Global-Local Planner for Zero-Shot Vision-and-Language Navigation  [[PDF](https://arxiv.org/abs/2604.26946),[Page](https://github.com/ZoeyZheng0/3-step-Nav)]
+
+[arxiv 2026.04] World2VLM: Distilling World Model Imagination into VLMs for Dynamic Spatial Reasoning  [[PDF](https://arxiv.org/abs/2604.26934),[Page](https://github.com/WanyueZhang-ai/World2VLM)]
+
+[arxiv 2026.04] State Beyond Appearance: Diagnosing and Improving State Consistency in Dial-Based Measurement Reading  [[PDF](https://arxiv.org/abs/2604.26614)]
+
+[arxiv 2026.04] A Multistage Extraction Pipeline for Long Scanned Financial Documents: An Empirical Study in Industrial KYC Workflows  [[PDF](https://arxiv.org/abs/2604.26462)]
+
+[arxiv 2026.04] SpatialFusion: Endowing Unified Image Generation with Intrinsic 3D Geometric Awareness  [[PDF](https://arxiv.org/abs/2604.26341)]
+
+[arxiv 2026.04] Multiple Consistent 2D-3D Mappings for Robust Zero-Shot 3D Visual Grounding  [[PDF](https://arxiv.org/abs/2604.26261)]
+
+[arxiv 2026.04] Beyond Shortcuts: Mitigating Visual Illusions in Frozen VLMs via Qualitative Reasoning  [[PDF](https://arxiv.org/abs/2604.26250)]
+
+[arxiv 2026.04] Progressive Semantic Communication for Efficient Edge-Cloud Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.26508)]
+
 [arxiv 2026.04] SIEVES: Selective Prediction Generalizes through Visual Evidence Scoring  [[PDF](https://arxiv.org/abs/2604.25855)]
 
 [arxiv 2026.04] Instruction-Evidence Contrastive Dual-Stream Decoding for Grounded Vision-Language Reasoning  [[PDF](https://arxiv.org/abs/2604.25809)]

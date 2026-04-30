@@ -10,6 +10,26 @@
 
 <!-- Added on 2026-04-29 -->
 
+<!-- Added on 2026-04-30 -->
+
+[arxiv 2026.04] SEAL: Semantic-aware Single-image Sticker Personalization with a Large-scale Sticker-tag Dataset  [[PDF](https://arxiv.org/abs/2604.26883),[Page](https://cmlab-korea.github.io/SEAL)]
+
+[arxiv 2026.04] MesonGS++: Post-training Compression of 3D Gaussian Splatting with Hyperparameter Searching  [[PDF](https://arxiv.org/abs/2604.26799),[Page](https://github.com/mmlab-sigs/mesongs_plus)]
+
+[arxiv 2026.04] 3D-LENS: A 3D Lifting-based Elevated Novel-view Synthesis method for Single-View Aerial-Ground Re-Identification  [[PDF](https://arxiv.org/abs/2604.26520)]
+
+[arxiv 2026.04] Beyond Fixed Formulas: Data-Driven Linear Predictor for Efficient Diffusion Models  [[PDF](https://arxiv.org/abs/2604.26365)]
+
+[arxiv 2026.04] ACPO: Anchor-Constrained Perceptual Optimization for Diffusion Models with No-Reference Quality Guidance  [[PDF](https://arxiv.org/abs/2604.26348)]
+
+[arxiv 2026.04] Semantic Foam: Unifying Spatial and Semantic Scene Decomposition  [[PDF](https://arxiv.org/abs/2604.26262),[Page](http://semanticfoam.github.io/)]
+
+[arxiv 2026.04] MetaSR: Content-Adaptive Metadata Orchestration for Generative Super-Resolution  [[PDF](https://arxiv.org/abs/2604.26244)]
+
+[arxiv 2026.04] EnerGS: Energy-Based Gaussian Splatting with Partial Geometric Priors  [[PDF](https://arxiv.org/abs/2604.26238)]
+
+[arxiv 2026.04] Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising  [[PDF](https://arxiv.org/abs/2604.26694),[Page](https://sharinka0715.github.io/X-WAM/)]
+
 [arxiv 2026.04] Refinement via Regeneration: Enlarging Modification Space Boosts Image Refinement in Unified Multimodal Models  [[PDF](https://arxiv.org/abs/2604.25636),[Page](https://github.com/LeapLabTHU/RvR)]
 
 [arxiv 2026.04] DDA-Thinker: Decoupled Dual-Atomic Reinforcement Learning for Reasoning-Driven Image Editing  [[PDF](https://arxiv.org/abs/2604.25477)]
