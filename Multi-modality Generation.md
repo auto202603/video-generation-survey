@@ -12,6 +12,46 @@
 
 <!-- Added on 2026-04-30 -->
 
+<!-- Added on 2026-05-01 -->
+
+[arxiv 2026.04] AEGIS: A Holistic Benchmark for Evaluating Forensic Analysis of AI-Generated Academic Images  [[PDF](https://arxiv.org/abs/2604.28177)]
+
+[arxiv 2026.04] PhyCo: Learning Controllable Physical Priors for Generative Motion  [[PDF](https://arxiv.org/abs/2604.28169),[Page](https://phyco-video.github.io/)]
+
+[arxiv 2026.04] PRISM: Pre-alignment via Black-box On-policy Distillation for Multimodal Reinforcement Learning  [[PDF](https://arxiv.org/abs/2604.28123)]
+
+[arxiv 2026.04] TransVLM: A Vision-Language Framework and Benchmark for Detecting Any Shot Transitions  [[PDF](https://arxiv.org/abs/2604.27975),[Page](https://www.heygen.com/research)]
+
+[arxiv 2026.04] FineState-Bench: Benchmarking State-Conditioned Grounding for Fine-grained GUI State Setting  [[PDF](https://arxiv.org/abs/2604.27974)]
+
+[arxiv 2026.04] Dynamic Cluster Data Sampling for Efficient and Long-Tail-Aware Vision-Language Pre-training  [[PDF](https://arxiv.org/abs/2604.27932)]
+
+[arxiv 2026.04] Improving Calibration in Test-Time Prompt Tuning for Vision-Language Models via Data-Free Flatness-Aware Prompt Pretraining  [[PDF](https://arxiv.org/abs/2604.27715)]
+
+[arxiv 2026.04] Linguistically Informed Multimodal Fusion for Vietnamese Scene-Text Image Captioning: Dataset, Graph Framework, and Phonological Attention  [[PDF](https://arxiv.org/abs/2604.27712)]
+
+[arxiv 2026.04] Decoding Scientific Experimental Images: The SPUR Benchmark for Perception, Understanding, and Reasoning  [[PDF](https://arxiv.org/abs/2604.27604)]
+
+[arxiv 2026.04] Revealing the Impact of Visual Text Style on Attribute-based Descriptions Produced by Large Visual Language Models  [[PDF](https://arxiv.org/abs/2604.27553),[Page](https://github.com/XiaomengWang-AI/The-Impact-of-Visual-Text-style-on-Attribute-based-Descriptions-Produced-by-LVLMs)]
+
+[arxiv 2026.04] EdgeFM: Efficient Edge Inference for Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.27476)]
+
+[arxiv 2026.04] COHERENCE: Benchmarking Fine-Grained Image-Text Alignment in Interleaved Multimodal Contexts  [[PDF](https://arxiv.org/abs/2604.27389)]
+
+[arxiv 2026.04] VeraRetouch: A Lightweight Fully Differentiable Framework for Multi-Task Reasoning Photo Retouching  [[PDF](https://arxiv.org/abs/2604.27375)]
+
+[arxiv 2026.04] CasLayout: Cascaded 3D Layout Diffusion for Indoor Scene Synthesis with Implicit Relation Modeling  [[PDF](https://arxiv.org/abs/2604.27361),[Page](https://github.com/YingruiWoo/CasLayout)]
+
+[arxiv 2026.04] Lightweight Distillation of SAM 3 and DINOv3 for Edge-Deployable Individual-Level Livestock Monitoring and Longitudinal Visual Analytics  [[PDF](https://arxiv.org/abs/2604.27128)]
+
+[arxiv 2026.04] InterPartAbility: Text-Guided Part Matching for Interpretable Person Re-Identification  [[PDF](https://arxiv.org/abs/2604.27122)]
+
+[arxiv 2026.04] Automated Detection of Mutual Gaze and Joint Attention in Dual-Camera Settings via Dual-Stream Transformers  [[PDF](https://arxiv.org/abs/2604.27105)]
+
+[arxiv 2026.04] FreeOcc: Training-Free Embodied Open-Vocabulary Occupancy Prediction  [[PDF](https://arxiv.org/abs/2604.28115)]
+
+[arxiv 2026.04] The Effects of Visual Priming on Cooperative Behavior in Vision-Language Models  [[PDF](https://arxiv.org/abs/2604.27953)]
+
 [arxiv 2026.04] Three-Step Nav: A Hierarchical Global-Local Planner for Zero-Shot Vision-and-Language Navigation  [[PDF](https://arxiv.org/abs/2604.26946),[Page](https://github.com/ZoeyZheng0/3-step-Nav)]
 
 [arxiv 2026.04] World2VLM: Distilling World Model Imagination into VLMs for Dynamic Spatial Reasoning  [[PDF](https://arxiv.org/abs/2604.26934),[Page](https://github.com/WanyueZhang-ai/World2VLM)]

@@ -12,6 +12,30 @@
 
 <!-- Added on 2026-04-30 -->
 
+<!-- Added on 2026-05-01 -->
+
+[arxiv 2026.04] Generalizable Sparse-View 3D Reconstruction from Unconstrained Images  [[PDF](https://arxiv.org/abs/2604.28193),[Page](https://genwildsplat.github.io/)]
+
+[arxiv 2026.04] Faster 3D Gaussian Splatting Convergence via Structure-Aware Densification  [[PDF](https://arxiv.org/abs/2604.28016)]
+
+[arxiv 2026.04] TripVVT: A Large-Scale Triplet Dataset and a Coarse-Mask Baseline for In-the-Wild Video Virtual Try-On  [[PDF](https://arxiv.org/abs/2604.27958)]
+
+[arxiv 2026.04] Machine Unlearning for Class Removal through SISA-based Deep Neural Network Architectures  [[PDF](https://arxiv.org/abs/2604.27804)]
+
+[arxiv 2026.04] RayFormer: Modeling Inter- and Intra-Ray Similarity for NeRF-Based Video Snapshot Compressive Imaging  [[PDF](https://arxiv.org/abs/2604.27702)]
+
+[arxiv 2026.04] Fake3DGS: A Benchmark for 3D Manipulation Detection in Neural Rendering  [[PDF](https://arxiv.org/abs/2604.27590),[Page](https://github.com/iot-unimore/Fake3DGS)]
+
+[arxiv 2026.04] Leveraging Verifier-Based Reinforcement Learning in Image Editing  [[PDF](https://arxiv.org/abs/2604.27505)]
+
+[arxiv 2026.04] Softmax-GS: Generalized Gaussians Learning When to Blend or Bound  [[PDF](https://arxiv.org/abs/2604.27437)]
+
+[arxiv 2026.04] Sparse-View 3D Gaussian Splatting in the Wild  [[PDF](https://arxiv.org/abs/2604.27422)]
+
+[arxiv 2026.04] YOSE: You Only Select Essential Tokens for Efficient DiT-based Video Object Removal  [[PDF](https://arxiv.org/abs/2604.27322)]
+
+[arxiv 2026.04] Spectral Dynamic Attention Network for Hyperspectral Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.27326)]
+
 [arxiv 2026.04] SEAL: Semantic-aware Single-image Sticker Personalization with a Large-scale Sticker-tag Dataset  [[PDF](https://arxiv.org/abs/2604.26883),[Page](https://cmlab-korea.github.io/SEAL)]
 
 [arxiv 2026.04] MesonGS++: Post-training Compression of 3D Gaussian Splatting with Hyperparameter Searching  [[PDF](https://arxiv.org/abs/2604.26799),[Page](https://github.com/mmlab-sigs/mesongs_plus)]

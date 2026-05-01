@@ -12,6 +12,18 @@
 
 <!-- Added on 2026-04-30 -->
 
+<!-- Added on 2026-05-01 -->
+
+[arxiv 2026.04] Action Motifs: Self-Supervised Hierarchical Representation of Human Body Movements  [[PDF](https://arxiv.org/abs/2604.28173)]
+
+[arxiv 2026.04] MoCapAnything V2: End-to-End Motion Capture for Arbitrary Skeletons  [[PDF](https://arxiv.org/abs/2604.28130),[Page](https://animotionlab.github.io/MoCapAnythingV2/)]
+
+[arxiv 2026.04] ResiHMR: Residual-Limb Aware Single-Image 3D Human Mesh Recovery for Individuals with Limb Loss  [[PDF](https://arxiv.org/abs/2604.28025),[Page](https://akitaraphael.github.io/ResiHMR/)]
+
+[arxiv 2026.04] Uni-HOI:A Unified framework for Learning the Joint distribution of Text and Human-Object Interaction  [[PDF](https://arxiv.org/abs/2604.27491)]
+
+[arxiv 2026.04] OmniRobotHome: A Multi-Camera Platform for Real-Time Multiadic Human-Robot Interaction  [[PDF](https://arxiv.org/abs/2604.28197),[Page](https://junc0ng.github.io/omnirobothome)]
+
 [arxiv 2026.04] Color-Encoded Illumination for High-Speed Volumetric Scene Reconstruction  [[PDF](https://arxiv.org/abs/2604.26920)]
 
 [arxiv 2026.04] SnapPose3D: Diffusion-Based Single-Frame 2D-to-3D Lifting of Human Poses  [[PDF](https://arxiv.org/abs/2604.26620)]
