@@ -1,4 +1,5 @@
 # Video Generation Survey
+<!-- Added on 2026-05-04 -->
 <!-- Added on 2026-04-23 -->
 <!-- Added on 2026-04-21 -->
 <!-- Added on 2026-04-20 -->
@@ -6,7 +7,6 @@
 <!-- Added on 2026-04-16 -->
 <!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-14 -->
-<!-- Added on 2026-05-04 -->
 
 [arxiv 2026.05] UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors  [[PDF](https://arxiv.org/abs/2605.00658),[Page](https://houyuanchen111.github.io/UniVidX.github.io/)]
 
