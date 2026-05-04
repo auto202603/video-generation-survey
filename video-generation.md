@@ -6,6 +6,13 @@
 <!-- Added on 2026-04-16 -->
 <!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-14 -->
+<!-- Added on 2026-05-04 -->
+
+[arxiv 2026.05] UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors  [[PDF](https://arxiv.org/abs/2605.00658),[Page](https://houyuanchen111.github.io/UniVidX.github.io/)]
+
+[arxiv 2026.05] Scaling Video Understanding via Compact Latent Multi-Agent Collaboration  [[PDF](https://arxiv.org/abs/2605.00444)]
+
+[arxiv 2026.05] World Model for Robot Learning: A Comprehensive Survey  [[PDF](https://arxiv.org/abs/2605.00080)]
 
 <!-- Added on 2026-04-24 -->
 

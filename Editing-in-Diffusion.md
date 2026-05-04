@@ -3,6 +3,33 @@
 <!-- Added on 2026-04-20 -->
 <!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-14 -->
+<!-- Added on 2026-05-04 -->
+
+[arxiv 2026.05] PhysEdit: Physically-Consistent Region-Aware Image Editing via Adaptive Spatio-Temporal Reasoning  [[PDF](https://arxiv.org/abs/2605.00707)]
+
+[arxiv 2026.05] InpaintSLat: Inpainting Structured 3D Latents via Initial Noise Optimization  [[PDF](https://arxiv.org/abs/2605.00664),[Page](https://robot0321.github.io/InpaintSLat/index.html)]
+
+[arxiv 2026.05] BlenderRAG: High-Fidelity 3D Object Generation via Retrieval-Augmented Code Synthesis  [[PDF](https://arxiv.org/abs/2605.00632)]
+
+[arxiv 2026.05] 2D-SuGaR: Surface-Aware Gaussian Splatting for Geometrically Accurate Mesh Reconstruction  [[PDF](https://arxiv.org/abs/2605.00569)]
+
+[arxiv 2026.05] Colorful-Noise: Training-Free Low-Frequency Noise Manipulation for Color-Based Conditional Image Generation  [[PDF](https://arxiv.org/abs/2605.00548),[Page](https://nadavc220.github.io/colorful-noise/)]
+
+[arxiv 2026.05] IdentiFace: Multi-Modal Iterative Diffusion Framework for Identifiable Suspect Face Generation in Crime Investigations  [[PDF](https://arxiv.org/abs/2605.00526)]
+
+[arxiv 2026.05] End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer  [[PDF](https://arxiv.org/abs/2605.00503)]
+
+[arxiv 2026.05] GOR-IS: 3D Gaussian Object Removal in the Intrinsic Space  [[PDF](https://arxiv.org/abs/2605.00498)]
+
+[arxiv 2026.05] Beyond Heuristics: Learnable Density Control for 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2605.00408)]
+
+[arxiv 2026.05] Pose-Aware Diffusion for 3D Generation  [[PDF](https://arxiv.org/abs/2605.00345)]
+
+[arxiv 2026.05] When Do Diffusion Models learn to Generate Multiple Objects?  [[PDF](https://arxiv.org/abs/2605.00273)]
+
+[arxiv 2026.05] VkSplat: High-Performance 3DGS Training in Vulkan Compute  [[PDF](https://arxiv.org/abs/2605.00219)]
+
+[arxiv 2026.05] FieryGS: In-the-Wild Fire Synthesis with Physics-Integrated Gaussian Splatting  [[PDF](https://arxiv.org/abs/2605.00177)]
 
 <!-- Added on 2026-04-24 -->
 

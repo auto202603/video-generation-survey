@@ -3,6 +3,27 @@
 <!-- Added on 2026-04-20 -->
 <!-- Added on 2026-04-10 -->
 <!-- Added on 2026-04-14 -->
+<!-- Added on 2026-05-04 -->
+
+[arxiv 2026.05] Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs  [[PDF](https://arxiv.org/abs/2605.00814)]
+
+[arxiv 2026.05] Let ViT Speak: Generative Language-Image Pre-training  [[PDF](https://arxiv.org/abs/2605.00809)]
+
+[arxiv 2026.05] Make Your LVLM KV Cache More Lightweight  [[PDF](https://arxiv.org/abs/2605.00789)]
+
+[arxiv 2026.05] Intrinsic Gradient Suppression for Label-Noise Prompt Tuning in Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.00591)]
+
+[arxiv 2026.05] Jailbreaking Vision-Language Models Through the Visual Modality  [[PDF](https://arxiv.org/abs/2605.00583)]
+
+[arxiv 2026.05] Leveraging Vision-Language Models as Weak Annotators in Active Learning  [[PDF](https://arxiv.org/abs/2605.00480)]
+
+[arxiv 2026.05] RTPrune: Reading-Twice Inspired Token Pruning for Efficient DeepSeek-OCR Inference  [[PDF](https://arxiv.org/abs/2605.00392)]
+
+[arxiv 2026.05] Online Self-Calibration Against Hallucination in Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.00323)]
+
+[arxiv 2026.05] MMAudio-LABEL: Audio Event Labeling via Audio Generation for Silent Video  [[PDF](https://arxiv.org/abs/2605.00495)]
+
+[arxiv 2026.05] Prompt-Induced Score Variance in Zero-Shot Binary Vision-Language Safety Classification  [[PDF](https://arxiv.org/abs/2605.00326)]
 
 <!-- Added on 2026-04-24 -->
 

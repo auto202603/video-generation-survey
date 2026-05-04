@@ -3,6 +3,11 @@
 <!-- Added on 2026-04-20 -->
 <!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-14 -->
+<!-- Added on 2026-05-04 -->
+
+[arxiv 2026.05] PhysiGen: Integrating Collision-Aware Physical Constraints for High-Fidelity Human-Human Interaction Generation  [[PDF](https://arxiv.org/abs/2605.00517)]
+
+[arxiv 2026.05] MAEPose: Self-Supervised Spatiotemporal Learning for Human Pose Estimation on mmWave Video  [[PDF](https://arxiv.org/abs/2605.00242)]
 
 <!-- Added on 2026-04-24 -->
 
