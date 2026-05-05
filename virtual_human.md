@@ -4,6 +4,17 @@
 <!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-14 -->
 <!-- Added on 2026-05-04 -->
+<!-- Added on 2026-05-05 -->
+
+[arxiv 2026.05] HumanSplatHMR: Closing the Loop Between Human Mesh Recovery and Gaussian Splatting Avatar  [[PDF](https://arxiv.org/abs/2605.02784)]
+
+[arxiv 2026.05] BadmintonGRF: A Multimodal Dataset and Benchmark for Markerless Ground Reaction Force Estimation in Badminton  [[PDF](https://arxiv.org/abs/2605.01876)]
+
+[arxiv 2026.05] High-Fidelity Mobile Avatars with Pruned Local Blendshapes  [[PDF](https://arxiv.org/abs/2605.01854),[Page](https://gapszju.github.io/webavatar/)]
+
+[arxiv 2026.05] TT4D: A Pipeline and Dataset for Table Tennis 4D Reconstruction From Monocular Videos  [[PDF](https://arxiv.org/abs/2605.01234)]
+
+[arxiv 2026.05] InterPhys: Physics-aware Human Motion Synthesis in a Dynamic Scene  [[PDF](https://arxiv.org/abs/2605.01036)]
 
 [arxiv 2026.05] PhysiGen: Integrating Collision-Aware Physical Constraints for High-Fidelity Human-Human Interaction Generation  [[PDF](https://arxiv.org/abs/2605.00517)]
 

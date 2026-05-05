@@ -4,6 +4,63 @@
 <!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-14 -->
 <!-- Added on 2026-05-04 -->
+<!-- Added on 2026-05-05 -->
+
+[arxiv 2026.05] Edge-Efficient Image Restoration: Transformer Distillation into State-Space Models  [[PDF](https://arxiv.org/abs/2605.02794)]
+
+[arxiv 2026.05] Linearizing Vision Transformer with Test-Time Training  [[PDF](https://arxiv.org/abs/2605.02772)]
+
+[arxiv 2026.05] TOC-SR: Task-Optimal Compact diffusion for Image Super Resolution  [[PDF](https://arxiv.org/abs/2605.02767)]
+
+[arxiv 2026.05] SIAM: Head and Brain MRI Segmentation from Few High-Quality Templates via Synthetic Training  [[PDF](https://arxiv.org/abs/2605.02737)]
+
+[arxiv 2026.05] Rethinking Low-Light Image Enhancement: A Log-Domain Intensity--Chromaticity Decoupling Perspective  [[PDF](https://arxiv.org/abs/2605.02627)]
+
+[arxiv 2026.05] Stylistic Attribute Control in Latent Diffusion Models  [[PDF](https://arxiv.org/abs/2605.02583)]
+
+[arxiv 2026.05] Self-Supervised Spatial And Zero-Shot Angular Super-Resolution by Spatial-Angular Implicit Representation For Rotating-View SNR-Efficient Diffusion MRI  [[PDF](https://arxiv.org/abs/2605.02575)]
+
+[arxiv 2026.05] MooD: An Efficient VA-Driven Affective Image Editing Framework via Fine-Grained Semantic Control  [[PDF](https://arxiv.org/abs/2605.02521)]
+
+[arxiv 2026.05] Multispectral Blind Image Super-Resolution for Standing Dead Tree Segmentation  [[PDF](https://arxiv.org/abs/2605.02471)]
+
+[arxiv 2026.05] Anomaly-Preference Image Generation  [[PDF](https://arxiv.org/abs/2605.02439)]
+
+[arxiv 2026.05] DirectEdit: Step-Level Accurate Inversion for Flow-Based Image Editing  [[PDF](https://arxiv.org/abs/2605.02417),[Page](https://desongyang.github.io/Directedit/)]
+
+[arxiv 2026.05] A Hybrid Approach for Closing the Sim2real Appearance Gap in Game Engine Synthetic Datasets  [[PDF](https://arxiv.org/abs/2605.02291)]
+
+[arxiv 2026.05] LabBuilder: Protocol-Grounded 3D Layout Generation for Interactable and Safe Laboratory  [[PDF](https://arxiv.org/abs/2605.02288)]
+
+[arxiv 2026.05] NTIRE 2026 Challenge on Efficient Low Light Image Enhancement: Methods and Results  [[PDF](https://arxiv.org/abs/2605.02212)]
+
+[arxiv 2026.05] SpecEdit: Training-Free Acceleration for Diffusion based Image Editing via Semantic Locking  [[PDF](https://arxiv.org/abs/2605.02152)]
+
+[arxiv 2026.05] From Concept to Capability: Evaluating 3D Gaussian Splatting for Synthetic Scene Editing in Autonomous Driving  [[PDF](https://arxiv.org/abs/2605.01995)]
+
+[arxiv 2026.05] MOC-3D: Manifold-Order Consistency for Text-to-3D Generation  [[PDF](https://arxiv.org/abs/2605.01743)]
+
+[arxiv 2026.05] Multi-Scale Gaussian-Language Map for Zero-shot Embodied Navigation and Reasoning  [[PDF](https://arxiv.org/abs/2605.01736)]
+
+[arxiv 2026.05] SteeringDiffusion: A Bottlenecked Activation Control Interface for Diffusion Models  [[PDF](https://arxiv.org/abs/2605.01653)]
+
+[arxiv 2026.05] Unifying Deep Stochastic Processes for Image Enhancement  [[PDF](https://arxiv.org/abs/2605.01568)]
+
+[arxiv 2026.05] SwiftPie: Lightning-fast Subject-driven Image Personalization via One step Diffusion  [[PDF](https://arxiv.org/abs/2605.01510)]
+
+[arxiv 2026.05] AttnRouter: Per-Category Attention Routing for Training-Free Image Editing on MMDiT  [[PDF](https://arxiv.org/abs/2605.01480)]
+
+[arxiv 2026.05] SplAttN: Bridging 2D and 3D with Gaussian Soft Splatting and Attention for Point Cloud Completion  [[PDF](https://arxiv.org/abs/2605.01466)]
+
+[arxiv 2026.05] SRGAN-CKAN: Expressive Super-Resolution with Nonlinear Functional Operators under Minimal Resources  [[PDF](https://arxiv.org/abs/2605.01459)]
+
+[arxiv 2026.05] Degradation-Aware Adaptive Context Gating for Unified Image Restoration  [[PDF](https://arxiv.org/abs/2605.01236)]
+
+[arxiv 2026.05] ScribbleEdit: Synthetic Data for Image Editing with Scribbles and Text  [[PDF](https://arxiv.org/abs/2605.01135)]
+
+[arxiv 2026.05] RA-CMF: Region-Adaptive Conditional MeanFlow for CT Image Reconstruction  [[PDF](https://arxiv.org/abs/2605.00901)]
+
+[arxiv 2026.05] Multi-Branch Non-Homogeneous Image Dehazing via Concentration Partitioning and Image Fusion  [[PDF](https://arxiv.org/abs/2605.00885)]
 
 [arxiv 2026.05] PhysEdit: Physically-Consistent Region-Aware Image Editing via Adaptive Spatio-Temporal Reasoning  [[PDF](https://arxiv.org/abs/2605.00707)]
 

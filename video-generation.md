@@ -7,6 +7,21 @@
 <!-- Added on 2026-04-16 -->
 <!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-14 -->
+<!-- Added on 2026-05-05 -->
+
+[arxiv 2026.05] Video Generation with Predictive Latents  [[PDF](https://arxiv.org/abs/2605.02134)]
+
+[arxiv 2026.05] Decouple and Cache: KV Cache Construction for Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2605.01858)]
+
+[arxiv 2026.05] Embody4D: A Generalist 4D World Model for Embodied AI  [[PDF](https://arxiv.org/abs/2605.01799)]
+
+[arxiv 2026.05] TrajShield: Trajectory-Level Safety Mediation for Defending Text-to-Video Models Against Jailbreak Attacks  [[PDF](https://arxiv.org/abs/2605.01761)]
+
+[arxiv 2026.05] Motion-Aware Caching for Efficient Autoregressive Video Generation  [[PDF](https://arxiv.org/abs/2605.01725)]
+
+[arxiv 2026.05] Video Active Perception: Effective Inference-Time Long-Form Video Understanding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.01662)]
+
+[arxiv 2026.05] SF20K Competition 2025: Summary and findings  [[PDF](https://arxiv.org/abs/2605.01496)]
 
 [arxiv 2026.05] UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors  [[PDF](https://arxiv.org/abs/2605.00658),[Page](https://houyuanchen111.github.io/UniVidX.github.io/)]
 

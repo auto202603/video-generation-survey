@@ -4,6 +4,75 @@
 <!-- Added on 2026-04-10 -->
 <!-- Added on 2026-04-14 -->
 <!-- Added on 2026-05-04 -->
+<!-- Added on 2026-05-05 -->
+
+[arxiv 2026.05] AlbumFill: Album-Guided Reasoning and Retrieval for Personalized Image Completion  [[PDF](https://arxiv.org/abs/2605.02892),[Page](https://liagm.github.io/AlbumFill/)]
+
+[arxiv 2026.05] VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition  [[PDF](https://arxiv.org/abs/2605.02834),[Page](https://tanu.sh/videonet)]
+
+[arxiv 2026.05] Perceptual Flow Network for Visually Grounded Reasoning  [[PDF](https://arxiv.org/abs/2605.02730)]
+
+[arxiv 2026.05] PubMed-Ophtha: An open resource for training ophthalmology vision-language models on scientific literature  [[PDF](https://arxiv.org/abs/2605.02720),[Page](https://huggingface.co/datasets/pubmed-ophtha/PubMed-Ophtha)]
+
+[arxiv 2026.05] Mamoda2.5: Enhancing Unified Multimodal Model with DiT-MoE  [[PDF](https://arxiv.org/abs/2605.02641)]
+
+[arxiv 2026.05] AutoFocus: Uncertainty-Aware Active Visual Search for GUI Grounding  [[PDF](https://arxiv.org/abs/2605.02630)]
+
+[arxiv 2026.05] Retrieving Any Relevant Moments: Benchmark and Models for Generalized Moment Retrieval  [[PDF](https://arxiv.org/abs/2605.02623),[Page](https://github.com/dymm9977/generalized-moment-retrieval)]
+
+[arxiv 2026.05] Rethinking the Need for Source Models: Source-Free Domain Adaptation from Scratch Guided by a Vision-Language Model  [[PDF](https://arxiv.org/abs/2605.02604)]
+
+[arxiv 2026.05] Enhancing Multimodal In-Context Learning via Inductive-Deductive Reasoning  [[PDF](https://arxiv.org/abs/2605.02378)]
+
+[arxiv 2026.05] Metric Unreliability in Multimodal Machine Unlearning: A Systematic Analysis and Principled Unified Score  [[PDF](https://arxiv.org/abs/2605.02206)]
+
+[arxiv 2026.05] From Where Things Are to What They Are For: Benchmarking Spatial-Functional Intelligence in Multimodal LLMs  [[PDF](https://arxiv.org/abs/2605.02130)]
+
+[arxiv 2026.05] CADFS: A Big CAD Program Dataset and Framework for Computer-Aided Design with Large Language Models  [[PDF](https://arxiv.org/abs/2605.01925)]
+
+[arxiv 2026.05] Chart-FR1: Visual Focus-Driven Fine-Grained Reasoning on Dense Charts  [[PDF](https://arxiv.org/abs/2605.01882)]
+
+[arxiv 2026.05] Referring Multiple Regions with Large Multimodal Models via Contextual Latent Steering  [[PDF](https://arxiv.org/abs/2605.01827)]
+
+[arxiv 2026.05] GEASS: Training-Free Caption Steering for Hallucination Mitigation in Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.01733)]
+
+[arxiv 2026.05] TrajRAG: Retrieving Geometric-Semantic Experience for Zero-Shot Object Navigation  [[PDF](https://arxiv.org/abs/2605.01700)]
+
+[arxiv 2026.05] Act2See: Emergent Active Visual Perception for Video Reasoning  [[PDF](https://arxiv.org/abs/2605.01657)]
+
+[arxiv 2026.05] MIRL: Mutual Information-Guided Reinforcement Learning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.01520)]
+
+[arxiv 2026.05] OmniEncoder: See, Hear, and Feel Continuous Motion Like Humans With One Encoder  [[PDF](https://arxiv.org/abs/2605.01506)]
+
+[arxiv 2026.05] Research on Vision-Language Question Answering Models for Industrial Robots  [[PDF](https://arxiv.org/abs/2605.01483)]
+
+[arxiv 2026.05] VISTA: Video Interaction Spatio-Temporal Analysis Benchmark  [[PDF](https://arxiv.org/abs/2605.01391)]
+
+[arxiv 2026.05] VoxAfford: Multi-Scale Voxel-Token Fusion for Open-Vocabulary 3D Affordance Detection  [[PDF](https://arxiv.org/abs/2605.01365)]
+
+[arxiv 2026.05] Active Reasoning Vision-Language Models via Sequential Experimental Design  [[PDF](https://arxiv.org/abs/2605.01345)]
+
+[arxiv 2026.05] Rethinking Model Selection in VLM Through the Lens of Gromov-Wasserstein Distance  [[PDF](https://arxiv.org/abs/2605.01325)]
+
+[arxiv 2026.05] Beyond Perceptual Shortcuts: Causal-Inspired Debiasing Optimization for Generalizable Video Reasoning in Lightweight MLLMs  [[PDF](https://arxiv.org/abs/2605.01324)]
+
+[arxiv 2026.05] Chain of Evidence: Pixel-Level Visual Attribution for Iterative Retrieval-Augmented Generation  [[PDF](https://arxiv.org/abs/2605.01284)]
+
+[arxiv 2026.05] GameScope: A Multi-Attribute, Multi-Codec Benchmark Dataset for Gaming Video Quality Assessment  [[PDF](https://arxiv.org/abs/2605.01272)]
+
+[arxiv 2026.05] EmoMM: Benchmarking and Steering MLLM for Multimodal Emotion Recognition under Conflict and Missingness  [[PDF](https://arxiv.org/abs/2605.01024)]
+
+[arxiv 2026.05] Generalized Category Discovery under Domain Shifts: From Vision to Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.00906)]
+
+[arxiv 2026.05] X2SAM: Any Segmentation in Images and Videos  [[PDF](https://arxiv.org/abs/2605.00891)]
+
+[arxiv 2026.05] Mitigating Multimodal LLMs Hallucinations via Relevance Propagation at Inference Time  [[PDF](https://arxiv.org/abs/2605.01766)]
+
+[arxiv 2026.05] Injecting Distributional Awareness into MLLMs via Reinforcement Learning for Deep Imbalanced Regression  [[PDF](https://arxiv.org/abs/2605.01402)]
+
+[arxiv 2026.05] Multimodal Confidence Modeling in Audio-Visual Quality Assessment  [[PDF](https://arxiv.org/abs/2605.01219)]
+
+[arxiv 2026.05] OceanPile: A Large-Scale Multimodal Ocean Corpus for Foundation Models  [[PDF](https://arxiv.org/abs/2605.00877)]
 
 [arxiv 2026.05] Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs  [[PDF](https://arxiv.org/abs/2605.00814)]
 
