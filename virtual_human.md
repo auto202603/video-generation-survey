@@ -1,10 +1,15 @@
 ## Dataset
+<!-- Added on 2026-05-06 -->
 <!-- Added on 2026-04-21 -->
 <!-- Added on 2026-04-20 -->
 <!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-14 -->
 <!-- Added on 2026-05-04 -->
 <!-- Added on 2026-05-05 -->
+
+[arxiv 2026.05] 3D Human Face Reconstruction with 3DMM face model from RGB image  [[PDF](https://arxiv.org/abs/2605.03996)]
+
+[arxiv 2026.05] MHPR: Multidimensional Human Perception and Reasoning Benchmark for Large Vision-Languate Models  [[PDF](https://arxiv.org/abs/2605.03485)]
 
 [arxiv 2026.05] HumanSplatHMR: Closing the Loop Between Human Mesh Recovery and Gaussian Splatting Avatar  [[PDF](https://arxiv.org/abs/2605.02784)]
 

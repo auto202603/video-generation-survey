@@ -1,4 +1,5 @@
 # Video Generation Survey
+<!-- Added on 2026-05-06 -->
 <!-- Added on 2026-05-04 -->
 <!-- Added on 2026-04-23 -->
 <!-- Added on 2026-04-21 -->
@@ -8,6 +9,14 @@
 <!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-14 -->
 <!-- Added on 2026-05-05 -->
+
+[arxiv 2026.05] Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation  [[PDF](https://arxiv.org/abs/2605.03849)]
+
+[arxiv 2026.05] AniMatrix: An Anime Video Generation Model that Thinks in Art, Not Physics  [[PDF](https://arxiv.org/abs/2605.03652)]
+
+[arxiv 2026.05] VEBench:Benchmarking Large Multimodal Models for Real-World Video Editing  [[PDF](https://arxiv.org/abs/2605.03276)]
+
+[arxiv 2026.03] Video Generation Models as World Models: Efficient Paradigms, Architectures and Algorithms  [[PDF](https://arxiv.org/abs/2603.28489)]
 
 [arxiv 2026.05] Video Generation with Predictive Latents  [[PDF](https://arxiv.org/abs/2605.02134)]
 

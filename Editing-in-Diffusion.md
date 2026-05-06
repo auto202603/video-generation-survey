@@ -1,10 +1,37 @@
 # Image Editing In Diffusion 
+<!-- Added on 2026-05-06 -->
 <!-- Added on 2026-04-21 -->
 <!-- Added on 2026-04-20 -->
 <!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-14 -->
 <!-- Added on 2026-05-04 -->
 <!-- Added on 2026-05-05 -->
+
+[arxiv 2026.05] UniCorrn: Unified Correspondence Transformer Across 2D and 3D  [[PDF](https://arxiv.org/abs/2605.04044)]
+
+[arxiv 2026.05] Large Language Models are Universal Reasoners for Visual Generation  [[PDF](https://arxiv.org/abs/2605.04040)]
+
+[arxiv 2026.05] Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures  [[PDF](https://arxiv.org/abs/2605.04035),[Page](https://apple.github.io/ml-headsup/)]
+
+[arxiv 2026.05] Reservoir property image slices from the Groningen gas field for image translation and segmentation  [[PDF](https://arxiv.org/abs/2605.03942)]
+
+[arxiv 2026.05] Identity-Consistent Multi-Pose Generation of Contactless Fingerprints  [[PDF](https://arxiv.org/abs/2605.03830)]
+
+[arxiv 2026.05] FluxFlow: Conservative Flow-Matching for Astronomical Image Super-Resolution  [[PDF](https://arxiv.org/abs/2605.03749)]
+
+[arxiv 2026.05] Real Image Denoising with Knowledge Distillation for High-Performance Mobile NPUs  [[PDF](https://arxiv.org/abs/2605.03680)]
+
+[arxiv 2026.05] BFORE: Butterfly-Firefly Optimized Retinex Enhancement for Low-Light Image Quality Improvement  [[PDF](https://arxiv.org/abs/2605.03509)]
+
+[arxiv 2026.05] FreeTimeGS++: Secrets of Dynamic Gaussian Splatting and Their Principles  [[PDF](https://arxiv.org/abs/2605.03337)]
+
+[arxiv 2026.05] AHPA: Adaptive Hierarchical Prior Alignment for Diffusion Transformers  [[PDF](https://arxiv.org/abs/2605.03317)]
+
+[arxiv 2026.05] Memorization In Stable Diffusion Is Unexpectedly Driven by CLIP Embeddings  [[PDF](https://arxiv.org/abs/2605.02908),[Page](https://github.com/quasar529/sd-clip-mem)]
+
+[arxiv 2026.05] Robustness and Transferability of Pix2Geomodel for Bidirectional Facies Property Translation in a Complex Reservoir  [[PDF](https://arxiv.org/abs/2605.03919)]
+
+[arxiv 2026.05] Ortho-Hydra: Orthogonalized Experts for DiT LoRA  [[PDF](https://arxiv.org/abs/2605.03252)]
 
 [arxiv 2026.05] Edge-Efficient Image Restoration: Transformer Distillation into State-Space Models  [[PDF](https://arxiv.org/abs/2605.02794)]
 

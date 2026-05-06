@@ -1,3 +1,4 @@
+<!-- Added on 2026-05-06 -->
 <!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-21 -->
 <!-- Added on 2026-04-20 -->
@@ -5,6 +6,36 @@
 <!-- Added on 2026-04-14 -->
 <!-- Added on 2026-05-04 -->
 <!-- Added on 2026-05-05 -->
+
+[arxiv 2026.05] UnAC: Adaptive Visual Prompting with Abstraction and Stepwise Checking for Complex Multimodal Reasoning  [[PDF](https://arxiv.org/abs/2605.03950)]
+
+[arxiv 2026.05] StateVLM: A State-Aware Vision-Language Model for Robotic Affordance Reasoning  [[PDF](https://arxiv.org/abs/2605.03927)]
+
+[arxiv 2026.05] Enhancing Visual Question Answering with Multimodal LLMs via Chain-of-Question Guided Retrieval-Augmented Generation  [[PDF](https://arxiv.org/abs/2605.03790)]
+
+[arxiv 2026.05] Before Forgetting, Learn to Remember: Revisiting Foundational Learning Failures in LVLM Unlearning Benchmarks  [[PDF](https://arxiv.org/abs/2605.03759)]
+
+[arxiv 2026.05] The Detector Teaches Itself: Lightweight Self-Supervised Adaptation for Open-Vocabulary Object Detection  [[PDF](https://arxiv.org/abs/2605.03642),[Page](https://github.com/QM-IPAlab/DAT)]
+
+[arxiv 2026.05] Erase Persona, Forget Lore: Benchmarking Multimodal Copyright Unlearning in Large Vision Language Models  [[PDF](https://arxiv.org/abs/2605.03547)]
+
+[arxiv 2026.05] WorldJen: An End-to-End Multi-Dimensional Benchmark for Generative Video Models  [[PDF](https://arxiv.org/abs/2605.03475)]
+
+[arxiv 2026.05] VL-SAM-v3: Memory-Guided Visual Priors for Open-World Object Detection  [[PDF](https://arxiv.org/abs/2605.03456)]
+
+[arxiv 2026.05] GRPO-TTA: Test-Time Visual Tuning for Vision-Language Models via GRPO-Driven Reinforcement Learning  [[PDF](https://arxiv.org/abs/2605.03403)]
+
+[arxiv 2026.05] MASRA: MLLM-Assisted Semantic-Relational Consistent Alignment for Video Temporal Grounding  [[PDF](https://arxiv.org/abs/2605.03398)]
+
+[arxiv 2026.05] VLMaxxing through FrameMogging Training-Free Anti-Recomputation for Video Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.03351),[Page](https://github.com/jfbastien/VLMaxxing)]
+
+[arxiv 2026.05] CropVLM: A Domain-Adapted Vision-Language Model for Open-Set Crop Analysis  [[PDF](https://arxiv.org/abs/2605.03259)]
+
+[arxiv 2026.05] Reasoning-Guided Grounding: Elevating Video Anomaly Detection through Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2605.02912)]
+
+[arxiv 2026.05] Task-Aware Scanning Parameter Configuration for Robotic Inspection Using Vision Language Embeddings and Hyperdimensional Computing  [[PDF](https://arxiv.org/abs/2605.03909)]
+
+[arxiv 2026.05] Quantifying the human visual exposome with vision language models  [[PDF](https://arxiv.org/abs/2605.03863)]
 
 [arxiv 2026.05] AlbumFill: Album-Guided Reasoning and Retrieval for Personalized Image Completion  [[PDF](https://arxiv.org/abs/2605.02892),[Page](https://liagm.github.io/AlbumFill/)]
 
