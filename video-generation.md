@@ -1,4 +1,6 @@
 # Video Generation Survey
+<!-- Added on 2026-05-08 -->
+<!-- Added on 2026-05-07 -->
 <!-- Added on 2026-05-06 -->
 <!-- Added on 2026-05-04 -->
 <!-- Added on 2026-04-23 -->
@@ -9,6 +11,12 @@
 <!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-14 -->
 <!-- Added on 2026-05-05 -->
+
+[arxiv 2026.05] FaithfulFaces: Pose-Faithful Facial Identity Preservation for Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2605.04702)]
+
+[arxiv 2026.05] Lightning Unified Video Editing via In-Context Sparse Attention  [[PDF](https://arxiv.org/abs/2605.04569)]
+
+[arxiv 2026.05] Stream-T1: Test-Time Scaling for Streaming Video Generation  [[PDF](https://arxiv.org/abs/2605.04461)]
 
 [arxiv 2026.05] Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation  [[PDF](https://arxiv.org/abs/2605.03849)]
 
@@ -726,6 +734,18 @@ A reading list of video generation
 [arxiv 2026.04] Exploring Audio Hallucination in Egocentric Video Understanding  [[PDF](https://arxiv.org/abs/2604.23860)]
 
 [arxiv 2026.04] World-R1: Reinforcing 3D Constraints for Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2604.24764),[Page](https://aka.ms/world-r1)] ![Code](https://img.shields.io/github/stars/microsoft/World-R1?style=social&label=Star)
+
+[arxiv 2026.05] ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation  [[PDF](https://arxiv.org/abs/2605.06667)]
+
+[arxiv 2026.05] FreeSpec: Training-Free Long Video Generation via Singular-Spectrum Reconstruction  [[PDF](https://arxiv.org/abs/2605.06509)]
+
+[arxiv 2026.05] SwiftI2V: Efficient High-Resolution Image-to-Video Generation via Conditional Segment-wise Generation  [[PDF](https://arxiv.org/abs/2605.06356)]
+
+[arxiv 2026.05] RealCam: Real-Time Novel-View Video Generation with Interactive Camera Control  [[PDF](https://arxiv.org/abs/2605.06051)]
+
+[arxiv 2026.05] VideoRouter: Query-Adaptive Dual Routing for Efficient Long-Video Understanding  [[PDF](https://arxiv.org/abs/2605.05848)]
+
+[arxiv 2026.05] CFE-PPAR: Compression-friendly encryption for privacy-preserving action recognition leveraging video transformers  [[PDF](https://arxiv.org/abs/2605.05692)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

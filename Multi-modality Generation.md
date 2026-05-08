@@ -1,4 +1,4 @@
-<!-- Added on 2026-05-06 -->
+<!-- Added on 2026-05-08 -->
 <!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-21 -->
 <!-- Added on 2026-04-20 -->
@@ -6,6 +6,32 @@
 <!-- Added on 2026-04-14 -->
 <!-- Added on 2026-05-04 -->
 <!-- Added on 2026-05-05 -->
+
+[arxiv 2026.05] OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents  [[PDF](https://arxiv.org/abs/2605.05185),[Page](https://github.com/shawn0728/OpenSearch-VL)]
+
+[arxiv 2026.05] Direct Product Flow Matching: Decoupling Radial and Angular Dynamics for Few-Shot Adaptation  [[PDF](https://arxiv.org/abs/2605.05054)]
+
+[arxiv 2026.05] When Relations Break: Analyzing Relation Hallucination in Vision-Language Model Under Rotation and Noise  [[PDF](https://arxiv.org/abs/2605.05045)]
+
+[arxiv 2026.05] Prompt-Anchored Vision-Text Distillation for Lifelong Person Re-identification  [[PDF](https://arxiv.org/abs/2605.05027)]
+
+[arxiv 2026.05] VTAgent: Agentic Keyframe Anchoring for Evidence-Aware Video TextVQA  [[PDF](https://arxiv.org/abs/2605.04870)]
+
+[arxiv 2026.05] CAST: Mitigating Object Hallucination in Large Vision-Language Models via Caption-Guided Visual Attention Steering  [[PDF](https://arxiv.org/abs/2605.04641)]
+
+[arxiv 2026.05] Advancing Aesthetic Image Generation via Composition Transfer  [[PDF](https://arxiv.org/abs/2605.04609)]
+
+[arxiv 2026.05] Reward-Guided Semantic Evolution for Test-time Adaptive Object Detection  [[PDF](https://arxiv.org/abs/2605.04531)]
+
+[arxiv 2026.05] DiffCap-Bench: A Comprehensive, Challenging, Robust Benchmark for Image Difference Captioning  [[PDF](https://arxiv.org/abs/2605.04503)]
+
+[arxiv 2026.05] StableI2I: Spotting Unintended Changes in Image-to-Image Transition  [[PDF](https://arxiv.org/abs/2605.04453)]
+
+[arxiv 2026.05] Joint Semantic Token Selection and Prompt Optimization for Interpretable Prompt Learning  [[PDF](https://arxiv.org/abs/2605.04425)]
+
+[arxiv 2026.05] Hierarchical Visual Agent: Managing Contexts in Joint Image-Text Space for Advanced Chart Reasoning  [[PDF](https://arxiv.org/abs/2605.04304)]
+
+[arxiv 2026.05] Awaking Spatial Intelligence in Unified Multimodal Understanding and Generation  [[PDF](https://arxiv.org/abs/2605.04128)]
 
 [arxiv 2026.05] UnAC: Adaptive Visual Prompting with Abstraction and Stepwise Checking for Complex Multimodal Reasoning  [[PDF](https://arxiv.org/abs/2605.03950)]
 
@@ -1990,6 +2016,40 @@
 [arxiv 2026.04] Majorization-Guided Test-Time Adaptation for Vision-Language Models under Modality-Specific Shift  [[PDF](https://arxiv.org/abs/2604.24602)]
 
 [arxiv 2026.04] Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation  [[PDF](https://arxiv.org/abs/2604.24763),[Page](https://tuna-ai.org/tuna-2)]
+
+[arxiv 2026.05] GeoStack: A Framework for Quasi-Abelian Knowledge Composition in VLMs  [[PDF](https://arxiv.org/abs/2605.06477)]
+
+[arxiv 2026.05] Pest-Thinker: Learning to Think and Reason like Entomologists via Reinforcement Learning  [[PDF](https://arxiv.org/abs/2605.06121)]
+
+[arxiv 2026.05] Fusion in Your Way: Aligning Image Fusion with Heterogeneous Demands via Direct Preference Optimization  [[PDF](https://arxiv.org/abs/2605.06049)]
+
+[arxiv 2026.05] PlotPick: AI-powered batch extraction of numerical data from scientific figures  [[PDF](https://arxiv.org/abs/2605.06021),[Page](https://plotpick.streamlit.app)]
+
+[arxiv 2026.05] 4DThinker: Thinking with 4D Imagery for Dynamic Spatial Understanding  [[PDF](https://arxiv.org/abs/2605.05997)]
+
+[arxiv 2026.05] Think, then Score: Decoupled Reasoning and Scoring for Video Reward Modeling  [[PDF](https://arxiv.org/abs/2605.05922)]
+
+[arxiv 2026.05] Plug-and-play Class-aware Knowledge Injection for Prompt Learning with Visual-Language Model  [[PDF](https://arxiv.org/abs/2605.05910)]
+
+[arxiv 2026.05] Training-Free Dense Hand Contact Estimation with Multi-Modal Large Language Models  [[PDF](https://arxiv.org/abs/2605.05886),[Page](https://contactprompt-release.github.io/)]
+
+[arxiv 2026.05] Unifying Scientific Communication: Fine-Grained Correspondence Across Scientific Media  [[PDF](https://arxiv.org/abs/2605.05831)]
+
+[arxiv 2026.05] ChartZero: Synthetic Priors Enable Zero Shot Chart Data Extraction  [[PDF](https://arxiv.org/abs/2605.05820)]
+
+[arxiv 2026.05] X-OmniClaw Technical Report: A Unified Mobile Agent for Multimodal Understanding and Interaction  [[PDF](https://arxiv.org/abs/2605.05765)]
+
+[arxiv 2026.05] AffectSeek: Agentic Affective Understanding in Long Videos under Vague User Queries  [[PDF](https://arxiv.org/abs/2605.05640)]
+
+[arxiv 2026.05] GlazyBench: A Benchmark for Ceramic Glaze Property Prediction and Image Generation  [[PDF](https://arxiv.org/abs/2605.06641)]
+
+[arxiv 2026.05] Event-Causal RAG: A Retrieval-Augmented Generation Framework for Long Video Reasoning in Complex Scenarios  [[PDF](https://arxiv.org/abs/2605.06185)]
+
+[arxiv 2026.05] Uncovering Entity Identity Confusion in Multimodal Knowledge Editing  [[PDF](https://arxiv.org/abs/2605.06096)]
+
+[arxiv 2026.05] Towards Self-Explainable Document Visual Question Answering with Chain-of-Explanation Predictions  [[PDF](https://arxiv.org/abs/2605.06058)]
+
+[arxiv 2026.05] Large Vision-Language Models Get Lost in Attention  [[PDF](https://arxiv.org/abs/2605.05668)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

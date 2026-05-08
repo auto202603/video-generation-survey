@@ -7,6 +7,14 @@
 <!-- Added on 2026-05-04 -->
 <!-- Added on 2026-05-05 -->
 
+[arxiv 2026.05] Syn4D: A Multiview Synthetic 4D Dataset  [[PDF](https://arxiv.org/abs/2605.05207),[Page](https://jzr99.github.io/Syn4D/)]
+
+[arxiv 2026.05] Anny-Fit: All-Age Human Mesh Recovery  [[PDF](https://arxiv.org/abs/2605.04728),[Page](https://github.com/naver/anny-fit)]
+
+[arxiv 2026.05] InterMesh: Explicit Interaction-Aware End-to-End Multi-Person Human Mesh Recovery  [[PDF](https://arxiv.org/abs/2605.04554)]
+
+[arxiv 2026.05] High-Fidelity Single-Image Head Modeling with Industry-Grade Topology  [[PDF](https://arxiv.org/abs/2605.04524)]
+
 [arxiv 2026.05] 3D Human Face Reconstruction with 3DMM face model from RGB image  [[PDF](https://arxiv.org/abs/2605.03996)]
 
 [arxiv 2026.05] MHPR: Multidimensional Human Perception and Reasoning Benchmark for Large Vision-Languate Models  [[PDF](https://arxiv.org/abs/2605.03485)]
@@ -314,6 +322,20 @@
 [arxiv 2026.04] Geometry-Conditioned Diffusion for Occlusion-Robust In-Bed Pose Estimation  [[PDF](https://arxiv.org/abs/2604.23651)]
 
 [arxiv 2026.04] Unconstrained Multi-view Human Pose Estimation with Algebraic Priors  [[PDF](https://arxiv.org/abs/2604.24312)]
+
+[arxiv 2026.05] SuperFace: Preference-Aligned Facial Expression Estimation Beyond Pseudo Supervision  [[PDF](https://arxiv.org/abs/2605.06179)]
+
+[arxiv 2026.05] Jointly Learning Structured Representations and Stabilized Affinity for Human Motion Segmentation  [[PDF](https://arxiv.org/abs/2605.05753)]
+
+[arxiv 2026.05] EgoEMG: A Multimodal Egocentric Dataset with Bilateral EMG and Vision for Hand Pose Estimation  [[PDF](https://arxiv.org/abs/2605.05712)]
+
+[arxiv 2026.05] MotionGRPO: Overcoming Low Intra-Group Diversity in GRPO-Based Egocentric Motion Recovery  [[PDF](https://arxiv.org/abs/2605.05680)]
+
+[arxiv 2026.05] Learning a Delighting Prior for Facial Appearance Capture in the Wild  [[PDF](https://arxiv.org/abs/2605.05636),[Page](https://github.com/yxuhan/OpenDelight)]
+
+[arxiv 2026.05] LAMP: Localization Aware Multi-camera People Tracking in Metric 3D World  [[PDF](https://arxiv.org/abs/2605.05390),[Page](https://facebookresearch.github.io/LAMP)]
+
+[arxiv 2026.05] MaMi-HOI: Harmonizing Global Kinematics and Local Geometry for Human-Object Interaction Generation  [[PDF](https://arxiv.org/abs/2605.05756)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -624,6 +646,8 @@
 
 
 # ego
+<!-- Added on 2026-05-08 -->
+<!-- Added on 2026-05-07 -->
 [arxiv 2025.04]  The Invisible EgoHand: 3D Hand Forecasting through EgoBody Pose Estimation [[PDF](https://arxiv.org/abs/2504.08654),[Page](https://masashi-hatano.github.io/EgoH4/)] ![Code](https://img.shields.io/github/stars/masashi-hatano/EgoH4?style=social&label=Star)
 
 [arxiv 2026.04] CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator  [[PDF](https://arxiv.org/abs/2604.03156v1)]

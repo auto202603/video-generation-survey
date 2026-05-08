@@ -1,4 +1,6 @@
 # Image Editing In Diffusion 
+<!-- Added on 2026-05-08 -->
+<!-- Added on 2026-05-07 -->
 <!-- Added on 2026-05-06 -->
 <!-- Added on 2026-04-21 -->
 <!-- Added on 2026-04-20 -->
@@ -6,6 +8,36 @@
 <!-- Added on 2026-04-14 -->
 <!-- Added on 2026-05-04 -->
 <!-- Added on 2026-05-05 -->
+
+[arxiv 2026.05] Taming Outlier Tokens in Diffusion Transformers  [[PDF](https://arxiv.org/abs/2605.05206)]
+
+[arxiv 2026.05] D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models  [[PDF](https://arxiv.org/abs/2605.05204),[Page](https://vvvvvjdy.github.io/d-opsd/)]
+
+[arxiv 2026.05] Aes3D: Aesthetic Assessment in 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2605.05155)]
+
+[arxiv 2026.05] A unified Benchmark for Multi-Frame Image Restoration under Severe Refractive Warping  [[PDF](https://arxiv.org/abs/2605.05079)]
+
+[arxiv 2026.05] Exploring Clustering Capability of Inpainting Model Embeddings for Pattern-based Individual Identification  [[PDF](https://arxiv.org/abs/2605.04904)]
+
+[arxiv 2026.05] QuadBox: Accelerating 3D Gaussian Splatting with Geometry-Aware Boxes  [[PDF](https://arxiv.org/abs/2605.04844)]
+
+[arxiv 2026.05] ULF-Loc: Unbiased Landmark Feature for Robust Visual Localization with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2605.04730)]
+
+[arxiv 2026.05] From Diffusion to Rectified Flow: Rethinking Text-Based Segmentation  [[PDF](https://arxiv.org/abs/2605.04590)]
+
+[arxiv 2026.05] GTF: Omnidirectional EPI Transformer for Light Field Super-Resolution  [[PDF](https://arxiv.org/abs/2605.04581)]
+
+[arxiv 2026.05] Open-Source Image Editing Models Are Zero-Shot Vision Learners  [[PDF](https://arxiv.org/abs/2605.04566)]
+
+[arxiv 2026.05] Velox: Learning Representations of 4D Geometry and Appearance  [[PDF](https://arxiv.org/abs/2605.04527),[Page](https://apple.github.io/ml-velox)]
+
+[arxiv 2026.05] Ilov3Splat: Instance-Level Open-Vocabulary 3D Scene Understanding in Gaussian Splatting  [[PDF](https://arxiv.org/abs/2605.04506)]
+
+[arxiv 2026.05] Ground4D: Spatially-Grounded Feedforward 4D Reconstruction for Unstructured Off-Road Scenes  [[PDF](https://arxiv.org/abs/2605.04435)]
+
+[arxiv 2026.05] Towards General Preference Alignment: Diffusion Models at Nash Equilibrium  [[PDF](https://arxiv.org/abs/2605.04494)]
+
+[arxiv 2026.05] Lookahead Drifting Model  [[PDF](https://arxiv.org/abs/2605.04060)]
 
 [arxiv 2026.05] UniCorrn: Unified Correspondence Transformer Across 2D and 3D  [[PDF](https://arxiv.org/abs/2605.04044)]
 
@@ -1321,6 +1353,42 @@
 [arxiv 2026.04] Point-MF: One-step Point Cloud Generation from a Single Image via Mean Flows  [[PDF](https://arxiv.org/abs/2604.24586)]
 
 [arxiv 2026.04] Meta-CoT: Enhancing Granularity and Generalization in Image Editing  [[PDF](https://arxiv.org/abs/2604.24625),[Page](https://shiyi-zh0408.github.io/projectpages/Meta-CoT/)]
+
+[arxiv 2026.05] FREPix: Frequency-Heterogeneous Flow Matching for Pixel-Space Image Generation  [[PDF](https://arxiv.org/abs/2605.06421)]
+
+[arxiv 2026.05] Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models  [[PDF](https://arxiv.org/abs/2605.06388)]
+
+[arxiv 2026.05] Continuous-Time Distribution Matching for Few-Step Diffusion Distillation  [[PDF](https://arxiv.org/abs/2605.06376)]
+
+[arxiv 2026.05] DynT2I-Eval: A Dynamic Evaluation Framework for Text-to-Image Models  [[PDF](https://arxiv.org/abs/2605.06170)]
+
+[arxiv 2026.05] Learning Discrete Autoregressive Priors with Wasserstein Gradient Flow  [[PDF](https://arxiv.org/abs/2605.06148)]
+
+[arxiv 2026.05] AI-Generated Images: What Humans and Machines See When They Look at the Same Image  [[PDF](https://arxiv.org/abs/2605.06143)]
+
+[arxiv 2026.05] Autoregressive Visual Generation Needs a Prologue  [[PDF](https://arxiv.org/abs/2605.06137)]
+
+[arxiv 2026.05] Continuous Expert Assembly: Instance-Conditioned Low-Rank Residuals for All-in-One Image Restoration  [[PDF](https://arxiv.org/abs/2605.06127)]
+
+[arxiv 2026.05] OpenGaFF: Open-Vocabulary Gaussian Feature Field with Codebook Attention  [[PDF](https://arxiv.org/abs/2605.06088)]
+
+[arxiv 2026.05] AMIEOD: Adaptive Multi-Experts Image Enhancement for Object Detection in Low-Illumination Scenes  [[PDF](https://arxiv.org/abs/2605.06084)]
+
+[arxiv 2026.05] Arena as Offline Reward: Efficient Fine-Grained Preference Optimization for Diffusion Models  [[PDF](https://arxiv.org/abs/2605.06070)]
+
+[arxiv 2026.05] T2I-VeRW: Part-level Fine-grained Perception for Text-to-Image Vehicle Retrieval  [[PDF](https://arxiv.org/abs/2605.06012)]
+
+[arxiv 2026.05] DBMSolver: A Training-free Diffusion Bridge Sampler for High-Quality Image-to-Image Translation  [[PDF](https://arxiv.org/abs/2605.05889)]
+
+[arxiv 2026.05] Steering Visual Generation in Unified Multimodal Models with Understanding Supervision  [[PDF](https://arxiv.org/abs/2605.05781)]
+
+[arxiv 2026.05] Closing the Loop: Unified 3D Scene Generation and Immersive Interaction via LLM-RL Coupling  [[PDF](https://arxiv.org/abs/2605.05711)]
+
+[arxiv 2026.05] R2H-Diff: Guided Spectral Diffusion Model for RGB-to-Hyperspectral Reconstruction  [[PDF](https://arxiv.org/abs/2605.05688)]
+
+[arxiv 2026.05] Sparse-to-Complete: From Sparse Image Captures to Complete 3D Scenes  [[PDF](https://arxiv.org/abs/2605.05664)]
+
+[arxiv 2026.05] Continuous Latent Diffusion Language Model  [[PDF](https://arxiv.org/abs/2605.06548),[Page](https://hongcanguo.github.io/Cola-DLM/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
