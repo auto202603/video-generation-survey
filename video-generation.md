@@ -747,6 +747,24 @@ A reading list of video generation
 
 [arxiv 2026.05] CFE-PPAR: Compression-friendly encryption for privacy-preserving action recognition leveraging video transformers  [[PDF](https://arxiv.org/abs/2605.05692)]
 
+[arxiv 2026.05] Semantic-Aware Adaptive Visual Memory for Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2605.07897)]
+
+[arxiv 2026.05] Video Understanding Reward Modeling: A Robust Benchmark and Performant Reward Models  [[PDF](https://arxiv.org/abs/2605.07872)]
+
+[arxiv 2026.05] EyeCue: Driver Cognitive Distraction Detection via Gaze-Empowered Egocentric Video Understanding  [[PDF](https://arxiv.org/abs/2605.07859)]
+
+[arxiv 2026.05] SARA: Semantically Adaptive Relational Alignment for Video Diffusion Models  [[PDF](https://arxiv.org/abs/2605.07800)]
+
+[arxiv 2026.05] Head Similarity: Modeling Structured Whole-Head Appearance Beyond Face Recognition  [[PDF](https://arxiv.org/abs/2605.07766)]
+
+[arxiv 2026.05] Response-G1: Explicit Scene Graph Modeling for Proactive Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2605.07575)]
+
+[arxiv 2026.05] Diffusion-APO: Trajectory-Aware Direct Preference Alignment for Video Diffusion Transformers  [[PDF](https://arxiv.org/abs/2605.07503)]
+
+[arxiv 2026.05] Not All Tokens Need 40 Steps: Heterogeneous Step Allocation in Diffusion Transformers for Efficient Video Generation  [[PDF](https://arxiv.org/abs/2605.06892),[Page](https://ernestchu.github.io/hsa)]
+
+[arxiv 2026.05] Do Joint Audio-Video Generation Models Understand Physics?  [[PDF](https://arxiv.org/abs/2605.07061)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 

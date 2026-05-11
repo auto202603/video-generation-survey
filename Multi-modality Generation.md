@@ -2051,6 +2051,68 @@
 
 [arxiv 2026.05] Large Vision-Language Models Get Lost in Attention  [[PDF](https://arxiv.org/abs/2605.05668)]
 
+[arxiv 2026.05] Proxy3D: Efficient 3D Representations for Vision-Language Models via Semantic Clustering and Alignment  [[PDF](https://arxiv.org/abs/2605.08064),[Page](https://wzzheng.net/Proxy3D)]
+
+[arxiv 2026.05] Object Hallucination-Free Reinforcement Unlearning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.08031)]
+
+[arxiv 2026.05] STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation  [[PDF](https://arxiv.org/abs/2605.08029)]
+
+[arxiv 2026.05] SphereVAD: Training-Free Video Anomaly Detection via Geodesic Inference on the Unit Hypersphere  [[PDF](https://arxiv.org/abs/2605.08003)]
+
+[arxiv 2026.05] GazeVLM: Active Vision via Internal Attention Control for Multimodal Reasoning  [[PDF](https://arxiv.org/abs/2605.07817)]
+
+[arxiv 2026.05] Operating Within the Operational Design Domain: Zero-Shot Perception with Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.07649)]
+
+[arxiv 2026.05] TraceAV-Bench: Benchmarking Multi-Hop Trajectory Reasoning over Long Audio-Visual Videos  [[PDF](https://arxiv.org/abs/2605.07593)]
+
+[arxiv 2026.05] PolarVLM: Bridging the Semantic-Physical Gap in Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.07574)]
+
+[arxiv 2026.05] Hierarchical Dual-Subspace Decoupling for Continual Learning in Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.07512)]
+
+[arxiv 2026.05] DIMoE-Adapters: Dynamic Expert Evolution for Continual Learning in Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.07494)]
+
+[arxiv 2026.05] AudioFace: Language-Assisted Speech-Driven Facial Animation with Multimodal Language Models  [[PDF](https://arxiv.org/abs/2605.07478)]
+
+[arxiv 2026.05] ReasonEdit: Towards Interpretable Image Editing Evaluation via Reinforcement Learning  [[PDF](https://arxiv.org/abs/2605.07477)]
+
+[arxiv 2026.05] EditRefiner: A Human-Aligned Agentic Framework for Image Editing Refinement  [[PDF](https://arxiv.org/abs/2605.07457)]
+
+[arxiv 2026.05] ChartREG++: Towards Benchmarking and Improving Chart Referring Expression Grounding under Diverse referring clues and Multi-Target Referring  [[PDF](https://arxiv.org/abs/2605.07415)]
+
+[arxiv 2026.05] GPO-V: Jailbreak Diffusion Vision Language Model by Global Probability Optimization  [[PDF](https://arxiv.org/abs/2605.07399)]
+
+[arxiv 2026.05] BalCapRL: A Balanced Framework for RL-Based MLLM Image Captioning  [[PDF](https://arxiv.org/abs/2605.07394)]
+
+[arxiv 2026.05] ShellfishNet: A Domain-Specific Benchmark for Visual Recognition of Marine Molluscs  [[PDF](https://arxiv.org/abs/2605.07338)]
+
+[arxiv 2026.05] RCoT-Seg: Reinforced Chain-of-Thought for Video Reasoning and Segmentation  [[PDF](https://arxiv.org/abs/2605.07334)]
+
+[arxiv 2026.05] EgoPro-Bench: Benchmarking Personalized Proactive Interaction in Egocentric Video Streams  [[PDF](https://arxiv.org/abs/2605.07299)]
+
+[arxiv 2026.05] Hard to Read, Easy to Jailbreak: How Visual Degradation Bypasses MLLM Safety Alignment  [[PDF](https://arxiv.org/abs/2605.07250)]
+
+[arxiv 2026.05] Uncovering and Shaping the Latent Representation of 3D Scene Topology in Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.07148)]
+
+[arxiv 2026.05] Qwen3-VL-Seg: Unlocking Open-World Referring Segmentation with Vision-Language Grounding  [[PDF](https://arxiv.org/abs/2605.07141)]
+
+[arxiv 2026.05] LensVLM: Selective Context Expansion for Compressed Visual Representation of Text  [[PDF](https://arxiv.org/abs/2605.07019)]
+
+[arxiv 2026.05] Bringing Multimodal Large Language Models to Infrared-Visible Image Fusion Quality Assessment  [[PDF](https://arxiv.org/abs/2605.06969)]
+
+[arxiv 2026.05] R$^3$L: Reasoning 3D Layouts from Relative Spatial Relations  [[PDF](https://arxiv.org/abs/2605.06758)]
+
+[arxiv 2026.05] Visual Text Compression as Measure Transport  [[PDF](https://arxiv.org/abs/2605.06708)]
+
+[arxiv 2026.05] Anisotropic Modality Align  [[PDF](https://arxiv.org/abs/2605.07825)]
+
+[arxiv 2026.05] Weather-Robust Scene Semantics with Vision-Aligned 4D Radar  [[PDF](https://arxiv.org/abs/2605.07367)]
+
+[arxiv 2026.05] Task-Oriented Communication for Human Action Understanding via Edge-Cloud Co-Inference  [[PDF](https://arxiv.org/abs/2605.07354)]
+
+[arxiv 2026.05] Fine-tuning a vision-language model for fracture-surface morphology recognition  [[PDF](https://arxiv.org/abs/2605.07145)]
+
+[arxiv 2026.05] Uneven Evolution of Cognition Across Generations of Generative AI Models  [[PDF](https://arxiv.org/abs/2605.06815)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 

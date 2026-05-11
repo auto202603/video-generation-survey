@@ -337,6 +337,16 @@
 
 [arxiv 2026.05] MaMi-HOI: Harmonizing Global Kinematics and Local Geometry for Human-Object Interaction Generation  [[PDF](https://arxiv.org/abs/2605.05756)]
 
+[arxiv 2026.05] Towards Highly-Constrained Human Motion Generation with Retrieval-Guided Diffusion Noise Optimization  [[PDF](https://arxiv.org/abs/2605.08054)]
+
+[arxiv 2026.05] MoCoTalk: Multi-Conditional Diffusion with Adaptive Router for Controllable Talking Head Generation  [[PDF](https://arxiv.org/abs/2605.08050)]
+
+[arxiv 2026.05] VIMCAN: Visual-Inertial 3D Human Pose Estimation with Hybrid Mamba-Cross-Attention Network  [[PDF](https://arxiv.org/abs/2605.07552)]
+
+[arxiv 2026.05] InsHuman: Towards Natural and Identity-Preserving Human Insertion  [[PDF](https://arxiv.org/abs/2605.07402)]
+
+[arxiv 2026.05] TAVIS: A Benchmark for Egocentric Active Vision and Anticipatory Gaze in Imitation Learning  [[PDF](https://arxiv.org/abs/2605.07943)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 

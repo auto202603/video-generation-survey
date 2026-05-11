@@ -1390,6 +1390,58 @@
 
 [arxiv 2026.05] Continuous Latent Diffusion Language Model  [[PDF](https://arxiv.org/abs/2605.06548),[Page](https://hongcanguo.github.io/Cola-DLM/)]
 
+[arxiv 2026.05] Normalizing Trajectory Models  [[PDF](https://arxiv.org/abs/2605.08078)]
+
+[arxiv 2026.05] Flow-OPD: On-Policy Distillation for Flow Matching Models  [[PDF](https://arxiv.org/abs/2605.08063)]
+
+[arxiv 2026.05] SCOPE: Structured Decomposition and Conditional Skill Orchestration for Complex Image Generation  [[PDF](https://arxiv.org/abs/2605.08043)]
+
+[arxiv 2026.05] HEART: Hyperspherical Embedding Alignment via Kent-Representation Traversal in Diffusion Models  [[PDF](https://arxiv.org/abs/2605.07973)]
+
+[arxiv 2026.05] Delta-Adapter: Scalable Exemplar-Based Image Editing with Single-Pair Supervision  [[PDF](https://arxiv.org/abs/2605.07940)]
+
+[arxiv 2026.05] What Matters for Diffusion-Friendly Latent Manifold? Prior-Aligned Autoencoders for Latent Diffusion  [[PDF](https://arxiv.org/abs/2605.07915)]
+
+[arxiv 2026.05] From Synthetic to Real: Toward Identity-Consistent Makeup Transfer with Synthetic and Real Data  [[PDF](https://arxiv.org/abs/2605.07861)]
+
+[arxiv 2026.05] BRIDGE: Background Routing and Isolated Discrete Gating for Coarse-Mask Local Editing  [[PDF](https://arxiv.org/abs/2605.07846)]
+
+[arxiv 2026.05] Differentiable Ray Tracing with Gaussians for Unified Radio Propagation Simulation and View Synthesis  [[PDF](https://arxiv.org/abs/2605.07781)]
+
+[arxiv 2026.05] SIMI: Self-information Mining Network for Low-light Image Enhancement  [[PDF](https://arxiv.org/abs/2605.07767)]
+
+[arxiv 2026.05] EditTransfer++: Toward Faithful and Efficient Visual-Prompt-Guided Image Editing  [[PDF](https://arxiv.org/abs/2605.07455)]
+
+[arxiv 2026.05] ST-Gen4D: Embedding 4D Spatiotemporal Cognition into World Model for 4D Generation  [[PDF](https://arxiv.org/abs/2605.07390)]
+
+[arxiv 2026.05] Disambiguating 2D-3D Correspondences in Gaussian Splatting-based Feature Fields for Visual Localization  [[PDF](https://arxiv.org/abs/2605.07351)]
+
+[arxiv 2026.05] Teacher-Feature Drifting: One-Step Diffusion Distillation with Pretrained Diffusion Representations  [[PDF](https://arxiv.org/abs/2605.07327)]
+
+[arxiv 2026.05] SplatWeaver: Learning to Allocate Gaussian Primitives for Generalizable Novel View Synthesis  [[PDF](https://arxiv.org/abs/2605.07287)]
+
+[arxiv 2026.05] High-Fidelity Surface Splatting-Based 3D Reconstruction from Multi-View Images  [[PDF](https://arxiv.org/abs/2605.07254)]
+
+[arxiv 2026.05] LENS: Low-Frequency Eigen Noise Shaping for Efficient Diffusion Sampling  [[PDF](https://arxiv.org/abs/2605.07253)]
+
+[arxiv 2026.05] CASCADE: Context-Aware Relaxation for Speculative Image Decoding  [[PDF](https://arxiv.org/abs/2605.07230)]
+
+[arxiv 2026.05] From Pixels to Primitives: Scene Change Detection in 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2605.07203),[Page](https://chumsy0725.github.io/GS-DIFF/)]
+
+[arxiv 2026.05] AsyncEvGS: Asynchronous Event-Assisted Gaussian Splatting for Handheld Motion-Blurred Scenes  [[PDF](https://arxiv.org/abs/2605.07192)]
+
+[arxiv 2026.05] Learning Visual Feature-Based World Models via Residual Latent Action  [[PDF](https://arxiv.org/abs/2605.07079)]
+
+[arxiv 2026.05] Decoupling Semantics and Fingerprints: A Universal Representation for AI-Generated Image Detection  [[PDF](https://arxiv.org/abs/2605.07074)]
+
+[arxiv 2026.05] AdpSplit: Error-Driven Adaptive Splitting for Faster Geometry Discovery in 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2605.06876)]
+
+[arxiv 2026.05] Consistency Regularised Gradient Flows for Inverse Problems  [[PDF](https://arxiv.org/abs/2605.07907)]
+
+[arxiv 2026.05] Stochastic Transition-Map Distillation for Fast Probabilistic Inference  [[PDF](https://arxiv.org/abs/2605.07661)]
+
+[arxiv 2026.05] Mean Mode Screaming: Mean--Variance Split Residuals for 1000-Layer Diffusion Transformers  [[PDF](https://arxiv.org/abs/2605.06169)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]
