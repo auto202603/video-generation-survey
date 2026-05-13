@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-05-08 -->
+<!-- Added on 2026-05-13 -->
 <!-- Added on 2026-05-07 -->
 <!-- Added on 2026-05-06 -->
 <!-- Added on 2026-04-21 -->
@@ -1441,6 +1441,63 @@
 [arxiv 2026.05] Stochastic Transition-Map Distillation for Fast Probabilistic Inference  [[PDF](https://arxiv.org/abs/2605.07661)]
 
 [arxiv 2026.05] Mean Mode Screaming: Mean--Variance Split Residuals for 1000-Layer Diffusion Transformers  [[PDF](https://arxiv.org/abs/2605.06169)]
+
+[arxiv 2026.05] Revisiting Photometric Ambiguity for Accurate Gaussian-Splatting Surface Reconstruction  [[PDF](https://arxiv.org/abs/2605.12494),[Page](https://fictionarry.github.io/AmbiSuR-Proj/)]
+
+[arxiv 2026.05] 3D Gaussian Splatting for Efficient Retrospective Dynamic Scene Novel View Synthesis with a Standardized Benchmark  [[PDF](https://arxiv.org/abs/2605.12437)]
+
+[arxiv 2026.05] GeoQuery: Geometry-Query Diffusion for Sparse-View Reconstruction  [[PDF](https://arxiv.org/abs/2605.12399)]
+
+[arxiv 2026.05] Fast Image Super-Resolution via Consistency Rectified Flow  [[PDF](https://arxiv.org/abs/2605.12377)]
+
+[arxiv 2026.05] Images in Sentences: Scaling Interleaved Instructions for Unified Visual Generation  [[PDF](https://arxiv.org/abs/2605.12305)]
+
+[arxiv 2026.05] UniFixer: A Universal Reference-Guided Fixer for Diffusion-Based View Synthesis  [[PDF](https://arxiv.org/abs/2605.12169)]
+
+[arxiv 2026.05] PoseCompass: Intelligent Synthetic Pose Selection for Visual Localization  [[PDF](https://arxiv.org/abs/2605.12144)]
+
+[arxiv 2026.05] MULTI: Disentangling Camera Lens, Sensor, View, and Domain for Novel Image Generation  [[PDF](https://arxiv.org/abs/2605.12134)]
+
+[arxiv 2026.05] MoCam: Unified Novel View Synthesis via Structured Denoising Dynamics  [[PDF](https://arxiv.org/abs/2605.12119),[Page](https://orange-3dv-team.github.io/MoCam)]
+
+[arxiv 2026.05] When Policy Entropy Constraint Fails: Preserving Diversity in Flow-based RLHF via Perceptual Entropy  [[PDF](https://arxiv.org/abs/2605.12112)]
+
+[arxiv 2026.05] UniCustom: Unified Visual Conditioning for Multi-Reference Image Generation  [[PDF](https://arxiv.org/abs/2605.12088)]
+
+[arxiv 2026.05] PairDropGS: Paired Dropout-Induced Consistency Regularization for Sparse-View Gaussian Splatting  [[PDF](https://arxiv.org/abs/2605.12072)]
+
+[arxiv 2026.05] Optimizing 4D Wires for Sparse 3D Abstraction  [[PDF](https://arxiv.org/abs/2605.11977)]
+
+[arxiv 2026.05] FIS-DiT: Breaking the Few-Step Video Inference Barrier via Training-Free Frame Interleaved Sparsity  [[PDF](https://arxiv.org/abs/2605.11869)]
+
+[arxiv 2026.05] PointForward: Feedforward Driving Reconstruction through Point-Aligned Representations  [[PDF](https://arxiv.org/abs/2605.11594)]
+
+[arxiv 2026.05] A Mixture Autoregressive Image Generative Model on Quadtree Regions for Gaussian Noise Removal via Variational Bayes and Gradient Methods  [[PDF](https://arxiv.org/abs/2605.11585)]
+
+[arxiv 2026.05] PointGS: Semantic-Consistent Unsupervised 3D Point Cloud Segmentation with 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2605.11520)]
+
+[arxiv 2026.05] STRIDE: Training-Free Diversity Guidance via PCA-Directed Feature Perturbation in Single-Step Diffusion Models  [[PDF](https://arxiv.org/abs/2605.11494)]
+
+[arxiv 2026.05] ZeroIDIR: Zero-Reference Illumination Degradation Image Restoration with Perturbed Consistency Diffusion Models  [[PDF](https://arxiv.org/abs/2605.11435)]
+
+[arxiv 2026.05] PD-4DGS:Progressive Decomposition of 4D Gaussian Splatting for Bandwidth-Adaptive Dynamic Scene Streaming  [[PDF](https://arxiv.org/abs/2605.11427)]
+
+[arxiv 2026.05] Generative AI for Visualizing Highway Construction Hazards Through Synthetic Images and Temporal Sequences  [[PDF](https://arxiv.org/abs/2605.11276)]
+
+[arxiv 2026.05] PG-3DGS: Optimizing 3D Gaussian Splatting to Satisfy Physics Objectives  [[PDF](https://arxiv.org/abs/2605.11266)]
+
+[arxiv 2026.05] LatentHDR: Decoupling Exposure from Diffusion via Conditional Latent-to-Latent Mapping for Text/Image-to-Panoramic HDR  [[PDF](https://arxiv.org/abs/2605.11115)]
+
+[arxiv 2026.05] HiDream-O1-Image: A Natively Unified Image Generative Foundation Model with Pixel-level Unified Transformer  [[PDF](https://arxiv.org/abs/2605.11061),[Page](https://github.com/HiDream-ai/HiDream-O1-Image)]
+
+[arxiv 2026.05] Disentangled Sparse Representations for Concept-Separated Diffusion Unlearning  [[PDF](https://arxiv.org/abs/2605.12122)]
+
+[arxiv 2026.05] 3DGS$^3$: Joint Super Sampling and Frame Interpolation for Real-Time Large-Scale 3DGS Rendering  [[PDF](https://arxiv.org/abs/2605.11489)]
+
+[arxiv 2026.05] FeatMap: Understanding image manipulation in the feature space and its implications for feature space geometry  [[PDF](https://arxiv.org/abs/2605.11203),[Page](https://github.com/AI4HealthUOL/FeatMap)]
+
+[arxiv 2026.05] TMPO: Trajectory Matching Policy Optimization for Diverse and Efficient Diffusion Alignment  [[PDF](https://arxiv.org/abs/2605.10983)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

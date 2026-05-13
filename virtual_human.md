@@ -1,5 +1,5 @@
 ## Dataset
-<!-- Added on 2026-05-06 -->
+<!-- Added on 2026-05-13 -->
 <!-- Added on 2026-04-21 -->
 <!-- Added on 2026-04-20 -->
 <!-- Added on 2026-04-15 -->
@@ -346,6 +346,19 @@
 [arxiv 2026.05] InsHuman: Towards Natural and Identity-Preserving Human Insertion  [[PDF](https://arxiv.org/abs/2605.07402)]
 
 [arxiv 2026.05] TAVIS: A Benchmark for Egocentric Active Vision and Anticipatory Gaze in Imitation Learning  [[PDF](https://arxiv.org/abs/2605.07943)]
+
+[arxiv 2026.05] Enhancing Domain Generalization in 3D Human Pose Estimation through Controllable Generative Augmentation  [[PDF](https://arxiv.org/abs/2605.12198)]
+
+[arxiv 2026.05] OmniHumanoid: Streaming Cross-Embodiment Video Generation with Paired-Free Adaptation  [[PDF](https://arxiv.org/abs/2605.12038)]
+
+[arxiv 2026.05] Chronicles-OCR: A Cross-Temporal Perception Benchmark for the Evolutionary Trajectory of Chinese Characters  [[PDF](https://arxiv.org/abs/2605.11960)]
+
+[arxiv 2026.05] ScaleMoGen: Autoregressive Next-Scale Prediction for Human Motion Generation  [[PDF](https://arxiv.org/abs/2605.11704),[Page](https://inwoohwang.me/ScaleMoGen)]
+
+[arxiv 2026.05] PoseBridge: Bridging the Skeletonization Gap for Zero-Shot Skeleton-Based Action Recognition  [[PDF](https://arxiv.org/abs/2605.11497)]
+
+[arxiv 2026.05] Dynamic Full-body Motion Agent with Object Interaction via Blending Pre-trained Modular Controllers  [[PDF](https://arxiv.org/abs/2605.11369)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

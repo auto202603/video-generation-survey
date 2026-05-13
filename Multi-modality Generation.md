@@ -1,4 +1,4 @@
-<!-- Added on 2026-05-08 -->
+<!-- Added on 2026-05-13 -->
 <!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-21 -->
 <!-- Added on 2026-04-20 -->
@@ -2112,6 +2112,75 @@
 [arxiv 2026.05] Fine-tuning a vision-language model for fracture-surface morphology recognition  [[PDF](https://arxiv.org/abs/2605.07145)]
 
 [arxiv 2026.05] Uneven Evolution of Cognition Across Generations of Generative AI Models  [[PDF](https://arxiv.org/abs/2605.06815)]
+
+[arxiv 2026.05] SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture  [[PDF](https://arxiv.org/abs/2605.12500),[Page](https://github.com/OpenSenseNova/SenseNova-U1)]
+
+[arxiv 2026.05] From Web to Pixels: Bringing Agentic Search into Visual Perception  [[PDF](https://arxiv.org/abs/2605.12497),[Page](https://pixel-searcher.github.io/)]
+
+[arxiv 2026.05] AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward  [[PDF](https://arxiv.org/abs/2605.12495)]
+
+[arxiv 2026.05] Beyond Localization: A Comprehensive Diagnosis of Perspective-Conditioned Spatial Reasoning in MLLMs from Omnidirectional Images  [[PDF](https://arxiv.org/abs/2605.12413)]
+
+[arxiv 2026.05] Fill the GAP: A Granular Alignment Paradigm for Visual Reasoning in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2605.12374)]
+
+[arxiv 2026.05] G$^2$TR: Generation-Guided Visual Token Reduction for Separate-Encoder Unified Multimodal Models  [[PDF](https://arxiv.org/abs/2605.12309),[Page](https://github.com/lijunxian111/G2TR)]
+
+[arxiv 2026.05] Large-Small Model Collaboration for Farmland Semantic Change Detection  [[PDF](https://arxiv.org/abs/2605.12282)]
+
+[arxiv 2026.05] Beyond Text Prompts: Visual-to-Visual Generation as A Unified Paradigm  [[PDF](https://arxiv.org/abs/2605.12271),[Page](https://yaofang-liu.github.io/V2V_Web)]
+
+[arxiv 2026.05] UHR-Micro: Diagnosing and Mitigating the Resolution Illusion in Earth Observation VLMs  [[PDF](https://arxiv.org/abs/2605.12237)]
+
+[arxiv 2026.05] Self-Consistent Latent Reasoning: Long Latent Sequence Reasoning for Vision-Language Model  [[PDF](https://arxiv.org/abs/2605.12163)]
+
+[arxiv 2026.05] BARISTA: A Multi-Task Egocentric Benchmark for Compositional Visual Understanding  [[PDF](https://arxiv.org/abs/2605.12074)]
+
+[arxiv 2026.05] Multimodal Abstractive Summarization of Instructional Videos with Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.11959)]
+
+[arxiv 2026.05] Cluster-Aware Neural Collapse Prompt Tuning for Long-Tailed Generalization of Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.11939)]
+
+[arxiv 2026.05] Learn to Think: Improving Multimodal Reasoning through Vision-Aware Self-Improvement Training  [[PDF](https://arxiv.org/abs/2605.11931)]
+
+[arxiv 2026.05] UniVLR: Unifying Text and Vision in Visual Latent Reasoning for Multimodal LLMs  [[PDF](https://arxiv.org/abs/2605.11856)]
+
+[arxiv 2026.05] Mitigating Action-Relation Hallucinations in LVLMs via Relation-aware Visual Enhancement  [[PDF](https://arxiv.org/abs/2605.11808)]
+
+[arxiv 2026.05] OTT-Vid: Optimal Transport Temporal Token Compression for Video Large Language Models  [[PDF](https://arxiv.org/abs/2605.11803),[Page](https://github.com/minseokii/OTT-Vid)]
+
+[arxiv 2026.05] Urban Risk-Aware Navigation via VQA-Based Event Maps for People with Low Vision  [[PDF](https://arxiv.org/abs/2605.11782)]
+
+[arxiv 2026.05] CaC: Advancing Video Reward Models via Hierarchical Spatiotemporal Concentrating  [[PDF](https://arxiv.org/abs/2605.11723)]
+
+[arxiv 2026.05] EPIC: Efficient Predicate-Guided Inference-Time Control for Compositional Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2605.11722)]
+
+[arxiv 2026.05] CAST: Collapse-Aware multi-Scale Topology Fusion for Multimodal Coreset Selection  [[PDF](https://arxiv.org/abs/2605.11705)]
+
+[arxiv 2026.05] Reviving In-domain Fine-tuning Methods for Source-Free Cross-domain Few-shot Learning  [[PDF](https://arxiv.org/abs/2605.11659)]
+
+[arxiv 2026.05] Hide to See: Reasoning-prefix Masking for Visual-anchored Thinking in VLM Distillation  [[PDF](https://arxiv.org/abs/2605.11651)]
+
+[arxiv 2026.05] Unlocking UML Class Diagram Understanding in Vision Language Models  [[PDF](https://arxiv.org/abs/2605.11634)]
+
+[arxiv 2026.05] Logit-Attention Divergence: Mitigating Position Bias in Multi-Image Retrieval via Attention-Guided Calibration  [[PDF](https://arxiv.org/abs/2605.11591)]
+
+[arxiv 2026.05] When Looking Is Not Enough: Visual Attention Structure Reveals Hallucination in MLLMs  [[PDF](https://arxiv.org/abs/2605.11559)]
+
+[arxiv 2026.05] LDDR: Linear-DPP-Based Dynamic-Resolution Frame Sampling for Video MLLMs  [[PDF](https://arxiv.org/abs/2605.11477)]
+
+[arxiv 2026.05] SpatialForge: Bootstrapping 3D-Aware Spatial Reasoning from Open-World 2D Images  [[PDF](https://arxiv.org/abs/2605.11462)]
+
+[arxiv 2026.05] Leveraging Multimodal Large Language Models for All-in-One Image Restoration via a Mixture of Frequency Experts  [[PDF](https://arxiv.org/abs/2605.11444)]
+
+[arxiv 2026.05] Instruct-ICL: Instruction-Guided In-Context Learning for Post-Disaster Damage Assessment  [[PDF](https://arxiv.org/abs/2605.11439)]
+
+[arxiv 2026.05] Vision2Code: A Multi-Domain Benchmark for Evaluating Image-to-Code Generation  [[PDF](https://arxiv.org/abs/2605.11307),[Page](https://image2code.github.io/vision2code/)]
+
+[arxiv 2026.05] Birds of a Feather Flock Together: Background-Invariant Representations via Linear Structure in VLMs  [[PDF](https://arxiv.org/abs/2605.11107)]
+
+[arxiv 2026.05] Allegory of the Cave: Measurement-Grounded Vision-Language Learning  [[PDF](https://arxiv.org/abs/2605.11727)]
+
+[arxiv 2026.05] LatentRouter: Can We Choose the Right Multimodal Model Before Seeing Its Answer?  [[PDF](https://arxiv.org/abs/2605.11301)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

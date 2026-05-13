@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-05-11 -->
+<!-- Added on 2026-05-13 -->
 <!-- Added on 2026-05-08 -->
 <!-- Added on 2026-05-07 -->
 <!-- Added on 2026-05-06 -->
@@ -765,6 +765,15 @@ A reading list of video generation
 [arxiv 2026.05] Not All Tokens Need 40 Steps: Heterogeneous Step Allocation in Diffusion Transformers for Efficient Video Generation  [[PDF](https://arxiv.org/abs/2605.06892),[Page](https://ernestchu.github.io/hsa)]
 
 [arxiv 2026.05] Do Joint Audio-Video Generation Models Understand Physics?  [[PDF](https://arxiv.org/abs/2605.07061)]
+
+[arxiv 2026.05] CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives  [[PDF](https://arxiv.org/abs/2605.12496),[Page](https://yihao-meng.github.io/CausalCine/)]
+
+[arxiv 2026.05] OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Generation  [[PDF](https://arxiv.org/abs/2605.12480),[Page](https://zghhui.github.io/OmniNFT/)]
+
+[arxiv 2026.05] Single-Shot HDR Recovery via a Video Diffusion Prior  [[PDF](https://arxiv.org/abs/2605.11628)]
+
+[arxiv 2026.05] VidSplat: Gaussian Splatting Reconstruction with Geometry-Guided Video Diffusion Priors  [[PDF](https://arxiv.org/abs/2605.11424),[Page](https://tangjm24.github.io/VidSplat)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
