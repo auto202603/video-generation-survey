@@ -1,4 +1,5 @@
 # Video Generation Survey
+<!-- Added on 2026-05-14 -->
 <!-- Added on 2026-05-13 -->
 <!-- Added on 2026-05-08 -->
 <!-- Added on 2026-05-07 -->
@@ -5280,4 +5281,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
+[arxiv 2026.05] VideoSEAL: Mitigating Evidence Misalignment in Agentic Long Video Understanding by Decoupling Answer Authority  [[PDF](https://arxiv.org/abs/2605.12571),[Page](https://github.com/Echochef/VideoSEAL)]
+[arxiv 2026.05] TrackCraft3R: Repurposing Video Diffusion Transformers for Dense 3D Tracking  [[PDF](https://arxiv.org/abs/2605.12587),[Page](https://cvlab-kaist.github.io/TrackCraft3r/)]
+[arxiv 2026.05] CRePE: Curved Ray Expectation Positional Encoding for Unified-Camera-Controlled Video Generation  [[PDF](https://arxiv.org/abs/2605.12938)]
+[arxiv 2026.05] AdaFocus: Adaptive Relevance-Diversity Sampling with Zero-Cache Look-back for Efficient Long Video Understanding  [[PDF](https://arxiv.org/abs/2605.12954)]
+[arxiv 2026.05] GTA: Advancing Image-to-3D World Generation via Geometry Then Appearance Video Diffusion  [[PDF](https://arxiv.org/abs/2605.12957)]
+[arxiv 2026.05] Pyramid Forcing: Head-Aware Pyramid KV Cache Policy for High-Quality Long Video Generation  [[PDF](https://arxiv.org/abs/2605.13111)]
+[arxiv 2026.05] AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation  [[PDF](https://arxiv.org/abs/2605.13724),[Page](https://nvlabs.github.io/AnyFlow/)]

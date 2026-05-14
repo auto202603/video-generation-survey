@@ -1038,3 +1038,5 @@
 [arxiv 2026.03] Hierarchical Granularity Alignment and State Space Modeling for Robust Multimodal AU Detection in the Wild  [[PDF](https://arxiv.org/abs/2603.11306)]
 
 [arxiv 2026.03] A Two-Stage Dual-Modality Model for Facial Emotional Expression Recognition  [[PDF](https://arxiv.org/abs/2603.12221),[Page](https://affective-behavior-analysis-in-the-wild.github.io/10th/)]
+[arxiv 2026.05] Stylized Text-to-Motion Generation via Hypernetwork-Driven Low-Rank Adaptation  [[PDF](https://arxiv.org/abs/2605.13333),[Page](https://junhyukjeon.github.io/projects/style-salad/)]
+[arxiv 2026.05] Coordinating Multiple Conditions for Trajectory-Controlled Human Motion Generation  [[PDF](https://arxiv.org/abs/2605.13729)]

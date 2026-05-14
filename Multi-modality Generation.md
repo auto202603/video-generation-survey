@@ -4491,5 +4491,31 @@
 [arxiv 2026.04] Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs  [[PDF](https://arxiv.org/abs/2604.02689v1)] ![Code](https://img.shields.io/github/stars/sol924/Efficient3D?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
-
-
+[arxiv 2026.05] Bridging the Missing-Modality Gap: Improving Text-Only Calibration of Vision Language Models  [[PDF](https://arxiv.org/abs/2605.12517)]
+[arxiv 2026.05] CiteVQA: Benchmarking Evidence Attribution for Trustworthy Document Intelligence  [[PDF](https://arxiv.org/abs/2605.12882)]
+[arxiv 2026.05] Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models  [[PDF](https://arxiv.org/abs/2605.13119)]
+[arxiv 2026.05] Guide, Think, Act: Interactive Embodied Reasoning in Vision-Language-Action Models  [[PDF](https://arxiv.org/abs/2605.13632)]
+[arxiv 2026.05] LEXI-SG: Monocular 3D Scene Graph Mapping with Room-Guided Feed-Forward Reconstruction  [[PDF](https://arxiv.org/abs/2605.13741)]
+[arxiv 2026.05] RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data  [[PDF](https://arxiv.org/abs/2605.13775)]
+[arxiv 2026.05] CROP: Expert-Aligned Image Cropping via Compositional Reasoning and Optimizing Preference  [[PDF](https://arxiv.org/abs/2605.12545)]
+[arxiv 2026.05] What Happens Before Decoding? Prefill Determines GUI Grounding in VLMs  [[PDF](https://arxiv.org/abs/2605.12549)]
+[arxiv 2026.05] SSDA: Bridging Spectral and Structural Gaps via Dual Adaptation for Vision-Based Time Series Forecasting  [[PDF](https://arxiv.org/abs/2605.12550)]
+[arxiv 2026.05] 3D Primitives are a Spatial Language for VLMs  [[PDF](https://arxiv.org/abs/2605.12586)]
+[arxiv 2026.05] Visual Aesthetic Benchmark: Can Frontier Models Judge Beauty?  [[PDF](https://arxiv.org/abs/2605.12684),[Page](https://vab.bakelab.ai)]
+[arxiv 2026.05] Is Video Anomaly Detection Misframed? Evidence from LLM-Based and Multi-Scene Models  [[PDF](https://arxiv.org/abs/2605.12725)]
+[arxiv 2026.05] Seg-Agent: Test-Time Multimodal Reasoning for Training-Free Language-Guided Segmentation  [[PDF](https://arxiv.org/abs/2605.12953)]
+[arxiv 2026.05] Reducing Bias and Variance: Generative Semantic Guidance and Bi-Layer Ensemble for Image Clustering  [[PDF](https://arxiv.org/abs/2605.12961)]
+[arxiv 2026.05] Revealing the Gap in Human and VLM Scene Perception through Counterfactual Semantic Saliency  [[PDF](https://arxiv.org/abs/2605.13047)]
+[arxiv 2026.05] Edit-Compass &amp; EditReward-Compass: A Unified Benchmark for Image Editing and Reward Modeling  [[PDF](https://arxiv.org/abs/2605.13062)]
+[arxiv 2026.05] Learning to See What You Need: Gaze Attention for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2605.13080)]
+[arxiv 2026.05] Dual-Pathway Circuits of Object Hallucination in Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.13156)]
+[arxiv 2026.05] A$_3$B$_2$: Adaptive Asymmetric Adapter for Alleviating Branch Bias in Vision-Language Image Classification with Few-Shot Learning  [[PDF](https://arxiv.org/abs/2605.13161)]
+[arxiv 2026.05] PanoWorld: Towards Spatial Supersensing in 360$^\circ$ Panorama World  [[PDF](https://arxiv.org/abs/2605.13169)]
+[arxiv 2026.05] CLIP Tricks You: Training-free Token Pruning for Efficient Pixel Grounding in Large VIsion-Language Models  [[PDF](https://arxiv.org/abs/2605.13178)]
+[arxiv 2026.05] FIKA-Bench: From Fine-grained Recognition to Fine-Grained Knowledge Acquisition  [[PDF](https://arxiv.org/abs/2605.13193)]
+[arxiv 2026.05] STAR: Semantic-Temporal Adaptive Representation Learning for Few-Shot Action Recognition  [[PDF](https://arxiv.org/abs/2605.13202)]
+[arxiv 2026.05] KamonBench: A Grammar-Based Dataset for Evaluating Compositional Factor Recovery in Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.13322)]
+[arxiv 2026.05] GRIP-VLM: Group-Relative Importance Pruning for Efficient Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.13375)]
+[arxiv 2026.05] SceneGraphVLM: Dynamic Scene Graph Generation from Video with Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.13667)]
+[arxiv 2026.05] Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context  [[PDF](https://arxiv.org/abs/2605.13831)]
+[arxiv 2026.05] Unlocking Patch-Level Features for CLIP-Based Class-Incremental Learning  [[PDF](https://arxiv.org/abs/2605.13835)]
