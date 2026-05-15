@@ -1,4 +1,5 @@
 # Video Generation Survey
+<!-- Added on 2026-05-15 -->
 <!-- Added on 2026-05-14 -->
 <!-- Added on 2026-05-13 -->
 <!-- Added on 2026-05-08 -->
@@ -775,6 +776,42 @@ A reading list of video generation
 
 [arxiv 2026.05] VidSplat: Gaussian Splatting Reconstruction with Geometry-Guided Video Diffusion Priors  [[PDF](https://arxiv.org/abs/2605.11424),[Page](https://tangjm24.github.io/VidSplat)]
 
+
+[arxiv 2026.05] EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation  [[PDF](https://arxiv.org/abs/2605.15199),[Page](https://catherine-r-he.github.io/EntityBench/)]
+
+[arxiv 2026.05] RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-model GRPO  [[PDF](https://arxiv.org/abs/2605.15190),[Page](https://yanzuo.lu/raven)]
+
+[arxiv 2026.05] Quantitative Video World Model Evaluation for Geometric-Consistency  [[PDF](https://arxiv.org/abs/2605.15185),[Page](https://pdi-bench.github.io/)]
+
+[arxiv 2026.05] Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video  [[PDF](https://arxiv.org/abs/2605.15182),[Page](https://yyfz.github.io/warp-as-history/)]
+
+[arxiv 2026.05] Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation  [[PDF](https://arxiv.org/abs/2605.15141)]
+
+[arxiv 2026.05] DriveCtrl: Conditioned Sim-to-Real Driving Video Generation  [[PDF](https://arxiv.org/abs/2605.15116)]
+
+[arxiv 2026.05] Compositional Video Generation via Inference-Time Guidance  [[PDF](https://arxiv.org/abs/2605.14988)]
+
+[arxiv 2026.05] MechVerse: Evaluating Physical Motion Consistency in Video Generation Models  [[PDF](https://arxiv.org/abs/2605.14843)]
+
+[arxiv 2026.05] Video-Zero: Self-Evolution Video Understanding  [[PDF](https://arxiv.org/abs/2605.14733)]
+
+[arxiv 2026.05] MiVE: Multiscale Vision-language features for reference-guided video Editing  [[PDF](https://arxiv.org/abs/2605.14664)]
+
+[arxiv 2026.05] HASTE: Training-Free Video Diffusion Acceleration via Head-Wise Adaptive Sparse Attention  [[PDF](https://arxiv.org/abs/2605.14513)]
+
+[arxiv 2026.05] Head Forcing: Long Autoregressive Video Generation via Head Heterogeneity  [[PDF](https://arxiv.org/abs/2605.14487)]
+
+[arxiv 2026.05] Delta Forcing: Trust Region Steering for Interactive Autoregressive Video Generation  [[PDF](https://arxiv.org/abs/2605.14382)]
+
+[arxiv 2026.05] CoRDS: Coreset-based Representative and Diverse Selection for Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2605.14310)]
+
+[arxiv 2026.05] KVPO: ODE-Native GRPO for Autoregressive Video Alignment via KV Semantic Exploration  [[PDF](https://arxiv.org/abs/2605.14278)]
+
+[arxiv 2026.05] CreFlow: Corrective Reflow for Sparse-Reward Embodied Video Diffusion RL  [[PDF](https://arxiv.org/abs/2605.14274)]
+
+[arxiv 2026.05] TeDiO: Temporal Diagonal Optimization for Training-Free Coherent Video Diffusion  [[PDF](https://arxiv.org/abs/2605.14136)]
+
+[arxiv 2026.05] MoZoo:Unleashing Video Diffusion power in animal fur and muscle simulation  [[PDF](https://arxiv.org/abs/2605.13857),[Page](https://dongxialiu15.github.io/MoZoo/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

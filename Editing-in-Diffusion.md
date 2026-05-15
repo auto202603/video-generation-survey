@@ -1,4 +1,5 @@
 # Image Editing In Diffusion 
+<!-- Added on 2026-05-15 -->
 <!-- Added on 2026-05-13 -->
 <!-- Added on 2026-05-07 -->
 <!-- Added on 2026-05-06 -->
@@ -1498,6 +1499,64 @@
 
 [arxiv 2026.05] TMPO: Trajectory Matching Policy Optimization for Diverse and Efficient Diffusion Alignment  [[PDF](https://arxiv.org/abs/2605.10983)]
 
+
+[arxiv 2026.05] RefDecoder: Enhancing Visual Generation with Conditional Video Decoding  [[PDF](https://arxiv.org/abs/2605.15196)]
+
+[arxiv 2026.05] Aligning Latent Geometry for Spherical Flow Matching in Image Generation  [[PDF](https://arxiv.org/abs/2605.15193)]
+
+[arxiv 2026.05] From Plans to Pixels: Learning to Plan and Orchestrate for Open-Ended Image Editing  [[PDF](https://arxiv.org/abs/2605.15181)]
+
+[arxiv 2026.05] SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer  [[PDF](https://arxiv.org/abs/2605.15178),[Page](https://nvlabs.github.io/Sana/WM/)]
+
+[arxiv 2026.05] 3D Skew-Normal Splatting  [[PDF](https://arxiv.org/abs/2605.15010)]
+
+[arxiv 2026.05] ACE-LoRA: Adaptive Orthogonal Decoupling for Continual Image Editing  [[PDF](https://arxiv.org/abs/2605.14948)]
+
+[arxiv 2026.05] SEDiT: Mask-Free Video Subtitle Erasure via One-step Diffusion Transformer  [[PDF](https://arxiv.org/abs/2605.14894),[Page](http://zheng222.github.io/SEDiT_project)]
+
+[arxiv 2026.03] Multi-scale Image Super Resolution with a Single Auto-Regressive Model  [[PDF](https://arxiv.org/abs/2506.04990),[Page](https://github.com/saic-fi/ms_sr_var)]
+
+[arxiv 2026.05] Denoising-GS: Gaussian Splatting with Spatial-aware Denoising  [[PDF](https://arxiv.org/abs/2605.14880)]
+
+[arxiv 2026.05] HeatKV: Head-tuned KV-cache Compression for Visual Autoregressive Modeling  [[PDF](https://arxiv.org/abs/2605.14877)]
+
+[arxiv 2026.05] SR-Prominence: A Crowdsourced Protocol and Dataset Suite for Perceptually-Weighted Super-Resolution Artifact Evaluation  [[PDF](https://arxiv.org/abs/2605.14847)]
+
+[arxiv 2026.05] Editor&#39;s Choice: Evaluating Abstract Intent in Image Editing through Atomic Entity Analysis  [[PDF](https://arxiv.org/abs/2605.14842)]
+
+[arxiv 2026.05] The Velocity Deficit: Initial Energy Injection for Flow Matching  [[PDF](https://arxiv.org/abs/2605.14819)]
+
+[arxiv 2026.05] Towards Continuous Sign Language Conversation from Isolated Signs  [[PDF](https://arxiv.org/abs/2605.14705)]
+
+[arxiv 2026.05] Towards Accurate Single Panoramic 3D Detection: A Semantic Gaussian Centric Approach  [[PDF](https://arxiv.org/abs/2605.14601)]
+
+[arxiv 2026.05] LiWi: Layering in the Wild  [[PDF](https://arxiv.org/abs/2605.14552)]
+
+[arxiv 2026.05] ClickRemoval: An Interactive Open-Source Tool for Object Removal in Diffusion Models  [[PDF](https://arxiv.org/abs/2605.14461)]
+
+[arxiv 2026.05] IG-Diff: Complex Night Scene Restoration with Illumination-Guided Diffusion Model  [[PDF](https://arxiv.org/abs/2605.14337)]
+
+[arxiv 2026.05] InsightTok: Improving Text and Face Fidelity in Discrete Tokenization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2605.14333),[Page](https://github.com/LeapLabTHU/InsightTok)]
+
+[arxiv 2026.05] Diagnosing and Correcting Concept Omission in Multimodal Diffusion Transformers  [[PDF](https://arxiv.org/abs/2605.14270)]
+
+[arxiv 2026.05] Image Restoration via Diffusion Models with Dynamic Resolution  [[PDF](https://arxiv.org/abs/2605.14267)]
+
+[arxiv 2026.05] CoReDiT: Spatial Coherence-Guided Token Pruning and Reconstruction for Efficient Diffusion Transformers  [[PDF](https://arxiv.org/abs/2605.14191)]
+
+[arxiv 2026.05] You Only Landmark Once: Lightweight U-Net Face Super Resolution with YOLO-World Landmark Heatmaps  [[PDF](https://arxiv.org/abs/2605.14166)]
+
+[arxiv 2026.05] PanoPlane: Plane-Aware Panoramic Completion for Sparse-View Indoor 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2605.14135)]
+
+[arxiv 2026.05] Few Channels Draw The Whole Picture: Revealing Massive Activations in Diffusion Transformers  [[PDF](https://arxiv.org/abs/2605.13974),[Page](https://aimagelab.github.io/MAs-DiT/)]
+
+[arxiv 2026.05] DiffusionOPD: A Unified Perspective of On-Policy Distillation in Diffusion Models  [[PDF](https://arxiv.org/abs/2605.15055)]
+
+[arxiv 2026.05] Efficient Dense Matching for Enhanced Gaussian Splatting Using AV1 Motion Vectors  [[PDF](https://arxiv.org/abs/2605.14629)]
+
+[arxiv 2026.05] SparseOIT: Improving Order-Independent Transparency 3DGS via Active Set Method  [[PDF](https://arxiv.org/abs/2605.13855)]
+
+[arxiv 2026.05] FaceParts: Segmentation and Editing of Gaussian Splatting  [[PDF](https://arxiv.org/abs/2605.13853)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

@@ -1,4 +1,4 @@
-<!-- Added on 2026-05-13 -->
+<!-- Added on 2026-05-15 -->
 <!-- Added on 2026-04-15 -->
 <!-- Added on 2026-04-21 -->
 <!-- Added on 2026-04-20 -->
@@ -2181,6 +2181,52 @@
 
 [arxiv 2026.05] LatentRouter: Can We Choose the Right Multimodal Model Before Seeing Its Answer?  [[PDF](https://arxiv.org/abs/2605.11301)]
 
+
+[arxiv 2026.05] ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both  [[PDF](https://arxiv.org/abs/2605.15198),[Page](https://atlas-oneword.github.io)]
+
+[arxiv 2026.05] Does Synthetic Layered Design Data Benefit Layered Design Decomposition?  [[PDF](https://arxiv.org/abs/2605.15167),[Page](https://github.com/YangHaolin0526/SynLayers)]
+
+[arxiv 2026.05] On the Cultural Anachronism and Temporal Reasoning in Vision Language Models  [[PDF](https://arxiv.org/abs/2605.15071),[Page](https://khushboo0012.github.io/tab-vlm-webpage/)]
+
+[arxiv 2026.05] LATERN: Test-Time Context-Aware Explainable Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2605.15054)]
+
+[arxiv 2026.05] MHSA: A Lightweight Framework for Mitigating Hallucinations via Steered Attention in LVLMs  [[PDF](https://arxiv.org/abs/2605.14966)]
+
+[arxiv 2026.05] SceneParser: Hierarchical Scene Parsing for Visual Semantics Understanding  [[PDF](https://arxiv.org/abs/2605.14923)]
+
+[arxiv 2026.05] SteerSeg: Attention Steering for Reasoning Video Segmentation  [[PDF](https://arxiv.org/abs/2605.14908),[Page](https://steerseg.github.io)]
+
+[arxiv 2026.05] MemLens: Benchmarking Multimodal Long-Term Memory in Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.14906)]
+
+[arxiv 2026.05] Your CLIP has 164 dimensions of noise: Exploring the embeddings covariance eigenspectrum of contrastively pretrained vision-language transformers  [[PDF](https://arxiv.org/abs/2605.14893)]
+
+[arxiv 2026.05] Unlocking Complex Visual Generation via Closed-Loop Verified Reasoning  [[PDF](https://arxiv.org/abs/2605.14876)]
+
+[arxiv 2026.05] Exploring Vision-Language Models for Online Signature Verification: A Zero-Shot Capability Study  [[PDF](https://arxiv.org/abs/2605.14845)]
+
+[arxiv 2026.05] EARL: Towards a Unified Analysis-Guided Reinforcement Learning Framework for Egocentric Interaction Reasoning and Pixel Grounding  [[PDF](https://arxiv.org/abs/2605.14742),[Page](https://github.com/yuggiehk/EARL)]
+
+[arxiv 2026.05] Breaking Dual Bottlenecks: Evolving Unified Multimodal Models into Self-Adaptive Interleaved Visual Reasoners  [[PDF](https://arxiv.org/abs/2605.14709)]
+
+[arxiv 2026.05] SceneFunRI: Reasoning the Invisible for Task-Driven Functional Object Localization  [[PDF](https://arxiv.org/abs/2605.14704)]
+
+[arxiv 2026.05] MultiEmo-Bench: Multi-label Visual Emotion Analysis for Multi-modal Large Language Models  [[PDF](https://arxiv.org/abs/2605.14635)]
+
+[arxiv 2026.05] Do We Really Need External Tools to Mitigate Hallucinations? SIRA: Shared-Prefix Internal Reconstruction of Attribution  [[PDF](https://arxiv.org/abs/2605.14621)]
+
+[arxiv 2026.05] Mitigating Mask Prior Drift and Positional Attention Collapse in Large Diffusion Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.14530)]
+
+[arxiv 2026.05] Think When Needed: Adaptive Reasoning-Driven Multimodal Embeddings with a Dual-LoRA Architecture  [[PDF](https://arxiv.org/abs/2605.14448)]
+
+[arxiv 2026.05] ICED: Concept-level Machine Unlearning via Interpretable Concept Decomposition  [[PDF](https://arxiv.org/abs/2605.14309)]
+
+[arxiv 2026.05] CurveBench: A Benchmark for Exact Topological Reasoning over Nested Jordan Curves  [[PDF](https://arxiv.org/abs/2605.14068)]
+
+[arxiv 2026.05] Octopus: History-Free Gradient Orthogonalization for Continual Learning in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2605.14938)]
+
+[arxiv 2026.05] Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining  [[PDF](https://arxiv.org/abs/2605.14747)]
+
+[arxiv 2026.05] Bad Seeing or Bad Thinking? Rewarding Perception for Vision-Language Reasoning  [[PDF](https://arxiv.org/abs/2605.14054)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

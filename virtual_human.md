@@ -360,6 +360,28 @@
 [arxiv 2026.05] Dynamic Full-body Motion Agent with Object Interaction via Blending Pre-trained Modular Controllers  [[PDF](https://arxiv.org/abs/2605.11369)]
 
 
+[arxiv 2026.05] EverAnimate: Minute-Scale Human Animation via Latent Flow Restoration  [[PDF](https://arxiv.org/abs/2605.15042),[Page](https://everanimate.github.io/homepage/)]
+
+[arxiv 2026.05] Multi-scale Coarse-to-fine Modeling for Test-time Human Motion Control  [[PDF](https://arxiv.org/abs/2605.14935)]
+
+[arxiv 2026.05] FactorizedHMR: A Hybrid Framework for Video Human Mesh Recovery  [[PDF](https://arxiv.org/abs/2605.14854)]
+
+[arxiv 2026.05] BioHuman: Learning Biomechanical Human Representations from Video  [[PDF](https://arxiv.org/abs/2605.14772)]
+
+[arxiv 2026.05] TOPOS: High-Fidelity and Efficient Industry-Grade 3D Head Generation  [[PDF](https://arxiv.org/abs/2605.14594)]
+
+[arxiv 2026.05] From Sparse to Dense: Spatio-Temporal Fusion for Multi-View 3D Human Pose Estimation with DenseWarper  [[PDF](https://arxiv.org/abs/2605.14525)]
+
+[arxiv 2026.05] Real2Sim in HOI: Toward Physically Plausible HOI Reconstruction from Monocular Videos  [[PDF](https://arxiv.org/abs/2605.14462)]
+
+[arxiv 2026.05] PhyMotion: Structured 3D Motion Reward for Physics-Grounded Human Video Generation  [[PDF](https://arxiv.org/abs/2605.14269),[Page](https://phy-motion.github.io/)]
+
+[arxiv 2026.05] UMo: Unified Sparse Motion Modeling for Real-Time Co-Speech Avatars  [[PDF](https://arxiv.org/abs/2605.14731)]
+
+[arxiv 2026.05] AnchorRoute: Human Motion Synthesis with Interval-Routed Sparse Contro  [[PDF](https://arxiv.org/abs/2605.14716)]
+
+[arxiv 2026.05] Before the Body Moves: Learning Anticipatory Joint Intent for Language-Conditioned Humanoid Control  [[PDF](https://arxiv.org/abs/2605.14417)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -669,6 +691,7 @@
 
 
 # ego
+<!-- Added on 2026-05-15 -->
 <!-- Added on 2026-05-08 -->
 <!-- Added on 2026-05-07 -->
 [arxiv 2025.04]  The Invisible EgoHand: 3D Hand Forecasting through EgoBody Pose Estimation [[PDF](https://arxiv.org/abs/2504.08654),[Page](https://masashi-hatano.github.io/EgoH4/)] ![Code](https://img.shields.io/github/stars/masashi-hatano/EgoH4?style=social&label=Star)
