@@ -1,4 +1,5 @@
 # Video Generation Survey
+<!-- Added on 2026-05-18 -->
 <!-- Added on 2026-05-15 -->
 <!-- Added on 2026-05-14 -->
 <!-- Added on 2026-05-13 -->
