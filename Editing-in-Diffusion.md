@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-05-15 -->
+<!-- Added on 2026-05-20 -->
 <!-- Added on 2026-05-13 -->
 <!-- Added on 2026-05-07 -->
 <!-- Added on 2026-05-06 -->
@@ -221,13 +221,21 @@
 [arxiv 2026.04] VibeToken: Scaling 1D Image Tokenizers and Autoregressive Models for Dynamic Resolution Generations  [[PDF](https://arxiv.org/abs/2604.24885),[Page](https://github.com/SonyResearch/VibeToken)]
 
 [arxiv 2026.04] NRGS: Neural Regularization for Robust 3D Semantic Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.22439)]
+
 [arxiv 2026.04] Efficient Diffusion Distillation via Embedding Loss  [[PDF](https://arxiv.org/abs/2604.22379)]
+
 [arxiv 2026.04] Flow4DGS-SLAM: Optical Flow-Guided 4D Gaussian Splatting SLAM  [[PDF](https://arxiv.org/abs/2604.22339)]
+
 [arxiv 2026.04] Knowledge Visualization: A Benchmark and Method for Knowledge-Intensive Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2604.22302)]
+
 [arxiv 2026.04] Evaluation of image simulation open source solutions for simulation of synthetic images in lunar environment  [[PDF](https://arxiv.org/abs/2604.22296)]
+
 [arxiv 2026.04] EvFlow-GS: Event Enhanced Motion Deblurring with Optical Flow for 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2604.22183)]
+
 [arxiv 2026.04] PAGaS: Pixel-Aligned 1DoF Gaussian Splatting for Depth Refinement  [[PDF](https://arxiv.org/abs/2604.22129)]
+
 [arxiv 2026.04] Structure-Guided Diffusion Model for EEG-Based Visual Cognition Reconstruction  [[PDF](https://arxiv.org/abs/2604.22649)]
+
 [arxiv 2026.04] How Many Visual Levers Drive Urban Perception? Interventional Counterfactuals via Multiple Localised Edits  [[PDF](https://arxiv.org/abs/2604.22103)]
 
 [arxiv 2026.04] UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection  [[PDF](https://arxiv.org/abs/2604.21904)]
@@ -1557,6 +1565,46 @@
 [arxiv 2026.05] SparseOIT: Improving Order-Independent Transparency 3DGS via Active Set Method  [[PDF](https://arxiv.org/abs/2605.13855)]
 
 [arxiv 2026.05] FaceParts: Segmentation and Editing of Gaussian Splatting  [[PDF](https://arxiv.org/abs/2605.13853)]
+
+[arxiv 2026.05] Multi-axis Analysis of Image Manipulation Localization  [[PDF](https://arxiv.org/abs/2605.20174)]
+
+[arxiv 2026.05] TideGS: Scalable Training of Over One Billion 3D Gaussian Splatting Primitives via Out-of-Core Optimization  [[PDF](https://arxiv.org/abs/2605.20150),[Page](https://sponge-lab.github.io/TideGS)]
+
+[arxiv 2026.05] Probability-Conserving Flow Guidance  [[PDF](https://arxiv.org/abs/2605.20079)]
+
+[arxiv 2026.05] OP2GS: Object-Aware 3D Gaussian Splatting with Dual-Opacity Primitives  [[PDF](https://arxiv.org/abs/2605.20044)]
+
+[arxiv 2026.05] InterLight: Leveraging Intrinsic Illumination Priors for Low-Light Image Enhancement  [[PDF](https://arxiv.org/abs/2605.19982),[Page](https://github.com/House-yuyu/InterLight)]
+
+[arxiv 2026.05] Structural Energy Guidance for View-Consistent Text-to-3D Generation  [[PDF](https://arxiv.org/abs/2605.19876)]
+
+[arxiv 2026.03] Structural Energy-Guided Sampling for View-Consistent Text-to-3D  [[PDF](https://arxiv.org/abs/2508.16917)]
+
+[arxiv 2026.05] A Framework for Evaluating Zero-Shot Image Generation in Concept-based Explainability  [[PDF](https://arxiv.org/abs/2605.19855)]
+
+[arxiv 2026.05] CPC-VAR:Continual Personalized and Compositional Generation in Visual Autoregressive Models  [[PDF](https://arxiv.org/abs/2605.19750)]
+
+[arxiv 2026.05] Physics-informed simulation framework for realistic sonar image generation and statistical validation  [[PDF](https://arxiv.org/abs/2605.19712)]
+
+[arxiv 2026.05] CAD-Free Learning of Spacecraft Pose Estimators via NeRF-Based Augmentations  [[PDF](https://arxiv.org/abs/2605.19649)]
+
+[arxiv 2026.05] Self-Creative Text-to-Object Generation using Semantic-Aware Spatial Weighting  [[PDF](https://arxiv.org/abs/2605.19554)]
+
+[arxiv 2026.05] Boosting Text-to-Image Diffusion Models via Core Token Attention-Based Seed Selection  [[PDF](https://arxiv.org/abs/2605.19532)]
+
+[arxiv 2026.05] Sparse Mixture-of-Experts Routing in Visual Diffusion Transformers:Diagnosis, Boundary Calibration and Evolutionary Roadmap from Routing Collapse to Selective Deadlock  [[PDF](https://arxiv.org/abs/2605.19378)]
+
+[arxiv 2026.05] Multi-Scale Generative Modeling with Heat Dissipation Flow Matching  [[PDF](https://arxiv.org/abs/2605.19371)]
+
+[arxiv 2026.05] SWEET: Sparse World Modeling with Image Editing for Embodied Task Execution  [[PDF](https://arxiv.org/abs/2605.19319)]
+
+[arxiv 2026.05] MMGS: 10$\times$ Compressed 3DGS through Optimal Transport Aggregation based on Multi-view Ranking  [[PDF](https://arxiv.org/abs/2605.19304)]
+
+[arxiv 2026.05] What Makes Synthetic Data Effective in Image Segmentation  [[PDF](https://arxiv.org/abs/2605.19289)]
+
+[arxiv 2026.05] FAGER: Factually Grounded Evaluation and Refinement of Text-to-Image Models  [[PDF](https://arxiv.org/abs/2605.19111)]
+
+[arxiv 2026.05] GLUT: 3D Gaussian Lookup Table for Continuous Color Transformation  [[PDF](https://arxiv.org/abs/2605.19889),[Page](https://color.cvc.uab.cat/glut/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -7977,32 +8025,61 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 [arxiv 2026.05] Generative Motion In-betweening by Diffusion over Continuous Implicit Representations  [[PDF](https://arxiv.org/abs/2605.12778)]
+
 [arxiv 2026.05] BlitzGS: City-Scale Gaussian Splatting at Lightning Speed  [[PDF](https://arxiv.org/abs/2605.13794)]
+
 [arxiv 2026.05] M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement  [[PDF](https://arxiv.org/abs/2605.12556)]
+
 [arxiv 2026.05] Improving Diffusion Posterior Samplers with Lagged Temporal Corrections for Image Restoration  [[PDF](https://arxiv.org/abs/2605.12573)]
+
 [arxiv 2026.05] Inline Critic Steers Image Editing  [[PDF](https://arxiv.org/abs/2605.12724)]
+
 [arxiv 2026.05] FRAME: Forensic Routing and Adaptive Multi-path Evidence Fusion for Image Manipulation Detection  [[PDF](https://arxiv.org/abs/2605.12826)]
+
 [arxiv 2026.05] DirectTryOn: One-Step Virtual Try-On via Straightened Conditional Transport  [[PDF](https://arxiv.org/abs/2605.12939)]
+
 [arxiv 2026.05] Asymmetric Flow Models  [[PDF](https://arxiv.org/abs/2605.12964),[Page](https://github.com/Lakonik/LakonLab)]
+
 [arxiv 2026.05] Amortized Guidance for Image Inpainting with Pretrained Diffusion Models  [[PDF](https://arxiv.org/abs/2605.13010)]
+
 [arxiv 2026.05] OCH3R: Object-Centric Holistic 3D Reconstruction  [[PDF](https://arxiv.org/abs/2605.13018)]
+
 [arxiv 2026.05] PRISM: Prior Rectification and Uncertainty-Aware Structure Modeling for Diffusion-Based Text Image Super-Resolution  [[PDF](https://arxiv.org/abs/2605.13027),[Page](https://github.com/faithxuz/PRISM)]
+
 [arxiv 2026.05] HarmoGS: Robust 3D Gaussian Splatting in the Wild via Conflict-Aware Gradient Harmonization  [[PDF](https://arxiv.org/abs/2605.13073)]
+
 [arxiv 2026.05] RoSplat: Robust Feed-Forward Pixel-wise Gaussian Splatting for Varying Input Views and High-Resolution Rendering  [[PDF](https://arxiv.org/abs/2605.13093)]
+
 [arxiv 2026.05] Early Semantic Grounding in Image Editing Models for Zero-Shot Referring Image Segmentation  [[PDF](https://arxiv.org/abs/2605.13122)]
+
 [arxiv 2026.05] Pareto-Guided Optimal Transport for Multi-Reward Alignment  [[PDF](https://arxiv.org/abs/2605.13155)]
+
 [arxiv 2026.05] Unifying Physically-Informed Weather Priors in A Single Model for Image Restoration Across Multiple Adverse Weather Conditions  [[PDF](https://arxiv.org/abs/2605.13158)]
+
 [arxiv 2026.05] Does Engram Do Memory Retrieval in Autoregressive Image Generation?  [[PDF](https://arxiv.org/abs/2605.13179)]
+
 [arxiv 2026.05] Skill-Aligned Annotation for Reliable Evaluation in Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2605.13223),[Page](https://abdo-eldesokey.github.io/skill-aligned-eval/)]
+
 [arxiv 2026.05] X-Restormer++: 1st Place Solution for the UG2+ CVPR 2026 All-Weather Restoration Challenge  [[PDF](https://arxiv.org/abs/2605.13258)]
+
 [arxiv 2026.05] Test-time Sparsity for Extreme Fast Action Diffusion  [[PDF](https://arxiv.org/abs/2605.13316)]
+
 [arxiv 2026.05] Drag within Prior Distribution: Text-Conditioned Point-Based Image Editing within Distribution Constraints  [[PDF](https://arxiv.org/abs/2605.13349)]
+
 [arxiv 2026.05] OP4KSR: One-Step Patch-Free 4K Super-Resolution with Periodic Artifact Suppression  [[PDF](https://arxiv.org/abs/2605.13457)]
+
 [arxiv 2026.05] Z-Order Transformer for Feed-Forward Gaussian Splatting  [[PDF](https://arxiv.org/abs/2605.13465)]
+
 [arxiv 2026.05] HIR-ALIGN: Enhancing Hyperspectral Image Restoration via Diffusion-Based Data Generation  [[PDF](https://arxiv.org/abs/2605.13581)]
+
 [arxiv 2026.05] Real2Sim: A Physics-driven and Editable Gaussian Splatting Framework for Autonomous Driving Scenes  [[PDF](https://arxiv.org/abs/2605.13591)]
+
 [arxiv 2026.05] Sparse Code Uplifting for Efficient 3D Language Gaussian Splatting  [[PDF](https://arxiv.org/abs/2605.13600)]
+
 [arxiv 2026.05] HADAR-Based Thermal Infrared Hyperspectral Image Restoration  [[PDF](https://arxiv.org/abs/2605.13664)]
+
 [arxiv 2026.05] Aligning Network Equivariance with Data Symmetry: A Theoretical Framework and Adaptive Approach for Image Restoration  [[PDF](https://arxiv.org/abs/2605.13744),[Page](https://github.com/tanfy929/SA-Conv)]
+
 [arxiv 2026.05] R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow  [[PDF](https://arxiv.org/abs/2605.13838),[Page](https://r-dmesh.github.io/)]

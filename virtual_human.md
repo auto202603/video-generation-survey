@@ -1,5 +1,5 @@
 ## Dataset
-<!-- Added on 2026-05-13 -->
+<!-- Added on 2026-05-20 -->
 <!-- Added on 2026-04-21 -->
 <!-- Added on 2026-04-20 -->
 <!-- Added on 2026-04-15 -->
@@ -64,6 +64,7 @@
 [arxiv 2026.04] VISION-SLS: Safe Perception-Based Control from Learned Visual Representations via System Level Synthesis  [[PDF](https://arxiv.org/abs/2604.24894)]
 
 [arxiv 2026.04] Learning Reactive Human Motion Generation from Paired Interaction Data Using Transformer-Based Models  [[PDF](https://arxiv.org/abs/2604.22164)]
+
 [arxiv 2026.04] Robust Camera-to-Mocap Calibration and Verification for Large-Scale Multi-Camera Data Capture  [[PDF](https://arxiv.org/abs/2604.22118)]
 
 [arxiv 2026.04] Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs  [[PDF](https://arxiv.org/abs/2604.21926),[Page](https://tianhang-cheng.github.io/IMU4D)]
@@ -381,6 +382,14 @@
 [arxiv 2026.05] AnchorRoute: Human Motion Synthesis with Interval-Routed Sparse Contro  [[PDF](https://arxiv.org/abs/2605.14716)]
 
 [arxiv 2026.05] Before the Body Moves: Learning Anticipatory Joint Intent for Language-Conditioned Humanoid Control  [[PDF](https://arxiv.org/abs/2605.14417)]
+
+[arxiv 2026.05] Bézier Degradation Modeling for LiDAR-based Human Motion Capture  [[PDF](https://arxiv.org/abs/2605.19620)]
+
+[arxiv 2026.05] EgoTraj: Real-World Egocentric Human Trajectory Dataset for Multimodal Prediction  [[PDF](https://arxiv.org/abs/2605.19004),[Page](https://github.com/yehiahmad/EgoTraj)]
+
+[arxiv 2026.05] MotionMERGE: A Multi-granular Framework for Human Motion Editing, Reasoning, Generation, and Explanation  [[PDF](https://arxiv.org/abs/2605.18956)]
+
+[arxiv 2026.05] Matérn Noise for Triangulation-Agnostic Flow Matching on Meshes  [[PDF](https://arxiv.org/abs/2605.19305),[Page](https://matern-fm.github.io/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1061,5 +1070,7 @@
 [arxiv 2026.03] Hierarchical Granularity Alignment and State Space Modeling for Robust Multimodal AU Detection in the Wild  [[PDF](https://arxiv.org/abs/2603.11306)]
 
 [arxiv 2026.03] A Two-Stage Dual-Modality Model for Facial Emotional Expression Recognition  [[PDF](https://arxiv.org/abs/2603.12221),[Page](https://affective-behavior-analysis-in-the-wild.github.io/10th/)]
+
 [arxiv 2026.05] Stylized Text-to-Motion Generation via Hypernetwork-Driven Low-Rank Adaptation  [[PDF](https://arxiv.org/abs/2605.13333),[Page](https://junhyukjeon.github.io/projects/style-salad/)]
+
 [arxiv 2026.05] Coordinating Multiple Conditions for Trajectory-Controlled Human Motion Generation  [[PDF](https://arxiv.org/abs/2605.13729)]
