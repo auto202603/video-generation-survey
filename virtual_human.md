@@ -1074,3 +1074,12 @@
 [arxiv 2026.05] Stylized Text-to-Motion Generation via Hypernetwork-Driven Low-Rank Adaptation  [[PDF](https://arxiv.org/abs/2605.13333),[Page](https://junhyukjeon.github.io/projects/style-salad/)]
 
 [arxiv 2026.05] Coordinating Multiple Conditions for Trajectory-Controlled Human Motion Generation  [[PDF](https://arxiv.org/abs/2605.13729)]
+
+[arxiv 2026.05] DAMA: Disentangled Body-Anchored Gaussians for Controllable Multi-Layered Avatars  [[PDF](https://arxiv.org/abs/2605.21001)]
+
+[arxiv 2026.05] DrawMotion: Generating 3D Human Motions by Freehand Drawing  [[PDF](https://arxiv.org/abs/2605.20955)]
+
+[arxiv 2026.05] Map-Mono-Ego: Map-Grounded Global Human Pose Estimation from Monocular Egocentric Video  [[PDF](https://arxiv.org/abs/2605.20889),[Page](https://deguchihiroyuki.github.io/Map-Mono-Ego-Project/)]
+
+[arxiv 2026.05] SUGAR: A Scalable Human-Video-Driven Generalizable Humanoid Loco-Manipulation Learning Framework  [[PDF](https://arxiv.org/abs/2605.20373),[Page](https://tianshuwu.github.io/sugar-humanoid/)]
+

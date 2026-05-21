@@ -4681,3 +4681,62 @@
 [arxiv 2026.05] Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context  [[PDF](https://arxiv.org/abs/2605.13831)]
 
 [arxiv 2026.05] Unlocking Patch-Level Features for CLIP-Based Class-Incremental Learning  [[PDF](https://arxiv.org/abs/2605.13835)]
+
+[arxiv 2026.05] Uni-Edit: Intelligent Editing Is A General Task For Unified Model Tuning  [[PDF](https://arxiv.org/abs/2605.21487),[Page](https://zhengdian1.github.io/Uni-Edit-proj/)]
+
+[arxiv 2026.05] WikiVQABench: A Knowledge-Grounded Visual Question Answering Benchmark from Wikipedia and Wikidata  [[PDF](https://arxiv.org/abs/2605.21479)]
+
+[arxiv 2026.05] TempGlitch: Evaluating Vision-Language Models for Temporal Glitch Detection in Gameplay Videos  [[PDF](https://arxiv.org/abs/2605.21443)]
+
+[arxiv 2026.05] Reducing Object Hallucination in LVLMs via Emphasizing Image-negative Tokens  [[PDF](https://arxiv.org/abs/2605.21300)]
+
+[arxiv 2026.05] MONET: A Massive, Open, Non-redundant and Enriched Text-to-image dataset  [[PDF](https://arxiv.org/abs/2605.21272)]
+
+[arxiv 2026.05] VersusQ: Pairwise Margin Reasoning for Generalizable Video Quality Assessment  [[PDF](https://arxiv.org/abs/2605.21130)]
+
+[arxiv 2026.05] TextSculptor: Training and Benchmarking Scene Text Editing  [[PDF](https://arxiv.org/abs/2605.21090)]
+
+[arxiv 2026.05] Grounding Driving VLA via Inverse Kinematics  [[PDF](https://arxiv.org/abs/2605.21061)]
+
+[arxiv 2026.05] Multimodal LLMs under Pairwise Modalities  [[PDF](https://arxiv.org/abs/2605.21059)]
+
+[arxiv 2026.05] Finding the Correct Visual Evidence Without Forgetting: Mitigating Hallucination in LVLMs via Inter-Layer Visual Attention Discrepancy  [[PDF](https://arxiv.org/abs/2605.20965)]
+
+[arxiv 2026.05] Focus-then-Context: Subject-Centric Progressive Visual Token Reduction for Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.20950)]
+
+[arxiv 2026.05] RISE: Reliable Improvement in Self-Evolving Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.20914)]
+
+[arxiv 2026.05] FruitEnsemble: MLLM-Guided Arbitration for Heterogeneous ensemble in Fine-Grained Fruit Recognition  [[PDF](https://arxiv.org/abs/2605.20892)]
+
+[arxiv 2026.05] ArchSIBench: Benchmarking the Architectural Spatial Intelligence of Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.20837)]
+
+[arxiv 2026.05] OSGNet with MLLM Reranking @ Ego4D Episodic Memory Challenge 2026  [[PDF](https://arxiv.org/abs/2605.20818)]
+
+[arxiv 2026.05] Draw2Think: Harnessing Geometry Reasoning through Constraint Engine Interaction  [[PDF](https://arxiv.org/abs/2605.20743)]
+
+[arxiv 2026.05] IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools  [[PDF](https://arxiv.org/abs/2605.20682)]
+
+[arxiv 2026.05] VISTAQA: Benchmarking Joint Visual Question Answering and Pixel-Level Evidence  [[PDF](https://arxiv.org/abs/2605.20676)]
+
+[arxiv 2026.05] QwenSafe: Multimodal Content Rating Description Identification via Preference-Aligned VLMs  [[PDF](https://arxiv.org/abs/2605.20584)]
+
+[arxiv 2026.05] ParaVT: Taming the Tool Prior Paradox for Parallel Tool Use in Agentic Video Reinforcement Learning  [[PDF](https://arxiv.org/abs/2605.20342),[Page](https://evolvinglmms-lab.github.io/ParaVT/)]
+
+[arxiv 2026.05] FullFlow: Upgrading Text-to-Image Flow Matching Models for Bidirectional Vision--Language Generation  [[PDF](https://arxiv.org/abs/2605.20316),[Page](https://ericbill21.github.io/fullflow/)]
+
+[arxiv 2026.05] JUDO: A Juxtaposed Domain-Oriented Multimodal Reasoner for Industrial Anomaly QA  [[PDF](https://arxiv.org/abs/2605.20284)]
+
+[arxiv 2026.05] AnimeAdapter: Fine-grained and Consistent Zero-shot Anime Character Generation  [[PDF](https://arxiv.org/abs/2605.20237)]
+
+[arxiv 2026.05] Leveraging Vision-Language Models to Detect Attention in Educational Videos  [[PDF](https://arxiv.org/abs/2605.20211)]
+
+[arxiv 2026.05] ProCrit: Self-Elicited Multi-Perspective Reasoning with Critic-Guided Revision for Multimodal Sarcasm Detection  [[PDF](https://arxiv.org/abs/2605.20867)]
+
+[arxiv 2026.05] Retrieval-Augmented Long-Context Translation for Cultural Image Captioning: Gators submission for AmericasNLP 2026 shared task  [[PDF](https://arxiv.org/abs/2605.20626)]
+
+[arxiv 2026.05] The Yes-Man Syndrome: Benchmarking Abstention in Embodied Robotic Agents  [[PDF](https://arxiv.org/abs/2605.20544)]
+
+[arxiv 2026.05] ClaimDiff-RL: Fine-Grained Caption Reinforcement Learning through Visual Claim Comparison  [[PDF](https://arxiv.org/abs/2605.20278)]
+
+[arxiv 2026.05] CP-MoE: Consistency-Preserving Mixture-of-Experts for Continual Learning  [[PDF](https://arxiv.org/abs/2605.20247)]
+

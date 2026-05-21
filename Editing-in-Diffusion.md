@@ -8083,3 +8083,56 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.05] Aligning Network Equivariance with Data Symmetry: A Theoretical Framework and Adaptive Approach for Image Restoration  [[PDF](https://arxiv.org/abs/2605.13744),[Page](https://github.com/tanfy929/SA-Conv)]
 
 [arxiv 2026.05] R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow  [[PDF](https://arxiv.org/abs/2605.13838),[Page](https://r-dmesh.github.io/)]
+
+[arxiv 2026.05] Latent Dynamics for Full Body Avatar Animation  [[PDF](https://arxiv.org/abs/2605.21478),[Page](https://youtu.be/xjnr3YM0yIE)]
+
+[arxiv 2026.05] iTryOn: Mastering Interactive Video Virtual Try-On with Spatial-Semantic Guidance  [[PDF](https://arxiv.org/abs/2605.21431),[Page](https://zhengjun-ai.github.io/itryon-page)]
+
+[arxiv 2026.05] Disentangling Generation and Regression in Stochastic Interpolants for Controllable Image Restoration  [[PDF](https://arxiv.org/abs/2605.21381)]
+
+[arxiv 2026.05] OcclusionFormer: Arranging Z-Order for Layout-Grounded Image Generation  [[PDF](https://arxiv.org/abs/2605.21343),[Page](https://henghuiding.com/OcclusionFormer/)]
+
+[arxiv 2026.05] RankE: End-to-End Post-Training for Discrete Text-to-Image Generation with Decoder Co-Evolution  [[PDF](https://arxiv.org/abs/2605.21195)]
+
+[arxiv 2026.05] Semantic Granularity Navigation in Image Editing  [[PDF](https://arxiv.org/abs/2605.21190)]
+
+[arxiv 2026.05] Linear-DPO: Linear Direct Preference Optimization for Diffusion and Flow-Matching Generative Models  [[PDF](https://arxiv.org/abs/2605.21123),[Page](https://github.com/Whynot0101/Linear-DPO)]
+
+[arxiv 2026.05] ROAR-3D: Routing Arbitrary Views for High-Fidelity 3D Generation  [[PDF](https://arxiv.org/abs/2605.21121)]
+
+[arxiv 2026.05] RCGDet3D: Rethinking 4D Radar-Camera Fusion-based 3D Object Detection with Enhanced Radar Feature Encoding  [[PDF](https://arxiv.org/abs/2605.21112)]
+
+[arxiv 2026.05] AIR: Amortized Image Reconstruction Framework for Self-Supervised Feed-Forward 2D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2605.20820)]
+
+[arxiv 2026.05] Spatial Gram Alignment for Ultra-High-Resolution Image Synthesis  [[PDF](https://arxiv.org/abs/2605.20808)]
+
+[arxiv 2026.05] Decomposing Subject-Driven Image Generation via Intermediate Structural Prediction  [[PDF](https://arxiv.org/abs/2605.20807)]
+
+[arxiv 2026.05] Findings of the Counter Turing Test: AI-Generated Image Detection  [[PDF](https://arxiv.org/abs/2605.20787)]
+
+[arxiv 2026.05] Sketch2MinSurf: Vision-Language Guided Generation of Editable Minimal Surfaces from Hand-Drawn Sketches  [[PDF](https://arxiv.org/abs/2605.20733)]
+
+[arxiv 2026.05] TASTE: A Designer-Annotated Multi-Dimensional Preference Dataset for AI-Generated Graphic Design  [[PDF](https://arxiv.org/abs/2605.20731)]
+
+[arxiv 2026.05] Rethinking Cross-Layer Information Routing in Diffusion Transformers  [[PDF](https://arxiv.org/abs/2605.20708)]
+
+[arxiv 2026.05] RoPeSLR: 3D RoPE-driven Sparse-LowRank Attention for Efficient Diffusion Transformers  [[PDF](https://arxiv.org/abs/2605.20659)]
+
+[arxiv 2026.05] Pareto-Enhanced Portrait Generation: Vision-Aligned Text Supervision for Alignment, Realism, and Aesthetics  [[PDF](https://arxiv.org/abs/2605.20640)]
+
+[arxiv 2026.05] Head-Aware Key-Value Compression for Efficient Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2605.20600)]
+
+[arxiv 2026.05] MAPS: A Synthetic Dataset for Probing Vision Models in a Controlled 3D Scene Space  [[PDF](https://arxiv.org/abs/2605.20549)]
+
+[arxiv 2026.05] Oracle Supervision Transfers for Hyperparameter Prediction in Model-Based Image Denoising  [[PDF](https://arxiv.org/abs/2605.20479)]
+
+[arxiv 2026.05] Tiny-Engram: Trigger-Indexed Concept Tables for Generative Vision  [[PDF](https://arxiv.org/abs/2605.20309)]
+
+[arxiv 2026.05] Variance Reduction for Expectations with Diffusion Teachers  [[PDF](https://arxiv.org/abs/2605.21489),[Page](https://research.nvidia.com/labs/sil/projects/CARV/)]
+
+[arxiv 2026.05] Learning to Think in Physics: Breaking Shortcut Learning in Scientific Diffusion via Representation Alignment  [[PDF](https://arxiv.org/abs/2605.20780)]
+
+[arxiv 2026.05] Conflict-Aware Additive Guidance for Flow Models under Compositional Rewards  [[PDF](https://arxiv.org/abs/2605.20758)]
+
+[arxiv 2026.05] TelePhysics: Physics-Grounded Multi-Object Scene Generation from a Single Image with Real-Time Interaction  [[PDF](https://arxiv.org/abs/2605.20290)]
+

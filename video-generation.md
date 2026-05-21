@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-05-20 -->
+<!-- Added on 2026-05-21 -->
 <!-- Added on 2026-05-15 -->
 <!-- Added on 2026-05-14 -->
 <!-- Added on 2026-05-13 -->
@@ -5345,3 +5345,22 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.05] Pyramid Forcing: Head-Aware Pyramid KV Cache Policy for High-Quality Long Video Generation  [[PDF](https://arxiv.org/abs/2605.13111)]
 
 [arxiv 2026.05] AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation  [[PDF](https://arxiv.org/abs/2605.13724),[Page](https://nvlabs.github.io/AnyFlow/)]
+
+[arxiv 2026.05] StreamGVE: Training-Free Video Editing via Few-Step Streaming Video Generation  [[PDF](https://arxiv.org/abs/2605.21466),[Page](https://dsl-lab.github.io/StreamGVE/)]
+
+[arxiv 2026.05] Q-ARVD: Quantizing Autoregressive Video Diffusion Models  [[PDF](https://arxiv.org/abs/2605.21072),[Page](https://github.com/tsa18/Q-ARVD)]
+
+[arxiv 2026.05] Dynamic Video Generation: Shaping Video Generation Across Time and Space  [[PDF](https://arxiv.org/abs/2605.21042)]
+
+[arxiv 2026.05] DySink: Dynamic Frame Sinks for Autoregressive Long Video Generation  [[PDF](https://arxiv.org/abs/2605.21028)]
+
+[arxiv 2026.05] Preserve, Reveal, Expand: Faithful 4D Video Editing with Region-Aware Conditioning  [[PDF](https://arxiv.org/abs/2605.20961)]
+
+[arxiv 2026.05] FlowLong: Inference-time Long Video Generation via Manifold-constrained Tweedie Matching  [[PDF](https://arxiv.org/abs/2605.20910),[Page](https://flowlong-video.github.io/)]
+
+[arxiv 2026.05] What Semantics Survive the Connector? Diagnosing VLM-to-DiT Alignment in Video Editing  [[PDF](https://arxiv.org/abs/2605.20795)]
+
+[arxiv 2026.05] Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models  [[PDF](https://arxiv.org/abs/2605.20624),[Page](https://avis-project.github.io/)]
+
+[arxiv 2026.05] Goodbye Drift: Anchored Tree Sampling for Long-Horizon Video-to-Video Generation  [[PDF](https://arxiv.org/abs/2605.20476)]
+
