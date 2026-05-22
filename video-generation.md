@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-05-21 -->
+<!-- Added on 2026-05-22 -->
 <!-- Added on 2026-05-15 -->
 <!-- Added on 2026-05-14 -->
 <!-- Added on 2026-05-13 -->
@@ -5363,4 +5363,20 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.05] Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models  [[PDF](https://arxiv.org/abs/2605.20624),[Page](https://avis-project.github.io/)]
 
 [arxiv 2026.05] Goodbye Drift: Anchored Tree Sampling for Long-Horizon Video-to-Video Generation  [[PDF](https://arxiv.org/abs/2605.20476)]
+
+[arxiv 2026.05] Cambrian-P: Pose-Grounded Video Understanding  [[PDF](https://arxiv.org/abs/2605.22819),[Page](https://cambrian-mllm.github.io/)]
+
+[arxiv 2026.05] MotiMotion: Motion-Controlled Video Generation with Visual Reasoning  [[PDF](https://arxiv.org/abs/2605.22818),[Page](https://motimotion.github.io/)]
+
+[arxiv 2026.05] WorldKV: Efficient World Memory with World Retrieval and Compression  [[PDF](https://arxiv.org/abs/2605.22718),[Page](https://cvlab-kaist.github.io/WorldKV/)]
+
+[arxiv 2026.05] Swift Sampling: Selecting Temporal Surprises via Taylor Series  [[PDF](https://arxiv.org/abs/2605.22678)]
+
+[arxiv 2026.05] VGenST-Bench: A Benchmark for Spatio-Temporal Reasoning via Active Video Synthesis  [[PDF](https://arxiv.org/abs/2605.22570),[Page](https://zinosii.github.io/VGenST-Bench/)]
+
+[arxiv 2026.05] Bernini: Latent Semantic Planning for Video Diffusion  [[PDF](https://arxiv.org/abs/2605.22344),[Page](https://bernini-ai.github.io/)]
+
+[arxiv 2026.05] ORBIS: Output-Guided Token Reduction with Distribution-Aware Matching for Video Diffusion Acceleration  [[PDF](https://arxiv.org/abs/2605.22015)]
+
+[arxiv 2026.05] ST-SimDiff: Balancing Spatiotemporal Similarity and Difference for Efficient Video Understanding with MLLMs  [[PDF](https://arxiv.org/abs/2605.22158)]
 

@@ -8136,3 +8136,47 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.05] TelePhysics: Physics-Grounded Multi-Object Scene Generation from a Single Image with Real-Time Interaction  [[PDF](https://arxiv.org/abs/2605.20290)]
 
+[arxiv 2026.05] Sensor2Sensor: Cross-Embodiment Sensor Conversion for Autonomous Driving  [[PDF](https://arxiv.org/abs/2605.22809)]
+
+[arxiv 2026.05] DecQ: Detail-Condensing Queries for Enhanced Reconstruction and Generation in Representation Autoencoders  [[PDF](https://arxiv.org/abs/2605.22777)]
+
+[arxiv 2026.05] SEGA: Spectral-Energy Guided Attention for Resolution Extrapolation in Diffusion Transformers  [[PDF](https://arxiv.org/abs/2605.22668),[Page](https://rajabi2001.github.io/sega/)]
+
+[arxiv 2026.05] From Baseline to Follow-Up: Counterfactual Spine DXA Image Synthesis in UK Biobank Using a Causal Hierarchical Variational Autoencoder  [[PDF](https://arxiv.org/abs/2605.22649)]
+
+[arxiv 2026.05] MaSC: A Masked Similarity Metric for Evaluating Concept-Driven Generation  [[PDF](https://arxiv.org/abs/2605.22469)]
+
+[arxiv 2026.05] Diffusion-guided Generalizable Enhancer for Urban Scene Reconstruction  [[PDF](https://arxiv.org/abs/2605.22420),[Page](https://waabi.ai/genre)]
+
+[arxiv 2026.05] QuantSR+: Pushing the Limit of Quantized Image Super-Resolution Networks  [[PDF](https://arxiv.org/abs/2605.22351)]
+
+[arxiv 2026.05] PIU: Proximity-guided Identity Unlearning in ID-Conditioned Diffusion Models  [[PDF](https://arxiv.org/abs/2605.22311)]
+
+[arxiv 2026.05] No Pose, No Problem in 4D: Feed-Forward Dynamic Gaussians from Unposed Multi-View Videos  [[PDF](https://arxiv.org/abs/2605.22190),[Page](https://bralani.github.io/nopo4d_html/)]
+
+[arxiv 2026.05] Event-Illumination Collaborative Low-light Image Enhancement with a High-resolution Real-world Dataset  [[PDF](https://arxiv.org/abs/2605.22186)]
+
+[arxiv 2026.05] AesFormer: Transform Everyday Photos into Beautiful Memories  [[PDF](https://arxiv.org/abs/2605.22126)]
+
+[arxiv 2026.05] OPERA: An Agent for Image Restoration with End-to-End Joint Planning-Execution Optimization  [[PDF](https://arxiv.org/abs/2605.22104)]
+
+[arxiv 2026.05] TWINGS: Thin Plate Splines Warp-aligned Initialization for Sparse-View Gaussian Splatting  [[PDF](https://arxiv.org/abs/2605.22069),[Page](https://sandokim.github.io/twings/)]
+
+[arxiv 2026.05] Distributed Image Compression with Multimodal Side Information at Extremely Low Bitrates  [[PDF](https://arxiv.org/abs/2605.22061)]
+
+[arxiv 2026.05] Broken Memories: Detecting and Mitigating Memorization in Diffusion Models with Degraded Generations  [[PDF](https://arxiv.org/abs/2605.22050)]
+
+[arxiv 2026.05] ForeSplat: Optimization-Aware Foresight for Feed-Forward 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2605.22020)]
+
+[arxiv 2026.05] Rethinking Token Reduction for Diffusion Models via Output-Similarity-Awareness  [[PDF](https://arxiv.org/abs/2605.22011)]
+
+[arxiv 2026.05] RiT: Vanilla Diffusion Transformers Suffice in Representation Space  [[PDF](https://arxiv.org/abs/2605.21981)]
+
+[arxiv 2026.05] Multi-scale interaction network for stereo image super-resolution  [[PDF](https://arxiv.org/abs/2605.21913)]
+
+[arxiv 2026.05] UniVL: Unified Vision-Language Embedding for Spatially Grounded Contextual Image Generation  [[PDF](https://arxiv.org/abs/2605.21611)]
+
+[arxiv 2026.05] GenEvolve: Self-Evolving Image Generation Agents via Tool-Orchestrated Visual Experience Distillation  [[PDF](https://arxiv.org/abs/2605.21605)]
+
+[arxiv 2026.05] Lens: Rethinking Training Efficiency for Foundational Text-to-Image Models  [[PDF](https://arxiv.org/abs/2605.21573),[Page](https://github.com/microsoft/Lens)]
+

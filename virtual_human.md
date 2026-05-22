@@ -1083,3 +1083,15 @@
 
 [arxiv 2026.05] SUGAR: A Scalable Human-Video-Driven Generalizable Humanoid Loco-Manipulation Learning Framework  [[PDF](https://arxiv.org/abs/2605.20373),[Page](https://tianshuwu.github.io/sugar-humanoid/)]
 
+[arxiv 2026.05] AnyMo: Geometry-Aware Setup-Agnostic Modeling of Human Motion in the Wild  [[PDF](https://arxiv.org/abs/2605.22715)]
+
+[arxiv 2026.05] AtomicMotion: Learning Human Motion From Different Human Parts  [[PDF](https://arxiv.org/abs/2605.22631)]
+
+[arxiv 2026.05] H-Flow: Self-supervised Human Scene Flow via Physics-inspired Joint Multi-modal Learning  [[PDF](https://arxiv.org/abs/2605.22629)]
+
+[arxiv 2026.05] Diverse Yet Consistent: Context-Guided Diffusion with Energy-Based Joint Refinement for Multi-Agent Motion Prediction  [[PDF](https://arxiv.org/abs/2605.22017)]
+
+[arxiv 2026.05] Bounding-Box Trajectories Matter for Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2605.21957)]
+
+[arxiv 2026.05] Imagine2Real: Towards Zero-shot Humanoid-Object Interaction via Video Generative Priors  [[PDF](https://arxiv.org/abs/2605.22272)]
+

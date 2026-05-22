@@ -4740,3 +4740,69 @@
 
 [arxiv 2026.05] CP-MoE: Consistency-Preserving Mixture-of-Experts for Continual Learning  [[PDF](https://arxiv.org/abs/2605.20247)]
 
+[arxiv 2026.05] Conceptualizing Embeddings: Sparse Disentanglement for Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.22679)]
+
+[arxiv 2026.05] GeoWeaver: Grounding Visual Tokens with Geometric Evidence before Scene Reasoning  [[PDF](https://arxiv.org/abs/2605.22558)]
+
+[arxiv 2026.05] FashionLens: Toward Versatile Fashion Image Retrieval via Task-Adaptive Learning  [[PDF](https://arxiv.org/abs/2605.22552)]
+
+[arxiv 2026.05] SpaceDG: Benchmarking Spatial Intelligence under Visual Degradation  [[PDF](https://arxiv.org/abs/2605.22536)]
+
+[arxiv 2026.05] Supervised Classification Heads as Semantic Prototypes: Unlocking Vision-Language Alignment via Weight Recycling  [[PDF](https://arxiv.org/abs/2605.22484)]
+
+[arxiv 2026.05] Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts  [[PDF](https://arxiv.org/abs/2605.22446)]
+
+[arxiv 2026.05] From Recognition to Reasoning: Benchmarking and Enhancing MLLMs on Real-World Receipt Document Understanding  [[PDF](https://arxiv.org/abs/2605.22413)]
+
+[arxiv 2026.05] AgroTools: A Benchmark for Tool-Augmented Multimodal Agents in Agriculture  [[PDF](https://arxiv.org/abs/2605.22366)]
+
+[arxiv 2026.05] Exposing Vulnerabilities in Visible-Infrared VLMs: A Unified Geometric Adversarial Framework with Cross-Task Transferability  [[PDF](https://arxiv.org/abs/2605.22273)]
+
+[arxiv 2026.05] EvoIR-Agent: Self-Evolving Image Restoration Agentic System via Experience-Driven Learning  [[PDF](https://arxiv.org/abs/2605.22208)]
+
+[arxiv 2026.05] Enhancing Multimodal Large Language Models for Safety-Critical Driving Video Analysis  [[PDF](https://arxiv.org/abs/2605.22185)]
+
+[arxiv 2026.05] COCOTree: A Dataset and Benchmark for Open Tree-Structured Visual Decomposition  [[PDF](https://arxiv.org/abs/2605.22068)]
+
+[arxiv 2026.05] GA-VLN: Geometry-Aware BEV Representation for Efficient Vision-Language Navigation  [[PDF](https://arxiv.org/abs/2605.22036)]
+
+[arxiv 2026.05] HyLoVQA: Dynamic Hypernetwork-Generated Low-Rank Adaptation for Continual Visual Question Answering  [[PDF](https://arxiv.org/abs/2605.22035)]
+
+[arxiv 2026.05] AgroVG: A Large-Scale Multi-Source Benchmark for Agricultural Visual Grounding  [[PDF](https://arxiv.org/abs/2605.22034)]
+
+[arxiv 2026.05] PointLLM-R: Enhancing 3D Point Cloud Reasoning via Chain-of-Thought  [[PDF](https://arxiv.org/abs/2605.22013)]
+
+[arxiv 2026.05] Interpreting and Enhancing Emotional Circuits in Large Vision-Language Models via Cross-Modal Information Flow  [[PDF](https://arxiv.org/abs/2605.21980)]
+
+[arxiv 2026.05] MLLMs Know When Before Speaking: Revealing and Recovering Temporal Grounding via Attention Cues  [[PDF](https://arxiv.org/abs/2605.21954),[Page](https://ddz16.github.io/mllmsknowwhen.github.io/)]
+
+[arxiv 2026.05] Visual-Advantage On-Policy Distillation for Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.21924)]
+
+[arxiv 2026.05] Thermo-VL: Extending Vision-Language Models to Thermal Infrared Perception  [[PDF](https://arxiv.org/abs/2605.21882)]
+
+[arxiv 2026.05] MM-Conv: A Multimodal Dataset and Benchmark for Context-Aware Grounding in 3D Dialogue  [[PDF](https://arxiv.org/abs/2605.21796)]
+
+[arxiv 2026.05] SceneGraphGrounder: Zero-Shot 3D Visual Grounding via Structured Scene Graph Matching  [[PDF](https://arxiv.org/abs/2605.21788)]
+
+[arxiv 2026.05] Improving 3D Labeling in Self-Driving by Inferring Vehicle Information using Vision Language Models  [[PDF](https://arxiv.org/abs/2605.21747)]
+
+[arxiv 2026.05] BEiTScore: Reference-free Image Captioning Evaluation with an Efficient Cross-Encoder Model  [[PDF](https://arxiv.org/abs/2605.21728)]
+
+[arxiv 2026.05] Ablate-to-Validate: Are Vision-Language Models Really Using Continuous Thought Tokens?  [[PDF](https://arxiv.org/abs/2605.21642)]
+
+[arxiv 2026.05] Flat-Pack Bench: Evaluating Spatio-Temporal Understanding in Large Vision-Language Models through Furniture Assembly  [[PDF](https://arxiv.org/abs/2605.21625)]
+
+[arxiv 2026.05] PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects  [[PDF](https://arxiv.org/abs/2605.21572),[Page](https://physx-omni.github.io/)]
+
+[arxiv 2026.05] AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation  [[PDF](https://arxiv.org/abs/2605.22816),[Page](https://gwxuan.github.io/AwareVLN/)]
+
+[arxiv 2026.05] Seeing the Poem: Image-Semantic Detection of AI-Generated Modern Chinese Poetry with MLLMs  [[PDF](https://arxiv.org/abs/2605.22654)]
+
+[arxiv 2026.05] Perception or Prejudice: Can MLLMs Go Beyond First Impressions of Personality?  [[PDF](https://arxiv.org/abs/2605.22109)]
+
+[arxiv 2026.05] Enhancing Visual Token Representations for Video Large Language Models via Training-Free Spatial-Temporal Pooling and Gridding  [[PDF](https://arxiv.org/abs/2605.22078)]
+
+[arxiv 2026.05] Faithful-MR1: Faithful Multimodal Reasoning via Anchoring and Reinforcing Visual Attention  [[PDF](https://arxiv.org/abs/2605.22072)]
+
+[arxiv 2026.05] LatentOmni: Rethinking Omni-Modal Understanding via Unified Audio-Visual Latent Reasoning  [[PDF](https://arxiv.org/abs/2605.22012)]
+
