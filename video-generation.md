@@ -1,5 +1,27 @@
 # Video Generation Survey
-<!-- Added on 2026-05-22 -->
+<!-- Added on 2026-05-25 -->
+[arxiv 2026.05] Geo-Align: Video Generation Alignment via Metric Geometry Reward  [[PDF](https://arxiv.org/abs/2605.23903)]
+
+[arxiv 2026.05] LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation  [[PDF](https://arxiv.org/abs/2605.23878),[Page](https://lamo-ai.github.io/)]
+
+[arxiv 2026.05] EM-Vid: Training-Free Entity-Centric Memory for Efficient and Consistent Multi-Shot Video Generation  [[PDF](https://arxiv.org/abs/2605.23610)]
+
+[arxiv 2026.05] One-Forcing: Towards Stable One-Step Autoregressive Video Generation  [[PDF](https://arxiv.org/abs/2605.23458),[Page](https://aurora-edu.github.io/one-forcing/)]
+
+[arxiv 2026.05] DFSAttn: Dynamic Fine-grained Sparse Attention for Efficient Video Generation  [[PDF](https://arxiv.org/abs/2605.23445)]
+
+[arxiv 2026.05] EvalVerse: Pipeline-Aware and Expert-Calibrated Benchmarking for Professional Cinematic Video Generation  [[PDF](https://arxiv.org/abs/2605.23271)]
+
+[arxiv 2026.05] Occlusion-Aware Physics-Semantic Keyframe Selection for Robust Video Editing  [[PDF](https://arxiv.org/abs/2605.23192)]
+
+[arxiv 2026.05] CoMoGen: COntrollable MOtion Dynamics and Interactions with Mask-Guided Video GENeration  [[PDF](https://arxiv.org/abs/2605.22996)]
+
+[arxiv 2026.05] VideoOdyssey: A Benchmark for Ultra-Long-Context and Omni-Modal Video Understanding  [[PDF](https://arxiv.org/abs/2605.22907)]
+
+[arxiv 2026.05] GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation  [[PDF](https://arxiv.org/abs/2605.22882)]
+
+[arxiv 2026.05] DrawVideo: Generating Long Video from Storyboard Keyframe Sketches  [[PDF](https://arxiv.org/abs/2605.23508)]
+
 <!-- Added on 2026-05-15 -->
 <!-- Added on 2026-05-14 -->
 <!-- Added on 2026-05-13 -->

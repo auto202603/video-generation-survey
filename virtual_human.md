@@ -1,5 +1,9 @@
 ## Dataset
-<!-- Added on 2026-05-20 -->
+<!-- Added on 2026-05-25 -->
+[arxiv 2026.05] Generator-Refiner-Examiner: A Tri-Module Data Augmentation Framework for 3D Human Avatar Learning from Monocular Videos  [[PDF](https://arxiv.org/abs/2605.23555)]
+
+[arxiv 2026.05] Suicide Risk Assessment from AI-powered Video Surveillance: An Interpretable Framework for Prevention in Metro Stations  [[PDF](https://arxiv.org/abs/2605.22904)]
+
 <!-- Added on 2026-04-21 -->
 <!-- Added on 2026-04-20 -->
 <!-- Added on 2026-04-15 -->

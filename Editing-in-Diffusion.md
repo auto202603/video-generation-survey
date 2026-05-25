@@ -1,5 +1,29 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-05-20 -->
+<!-- Added on 2026-05-25 -->
+[arxiv 2026.05] PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion  [[PDF](https://arxiv.org/abs/2605.23902),[Page](https://research.nvidia.com/labs/sil/projects/pid/)]
+
+[arxiv 2026.05] Learning a Particle Dynamics Model with Real-world Videos  [[PDF](https://arxiv.org/abs/2605.23845)]
+
+[arxiv 2026.05] RiGS: Rigid-aware 4D Gaussian Splatting from a Single Monocular Video  [[PDF](https://arxiv.org/abs/2605.23672)]
+
+[arxiv 2026.05] GlowGS: Generative Semantic Feature Learning for 3D Gaussian Splatting in Nighttime Glow Scenes  [[PDF](https://arxiv.org/abs/2605.23602)]
+
+[arxiv 2026.05] PixIE: Prompted Pixel-Space Low-Light Image Enhancement  [[PDF](https://arxiv.org/abs/2605.23531)]
+
+[arxiv 2026.05] VINS-120K: Ultra High-Resolution Image Editing with A Large-Scale Dataset  [[PDF](https://arxiv.org/abs/2605.23518)]
+
+[arxiv 2026.05] Efficient One-Step Diffusion Restoration Model with Compact Token Compression and Linear Attention  [[PDF](https://arxiv.org/abs/2605.23451)]
+
+[arxiv 2026.05] LangFlash: Feed-forward 3D Language Gaussian Splatting from Sparse Unposed Images  [[PDF](https://arxiv.org/abs/2605.23287)]
+
+[arxiv 2026.05] Coloring the Noise: Adversarial Sobolev Alignment for Faithful Image Super Resolution  [[PDF](https://arxiv.org/abs/2605.23264)]
+
+[arxiv 2026.05] Composing People Together: Iterative Pose-Image Generation for Multi-Person Interaction Scenes  [[PDF](https://arxiv.org/abs/2605.23178),[Page](https://cornell-vailab.github.io/PeopleComposer/)]
+
+[arxiv 2026.05] Leveraging Foundation Models for Causal Generative Modeling  [[PDF](https://arxiv.org/abs/2605.23861)]
+
+[arxiv 2026.05] What Linear Probes Miss: Multi-View Probing for Weight-Space Learning  [[PDF](https://arxiv.org/abs/2605.23410),[Page](https://github.com/AI-hew-math/MVProbe)]
+
 <!-- Added on 2026-05-13 -->
 <!-- Added on 2026-05-07 -->
 <!-- Added on 2026-05-06 -->

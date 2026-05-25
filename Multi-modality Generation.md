@@ -1,4 +1,30 @@
-<!-- Added on 2026-05-15 -->
+<!-- Added on 2026-05-25 -->
+[arxiv 2026.05] ETCHR: Editing To Clarify and Harness Reasoning  [[PDF](https://arxiv.org/abs/2605.23897),[Page](https://github.com/InternLM/ETCHR)]
+
+[arxiv 2026.05] Smart-Insertion-V: Photorealistic Video Insertion via a Closed-Loop Feedback Dual-Stream Framework  [[PDF](https://arxiv.org/abs/2605.23891)]
+
+[arxiv 2026.05] PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs  [[PDF](https://arxiv.org/abs/2605.23883)]
+
+[arxiv 2026.05] PhotoFlow: Agentic 3D Virtual Photography Missions  [[PDF](https://arxiv.org/abs/2605.23771)]
+
+[arxiv 2026.05] CVSearch: Empowering Multimodal LLMs with Cognitive Visual Search for High-Resolution Image Perception  [[PDF](https://arxiv.org/abs/2605.23655)]
+
+[arxiv 2026.05] CHASD: Language Increment-Calibrated Contrastive Decoding against Hallucination in LVLMs  [[PDF](https://arxiv.org/abs/2605.23344)]
+
+[arxiv 2026.05] ChainFlow-VLA: Causal Flow Planning with Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.23270)]
+
+[arxiv 2026.05] CARE: Class-Adaptive Expert Consensus for Reliable Learning with Long-Tailed Noisy Labels  [[PDF](https://arxiv.org/abs/2605.23254)]
+
+[arxiv 2026.05] CaST-Bench: Benchmarking Causal Chain-Grounded Spatio-Temporal Reasoning for Video Question Answering  [[PDF](https://arxiv.org/abs/2605.23216)]
+
+[arxiv 2026.05] DRIVESPATIAL: A Benchmark for Spatiotemporal Intelligence in VLMs for Autonomous Driving  [[PDF](https://arxiv.org/abs/2605.23176)]
+
+[arxiv 2026.05] CoReVAD: A Contextual Reasoning Framework for Training-Free Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2605.23116)]
+
+[arxiv 2026.05] Seeing without Looking: Do Vision-Language Benchmarks Really Test Vision?  [[PDF](https://arxiv.org/abs/2605.22903)]
+
+[arxiv 2026.05] Debiased Negative Mining Improves Out-of-distribution Detection with Pre-trained Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.23797)]
+
 <!-- Added on 2026-05-20 -->
 <!-- Added on 2026-04-21 -->
 <!-- Added on 2026-04-20 -->
