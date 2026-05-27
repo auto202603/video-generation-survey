@@ -1,4 +1,4 @@
-<!-- Added on 2026-05-25 -->
+<!-- Added on 2026-05-27 -->
 [arxiv 2026.05] ETCHR: Editing To Clarify and Harness Reasoning  [[PDF](https://arxiv.org/abs/2605.23897),[Page](https://github.com/InternLM/ETCHR)]
 
 [arxiv 2026.05] Smart-Insertion-V: Photorealistic Video Insertion via a Closed-Loop Feedback Dual-Stream Framework  [[PDF](https://arxiv.org/abs/2605.23891)]
@@ -25,13 +25,13 @@
 
 [arxiv 2026.05] Debiased Negative Mining Improves Out-of-distribution Detection with Pre-trained Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.23797)]
 
-<!-- Added on 2026-05-20 -->
-<!-- Added on 2026-04-21 -->
-<!-- Added on 2026-04-20 -->
-<!-- Added on 2026-04-10 -->
-<!-- Added on 2026-04-14 -->
-<!-- Added on 2026-05-04 -->
-<!-- Added on 2026-05-05 -->
+<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-27 -->
 
 [arxiv 2026.05] OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents  [[PDF](https://arxiv.org/abs/2605.05185),[Page](https://github.com/shawn0728/OpenSearch-VL)]
 
@@ -177,15 +177,15 @@
 
 [arxiv 2026.05] Prompt-Induced Score Variance in Zero-Shot Binary Vision-Language Safety Classification  [[PDF](https://arxiv.org/abs/2605.00326)]
 
-<!-- Added on 2026-04-24 -->
+<!-- Added on 2026-05-27 -->
 
-<!-- Added on 2026-04-27 -->
+<!-- Added on 2026-05-27 -->
 
-<!-- Added on 2026-04-29 -->
+<!-- Added on 2026-05-27 -->
 
-<!-- Added on 2026-04-30 -->
+<!-- Added on 2026-05-27 -->
 
-<!-- Added on 2026-05-01 -->
+<!-- Added on 2026-05-27 -->
 
 [arxiv 2026.04] AEGIS: A Holistic Benchmark for Evaluating Forensic Analysis of AI-Generated Academic Images  [[PDF](https://arxiv.org/abs/2604.28177)]
 
@@ -564,9 +564,9 @@
 [arxiv 2026.04] Evaluation of Embedding-Based and Generative Methods for LLM-Driven Document Classification: Opportunities and Challenges  [[PDF](https://arxiv.org/abs/2604.04997)]
 
 
-<!-- Added on 2026-03-25 -->
-<!-- Added on 2026-03-26 -->
-<!-- Added on 2026-04-02 -->
+<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-27 -->
 [arxiv 2026.04] Benchmarking and Mechanistic Analysis of Vision-Language Models for Cross-Depiction Assembly Instruction Alignment  [[PDF](https://arxiv.org/abs/2604.00913v1),[Page](https://ryenhails.github.io/IKEA-Bench/)]
 
 [arxiv 2026.04] Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding  [[PDF](https://arxiv.org/abs/2604.00528v1)]
@@ -2341,6 +2341,60 @@
 [arxiv 2026.05] INAR-VL: Input-Aware Routing for Edge-Cloud Vision-Language Inference  [[PDF](https://arxiv.org/abs/2605.18853)]
 
 [arxiv 2026.05] SpecX: A Large-Scale Benchmark for Multi-Modal Spectroscopy and Cross-Paradigm Evaluation  [[PDF](https://arxiv.org/abs/2605.18791)]
+
+[arxiv 2026.05] LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding  [[PDF](https://arxiv.org/abs/2605.27365)]
+
+[arxiv 2026.05] How and What to Imagine? Visual Thinking in Unified Multimodal Models for Cross-View Spatial Reasoning  [[PDF](https://arxiv.org/abs/2605.27310)]
+
+[arxiv 2026.05] Can Retrieval Heads See Images? Multimodal Retrieval Heads in Long-Context Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.27243)]
+
+[arxiv 2026.05] Generative Animations: A Multi-Model Pipeline for Prompt-Driven Motion Synthesis  [[PDF](https://arxiv.org/abs/2605.27203)]
+
+[arxiv 2026.05] Touch-R1: Reinforcing Touch Reasoning in MLLMs  [[PDF](https://arxiv.org/abs/2605.27154),[Page](https://laiyingxin2.github.io/Projects)]
+
+[arxiv 2026.05] Leveraging Visual Signals for Robust Token-Level Uncertainty in Vision-Language Generation  [[PDF](https://arxiv.org/abs/2605.27136)]
+
+[arxiv 2026.05] IPIBench: Evaluating Interactive Proactive Intelligence of MLLMs under Continuous Streams  [[PDF](https://arxiv.org/abs/2605.27074)]
+
+[arxiv 2026.05] On the Robustness of Machine Unlearning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.26992)]
+
+[arxiv 2026.05] REVERSE: Reinforcing Evidence Verification and Search for Agentic Image geo-localization  [[PDF](https://arxiv.org/abs/2605.26861)]
+
+[arxiv 2026.05] OSMa-Bench++: Toward Open-Ended Benchmarking of Semantic Mapping for Manipulation with Prompt-Generated Synthetic Scenes  [[PDF](https://arxiv.org/abs/2605.26831),[Page](https://github.com/be2rlab/OSMa-Bench-v2)]
+
+[arxiv 2026.05] Once-For-All: A Train-Once and Select-Anytime Framework for Multimodal Instruction Tuning  [[PDF](https://arxiv.org/abs/2605.26761)]
+
+[arxiv 2026.05] PinPoint: Prompting with Informative Interior Points  [[PDF](https://arxiv.org/abs/2605.26689)]
+
+[arxiv 2026.05] Respecting Modality Gap in Post-hoc Out-of-distribution Detection with Pre-trained Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.26661)]
+
+[arxiv 2026.05] DV-SFT: Direct Vision Supervision for Fine-Grained Visual Understanding  [[PDF](https://arxiv.org/abs/2605.26656)]
+
+[arxiv 2026.05] FTibSuite: A Comprehensive Resource Suite for Tibetan Vision-Language Modeling  [[PDF](https://arxiv.org/abs/2605.26601)]
+
+[arxiv 2026.05] A Hybrid Vision-Language Architecture for Automated Defect Reasoning and Report Generation in Industrial Inspection  [[PDF](https://arxiv.org/abs/2605.26533)]
+
+[arxiv 2026.05] InterSketch: An Interleaved Reasoning Model with Self-correcting Visual Sketch and Stepwise Reward  [[PDF](https://arxiv.org/abs/2605.26520)]
+
+[arxiv 2026.05] HydraPrompt: An Adaptive and Asymmetric Framework of Vision-Language Models for Synthetic Image Detection  [[PDF](https://arxiv.org/abs/2605.26421)]
+
+[arxiv 2026.05] The Rescue Effect: Spatio-Semantic Early Exit Bypasses Quantization Collapse in CLIP  [[PDF](https://arxiv.org/abs/2605.26415)]
+
+[arxiv 2026.05] OmniGF: A Dual-Branch Vision-Language Framework for Unified Gaze Following  [[PDF](https://arxiv.org/abs/2605.26399)]
+
+[arxiv 2026.05] Zero-Shot Object Re-Identification in Egocentric Kitchen Videos via Multi-Stage SAM3 Feature Fusion  [[PDF](https://arxiv.org/abs/2605.26383)]
+
+[arxiv 2026.05] VisualNeedle: Benchmarking Active Visual Search in Information-Dense Scenes  [[PDF](https://arxiv.org/abs/2605.26380)]
+
+[arxiv 2026.05] LongAV-Compass: Towards Unified Evaluation of Minute-Scale Audio-Visual Generation Across T2AV, I2AV, and V2AV  [[PDF](https://arxiv.org/abs/2605.26244)]
+
+[arxiv 2026.05] Not All Modalities Are Equal: Instruction-Aware Gating for Multimodal Videos  [[PDF](https://arxiv.org/abs/2605.26232)]
+
+[arxiv 2026.05] EdgeFlow: Edge-Map Augmented VLM-Based Flowchart Processing for Industrial Requirements Engineering  [[PDF](https://arxiv.org/abs/2605.27332)]
+
+[arxiv 2026.05] Chartographer: Counterfactual Chart Generation for Evaluating Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.27311)]
+
+[arxiv 2026.05] Object Pose and Shape Estimation for Grasping: Does it Work?  [[PDF](https://arxiv.org/abs/2605.26944)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

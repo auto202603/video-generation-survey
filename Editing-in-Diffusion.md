@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-05-25 -->
+<!-- Added on 2026-05-27 -->
 [arxiv 2026.05] PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion  [[PDF](https://arxiv.org/abs/2605.23902),[Page](https://research.nvidia.com/labs/sil/projects/pid/)]
 
 [arxiv 2026.05] Learning a Particle Dynamics Model with Real-world Videos  [[PDF](https://arxiv.org/abs/2605.23845)]
@@ -24,15 +24,15 @@
 
 [arxiv 2026.05] What Linear Probes Miss: Multi-View Probing for Weight-Space Learning  [[PDF](https://arxiv.org/abs/2605.23410),[Page](https://github.com/AI-hew-math/MVProbe)]
 
-<!-- Added on 2026-05-13 -->
-<!-- Added on 2026-05-07 -->
-<!-- Added on 2026-05-06 -->
-<!-- Added on 2026-04-21 -->
-<!-- Added on 2026-04-20 -->
-<!-- Added on 2026-04-15 -->
-<!-- Added on 2026-04-14 -->
-<!-- Added on 2026-05-04 -->
-<!-- Added on 2026-05-05 -->
+<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-27 -->
 
 [arxiv 2026.05] Taming Outlier Tokens in Diffusion Transformers  [[PDF](https://arxiv.org/abs/2605.05206)]
 
@@ -172,15 +172,15 @@
 
 [arxiv 2026.05] FieryGS: In-the-Wild Fire Synthesis with Physics-Integrated Gaussian Splatting  [[PDF](https://arxiv.org/abs/2605.00177)]
 
-<!-- Added on 2026-04-24 -->
+<!-- Added on 2026-05-27 -->
 
-<!-- Added on 2026-04-27 -->
+<!-- Added on 2026-05-27 -->
 
-<!-- Added on 2026-04-29 -->
+<!-- Added on 2026-05-27 -->
 
-<!-- Added on 2026-04-30 -->
+<!-- Added on 2026-05-27 -->
 
-<!-- Added on 2026-05-01 -->
+<!-- Added on 2026-05-27 -->
 
 [arxiv 2026.04] Generalizable Sparse-View 3D Reconstruction from Unconstrained Images  [[PDF](https://arxiv.org/abs/2604.28193),[Page](https://genwildsplat.github.io/)]
 
@@ -484,8 +484,8 @@
 
 [arxiv 2026.04] Part-Level 3D Gaussian Vehicle Generation with Joint and Hinge Axis Estimation  [[PDF](https://arxiv.org/abs/2604.05070)]
 
-<!-- Added on 2026-04-01 -->
-<!-- Added on 2026-03-26 -->
+<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-27 -->
 [arxiv 2026.03] ViHOI: Human-Object Interaction Synthesis with Visual Priors  [[PDF](https://arxiv.org/abs/2603.24383)]
 
 [arxiv 2026.03] InstanceRSR: Real-World Super-Resolution via Instance-Aware Representation Alignment  [[PDF](https://arxiv.org/abs/2603.24240)]
@@ -1629,6 +1629,42 @@
 [arxiv 2026.05] FAGER: Factually Grounded Evaluation and Refinement of Text-to-Image Models  [[PDF](https://arxiv.org/abs/2605.19111)]
 
 [arxiv 2026.05] GLUT: 3D Gaussian Lookup Table for Continuous Color Transformation  [[PDF](https://arxiv.org/abs/2605.19889),[Page](https://color.cvc.uab.cat/glut/)]
+
+[arxiv 2026.05] Feedforward 3D Editing Learns from Semantic-Part Transformation  [[PDF](https://arxiv.org/abs/2605.27351),[Page](https://dennis-jwweng.github.io/pxform/)]
+
+[arxiv 2026.05] Towards Controllable Image Generation through Representation-Conditioned Diffusion Models  [[PDF](https://arxiv.org/abs/2605.27343)]
+
+[arxiv 2026.05] MRT: Masked Region Transformer for Layered Image Generation and Editing at Scale  [[PDF](https://arxiv.org/abs/2605.27235)]
+
+[arxiv 2026.05] JLT: Clean-Latent Prediction in Latent Diffusion Transformers  [[PDF](https://arxiv.org/abs/2605.27102)]
+
+[arxiv 2026.05] SoftCap: Soft-Budget Control for Diffusion Transformer Acceleration  [[PDF](https://arxiv.org/abs/2605.27075)]
+
+[arxiv 2026.05] Black-box Membership Inference Attacks on the Pre-training Data of Image-generation Models  [[PDF](https://arxiv.org/abs/2605.27020)]
+
+[arxiv 2026.05] Timestep-Aware SVDQuant-GPTQ for W4A4 Quantization of Wan2.2-I2V  [[PDF](https://arxiv.org/abs/2605.27003)]
+
+[arxiv 2026.05] Leveraging Text-to-Image Diffusion Models for Unsupervised Visual Object Tracking  [[PDF](https://arxiv.org/abs/2605.26933)]
+
+[arxiv 2026.05] DelowlightSplat: Feed-Forward Gaussian Splatting for Lowlight 3D Scene Reconstruction  [[PDF](https://arxiv.org/abs/2605.26629)]
+
+[arxiv 2026.05] Gaussian-Voxel Duet: A Dual-Scaffolding Hybrid Representation for Fast and Accurate Monocular Surface Reconstruction  [[PDF](https://arxiv.org/abs/2605.26616)]
+
+[arxiv 2026.05] TrackRef3D: Multi-View Consistent Track-then-Label for Open-World Referring Segmentation in 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2605.26576)]
+
+[arxiv 2026.05] Uncertainty-Aware Gaussian Map for Vision-Language Navigation  [[PDF](https://arxiv.org/abs/2605.26503)]
+
+[arxiv 2026.05] 3D Gaussian Map with Open-Set Semantic Grouping for Vision-Language Navigation  [[PDF](https://arxiv.org/abs/2605.26500)]
+
+[arxiv 2026.05] AnchorDiff: Training-Free Concept Grounding for MM-DiTs via Anchor-Based Graph Propagation  [[PDF](https://arxiv.org/abs/2605.26460)]
+
+[arxiv 2026.05] Underwater360: Reconstructing Underwater Scenes from Panoramic Images with Omnidirectional Gaussian Splatting  [[PDF](https://arxiv.org/abs/2605.26447)]
+
+[arxiv 2026.05] Personalized Generative Models for Contextual Debiasing  [[PDF](https://arxiv.org/abs/2605.26353),[Page](https://github.com/princetonvisualai/DecoupleGen)]
+
+[arxiv 2026.05] RadarSim: Simulating Single-Chip Radar via Multimodal Neural Fields  [[PDF](https://arxiv.org/abs/2605.26328),[Page](https://sally-chen.github.io/radar-sim/)]
+
+[arxiv 2026.05] Beyond Pairwise Preferences: Listwise Reward-Aware Alignment for Diffusion Models  [[PDF](https://arxiv.org/abs/2605.26491)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -7899,8 +7935,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2023.04]Synthesizing Anyone, Anywhere, in Any Pose[[PDF](https://arxiv.org/abs/2304.03164)]
 
 # real-to-cg
-<!-- Added on 2026-03-25 -->
-<!-- Added on 2026-04-02 -->
+<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-27 -->
 [arxiv 2026.04] EmoScene: A Dual-space Dataset for Controllable Affective Image Generation  [[PDF](https://arxiv.org/abs/2604.00933v1)]
 
 [arxiv 2026.04] MotionGrounder: Grounded Multi-Object Motion Transfer via Diffusion Transformer  [[PDF](https://arxiv.org/abs/2604.00853v1),[Page](https://kaist-viclab.github.io/motiongrounder-site/)]

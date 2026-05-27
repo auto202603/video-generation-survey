@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-05-25 -->
+<!-- Added on 2026-05-27 -->
 [arxiv 2026.05] Geo-Align: Video Generation Alignment via Metric Geometry Reward  [[PDF](https://arxiv.org/abs/2605.23903)]
 
 [arxiv 2026.05] LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation  [[PDF](https://arxiv.org/abs/2605.23878),[Page](https://lamo-ai.github.io/)]
@@ -847,6 +847,16 @@ A reading list of video generation
 [arxiv 2026.05] PhyWorld: Physics-Faithful World Model for Video Generation  [[PDF](https://arxiv.org/abs/2605.19242)]
 
 [arxiv 2026.05] HAVEN: Hierarchically Aligned Multimodal Benchmark for Unified Video Understanding  [[PDF](https://arxiv.org/abs/2605.19223)]
+
+[arxiv 2026.05] PARE: Pruning and Adaptive Routing for Efficient Video Generation  [[PDF](https://arxiv.org/abs/2605.27336)]
+
+[arxiv 2026.05] CodecCap: High-Fidelity Codec-Inspired Residual Modeling for Dense Video Captioning  [[PDF](https://arxiv.org/abs/2605.26967)]
+
+[arxiv 2026.05] DynFrame: Adaptive Reasoning-Driven Multimodal Framework with Dynamic Frame Augmentation for Complex Video Understanding  [[PDF](https://arxiv.org/abs/2605.26680)]
+
+[arxiv 2026.05] O-MARC: Omni Memory-Augmented Compression Distillation for Efficient Video Understanding  [[PDF](https://arxiv.org/abs/2605.26584)]
+
+[arxiv 2026.05] Quantized Keys Steal Attention: Bias Correction for KV-Cache Compression in Video Diffusion  [[PDF](https://arxiv.org/abs/2605.26266)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

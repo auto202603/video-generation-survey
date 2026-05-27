@@ -1,15 +1,15 @@
 ## Dataset
-<!-- Added on 2026-05-25 -->
+<!-- Added on 2026-05-27 -->
 [arxiv 2026.05] Generator-Refiner-Examiner: A Tri-Module Data Augmentation Framework for 3D Human Avatar Learning from Monocular Videos  [[PDF](https://arxiv.org/abs/2605.23555)]
 
 [arxiv 2026.05] Suicide Risk Assessment from AI-powered Video Surveillance: An Interpretable Framework for Prevention in Metro Stations  [[PDF](https://arxiv.org/abs/2605.22904)]
 
-<!-- Added on 2026-04-21 -->
-<!-- Added on 2026-04-20 -->
-<!-- Added on 2026-04-15 -->
-<!-- Added on 2026-04-14 -->
-<!-- Added on 2026-05-04 -->
-<!-- Added on 2026-05-05 -->
+<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-27 -->
 
 [arxiv 2026.05] Syn4D: A Multiview Synthetic 4D Dataset  [[PDF](https://arxiv.org/abs/2605.05207),[Page](https://jzr99.github.io/Syn4D/)]
 
@@ -37,15 +37,15 @@
 
 [arxiv 2026.05] MAEPose: Self-Supervised Spatiotemporal Learning for Human Pose Estimation on mmWave Video  [[PDF](https://arxiv.org/abs/2605.00242)]
 
-<!-- Added on 2026-04-24 -->
+<!-- Added on 2026-05-27 -->
 
-<!-- Added on 2026-04-27 -->
+<!-- Added on 2026-05-27 -->
 
-<!-- Added on 2026-04-29 -->
+<!-- Added on 2026-05-27 -->
 
-<!-- Added on 2026-04-30 -->
+<!-- Added on 2026-05-27 -->
 
-<!-- Added on 2026-05-01 -->
+<!-- Added on 2026-05-27 -->
 
 [arxiv 2026.04] Action Motifs: Self-Supervised Hierarchical Representation of Human Body Movements  [[PDF](https://arxiv.org/abs/2604.28173)]
 
@@ -117,7 +117,7 @@
 
 [arxiv 2026.04] Human Interaction-Aware 3D Reconstruction from a Single Image  [[PDF](https://arxiv.org/abs/2604.05436)]
 
-<!-- Added on 2026-04-01 -->
+<!-- Added on 2026-05-27 -->
 [arxiv 2026.03] HandX: Scaling Bimanual Motion and Interaction Generation  [[PDF](https://arxiv.org/abs/2603.28766)]
 
 [arxiv 2026.03] PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models  [[PDF](https://arxiv.org/abs/2603.28763)]
@@ -134,7 +134,7 @@
 
 [arxiv 2026.03] Uncertainty-Aware Mapping from 3D Keypoints to Anatomical Landmarks for Markerless Biomechanics  [[PDF](https://arxiv.org/abs/2603.26844)]
 
-<!-- Added on 2026-03-26 -->
+<!-- Added on 2026-05-27 -->
 [arxiv 2026.03] B-MoE: A Body-Part-Aware Mixture-of-Experts "All Parts Matter" Approach to Micro-Action Recognition  [[PDF](https://arxiv.org/abs/2603.24245)]
 
 [arxiv 2026.03] ViHOI: Human-Object Interaction Synthesis with Visual Priors  [[PDF](https://arxiv.org/abs/2603.24383)]
@@ -394,6 +394,14 @@
 [arxiv 2026.05] MotionMERGE: A Multi-granular Framework for Human Motion Editing, Reasoning, Generation, and Explanation  [[PDF](https://arxiv.org/abs/2605.18956)]
 
 [arxiv 2026.05] Matérn Noise for Triangulation-Agnostic Flow Matching on Meshes  [[PDF](https://arxiv.org/abs/2605.19305),[Page](https://matern-fm.github.io/)]
+
+[arxiv 2026.05] Natural Human Motion Recovery by Aligning High-Order Temporal Dynamics from Monocular Videos  [[PDF](https://arxiv.org/abs/2605.26879),[Page](https://zju3dv.github.io/htd-refine/)]
+
+[arxiv 2026.05] Self-Intersection-Aware 3D Human Motion Generation Using an Efficient Human Sphere Proxy  [[PDF](https://arxiv.org/abs/2605.26744)]
+
+[arxiv 2026.05] E$^3$C: Video Generation with 3D Environmental Memory and Ego-Exo Human Pose Control  [[PDF](https://arxiv.org/abs/2605.26316),[Page](https://e3c-videogen.github.io/)]
+
+[arxiv 2026.05] RoMo: A Large-Scale, Richly Organized Dataset and Semantic Taxonomy for Human Motion Generation  [[PDF](https://arxiv.org/abs/2605.26241)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -704,9 +712,9 @@
 
 
 # ego
-<!-- Added on 2026-05-15 -->
-<!-- Added on 2026-05-08 -->
-<!-- Added on 2026-05-07 -->
+<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-27 -->
 [arxiv 2025.04]  The Invisible EgoHand: 3D Hand Forecasting through EgoBody Pose Estimation [[PDF](https://arxiv.org/abs/2504.08654),[Page](https://masashi-hatano.github.io/EgoH4/)] ![Code](https://img.shields.io/github/stars/masashi-hatano/EgoH4?style=social&label=Star)
 
 [arxiv 2026.04] CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator  [[PDF](https://arxiv.org/abs/2604.03156v1)]
@@ -725,8 +733,8 @@
 
 
 # LLM 
-<!-- Added on 2026-03-25 -->
-<!-- Added on 2026-04-02 -->
+<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-27 -->
 [arxiv 2026.04] Sparkle: A Robust and Versatile Representation for Point Cloud based Human Motion Capture  [[PDF](https://arxiv.org/abs/2604.00857v1)]
 
 [arxiv 2026.04] PrivHAR-Bench: A Graduated Privacy Benchmark Dataset for Video-Based Action Recognition  [[PDF](https://arxiv.org/abs/2604.00761v1)]
