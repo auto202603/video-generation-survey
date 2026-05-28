@@ -1666,6 +1666,30 @@
 
 [arxiv 2026.05] Beyond Pairwise Preferences: Listwise Reward-Aware Alignment for Diffusion Models  [[PDF](https://arxiv.org/abs/2605.26491)]
 
+[arxiv 2026.05] Compositional Text-to-Image Generation Via Region-aware Bimodal Direct Preference Optimization  [[PDF](https://arxiv.org/abs/2605.28615)]
+
+[arxiv 2026.05] Internally Referenced Low-Light Enhancement  [[PDF](https://arxiv.org/abs/2605.28605)]
+
+[arxiv 2026.05] BiasEdit: A Training-Free Bias-Detect-and-Edit Framework for Learning Fair Visual Classifiers  [[PDF](https://arxiv.org/abs/2605.28450)]
+
+[arxiv 2026.05] No Safe Dose: How Training Data Drives Unsafe Image Generation  [[PDF](https://arxiv.org/abs/2605.28137)]
+
+[arxiv 2026.05] CLEAR-NeRF: Collinearity and Local-region Enhanced Accurate 3D Reconstruction in Unbounded Scenes  [[PDF](https://arxiv.org/abs/2605.28125)]
+
+[arxiv 2026.05] Qwen-Image-Bench: From Generation to Creation in Text-to-Image Evaluation  [[PDF](https://arxiv.org/abs/2605.28091)]
+
+[arxiv 2026.05] Stay Fair! Ensuring Group Fairness in Diffusion Models Across Guidance Scales  [[PDF](https://arxiv.org/abs/2605.28036)]
+
+[arxiv 2026.05] SIGMA: Semantic-Difference Instruction-Grounding Mask Annotator for Text-Driven Image Manipulation Localization  [[PDF](https://arxiv.org/abs/2605.27924)]
+
+[arxiv 2026.05] Residualized Temporal Sparse Autoencoders for Interpreting Diffusion Models  [[PDF](https://arxiv.org/abs/2605.27813)]
+
+[arxiv 2026.05] Representation-Conditioned Diffusion Models for Guided Training Data Generation  [[PDF](https://arxiv.org/abs/2605.27495)]
+
+[arxiv 2026.05] Diffusion-Based Ukrainian Handwritten Text Generation with Cross-Domain Style Transfer  [[PDF](https://arxiv.org/abs/2605.27487)]
+
+[arxiv 2026.05] POINav: Benchmarking and Enhancing Final-Meters Arrival in Real-World Vision-Language Navigation  [[PDF](https://arxiv.org/abs/2605.28237)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]

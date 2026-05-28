@@ -403,6 +403,14 @@
 
 [arxiv 2026.05] RoMo: A Large-Scale, Richly Organized Dataset and Semantic Taxonomy for Human Motion Generation  [[PDF](https://arxiv.org/abs/2605.26241)]
 
+[arxiv 2026.05] DiscoForcing: A Unified Framework for Real-Time Audio-Driven Character Control with Diffusion Forcing  [[PDF](https://arxiv.org/abs/2605.28491)]
+
+[arxiv 2026.05] EgoRelight: Egocentric Human Capture and Illumination Recovery for Relightable and Photoreal Avatar Rendering  [[PDF](https://arxiv.org/abs/2605.28401)]
+
+[arxiv 2026.05] Sketch2Motion: Text-driven 2D Sketch to 3D Animation via Diffusion-guided Skeleton Optimization  [[PDF](https://arxiv.org/abs/2605.28394)]
+
+[arxiv 2026.05] EchoAvatar: Real-time Generative Avatar Animation from Audio Streams  [[PDF](https://arxiv.org/abs/2605.28272),[Page](https://robinwitch.github.io/EchoAvatar-Page)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 

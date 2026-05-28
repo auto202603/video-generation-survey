@@ -2396,6 +2396,54 @@
 
 [arxiv 2026.05] Object Pose and Shape Estimation for Grasping: Does it Work?  [[PDF](https://arxiv.org/abs/2605.26944)]
 
+[arxiv 2026.05] From Pixels to Words -- Towards Native One-Vision Models at Scale  [[PDF](https://arxiv.org/abs/2605.28820)]
+
+[arxiv 2026.05] Self-Prophetic Decoding to Unlock Visual Search in LVLMs  [[PDF](https://arxiv.org/abs/2605.28741)]
+
+[arxiv 2026.05] GEM: Generative Supervision Helps Embodied Intelligence  [[PDF](https://arxiv.org/abs/2605.28548),[Page](https://zhaorw02.github.io/GEM/)]
+
+[arxiv 2026.05] Toward Semantic-Agnostic and Shape-Aware Vision-Language Segmentation Models  [[PDF](https://arxiv.org/abs/2605.28348)]
+
+[arxiv 2026.05] PointQ-Bench: Benchmarking Diagnostic and Interpretable Point Cloud Quality Assessment  [[PDF](https://arxiv.org/abs/2605.28241)]
+
+[arxiv 2026.05] Learning to Label: A Reinforced Self-Evolving Framework for Semi-supervised Referring Expression Segmentation  [[PDF](https://arxiv.org/abs/2605.28239)]
+
+[arxiv 2026.05] DebFilter: Eradicating Biases Stashed in Value  [[PDF](https://arxiv.org/abs/2605.28167)]
+
+[arxiv 2026.05] CogPortrait: Fine-Grained Eye-Region Control in Portrait Animation via Hierarchical Agent Planning  [[PDF](https://arxiv.org/abs/2605.28056)]
+
+[arxiv 2026.05] Beyond Surrogate Gradients: Fully Differentiable Token Pruning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.28051)]
+
+[arxiv 2026.05] VCap: Hypergeometric Rewards for Weak-to-Strong Visual Captioning  [[PDF](https://arxiv.org/abs/2605.28023)]
+
+[arxiv 2026.05] ABot-OCR Technical Report  [[PDF](https://arxiv.org/abs/2605.27978)]
+
+[arxiv 2026.05] Mags-RL: Wearing Multimodal LLMs a Magnifying Glass via Agentic Reinforcement Learning For Complex Scene Reasoning  [[PDF](https://arxiv.org/abs/2605.27960)]
+
+[arxiv 2026.05] ROVER: Routing Object-Centric Visual Evidence for Grounded Multi-Image Reasoning  [[PDF](https://arxiv.org/abs/2605.27959)]
+
+[arxiv 2026.05] When Think-with-Image Meets Safety: What Determines Multimodal Jailbreak Robustness?  [[PDF](https://arxiv.org/abs/2605.27932)]
+
+[arxiv 2026.05] Structure-Guided Visual Perturbation Neutralization for LVLMs  [[PDF](https://arxiv.org/abs/2605.27927)]
+
+[arxiv 2026.05] Decoupled Training with Local Reinforcement Fine-Tuning in Federated Learning  [[PDF](https://arxiv.org/abs/2605.27900)]
+
+[arxiv 2026.05] Towards Unified Vision-Language Models with Incomplete Multi-Modal Inputs  [[PDF](https://arxiv.org/abs/2605.27894)]
+
+[arxiv 2026.05] Reflective Dialogue between Teacher and Solver Agents for Video Question Answering  [[PDF](https://arxiv.org/abs/2605.27885)]
+
+[arxiv 2026.05] Can Segmentation Models Understand the World? Towards Proactive Affordance Reasoning via Visual Chain-of-Thought  [[PDF](https://arxiv.org/abs/2605.27764)]
+
+[arxiv 2026.05] Bounded-Compute Multimodal Regression for Product-Rating Prediction  [[PDF](https://arxiv.org/abs/2605.27737)]
+
+[arxiv 2026.05] Hallucination Behavior in Multimodal LLMs Across Agricultural Image Interpretation and Generation Tasks  [[PDF](https://arxiv.org/abs/2605.27595)]
+
+[arxiv 2026.05] Fine-Tuning Vision-Language Models for Understanding Current Damage and Scoring Priority with Quality Guard Agent  [[PDF](https://arxiv.org/abs/2605.27452)]
+
+[arxiv 2026.05] OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration  [[PDF](https://arxiv.org/abs/2605.28805),[Page](https://github.com/Cominclip/OmniVerifier)]
+
+[arxiv 2026.05] Reading or Guessing? Visual Grounding Failures of Vision-Language Models for OCR in Ancient Greek Editions  [[PDF](https://arxiv.org/abs/2605.27750)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 

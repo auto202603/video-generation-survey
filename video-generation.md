@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-05-28 -->
 [arxiv 2026.05] Geo-Align: Video Generation Alignment via Metric Geometry Reward  [[PDF](https://arxiv.org/abs/2605.23903)]
 
 [arxiv 2026.05] LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation  [[PDF](https://arxiv.org/abs/2605.23878),[Page](https://lamo-ai.github.io/)]
@@ -857,6 +857,20 @@ A reading list of video generation
 [arxiv 2026.05] O-MARC: Omni Memory-Augmented Compression Distillation for Efficient Video Understanding  [[PDF](https://arxiv.org/abs/2605.26584)]
 
 [arxiv 2026.05] Quantized Keys Steal Attention: Bias Correction for KV-Cache Compression in Video Diffusion  [[PDF](https://arxiv.org/abs/2605.26266)]
+
+[arxiv 2026.05] OSP-Next: Efficient High-Quality Video Generation with Sparse Sequence Parallelism, HiF8 Quantization, and Reinforcement Learning  [[PDF](https://arxiv.org/abs/2605.28691)]
+
+[arxiv 2026.05] DriveWAM: Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving  [[PDF](https://arxiv.org/abs/2605.28544)]
+
+[arxiv 2026.05] Proprio: Latent Self-Scoring and Inference-Time Refinement for Physically Plausible Video Generation  [[PDF](https://arxiv.org/abs/2605.28230)]
+
+[arxiv 2026.05] VidPrism: Heterogeneous Mixture of Experts for Image-to-Video Transfer  [[PDF](https://arxiv.org/abs/2605.28229)]
+
+[arxiv 2026.05] Which Pretraining Paradigm Better Serves Spatial Intelligence? An Empirical Comparison of Vision-Language and Video Generation Models  [[PDF](https://arxiv.org/abs/2605.28132),[Page](https://github.com/om-ai-lab/Probing-VLM-VGM)]
+
+[arxiv 2026.05] SmartDirector: Keyframe-Conditioned Cinematic Video Generation with Narrative Pacing Control  [[PDF](https://arxiv.org/abs/2605.27891)]
+
+[arxiv 2026.05] Turning Video Models into Generalist Robot Policies  [[PDF](https://arxiv.org/abs/2605.27817),[Page](https://vera.csail.mit.edu)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
