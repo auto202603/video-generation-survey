@@ -2444,6 +2444,72 @@
 
 [arxiv 2026.05] Reading or Guessing? Visual Grounding Failures of Vision-Language Models for OCR in Ancient Greek Editions  [[PDF](https://arxiv.org/abs/2605.27750)]
 
+[arxiv 2026.05] GPIC: A Giant Permissive Image Corpus for Visual Generation  [[PDF](https://arxiv.org/abs/2605.30341),[Page](https://huggingface.co/datasets/stanford-vision-lab/giant-permissive-image-corpus)]
+
+[arxiv 2026.05] Grounded 3D-Aware Spatial Vision-Language Modeling  [[PDF](https://arxiv.org/abs/2605.30307),[Page](https://www.anjiecheng.me/gr3d)]
+
+[arxiv 2026.05] LoMo: Local Modality Substitution for Deeper Vision-Language Fusion  [[PDF](https://arxiv.org/abs/2605.30265)]
+
+[arxiv 2026.05] Stable-Layers: Fine-Tuning Image Layer Decomposition Models with VLM-Scored Reinforcement Learning  [[PDF](https://arxiv.org/abs/2605.30257),[Page](https://stability-ai.github.io/stable-layers.github.io/)]
+
+[arxiv 2026.05] VideoFDB: Evaluating Full-Duplex Vision-Speech Capabilities in Conversational Agents  [[PDF](https://arxiv.org/abs/2605.30256),[Page](https://research.nvidia.com/labs/amri/projects/video-fdb/)]
+
+[arxiv 2026.05] Beyond 3D VQAs: Injecting 3D Spatial Priors into Vision-Language Models for Enhanced Geometric Reasoning  [[PDF](https://arxiv.org/abs/2605.30231),[Page](https://danielchyeh.github.io/GASP/)]
+
+[arxiv 2026.05] Why Far Looks Up: Probing Spatial Representation in Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.30161)]
+
+[arxiv 2026.05] AnomalyAgent: Training-Free Agentic Models for Zero-/Few-Shot Anomaly Detection  [[PDF](https://arxiv.org/abs/2605.30140)]
+
+[arxiv 2026.05] PARCEL: Pool-Anchored Resampling with Conditioned Elastic Queries for Efficient Vision-Language Understanding  [[PDF](https://arxiv.org/abs/2605.30126)]
+
+[arxiv 2026.05] FakeVLM-R1: Internalizing Physical Laws via CoT for Synthetic Image Detection  [[PDF](https://arxiv.org/abs/2605.30062)]
+
+[arxiv 2026.05] Train the Agent, Not the Expert: Learning to Harness Heterogeneous Experts for Multi-Turn Visual Reasoning  [[PDF](https://arxiv.org/abs/2605.29894)]
+
+[arxiv 2026.05] Mitigating Hallucination in Vision-Language Models through Barrier-Regulated Adaptive Closed-form Steering  [[PDF](https://arxiv.org/abs/2605.29881)]
+
+[arxiv 2026.05] DGSG-Mind: Dynamic 3D Gaussian Scene Graphs for Long-Term Scene Understanding and Grounding  [[PDF](https://arxiv.org/abs/2605.29879)]
+
+[arxiv 2026.05] Masked Diffusion Vision-Language Models for Temporal Action Localization  [[PDF](https://arxiv.org/abs/2605.29858)]
+
+[arxiv 2026.05] Improving CLIP Adaptation by Breaking Tail Alignment for Source-Free Cross-Domain Few-Shot Learning  [[PDF](https://arxiv.org/abs/2605.29776)]
+
+[arxiv 2026.05] OccamToken: Efficient VLM Inference with Training-Free and Budget-Adaptive Token Pruning  [[PDF](https://arxiv.org/abs/2605.29657)]
+
+[arxiv 2026.05] SuperVoxelGPT: Adaptive and Ordered 3D Tokenization for Autoregressive Shape Generation  [[PDF](https://arxiv.org/abs/2605.29655)]
+
+[arxiv 2026.05] AgentCVR: Active Multi-Agent Cross-Video Reasoning via Script-Simulated Reinforcement Learning  [[PDF](https://arxiv.org/abs/2605.29643)]
+
+[arxiv 2026.05] DiffSpot: Can VLMs Spot Fine-Grained Visual Differences in Web Interfaces?  [[PDF](https://arxiv.org/abs/2605.29615)]
+
+[arxiv 2026.05] CogniVerse: Revolutionizing Multi-Modal Retrieval-Augmented Generation with Cognitive Reflection and Geometric Reasoning  [[PDF](https://arxiv.org/abs/2605.29602)]
+
+[arxiv 2026.05] Brain-IT-VQA: From Brain Signals to Answers  [[PDF](https://arxiv.org/abs/2605.29588)]
+
+[arxiv 2026.05] ReactBench: A Cause-Driven Benchmark for Multimodal Hallucination via Systematic Evaluation  [[PDF](https://arxiv.org/abs/2605.29579)]
+
+[arxiv 2026.05] Mitigating State Aliasing in Vision-Language-Action Models via Inverse Dynamics Learning  [[PDF](https://arxiv.org/abs/2605.29577)]
+
+[arxiv 2026.05] GiPL: Generative augmented iterative Pseudo-Labeling for Cross-Domain Few-Shot Object Detection  [[PDF](https://arxiv.org/abs/2605.29539)]
+
+[arxiv 2026.05] Benchmarking Large Vision-Language Models on CFMME: A Comprehensive Chinese Financial Multimodal Evaluation Dataset  [[PDF](https://arxiv.org/abs/2605.29462)]
+
+[arxiv 2026.05] Semantic and Visual Evidence for Efficient Long-Video Reasoning: A Solution for the HD-EPIC VQA Challenge  [[PDF](https://arxiv.org/abs/2605.29402)]
+
+[arxiv 2026.05] WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction  [[PDF](https://arxiv.org/abs/2605.29341)]
+
+[arxiv 2026.05] DMC-CF: Dynamic Multimodal CounterFactual QA benchmark for Causal Reasoning  [[PDF](https://arxiv.org/abs/2605.29339)]
+
+[arxiv 2026.05] Embodied3DBench: Benchmarking Low-Level Embodied Spatial Intelligence of Vision Language Models  [[PDF](https://arxiv.org/abs/2605.29074)]
+
+[arxiv 2026.05] GAP3D: Generative Alignment of VLM Latents to Patch-Level Embeddings for 3D Generation  [[PDF](https://arxiv.org/abs/2605.28995)]
+
+[arxiv 2026.05] Unveiling the Visual Counting Bottleneck in Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.30170)]
+
+[arxiv 2026.05] On Asymmetric Optimization of Reasoning and Perception in Vision-Language Model Post-Training  [[PDF](https://arxiv.org/abs/2605.29496),[Page](https://asymmetric-vlm-post-training.github.io/)]
+
+[arxiv 2026.05] Analyzing Persona Effects in Generated Explanations from Multimodal LLM Agents in Urban Perception  [[PDF](https://arxiv.org/abs/2605.29064)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 

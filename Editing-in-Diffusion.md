@@ -1690,6 +1690,50 @@
 
 [arxiv 2026.05] POINav: Benchmarking and Enhancing Final-Meters Arrival in Real-World Vision-Language Navigation  [[PDF](https://arxiv.org/abs/2605.28237)]
 
+[arxiv 2026.05] Uncertainty-driven 3D Gaussian Splatting Active Mapping via Anisotropic Visibility Field  [[PDF](https://arxiv.org/abs/2605.30342),[Page](https://gatech-rl2.github.io/GAVIS/)]
+
+[arxiv 2026.05] REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image  [[PDF](https://arxiv.org/abs/2605.30338),[Page](https://shirleymaxx.github.io/REST3D/)]
+
+[arxiv 2026.05] Colored Noise Diffusion Sampling  [[PDF](https://arxiv.org/abs/2605.30332)]
+
+[arxiv 2026.05] Supercharging Thermal Gaussian Splatting with Depth Estimation  [[PDF](https://arxiv.org/abs/2605.30328)]
+
+[arxiv 2026.05] MonoPhysics: Estimating Geometry, Appearance, and Physical Parameters from Monocular Videos  [[PDF](https://arxiv.org/abs/2605.30320)]
+
+[arxiv 2026.05] City-Mesh3R: Simulation-Ready City-Scale 3D Mesh Reconstruction from Multi-View Images  [[PDF](https://arxiv.org/abs/2605.30310),[Page](https://citymesh3r.github.io/)]
+
+[arxiv 2026.05] GenClaw: Code-Driven Agentic Image Generation  [[PDF](https://arxiv.org/abs/2605.30248)]
+
+[arxiv 2026.05] IP-Adapter Is All You Need: Towards Fine-Tuning-Free Diffusion-Based Talking Face Generation  [[PDF](https://arxiv.org/abs/2605.30230)]
+
+[arxiv 2026.05] Geometry Matters: 3D Foundation Priors for Learning Semantic Correspondence  [[PDF](https://arxiv.org/abs/2605.30093)]
+
+[arxiv 2026.05] Boosting Zero-Shot 3D Style Transfer with 2D Pre-trained Priors  [[PDF](https://arxiv.org/abs/2605.30065)]
+
+[arxiv 2026.05] GenEraser: Generalizable Video Object Removal via Balanced Text-Mask Guidance and Decoupled Locator-Preserver  [[PDF](https://arxiv.org/abs/2605.30045)]
+
+[arxiv 2026.05] FRUC: Feedforward Dynamic Scene Reconstruction from Uncalibrated Collaborative Driving Views  [[PDF](https://arxiv.org/abs/2605.29997)]
+
+[arxiv 2026.05] DVSM: Decoder-only View Synthesis Model Done Right  [[PDF](https://arxiv.org/abs/2605.29891),[Page](https://github.com/NVLabs/dvsm)]
+
+[arxiv 2026.05] Learning Representations from 3D Gaussian Splats  [[PDF](https://arxiv.org/abs/2605.29549)]
+
+[arxiv 2026.05] V2XCrafter: Learning to Generate Driving Scene Across Agents  [[PDF](https://arxiv.org/abs/2605.29471)]
+
+[arxiv 2026.05] Comparative evaluation of photogrammetric reconstruction methods and 3D Gaussian Splatting for road surface roughness analysis  [[PDF](https://arxiv.org/abs/2605.29452)]
+
+[arxiv 2026.05] Orthogonal Negative Guidance in Attention Feature Space for Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2605.29390)]
+
+[arxiv 2026.05] Guidance Contrastive Token Credit Assignment for Discrete Policy Optimization  [[PDF](https://arxiv.org/abs/2605.29198)]
+
+[arxiv 2026.05] Eulerian Gaussian Splatting using Hashed Probability Pyramids  [[PDF](https://arxiv.org/abs/2605.29136),[Page](https://euleriansplatting.github.io)]
+
+[arxiv 2026.05] A Deep Learning Iterative Framework for Sentinel-1 Stripmap Enhancement Based on Azimuth Doppler Decomposition  [[PDF](https://arxiv.org/abs/2605.29088)]
+
+[arxiv 2026.05] Resolving Endpoint Underfitting in Diffusion Bridges via Noise Alignment  [[PDF](https://arxiv.org/abs/2605.28962)]
+
+[arxiv 2026.05] Alignment-Guided Score Matching for Text-to-Image Alignment in Diffusion Models  [[PDF](https://arxiv.org/abs/2605.30038),[Page](https://jaayeon.github.io/AGSM)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]

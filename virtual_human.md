@@ -411,6 +411,20 @@
 
 [arxiv 2026.05] EchoAvatar: Real-time Generative Avatar Animation from Audio Streams  [[PDF](https://arxiv.org/abs/2605.28272),[Page](https://robinwitch.github.io/EchoAvatar-Page)]
 
+[arxiv 2026.05] Archon: A Unified Multimodal Model for Holistic Digital Human Generation  [[PDF](https://arxiv.org/abs/2605.30311),[Page](https://zju3dv.github.io/archon/)]
+
+[arxiv 2026.05] PhyGenHOI: Physically-Aware 4D Generation of Dynamic Human-Object Interactions  [[PDF](https://arxiv.org/abs/2605.30268)]
+
+[arxiv 2026.05] Mesh-Aware Epipolar Matching for Multi-View Multi-Person 3D Pose Estimation in Basketball  [[PDF](https://arxiv.org/abs/2605.29953)]
+
+[arxiv 2026.05] AnyMo: Scaling Any-Modality Conditional Motion Generation with Masked Modeling  [[PDF](https://arxiv.org/abs/2605.29488)]
+
+[arxiv 2026.05] CapTalk: Text-Guided Stylization and Speech-Driven 3D Head Animation  [[PDF](https://arxiv.org/abs/2605.29316)]
+
+[arxiv 2026.05] SalsaAgent: A multimodal embodied language model for interactive dance generation  [[PDF](https://arxiv.org/abs/2605.29219)]
+
+[arxiv 2026.05] Before the Shutter: Aesthetic and Actionable Portrait Photography Planning in 3D Scenes  [[PDF](https://arxiv.org/abs/2605.30318)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 

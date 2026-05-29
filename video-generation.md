@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-05-28 -->
+<!-- Added on 2026-05-29 -->
 [arxiv 2026.05] Geo-Align: Video Generation Alignment via Metric Geometry Reward  [[PDF](https://arxiv.org/abs/2605.23903)]
 
 [arxiv 2026.05] LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation  [[PDF](https://arxiv.org/abs/2605.23878),[Page](https://lamo-ai.github.io/)]
@@ -871,6 +871,30 @@ A reading list of video generation
 [arxiv 2026.05] SmartDirector: Keyframe-Conditioned Cinematic Video Generation with Narrative Pacing Control  [[PDF](https://arxiv.org/abs/2605.27891)]
 
 [arxiv 2026.05] Turning Video Models into Generalist Robot Policies  [[PDF](https://arxiv.org/abs/2605.27817),[Page](https://vera.csail.mit.edu)]
+
+[arxiv 2026.05] VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion  [[PDF](https://arxiv.org/abs/2605.30351),[Page](https://videomla.github.io/)]
+
+[arxiv 2026.05] AdaState: Self-Evolving Anchors for Streaming Video Generation  [[PDF](https://arxiv.org/abs/2605.30349),[Page](https://adastate.github.io/)]
+
+[arxiv 2026.05] YoCausal: How Far is Video Generation from World Model? A Causality Perspective  [[PDF](https://arxiv.org/abs/2605.30346),[Page](https://www.youzhexie.me/papers/YoCausal/index.html)]
+
+[arxiv 2026.05] Veda: Scalable Video Diffusion via Distilled Sparse Attention  [[PDF](https://arxiv.org/abs/2605.30325)]
+
+[arxiv 2026.05] VPG: Visual Prefix Guidance for Autoregressive Image and Video Generation  [[PDF](https://arxiv.org/abs/2605.30317)]
+
+[arxiv 2026.05] minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models  [[PDF](https://arxiv.org/abs/2605.30263)]
+
+[arxiv 2026.05] LiveSVG: Zero-Shot SVG Animation via Video Generation  [[PDF](https://arxiv.org/abs/2605.30174),[Page](https://levymsn.github.io/LiveSVG)]
+
+[arxiv 2026.05] SGMD: Score Gradient Matching Distillation for Few-Step Video Diffusion Distillation  [[PDF](https://arxiv.org/abs/2605.30116)]
+
+[arxiv 2026.05] Future Forcing: Future-aware Training-free KV Cache Policy for Autoregressive Video Generation  [[PDF](https://arxiv.org/abs/2605.30083)]
+
+[arxiv 2026.05] EarlyTom: Early Token Compression Completes Fast Video Understanding  [[PDF](https://arxiv.org/abs/2605.30010),[Page](https://viridisgreen.github.io/EarlyTom)]
+
+[arxiv 2026.05] KGEdit: Ambiguity-Aware Knowledge Graphs for Training-Free Precise Video Generation and Editing  [[PDF](https://arxiv.org/abs/2605.29509)]
+
+[arxiv 2026.05] DirectorBench: Diagnosing Long-Form Video Generation with Personalized Multi-Agent Evaluation  [[PDF](https://arxiv.org/abs/2605.30090)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
