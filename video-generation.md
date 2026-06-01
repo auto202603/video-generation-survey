@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-05-29 -->
+<!-- Added on 2026-06-01 -->
 [arxiv 2026.05] Geo-Align: Video Generation Alignment via Metric Geometry Reward  [[PDF](https://arxiv.org/abs/2605.23903)]
 
 [arxiv 2026.05] LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation  [[PDF](https://arxiv.org/abs/2605.23878),[Page](https://lamo-ai.github.io/)]
@@ -895,6 +895,26 @@ A reading list of video generation
 [arxiv 2026.05] KGEdit: Ambiguity-Aware Knowledge Graphs for Training-Free Precise Video Generation and Editing  [[PDF](https://arxiv.org/abs/2605.29509)]
 
 [arxiv 2026.05] DirectorBench: Diagnosing Long-Form Video Generation with Personalized Multi-Agent Evaluation  [[PDF](https://arxiv.org/abs/2605.30090)]
+
+[arxiv 2026.05] Linear Scaling Video VLMs for Long Video Understanding  [[PDF](https://arxiv.org/abs/2605.31598)]
+
+[arxiv 2026.05] TunerDiT: Training-free Progressive Steering of Diffusion Transformer for Multi-Event Video Generation  [[PDF](https://arxiv.org/abs/2605.31590)]
+
+[arxiv 2026.05] DecMem: Towards Minute-Long Consistent World Generation with Decoupled Memory  [[PDF](https://arxiv.org/abs/2605.31336),[Page](https://jeffreyyzh.github.io/DecMem-Page)]
+
+[arxiv 2026.05] Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models  [[PDF](https://arxiv.org/abs/2605.31158),[Page](https://2843721358l-del.github.io/Light-Interaction-Project/)]
+
+[arxiv 2026.05] LVSA: Training-Free Sparse Attention for Long Video Diffusion  [[PDF](https://arxiv.org/abs/2605.31057),[Page](https://github.com/JiusiServe/LongVideoSparseAttention)]
+
+[arxiv 2026.05] SlotMemory: Object-Centric KV Memory for Streaming Long-Video Generation  [[PDF](https://arxiv.org/abs/2605.31033)]
+
+[arxiv 2026.05] Robust Dreamer: Deviation-Aware Latent Gaussian Memory for Action-Controlled AR Video Generation  [[PDF](https://arxiv.org/abs/2605.30855)]
+
+[arxiv 2026.05] CameraNoise: Enabling Faithful Camera Control in Video Diffusion through Geometry-Flow-Guided Noise Warping  [[PDF](https://arxiv.org/abs/2605.30774)]
+
+[arxiv 2026.05] OmniMem: Scalable and Adaptive Memory Retrieval for Long Video Generation  [[PDF](https://arxiv.org/abs/2605.30519),[Page](https://wuyushuwys.github.io/OmniMem/)]
+
+[arxiv 2026.05] SANA-Streaming: Real-time Streaming Video Editing with Hybrid Diffusion Transformer  [[PDF](https://arxiv.org/abs/2605.30409)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

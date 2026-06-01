@@ -2510,6 +2510,76 @@
 
 [arxiv 2026.05] Analyzing Persona Effects in Generated Explanations from Multimodal LLM Agents in Urban Perception  [[PDF](https://arxiv.org/abs/2605.29064)]
 
+[arxiv 2026.05] SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models  [[PDF](https://arxiv.org/abs/2605.31597),[Page](https://genintel.github.io/SOCO/)]
+
+[arxiv 2026.05] nuReasoning: A Reasoning-Centric Dataset and Benchmark for Long-Tail Autonomous Driving  [[PDF](https://arxiv.org/abs/2605.31572)]
+
+[arxiv 2026.05] EGOSTREAM: A Diagnostic Benchmark for Streaming Episodic Memory in Egocentric Vision  [[PDF](https://arxiv.org/abs/2605.31557)]
+
+[arxiv 2026.05] Vision-Language Models Suppress Female Representations Under Ambiguous Input  [[PDF](https://arxiv.org/abs/2605.31556)]
+
+[arxiv 2026.05] Personalize Your Large Vision-language Models With In-context Prompt Tuning  [[PDF](https://arxiv.org/abs/2605.31513)]
+
+[arxiv 2026.05] VisionPulse: Dynamic Visual Sparsity for Efficient Multimodal Reasoning  [[PDF](https://arxiv.org/abs/2605.31457)]
+
+[arxiv 2026.05] YARD: Y-Architecture Register Decoding for Efficient Hallucination Mitigation in Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.31429)]
+
+[arxiv 2026.05] Learning from Fine-Grained Visual Discrepancies: Mitigating Multimodal Hallucinations via In-Context Visual Contrastive Optimization  [[PDF](https://arxiv.org/abs/2605.31312)]
+
+[arxiv 2026.05] ERGeoBench:A Comprehensive Benchmark for Embodied Reasoning and Geo-localization in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2605.31251)]
+
+[arxiv 2026.05] Beyond Classification: Dynamic Adapter Routing for Continual Multimodal Retrieval  [[PDF](https://arxiv.org/abs/2605.31229)]
+
+[arxiv 2026.05] Probing Collision Grounding in Vision-Language Models for Safe Human-Robot Collaboration  [[PDF](https://arxiv.org/abs/2605.31196)]
+
+[arxiv 2026.05] Detect in Any Scene: An Agentic Framework for Object Detection with Experience-Aware Reasoning  [[PDF](https://arxiv.org/abs/2605.31174)]
+
+[arxiv 2026.05] SpatialAct: Probing Spatial Reasoning-to-Action Capabilities of VLM Agents in 3D Scenes  [[PDF](https://arxiv.org/abs/2605.31148)]
+
+[arxiv 2026.05] FOCUS: Forcing In-Context Object Localization through Visual Support Constraints and Policy Optimization  [[PDF](https://arxiv.org/abs/2605.31145)]
+
+[arxiv 2026.05] iVGR: Internalizing Visually Grounded Reasoning for MLLMs with Reinforcement Learning  [[PDF](https://arxiv.org/abs/2605.31096)]
+
+[arxiv 2026.05] Task-Focused Memorization for Multimodal Agents  [[PDF](https://arxiv.org/abs/2605.31075)]
+
+[arxiv 2026.05] Towards Effective Long-Video Event Prediction via Multi-Level Event Semantics Mining  [[PDF](https://arxiv.org/abs/2605.31069)]
+
+[arxiv 2026.05] Does Visual Information Play a Decisive Role in Vision-Language-Action Model Driving Behavior?  [[PDF](https://arxiv.org/abs/2605.31041)]
+
+[arxiv 2026.05] PEEK: Picking Essential frames via Efficient Knowledge distillation  [[PDF](https://arxiv.org/abs/2605.31029),[Page](https://www.killian-steunou.com/peek/static/pdfs/peek_supplementary.pdf)]
+
+[arxiv 2026.05] Variational Adapter for Cross-modal Similarity Representation  [[PDF](https://arxiv.org/abs/2605.30968)]
+
+[arxiv 2026.05] DiTTo: Scalable Order-aware All-in-One Image Restoration Agent  [[PDF](https://arxiv.org/abs/2605.30915),[Page](https://cmlab-korea.github.io/DiTTo/)]
+
+[arxiv 2026.05] Attend to Evidence: Evidence-Anchored Spatial Attention Supervision for Multimodal RLVR  [[PDF](https://arxiv.org/abs/2605.30912)]
+
+[arxiv 2026.05] What Makes LVLMs Hallucinate Less? Unveiling the Architectural Factors Behind Hallucination Robustness  [[PDF](https://arxiv.org/abs/2605.30911)]
+
+[arxiv 2026.05] MechVQA: Benchmarking and Enhancing Multimodal LLMs on Comprehensive Mechanical Drawing Understanding  [[PDF](https://arxiv.org/abs/2605.30794)]
+
+[arxiv 2026.05] SLAP: The Semantic Least Action Principle for Variational Video-Language Modeling  [[PDF](https://arxiv.org/abs/2605.30750)]
+
+[arxiv 2026.05] Immuno-VLM: Immunizing Large Vision-Language Models via Generative Semantic Antibodies for Open-World Trustworthiness  [[PDF](https://arxiv.org/abs/2605.30745)]
+
+[arxiv 2026.05] Seeing Before Agreeing: Aligning Multi-Agent Consensus with Visual Evidence  [[PDF](https://arxiv.org/abs/2605.30698)]
+
+[arxiv 2026.05] PInVerify: An Offline Embodied Benchmark for Active Instance Verification  [[PDF](https://arxiv.org/abs/2605.30639),[Page](https://github.com/Avalon-S/PInVerify)]
+
+[arxiv 2026.05] ReGuLaR: Relation-Grounded Latent Reasoning for Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.30587)]
+
+[arxiv 2026.05] VLM3: Vision Language Models Are Native 3D Learners  [[PDF](https://arxiv.org/abs/2605.30561)]
+
+[arxiv 2026.05] Seeing Isn&#39;t Knowing: Do VLMs Know When Not to Answer Spatial Questions (and Why)?  [[PDF](https://arxiv.org/abs/2605.30557),[Page](https://zhangyuejoslin.github.io/spatialuncertain/)]
+
+[arxiv 2026.05] FBHM: Functional Benchmarking and Steering of VLMs for Hateful Meme Detection  [[PDF](https://arxiv.org/abs/2605.31349)]
+
+[arxiv 2026.05] A Pilot Study on Curator-Guided Multilingual Art Description for Blind and Low-Vision Audiences with Small Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.31080)]
+
+[arxiv 2026.05] Diversity Matters: Revisiting Test-Time Compute in Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.30713)]
+
+[arxiv 2026.05] VLM-GLoc: Vision-Language Model Enhanced Monte Carlo Localization for Robust Semantic Global Localization in Cluttered Quasi-Static Environments  [[PDF](https://arxiv.org/abs/2605.30506)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 

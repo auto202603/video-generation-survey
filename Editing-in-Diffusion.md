@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-06-01 -->
 [arxiv 2026.05] PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion  [[PDF](https://arxiv.org/abs/2605.23902),[Page](https://research.nvidia.com/labs/sil/projects/pid/)]
 
 [arxiv 2026.05] Learning a Particle Dynamics Model with Real-world Videos  [[PDF](https://arxiv.org/abs/2605.23845)]
@@ -1733,6 +1733,40 @@
 [arxiv 2026.05] Resolving Endpoint Underfitting in Diffusion Bridges via Noise Alignment  [[PDF](https://arxiv.org/abs/2605.28962)]
 
 [arxiv 2026.05] Alignment-Guided Score Matching for Text-to-Image Alignment in Diffusion Models  [[PDF](https://arxiv.org/abs/2605.30038),[Page](https://jaayeon.github.io/AGSM)]
+
+[arxiv 2026.05] Representation Forcing for Bottleneck-Free Unified Multimodal Models  [[PDF](https://arxiv.org/abs/2605.31604),[Page](https://yuqingwang1029.github.io/RepresentationForcing)]
+
+[arxiv 2026.05] Learning Global Motion with Compact Gaussians for Feed-Forward 4D Reconstruction  [[PDF](https://arxiv.org/abs/2605.31595),[Page](https://cvlab-kaist.github.io/C4G)]
+
+[arxiv 2026.05] RayDer: Scalable Self-Supervised Novel View Synthesis from Real-World Video  [[PDF](https://arxiv.org/abs/2605.31535),[Page](https://compvis.github.io/rayder)]
+
+[arxiv 2026.05] VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching  [[PDF](https://arxiv.org/abs/2605.31466)]
+
+[arxiv 2026.05] Triangle Splatting SLAM  [[PDF](https://arxiv.org/abs/2605.31419)]
+
+[arxiv 2026.05] FSM-Net: An Efficient Frequency-Spatial Network for Real-World Deblurring  [[PDF](https://arxiv.org/abs/2605.31400),[Page](https://efficient-deblurring-fsmnet.vercel.app)]
+
+[arxiv 2026.05] Envisioning Beyond the Few: Disentangled Semantics and Primitives for Few-Shot Atypical Layout-to-Image Generation  [[PDF](https://arxiv.org/abs/2605.31266),[Page](https://github.com/iCVTEAM/DSP)]
+
+[arxiv 2026.05] Benchmarking and Enhancing Text-to-Image Models for Generating Visual Representations in Early Arithmetic Education  [[PDF](https://arxiv.org/abs/2605.31212)]
+
+[arxiv 2026.05] GGT-100K: Generative Ground Truth for Generalizable Real-World Image Restoration  [[PDF](https://arxiv.org/abs/2605.31039)]
+
+[arxiv 2026.05] Benchmarking Single-Step Inpainting Methods for Multi-Object 3D Gaussian Splatting Scenes  [[PDF](https://arxiv.org/abs/2605.30987)]
+
+[arxiv 2026.05] MergeTok: Unified Continuous and Discrete Visual Tokenization via Token Merging  [[PDF](https://arxiv.org/abs/2605.30904)]
+
+[arxiv 2026.05] DSD-GS: Dynamic-Static Decomposition of Gaussian Splatting for Efficient and High-Fidelity Dynamic Scene Reconstruction  [[PDF](https://arxiv.org/abs/2605.30863)]
+
+[arxiv 2026.05] Equivariant Latent Alignment via Flow Matching under Group Symmetries  [[PDF](https://arxiv.org/abs/2605.30705)]
+
+[arxiv 2026.05] Mitigating Content Shift and Hallucination in GenAI Image Editing via Structural Refinement  [[PDF](https://arxiv.org/abs/2605.30437)]
+
+[arxiv 2026.05] LiftNav: Path Planning via Semantic Lifting in TSDF-Guided Gaussian Splatting  [[PDF](https://arxiv.org/abs/2605.31376)]
+
+[arxiv 2026.05] MoE-dqINR: A Unified Mixture-of-Experts Implicit Neural Representation Framework for Scan-Specific Dynamic and Quantitative MRI Reconstruction  [[PDF](https://arxiv.org/abs/2605.31302)]
+
+[arxiv 2026.05] 3DAE: Binaural Quality Assessment for Audio Novel View Synthesis with Spatial Maps and Benchmark  [[PDF](https://arxiv.org/abs/2605.30469)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
