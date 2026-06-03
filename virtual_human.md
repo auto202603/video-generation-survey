@@ -1131,3 +1131,14 @@
 
 [arxiv 2026.05] Imagine2Real: Towards Zero-shot Humanoid-Object Interaction via Video Generative Priors  [[PDF](https://arxiv.org/abs/2605.22272)]
 
+
+
+[arxiv 2026.06] SimuScene: Simulation-Ready Compositional 3D Scene Reconstruction from a Single Image  [[PDF](https://arxiv.org/abs/2606.03994),[Page](https://snuvclab.github.io/SimuScene/)]
+
+[arxiv 2026.06] SkelHCC: A Hyperbolic CLIP-Driven Cache Adaptation Framework for Skeleton-based One-Shot Action Recognition  [[PDF](https://arxiv.org/abs/2606.03610)]
+
+[arxiv 2026.06] Mamba-Enhanced Implicit Motion Learning for Audio-Driven Portrait Animation  [[PDF](https://arxiv.org/abs/2606.03402)]
+
+[arxiv 2026.06] Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking  [[PDF](https://arxiv.org/abs/2606.03985)]
+
+[arxiv 2026.06] MARIO: Motion-Augmented Real-Time Multi-Sensor Inertial Odometry  [[PDF](https://arxiv.org/abs/2606.02996)]

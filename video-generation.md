@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-06-01 -->
+<!-- Added on 2026-06-03 -->
 [arxiv 2026.05] Geo-Align: Video Generation Alignment via Metric Geometry Reward  [[PDF](https://arxiv.org/abs/2605.23903)]
 
 [arxiv 2026.05] LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation  [[PDF](https://arxiv.org/abs/2605.23878),[Page](https://lamo-ai.github.io/)]
@@ -5470,3 +5470,20 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.05] ST-SimDiff: Balancing Spatiotemporal Similarity and Difference for Efficient Video Understanding with MLLMs  [[PDF](https://arxiv.org/abs/2605.22158)]
 
+
+
+[arxiv 2026.06] AAD-1: Asymmetric Adversarial Distillation for One-Step Autoregressive Video Generation  [[PDF](https://arxiv.org/abs/2606.03972),[Page](https://aad-1.github.io/)]
+
+[arxiv 2026.06] Video-Mirai: Autoregressive Video Diffusion Models Need Foresight  [[PDF](https://arxiv.org/abs/2606.03971)]
+
+[arxiv 2026.06] Benchmarking Visual State Tracking in Multimodal Video Understanding  [[PDF](https://arxiv.org/abs/2606.03920),[Page](https://vision-x-nyu.github.io/vstat-site/)]
+
+[arxiv 2026.06] Reinforcement Learning from Cross-domain Videos with Video Prediction Model  [[PDF](https://arxiv.org/abs/2606.03201)]
+
+[arxiv 2026.06] JAVEDIT: Joint Audio-Visual Instruction-Guided Video Editing with Agentic Data Curation  [[PDF](https://arxiv.org/abs/2606.03168),[Page](https://ryanchenyn.github.io/projects/JAVEdit)]
+
+[arxiv 2026.06] MetaWorld: Scaling Multi-Agent Video World Model from Single-view Video Data  [[PDF](https://arxiv.org/abs/2606.02753)]
+
+[arxiv 2026.06] SagaQA: A Multi-hop Reasoning Benchmark for Long-form Narrative Understanding in TV Series  [[PDF](https://arxiv.org/abs/2606.03301)]
+
+[arxiv 2026.06] Inference-Time Scaling for Joint Audio-Video Generation  [[PDF](https://arxiv.org/abs/2606.03183),[Page](https://jung-jaemin.github.io/ITS-AVGen-Proj/)]

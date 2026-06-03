@@ -8342,3 +8342,38 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.05] Lens: Rethinking Training Efficiency for Foundational Text-to-Image Models  [[PDF](https://arxiv.org/abs/2605.21573),[Page](https://github.com/microsoft/Lens)]
 
+
+
+[arxiv 2026.06] Bootstrap Your Generator: Unpaired Visual Editing with Flow Matching  [[PDF](https://arxiv.org/abs/2606.03911),[Page](https://research.nvidia.com/labs/par/byg/)]
+
+[arxiv 2026.06] SparseStreet: Sparse Gaussian Splatting for Real-Time Street Scene Simulation  [[PDF](https://arxiv.org/abs/2606.03909)]
+
+[arxiv 2026.06] MLP Splatting: Object-Centric Neural Fields  [[PDF](https://arxiv.org/abs/2606.03877)]
+
+[arxiv 2026.06] Training-Free Multi-Concept LoRA Composition with Prompt-Aware Weighting  [[PDF](https://arxiv.org/abs/2606.03792)]
+
+[arxiv 2026.06] Qwen-Image-Flash: Beyond Objective Design  [[PDF](https://arxiv.org/abs/2606.03746)]
+
+[arxiv 2026.06] Text-to-Image Models Need Less from Text Encoders Than You Think  [[PDF](https://arxiv.org/abs/2606.03715),[Page](https://nsping13.github.io/contextless-TTI/)]
+
+[arxiv 2026.06] UnsOcc: 3D Semantic Occupancy Prediction in Unstructured Scene via Rendering Fusion  [[PDF](https://arxiv.org/abs/2606.03581)]
+
+[arxiv 2026.06] Diffusing in the Right Space: A Systematic Study of Latent Diffusability  [[PDF](https://arxiv.org/abs/2606.03578)]
+
+[arxiv 2026.06] PersistGS: Differentiable Physics for Object Permanence in 4D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2606.03479)]
+
+[arxiv 2026.06] FreeStreamGS: Online Feed-forward 3D Gaussian Splatting from Unposed Streaming Inputs  [[PDF](https://arxiv.org/abs/2606.03254)]
+
+[arxiv 2026.06] MariData: One-Step Unpaired Image Translation for Maritime Environments  [[PDF](https://arxiv.org/abs/2606.03246)]
+
+[arxiv 2026.06] MemoGen: Can Past Experience Improve Future Text-to-Image Generation?  [[PDF](https://arxiv.org/abs/2606.03243)]
+
+[arxiv 2026.03] Follow-Your-Preference: Towards Preference-Aligned Image Inpainting  [[PDF](https://arxiv.org/abs/2509.23082)]
+
+[arxiv 2026.06] KC-3DGS: Kurtosis-Constrained Gaussian Splatting for High-Fidelity View Synthesis  [[PDF](https://arxiv.org/abs/2606.03120)]
+
+[arxiv 2026.06] Inverting the Generation Process of Denoising Diffusion Implicit Models: Empirical Evaluation and a Novel Method  [[PDF](https://arxiv.org/abs/2606.03111)]
+
+[arxiv 2026.06] BEAST3D: Animal behavioral analysis and neural encoding from multi-view video via Gaussian splatting  [[PDF](https://arxiv.org/abs/2606.02937)]
+
+[arxiv 2026.06] PaintBench: Deterministic Evaluation of Precise Visual Editing  [[PDF](https://arxiv.org/abs/2606.00188),[Page](https://paintbench.github.io/)]

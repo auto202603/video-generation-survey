@@ -5070,3 +5070,52 @@
 
 [arxiv 2026.05] LatentOmni: Rethinking Omni-Modal Understanding via Unified Audio-Visual Latent Reasoning  [[PDF](https://arxiv.org/abs/2605.22012)]
 
+
+
+[arxiv 2026.06] OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs  [[PDF](https://arxiv.org/abs/2606.03890),[Page](https://internlm.github.io/OVO-S-Bench/)]
+
+[arxiv 2026.06] Beyond Encoder Accumulation: Measuring Encoder Roles in Multi-Encoder VLMs  [[PDF](https://arxiv.org/abs/2606.03879)]
+
+[arxiv 2026.06] Visual Instruction Tuning Aligns Modalities through Abstraction  [[PDF](https://arxiv.org/abs/2606.03871)]
+
+[arxiv 2026.06] Beyond Compression: Quantifying Spectral Accessibility in Vision Representations  [[PDF](https://arxiv.org/abs/2606.03795)]
+
+[arxiv 2026.06] SLU-2K: A Question-Based Benchmark for Semantic Evaluation of Sign Language Translation  [[PDF](https://arxiv.org/abs/2606.03788)]
+
+[arxiv 2026.06] TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics  [[PDF](https://arxiv.org/abs/2606.03626)]
+
+[arxiv 2026.06] World Models Meet Language Models: On the Complementarity of Concrete and Abstract Reasoning  [[PDF](https://arxiv.org/abs/2606.03603)]
+
+[arxiv 2026.06] Eliciting Complex Spatial Reasoning in MLLMs through Wide-Baseline Matching  [[PDF](https://arxiv.org/abs/2606.03577),[Page](https://aim-uofa.github.io/reasonmatch/)]
+
+[arxiv 2026.06] When Attention Collapses: Stage-Aware Visual Token Pruning from Structure to Semantics  [[PDF](https://arxiv.org/abs/2606.03569)]
+
+[arxiv 2026.06] \textsc{CR-Seg}: Attention-Guided and CoT-Enhanced Coarse-to-Refined Reasoning Segmentation  [[PDF](https://arxiv.org/abs/2606.03564)]
+
+[arxiv 2026.06] Enginuity: A Dataset and Benchmark for Vision-Language Understanding of Engineering Diagrams  [[PDF](https://arxiv.org/abs/2606.03410)]
+
+[arxiv 2026.06] P\textsuperscript{2}-DPO: Grounding Hallucination in Perceptual Processing via Calibration Direct Preference Optimization  [[PDF](https://arxiv.org/abs/2606.03376)]
+
+[arxiv 2026.06] SynCred-Bench: Benchmarking Synthetic Credibility in AI-Generated Visual Misinformation  [[PDF](https://arxiv.org/abs/2606.03348)]
+
+[arxiv 2026.06] VistaHop: Benchmarking Multi-hop Visual Reasoning for Visual DeepSearch  [[PDF](https://arxiv.org/abs/2606.03273)]
+
+[arxiv 2026.06] Follow-Your-Preference++: Rethinking Preference Alignment for Image Inpainting  [[PDF](https://arxiv.org/abs/2606.03216)]
+
+[arxiv 2026.06] Ask When It Pays: Cost-Aware Open-Ended Interaction for Instance Goal Navigation  [[PDF](https://arxiv.org/abs/2606.03175)]
+
+[arxiv 2026.06] Disentangling Visual and Factual Correctness in LVLMs&#39; Visualization Literacy  [[PDF](https://arxiv.org/abs/2606.03142)]
+
+[arxiv 2026.06] Zero-Shot 3D Question Answering via Hierarchical View-to-Token Transportation  [[PDF](https://arxiv.org/abs/2606.03100)]
+
+[arxiv 2026.06] TGV-KV: Text-Grounded KV Eviction for Vision-Language Models  [[PDF](https://arxiv.org/abs/2606.03075)]
+
+[arxiv 2026.06] MUSE: A Unified Agentic Harness for MLLMs  [[PDF](https://arxiv.org/abs/2606.03005)]
+
+[arxiv 2026.06] Cosmos 3: Omnimodal World Models for Physical AI  [[PDF](https://arxiv.org/abs/2606.02800)]
+
+[arxiv 2026.06] Consistent Yet Wrong: Evidence Insensitivity in Spatial Vision-Language Models  [[PDF](https://arxiv.org/abs/2606.02742)]
+
+[arxiv 2026.06] SCOPE: Real-Time Natural Language Camera Agent at the Edge  [[PDF](https://arxiv.org/abs/2606.02951),[Page](https://github.com/HindsboNikolaj/SCOPE)]
+
+[arxiv 2026.06] BYORn: Bootstrap Your Own Responses to Defend Large Vision-Language Models Against Backdoor Attacks  [[PDF](https://arxiv.org/abs/2606.02947)]
