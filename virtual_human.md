@@ -1,5 +1,5 @@
 ## Dataset
-<!-- Added on 2026-06-01 -->
+<!-- Added on 2026-06-04 -->
 [arxiv 2026.05] Generator-Refiner-Examiner: A Tri-Module Data Augmentation Framework for 3D Human Avatar Learning from Monocular Videos  [[PDF](https://arxiv.org/abs/2605.23555)]
 
 [arxiv 2026.05] Suicide Risk Assessment from AI-powered Video Surveillance: An Interpretable Framework for Prevention in Metro Stations  [[PDF](https://arxiv.org/abs/2605.22904)]
@@ -426,6 +426,10 @@
 [arxiv 2026.05] Before the Shutter: Aesthetic and Actionable Portrait Photography Planning in 3D Scenes  [[PDF](https://arxiv.org/abs/2605.30318)]
 
 [arxiv 2026.05] Omni-Supervised Motion Editing: Balancing Change and Invariance through Positive-Negative Learning  [[PDF](https://arxiv.org/abs/2605.30969)]
+
+[arxiv 2026.06] NextMotionQA: Benchmarking and Judging Human Motion Understanding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2606.04773)]
+
+[arxiv 2026.06] IMPose: Interactive Multi-person Pose Estimation with Dynamic Correction Propagation  [[PDF](https://arxiv.org/abs/2606.04480)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-06-03 -->
+<!-- Added on 2026-06-04 -->
 [arxiv 2026.05] Geo-Align: Video Generation Alignment via Metric Geometry Reward  [[PDF](https://arxiv.org/abs/2605.23903)]
 
 [arxiv 2026.05] LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation  [[PDF](https://arxiv.org/abs/2605.23878),[Page](https://lamo-ai.github.io/)]
@@ -915,6 +915,18 @@ A reading list of video generation
 [arxiv 2026.05] OmniMem: Scalable and Adaptive Memory Retrieval for Long Video Generation  [[PDF](https://arxiv.org/abs/2605.30519),[Page](https://wuyushuwys.github.io/OmniMem/)]
 
 [arxiv 2026.05] SANA-Streaming: Real-time Streaming Video Editing with Hybrid Diffusion Transformer  [[PDF](https://arxiv.org/abs/2605.30409)]
+
+[arxiv 2026.06] M$^3$Eval: Multi-Modal Memory Evaluation through Cognitively-Grounded Video Tasks  [[PDF](https://arxiv.org/abs/2606.05008)]
+
+[arxiv 2026.06] Dream.exe: Can Video Generation Models Dream Executable Robot Manipulation?  [[PDF](https://arxiv.org/abs/2606.04811)]
+
+[arxiv 2026.06] Physics-Informed Video Generation via Mixture-of-Experts Latent Alignment  [[PDF](https://arxiv.org/abs/2606.04737)]
+
+[arxiv 2026.06] DSA: Dynamic Step Allocation for Fast Autoregressive Video Generation  [[PDF](https://arxiv.org/abs/2606.04432)]
+
+[arxiv 2026.06] Activation Steering of Video Generation Models via Reduced-Order Linear Optimal Control  [[PDF](https://arxiv.org/abs/2606.04775)]
+
+[arxiv 2026.06] Echo-Infinity: Learning Evolving Memory for Real-Time Infinite Video Generation  [[PDF](https://arxiv.org/abs/2606.04527),[Page](https://echo-team-joy-future-academy-jd.github.io/Echo-Infinity/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-06-01 -->
+<!-- Added on 2026-06-04 -->
 [arxiv 2026.05] PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion  [[PDF](https://arxiv.org/abs/2605.23902),[Page](https://research.nvidia.com/labs/sil/projects/pid/)]
 
 [arxiv 2026.05] Learning a Particle Dynamics Model with Real-world Videos  [[PDF](https://arxiv.org/abs/2605.23845)]
@@ -1767,6 +1767,28 @@
 [arxiv 2026.05] MoE-dqINR: A Unified Mixture-of-Experts Implicit Neural Representation Framework for Scan-Specific Dynamic and Quantitative MRI Reconstruction  [[PDF](https://arxiv.org/abs/2605.31302)]
 
 [arxiv 2026.05] 3DAE: Binaural Quality Assessment for Audio Novel View Synthesis with Spatial Maps and Benchmark  [[PDF](https://arxiv.org/abs/2605.30469)]
+
+[arxiv 2026.06] GeM-NR: Geometry-Aware Multi-View Editing for Nonrigid Scene Changes  [[PDF](https://arxiv.org/abs/2606.05142),[Page](https://gem-nr.github.io/)]
+
+[arxiv 2026.06] ZipSplat: Fewer Gaussians, Better Splats  [[PDF](https://arxiv.org/abs/2606.05102)]
+
+[arxiv 2026.06] MaCo-GAN: Manifold-Contrastive Adversarial Learning for Single Image Super-Resolution  [[PDF](https://arxiv.org/abs/2606.05068)]
+
+[arxiv 2026.06] MeshFlow: Efficient Artistic Mesh Generation via MeshVAE and Flow-based Diffusion Transformer  [[PDF](https://arxiv.org/abs/2606.04621),[Page](https://mesh-flow.github.io/)]
+
+[arxiv 2026.06] Evaluating Reasoning Fidelity in Visual Text Generation  [[PDF](https://arxiv.org/abs/2606.04479)]
+
+[arxiv 2026.06] ChannelTok: Efficient Flexible-Length Vision Tokenization  [[PDF](https://arxiv.org/abs/2606.04461)]
+
+[arxiv 2026.06] Imagine Before You Draw: Visual Prompt Engineering for Image Generation  [[PDF](https://arxiv.org/abs/2606.04457)]
+
+[arxiv 2026.06] Efficient and Training-Free Single-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2606.04299),[Page](https://haojunqiu.github.io/efficient-SID/)]
+
+[arxiv 2026.06] A Cookbook of 3D Vision: Data, Learning Paradigms, and Application  [[PDF](https://arxiv.org/abs/2606.04291),[Page](https://openaccess.thecvf.com/content/CVPR2026W/OpenSUN3D/html/Du_A_Cookbook_of_3D_Vision_Data_Learning_Paradigms_and_Application_CVPRW_2026_paper.html)]
+
+[arxiv 2026.06] Reflection Separation from a Single Image via Joint Latent Diffusion  [[PDF](https://arxiv.org/abs/2606.04107),[Page](https://brian90709.github.io/diff-reflection-separation/)]
+
+[arxiv 2026.06] Geometry Gaussians: Decoupling Appearance and Geometry in Gaussian Splatting  [[PDF](https://arxiv.org/abs/2606.05124)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

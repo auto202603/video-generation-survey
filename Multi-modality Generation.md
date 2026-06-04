@@ -1,4 +1,4 @@
-<!-- Added on 2026-05-27 -->
+<!-- Added on 2026-06-04 -->
 [arxiv 2026.05] ETCHR: Editing To Clarify and Harness Reasoning  [[PDF](https://arxiv.org/abs/2605.23897),[Page](https://github.com/InternLM/ETCHR)]
 
 [arxiv 2026.05] Smart-Insertion-V: Photorealistic Video Insertion via a Closed-Loop Feedback Dual-Stream Framework  [[PDF](https://arxiv.org/abs/2605.23891)]
@@ -2579,6 +2579,28 @@
 [arxiv 2026.05] Diversity Matters: Revisiting Test-Time Compute in Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.30713)]
 
 [arxiv 2026.05] VLM-GLoc: Vision-Language Model Enhanced Monte Carlo Localization for Robust Semantic Global Localization in Cluttered Quasi-Static Environments  [[PDF](https://arxiv.org/abs/2605.30506)]
+
+[arxiv 2026.06] UniCAD: A Unified Benchmark and Universal Model for Multi-Modal Multi-Task CAD  [[PDF](https://arxiv.org/abs/2606.05058)]
+
+[arxiv 2026.06] Food-R1: A Unified Multi-Task Food Vision-Language Model with Reinforcement Learning  [[PDF](https://arxiv.org/abs/2606.04986)]
+
+[arxiv 2026.06] MAOAM: Unified Object and Material Selection with Vision-Language Models  [[PDF](https://arxiv.org/abs/2606.04880),[Page](https://jadenpark0.github.io/project_pages/maoam/)]
+
+[arxiv 2026.06] Impostor: An Agent-Curated Benchmark for Realistic AIGC Manipulation Localization  [[PDF](https://arxiv.org/abs/2606.04545)]
+
+[arxiv 2026.06] Hyper-ICL: Attention Calibration with Hyperbolic Anchor Distillation for Multimodal In-Context Learning  [[PDF](https://arxiv.org/abs/2606.04434)]
+
+[arxiv 2026.06] Video2LoRA: Parametric Video Internalization for Vision-Language Models  [[PDF](https://arxiv.org/abs/2606.04351)]
+
+[arxiv 2026.06] Answer Self-Consistency with Margin-Triggered Question Re-Arbitration for the CVPR 2026 VidLLMs Challenge  [[PDF](https://arxiv.org/abs/2606.04323)]
+
+[arxiv 2026.06] FindIt: A Format-Informed Visual Detection Benchmark for Generalist Multimodal LLMs  [[PDF](https://arxiv.org/abs/2606.04282)]
+
+[arxiv 2026.06] UniCanvas: A Diffusion-base Unified Model for Text-in-Image Joint Generation  [[PDF](https://arxiv.org/abs/2606.04264)]
+
+[arxiv 2026.06] GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs  [[PDF](https://arxiv.org/abs/2606.04184)]
+
+[arxiv 2026.06] VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark  [[PDF](https://arxiv.org/abs/2606.04244)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
