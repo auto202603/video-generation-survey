@@ -431,6 +431,14 @@
 
 [arxiv 2026.06] IMPose: Interactive Multi-person Pose Estimation with Dynamic Correction Propagation  [[PDF](https://arxiv.org/abs/2606.04480)]
 
+[arxiv 2026.06] Resonant Minds: Closed-Loop Social Avatars with Theory of Mind  [[PDF](https://arxiv.org/abs/2606.05896)]
+
+[arxiv 2026.06] KV-Control: Parameter-Efficient K/V Injection for Trajectory-Controlled Text-to-Motion  [[PDF](https://arxiv.org/abs/2606.05624)]
+
+[arxiv 2026.06] LadderMan: Learning Humanoid Perceptive Ladder Climbing  [[PDF](https://arxiv.org/abs/2606.05873)]
+
+[arxiv 2026.06] Flash-WAM: Modality-Aware Distillation for World Action Models  [[PDF](https://arxiv.org/abs/2606.05254)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 

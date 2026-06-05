@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-06-04 -->
+<!-- Added on 2026-06-05 -->
 [arxiv 2026.05] Geo-Align: Video Generation Alignment via Metric Geometry Reward  [[PDF](https://arxiv.org/abs/2605.23903)]
 
 [arxiv 2026.05] LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation  [[PDF](https://arxiv.org/abs/2605.23878),[Page](https://lamo-ai.github.io/)]
@@ -927,6 +927,20 @@ A reading list of video generation
 [arxiv 2026.06] Activation Steering of Video Generation Models via Reduced-Order Linear Optimal Control  [[PDF](https://arxiv.org/abs/2606.04775)]
 
 [arxiv 2026.06] Echo-Infinity: Learning Evolving Memory for Real-Time Infinite Video Generation  [[PDF](https://arxiv.org/abs/2606.04527),[Page](https://echo-team-joy-future-academy-jd.github.io/Echo-Infinity/)]
+
+[arxiv 2026.06] StoryVideoQA: Scaling Deep Video Understanding with a Large-Scale, Multi-Genre and Auto-Generated Dataset  [[PDF](https://arxiv.org/abs/2606.06338)]
+
+[arxiv 2026.06] RhymeFlow: Training-Free Acceleration for Video Generation with Asynchronous Denoising Flow Scheduling  [[PDF](https://arxiv.org/abs/2606.06309),[Page](https://simon-dcs.github.io/Website-of-RhymeFlow/)]
+
+[arxiv 2026.06] LoomVideo: Unifying Multimodal Inputs into Video Generation and Editing  [[PDF](https://arxiv.org/abs/2606.06042)]
+
+[arxiv 2026.06] VTI-CoT: Visual-Textual Interleaved Chain of Thought for Video Reasoning  [[PDF](https://arxiv.org/abs/2606.05736)]
+
+[arxiv 2026.06] V2V-Bench: A Comprehensive Benchmark for Video-to-Video Generation Evaluation  [[PDF](https://arxiv.org/abs/2606.05665)]
+
+[arxiv 2026.06] VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding  [[PDF](https://arxiv.org/abs/2606.05259)]
+
+[arxiv 2026.06] The Invisible Hand of Physics: When Video Diffusion Models Know More Than They Show  [[PDF](https://arxiv.org/abs/2606.05328)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

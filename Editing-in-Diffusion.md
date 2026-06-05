@@ -1790,6 +1790,46 @@
 
 [arxiv 2026.06] Geometry Gaussians: Decoupling Appearance and Geometry in Gaussian Splatting  [[PDF](https://arxiv.org/abs/2606.05124)]
 
+[arxiv 2026.06] HomeWorld: A Unified Floorplan-to-Furnished Framework for Generating Controllable, Densely Interactive Whole-Home Scenes  [[PDF](https://arxiv.org/abs/2606.06390)]
+
+[arxiv 2026.06] Geodesic Flow Matching on a Riemannian Degradation Manifold for Blind Image Restoration  [[PDF](https://arxiv.org/abs/2606.06278)]
+
+[arxiv 2026.06] SAM-Flow: Source-Anchored Masked Flow for Training-Free Image Editing  [[PDF](https://arxiv.org/abs/2606.06228),[Page](https://github.com/chwbob/Sam-Flow)]
+
+[arxiv 2026.06] RQUL-UIE: Revitalizing Quality-Unstable Labels for Underwater Image Enhancement via In-Dataset Self-Supervision  [[PDF](https://arxiv.org/abs/2606.06176)]
+
+[arxiv 2026.06] Diff-CA: Separating Common and Salient Factors with Diffusion Models  [[PDF](https://arxiv.org/abs/2606.06120)]
+
+[arxiv 2026.06] Knowledge Distillation for Visual Autoregressive Models  [[PDF](https://arxiv.org/abs/2606.06078)]
+
+[arxiv 2026.06] FontFusion: Enhancing Generative Text in Diffusion Models with Typographic Conditioning  [[PDF](https://arxiv.org/abs/2606.06066)]
+
+[arxiv 2026.06] ReSAGE-PAR: Representational Similarity Assessment for Generative Expansion in Pedestrian Attribute Recognition  [[PDF](https://arxiv.org/abs/2606.06020)]
+
+[arxiv 2026.06] Self-Learning Expression Deformations for Data-Efficient Gaussian Avatars  [[PDF](https://arxiv.org/abs/2606.05912)]
+
+[arxiv 2026.06] Gender Artifacts from Art History to Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2606.05829)]
+
+[arxiv 2026.06] Emotion-Aware Image Generation from Korean Diary Text via LLM-based Prompt Translation and LoRA Fine-Tuning  [[PDF](https://arxiv.org/abs/2606.05816)]
+
+[arxiv 2026.06] Beyond Absolute Scores: Relative Edit-induced Difference for Generalizable Image Aesthetic Assessment  [[PDF](https://arxiv.org/abs/2606.05778)]
+
+[arxiv 2026.06] Let It Be Simple: One-Step Action Generation for Vision-Language-Action Models  [[PDF](https://arxiv.org/abs/2606.05737)]
+
+[arxiv 2026.06] Parallel Jacobi Decoding for Fast Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2606.05703)]
+
+[arxiv 2026.06] CoFi-UCGen: Coarse-to-Fine Unsupervised Conditional Generation without Label Priors  [[PDF](https://arxiv.org/abs/2606.05652)]
+
+[arxiv 2026.06] Unpaired RGB-Thermal Gaussian-Splatting Using Visual Geometric Transformers  [[PDF](https://arxiv.org/abs/2606.05491)]
+
+[arxiv 2026.06] Can We Predict The Human Preference For Text-to-Image Content Prior To Generation And Is It Even Useful To Do So?  [[PDF](https://arxiv.org/abs/2606.05478),[Page](https://github.com/LSU-ATHENA/HPM-Predict)]
+
+[arxiv 2026.06] Do Models Share Safety Representations? Cross-Model Steering for Safe Visual Generation  [[PDF](https://arxiv.org/abs/2606.05290),[Page](https://aimagelab.github.io/cross-model-safety-representations/)]
+
+[arxiv 2026.06] GS-NFS: Bandwidth-adaptive Streaming of Dynamic Gaussian Splats and Point Clouds  [[PDF](https://arxiv.org/abs/2606.05650)]
+
+[arxiv 2026.06] Is This Edit Correct? A Multi-Dimensional Benchmark for Reasoning-Aware Image Editing  [[PDF](https://arxiv.org/abs/2606.05172)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]

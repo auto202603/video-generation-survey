@@ -2602,6 +2602,54 @@
 
 [arxiv 2026.06] VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark  [[PDF](https://arxiv.org/abs/2606.04244)]
 
+[arxiv 2026.06] PAR3D: A Unified 3D-MLLM with Part-Aware Representation for Scene Understanding  [[PDF](https://arxiv.org/abs/2606.06485),[Page](https://atrovast.github.io/PAR3D/)]
+
+[arxiv 2026.06] Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators  [[PDF](https://arxiv.org/abs/2606.06476),[Page](https://zcmax.github.io/projects/Thinking-With-Imagination)]
+
+[arxiv 2026.06] Towards One-to-Many Temporal Grounding  [[PDF](https://arxiv.org/abs/2606.06294)]
+
+[arxiv 2026.06] Where, What, Why, and Importance: Structured Defect Grounding for Text-to-Image Feedback  [[PDF](https://arxiv.org/abs/2606.06113)]
+
+[arxiv 2026.06] HyperVis: Continuous Latent Visual Relational Graphs on the Lorentz Hyperboloid for Compositional Reasoning  [[PDF](https://arxiv.org/abs/2606.06100)]
+
+[arxiv 2026.06] Global-Local Monte Carlo Tree Search in Vision-Language Models for Text-to-3D Indoor Scene Generation  [[PDF](https://arxiv.org/abs/2606.06002)]
+
+[arxiv 2026.06] Video-Rate Streaming Stylization on a Vision-Aware MLLM-Conditioned Edit Diffusion: Asymmetric Batched Inference on a Distilled UNet + MLLM Text Encoder  [[PDF](https://arxiv.org/abs/2606.05981),[Page](https://github.com/otanl/dreamlite-stream)]
+
+[arxiv 2026.06] T-FunS3D: Task-Driven Hierarchical Open-Vocabulary 3D Functionality Segmentation  [[PDF](https://arxiv.org/abs/2606.05975)]
+
+[arxiv 2026.06] Faithful, Enriched, and Precise: Benchmarking Natural-Science Illustration Generation by T2I models  [[PDF](https://arxiv.org/abs/2606.05949)]
+
+[arxiv 2026.06] MemoryCard: Topic-Aware Multi-Modal Clue Compression for Long-Video Question Answering  [[PDF](https://arxiv.org/abs/2606.05917)]
+
+[arxiv 2026.06] Unveiling the Unknown: Open Vocabulary Object Detection with Scene Graphs  [[PDF](https://arxiv.org/abs/2606.05916)]
+
+[arxiv 2026.06] Learning Geometric Representations from Videos for Spatial Intelligent Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2606.05833)]
+
+[arxiv 2026.06] Imagine Before You Predict: Interleaved Latent Visual Reasoning for Video Event Prediction  [[PDF](https://arxiv.org/abs/2606.05769),[Page](https://github.com/OpenGVLab/Future-L1)]
+
+[arxiv 2026.06] DRIFT: A Residual Flow Adapter for Decoding Continuous Outputs in Vision-Language Models  [[PDF](https://arxiv.org/abs/2606.05758)]
+
+[arxiv 2026.06] Cosine Misleads: Auxiliary Losses Reshape Vision Language Models, Not Their Latents  [[PDF](https://arxiv.org/abs/2606.05753)]
+
+[arxiv 2026.06] ViCuR: Visual Cues as Recoverable Privilege for Multimodal On-Policy Distillation  [[PDF](https://arxiv.org/abs/2606.05718)]
+
+[arxiv 2026.06] LongSpace: Exploring Long-Horizon Spatial Memory from Perception to Recall in Video  [[PDF](https://arxiv.org/abs/2606.05677)]
+
+[arxiv 2026.06] ShotCrop$^3$: Cropping Human-Centric Images into Cinematic Triple-Shot Compositions  [[PDF](https://arxiv.org/abs/2606.05635)]
+
+[arxiv 2026.06] Almieyar-Oryx-BloomBench: A Bilingual Multimodal Benchmark for Cognitively Informed Evaluation of Vision-Language Models  [[PDF](https://arxiv.org/abs/2606.05531)]
+
+[arxiv 2026.06] Would you still call this Dax? Novel Visual References in VLMs and Humans  [[PDF](https://arxiv.org/abs/2606.05409)]
+
+[arxiv 2026.06] Personal AI Agent for Camera Roll VQA  [[PDF](https://arxiv.org/abs/2606.05275),[Page](https://thaoshibe.github.io/camroll)]
+
+[arxiv 2026.06] AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding  [[PDF](https://arxiv.org/abs/2606.06155),[Page](https://github.com/Skywalker-yqz/AffordanceVLA)]
+
+[arxiv 2026.06] Learning Visual Spatial Planning from Symbolic State via Modality-Gap-Aware Self-Distillation  [[PDF](https://arxiv.org/abs/2606.06076)]
+
+[arxiv 2026.06] Seeing Time: Benchmarking Chronological Reasoning and Shortcut Biases in Vision-Language Models  [[PDF](https://arxiv.org/abs/2606.05702)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
