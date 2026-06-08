@@ -1,4 +1,4 @@
-<!-- Added on 2026-06-04 -->
+<!-- Added on 2026-06-08 -->
 [arxiv 2026.05] ETCHR: Editing To Clarify and Harness Reasoning  [[PDF](https://arxiv.org/abs/2605.23897),[Page](https://github.com/InternLM/ETCHR)]
 
 [arxiv 2026.05] Smart-Insertion-V: Photorealistic Video Insertion via a Closed-Loop Feedback Dual-Stream Framework  [[PDF](https://arxiv.org/abs/2605.23891)]
@@ -2649,6 +2649,38 @@
 [arxiv 2026.06] Learning Visual Spatial Planning from Symbolic State via Modality-Gap-Aware Self-Distillation  [[PDF](https://arxiv.org/abs/2606.06076)]
 
 [arxiv 2026.06] Seeing Time: Benchmarking Chronological Reasoning and Shortcut Biases in Vision-Language Models  [[PDF](https://arxiv.org/abs/2606.05702)]
+
+[arxiv 2026.06] TEVI: Text-Conditioned Editing of Visual Representations via Sparse Autoencoders for Improved Vision-Language Alignment  [[PDF](https://arxiv.org/abs/2606.07451)]
+
+[arxiv 2026.06] Skill-3D: Evolving Scene-Aware Skills for Agentic 3D Spatial Reasoning  [[PDF](https://arxiv.org/abs/2606.07436)]
+
+[arxiv 2026.06] Seeing Without Exposing: Adaptive Privacy Control for Open-World, Context-Hungry MLLMs  [[PDF](https://arxiv.org/abs/2606.07175)]
+
+[arxiv 2026.06] Textual Supervision Enhances Geospatial Representations in Vision-Language Models  [[PDF](https://arxiv.org/abs/2606.07172)]
+
+[arxiv 2026.06] When Recovery Matters: The Blind Spot of Surrogate Privacy in MLLM Editing  [[PDF](https://arxiv.org/abs/2606.07171)]
+
+[arxiv 2026.06] TraRA: Trajectory-level Recognition Aggregation for Video Text Spotting in Urban Surveillance  [[PDF](https://arxiv.org/abs/2606.07161)]
+
+[arxiv 2026.06] GP-Adapter: Gaussian Process CLIP-Adapter for Few-Shot Out-of-Distribution Detection  [[PDF](https://arxiv.org/abs/2606.07102)]
+
+[arxiv 2026.06] Never Seen Before: Benchmarking Genuine Zero-Shot Composed Image Retrieval with Consistent Video-Sourced Datasets  [[PDF](https://arxiv.org/abs/2606.07032)]
+
+[arxiv 2026.06] CL-CLIP: CLIP-Based Continual Learning Framework with Cost-Volume Category Decoupling for Object Detection  [[PDF](https://arxiv.org/abs/2606.06978)]
+
+[arxiv 2026.06] SS-TPT: Stability and Suitability-Guided Test-Time Prompt Tuning for Adversarially Robust Vision-Language Models  [[PDF](https://arxiv.org/abs/2606.06943)]
+
+[arxiv 2026.06] When CLIP Sees More, It Fights Back Harder: Multi-View Guided Adaptive Counterattacks for Test-Time Adversarial Robustness  [[PDF](https://arxiv.org/abs/2606.06938)]
+
+[arxiv 2026.06] Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors  [[PDF](https://arxiv.org/abs/2606.06891),[Page](https://stream3d-vlm.github.io/)]
+
+[arxiv 2026.06] Diagnosing Visual Ignorance in Vision-Language Models  [[PDF](https://arxiv.org/abs/2606.06890)]
+
+[arxiv 2026.06] Anchored, Not Graded: Vision-Language Models Fail at Slant-from-Texture Perception  [[PDF](https://arxiv.org/abs/2606.06714)]
+
+[arxiv 2026.06] WorldBench: A Challenging and Visually Diverse Multimodal Reasoning Benchmark  [[PDF](https://arxiv.org/abs/2606.06538),[Page](https://worldbench-vl.github.io/)]
+
+[arxiv 2026.06] Closed-Form Spectral Regularization for Multi-Task Model Merging  [[PDF](https://arxiv.org/abs/2606.07289)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

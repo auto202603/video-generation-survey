@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-06-04 -->
+<!-- Added on 2026-06-08 -->
 [arxiv 2026.05] PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion  [[PDF](https://arxiv.org/abs/2605.23902),[Page](https://research.nvidia.com/labs/sil/projects/pid/)]
 
 [arxiv 2026.05] Learning a Particle Dynamics Model with Real-world Videos  [[PDF](https://arxiv.org/abs/2605.23845)]
@@ -1829,6 +1829,28 @@
 [arxiv 2026.06] GS-NFS: Bandwidth-adaptive Streaming of Dynamic Gaussian Splats and Point Clouds  [[PDF](https://arxiv.org/abs/2606.05650)]
 
 [arxiv 2026.06] Is This Edit Correct? A Multi-Dimensional Benchmark for Reasoning-Aware Image Editing  [[PDF](https://arxiv.org/abs/2606.05172)]
+
+[arxiv 2026.06] AdaTok: Self-Budgeting Image Tokenization with Quality-Preserving Dynamic Tokens  [[PDF](https://arxiv.org/abs/2606.07185)]
+
+[arxiv 2026.06] EvoGS: Constructing Continuous-Layered Gaussian Splatting with Evolution Tree for Scalable 3D Streaming  [[PDF](https://arxiv.org/abs/2606.07179),[Page](https://yuang-ian.github.io/evogs/)]
+
+[arxiv 2026.06] Native3D: End-to-End 3D Scene Generation via Unified Mesh-Texture Modeling and Semantic Alignment  [[PDF](https://arxiv.org/abs/2606.07117)]
+
+[arxiv 2026.06] AsyncPatch Diffusion: spatially-flexible image generation  [[PDF](https://arxiv.org/abs/2606.07079)]
+
+[arxiv 2026.06] TrioPose: Native Triple-Stream Diffusion Transformers for Pose-Guided Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2606.07053)]
+
+[arxiv 2026.06] ARAPDiffusion: ARAP Regularization for Diffusion-Based Deformable Shape Space Learning  [[PDF](https://arxiv.org/abs/2606.06887)]
+
+[arxiv 2026.06] Unified Safe In-context Image Generation in Multimodal Diffusion Transformers via Restricting Unsafe Information Flows  [[PDF](https://arxiv.org/abs/2606.06875)]
+
+[arxiv 2026.06] AdaGRPO: A Capability-Aware Adaptive Enhancement for Flow-based GRPO  [[PDF](https://arxiv.org/abs/2606.06828),[Page](https://bujiazi.github.io/adagrpo.github.io/)]
+
+[arxiv 2026.06] Breaking the Lock-in: Diversifying Text-to-Image Generation via Representation Modulation  [[PDF](https://arxiv.org/abs/2606.06813),[Page](https://github.com/daheekwon/DAVE)]
+
+[arxiv 2026.06] Direct 3D-Aware Object Insertion via Decomposed Visual Proxies  [[PDF](https://arxiv.org/abs/2606.06601),[Page](https://gong1130.github.io/DIRECT/)]
+
+[arxiv 2026.06] Semantic-Structural Alignment for Generative Pictorial Charts  [[PDF](https://arxiv.org/abs/2606.06498)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

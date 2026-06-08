@@ -1,5 +1,5 @@
 ## Dataset
-<!-- Added on 2026-06-04 -->
+<!-- Added on 2026-06-08 -->
 [arxiv 2026.05] Generator-Refiner-Examiner: A Tri-Module Data Augmentation Framework for 3D Human Avatar Learning from Monocular Videos  [[PDF](https://arxiv.org/abs/2605.23555)]
 
 [arxiv 2026.05] Suicide Risk Assessment from AI-powered Video Surveillance: An Interpretable Framework for Prevention in Metro Stations  [[PDF](https://arxiv.org/abs/2605.22904)]
@@ -438,6 +438,8 @@
 [arxiv 2026.06] LadderMan: Learning Humanoid Perceptive Ladder Climbing  [[PDF](https://arxiv.org/abs/2606.05873)]
 
 [arxiv 2026.06] Flash-WAM: Modality-Aware Distillation for World Action Models  [[PDF](https://arxiv.org/abs/2606.05254)]
+
+[arxiv 2026.06] AnchorWorld: Embodied Egocentric World Simulation with View-based Evolution Customization  [[PDF](https://arxiv.org/abs/2606.07326)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

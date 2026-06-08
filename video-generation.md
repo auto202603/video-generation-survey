@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-06-05 -->
+<!-- Added on 2026-06-08 -->
 [arxiv 2026.05] Geo-Align: Video Generation Alignment via Metric Geometry Reward  [[PDF](https://arxiv.org/abs/2605.23903)]
 
 [arxiv 2026.05] LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation  [[PDF](https://arxiv.org/abs/2605.23878),[Page](https://lamo-ai.github.io/)]
@@ -941,6 +941,24 @@ A reading list of video generation
 [arxiv 2026.06] VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding  [[PDF](https://arxiv.org/abs/2606.05259)]
 
 [arxiv 2026.06] The Invisible Hand of Physics: When Video Diffusion Models Know More Than They Show  [[PDF](https://arxiv.org/abs/2606.05328)]
+
+[arxiv 2026.06] MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism  [[PDF](https://arxiv.org/abs/2606.07512)]
+
+[arxiv 2026.06] Streaming Video Generation with Streaming Force Control  [[PDF](https://arxiv.org/abs/2606.07508)]
+
+[arxiv 2026.06] CULTURESCORE: Evaluating Cultural Faithfulness in Video Generation Models  [[PDF](https://arxiv.org/abs/2606.07311)]
+
+[arxiv 2026.06] Don&#39;t Pause: Streaming Video-Language Synchrony for Online Video Understanding  [[PDF](https://arxiv.org/abs/2606.06991)]
+
+[arxiv 2026.06] SVHighlights: Towards Extremely Long Sport Video Highlight Detection  [[PDF](https://arxiv.org/abs/2606.06926),[Page](https://leedongkyu2019.github.io/SVHighlights/)]
+
+[arxiv 2026.06] EgoPressDiff: Multimodal Video Diffusion for Egocentric UV-Domain Hand-Pressure Estimation  [[PDF](https://arxiv.org/abs/2606.06872)]
+
+[arxiv 2026.06] MotionEnhancer: Leveraging Video Diffusion for Motion-Enhanced Vision-Language Models  [[PDF](https://arxiv.org/abs/2606.06853)]
+
+[arxiv 2026.06] GOPAgen: Motion-Aware and Efficient Agentic Long-Video Understanding with Structural Memory and Hierarchical Reasoning  [[PDF](https://arxiv.org/abs/2606.06532)]
+
+[arxiv 2026.06] Real-Time AttentionBender: Granular Interactive Network Bending of Video Diffusion Transformers  [[PDF](https://arxiv.org/abs/2606.06497)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
