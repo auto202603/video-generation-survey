@@ -1,5 +1,33 @@
 # Image Editing In Diffusion 
 <!-- Added on 2026-06-08 -->
+[arxiv 2026.06] Mean Flow Distillation: Robust and Stable Distillation for Flow Matching Models  [[PDF](https://arxiv.org/abs/2606.11155)]
+
+[arxiv 2026.06] IDEAL: In-DEpth ALignment Makes A Discrete Representation AutoEncoder  [[PDF](https://arxiv.org/abs/2606.11096),[Page](https://github.com/Row11n/IDEAL)]
+
+[arxiv 2026.06] Pose-ICL: 3D-Aware In-Context Learning for Pose-Controllable Subject Customization  [[PDF](https://arxiv.org/abs/2606.10902)]
+
+[arxiv 2026.06] The 1st PortraitCraft Challenge: A CVPR 2026 Workshop Competition on Portrait Composition Understanding and Generation  [[PDF](https://arxiv.org/abs/2606.10894)]
+
+[arxiv 2026.06] Envision4D: Envisioning Visual Futures via Feed-forward 4D Gaussian Splatting for Autonomous Driving  [[PDF](https://arxiv.org/abs/2606.10656),[Page](https://maggiesong7.github.io/research/Envision4D/)]
+
+[arxiv 2026.06] STEDiff: Strengthening Text Embedding for Text-to-Image Alignment in Diffusion Model  [[PDF](https://arxiv.org/abs/2606.10653)]
+
+[arxiv 2026.06] ManiSplat: Manipulation Trajectory Synthesis from Monocular Video via Decoupled 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2606.10645)]
+
+[arxiv 2026.06] Can Image Models Imagine Time? ImageTime: A Novel Benchmark for Probing Visual World Modeling Through Spatiotemporal Consistency  [[PDF](https://arxiv.org/abs/2606.10620)]
+
+[arxiv 2026.06] GaussTrace: Provenance Analysis of 3D Gaussian Splatting Models with Evidence-based LLM Reasoning  [[PDF](https://arxiv.org/abs/2606.10612)]
+
+[arxiv 2026.06] PathRelax: Parallel-Path Relaxed Speculative Jacobi Decoding for Accelerating Auto-Regressive Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2606.10492)]
+
+[arxiv 2026.06] 3D-CoS: A New 3D Reconstruction Paradigm Based on VLM Code Synthesis  [[PDF](https://arxiv.org/abs/2606.10478)]
+
+[arxiv 2026.06] FoA-SR: Faithful or Aesthetic? Profile-Aware Preference Optimization for Real-World Image Super-Resolution  [[PDF](https://arxiv.org/abs/2606.10275)]
+
+[arxiv 2026.06] An Improved Generative Adversarial Network for Micro-Resistivity Imaging Logging Restoration  [[PDF](https://arxiv.org/abs/2606.10200)]
+
+[arxiv 2026.06] Overlapped Wavelet Diffusion for Low-Light Image Enhancement  [[PDF](https://arxiv.org/abs/2606.10280),[Page](https://github.com/FinnPeg/Overlapped-Wavelet-Diffusion)]
+
 [arxiv 2026.05] PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion  [[PDF](https://arxiv.org/abs/2605.23902),[Page](https://research.nvidia.com/labs/sil/projects/pid/)]
 
 [arxiv 2026.05] Learning a Particle Dynamics Model with Real-world Videos  [[PDF](https://arxiv.org/abs/2605.23845)]

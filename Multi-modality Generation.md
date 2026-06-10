@@ -1,4 +1,26 @@
 <!-- Added on 2026-06-08 -->
+[arxiv 2026.06] ARM: An AutoRegressive Large Multimodal Model with Unified Discrete Representations  [[PDF](https://arxiv.org/abs/2606.11188)]
+
+[arxiv 2026.06] P3D-Bench: Benchmarking MLLMs for Parametric 3D Generation and Structural Reasoning  [[PDF](https://arxiv.org/abs/2606.11152),[Page](https://lucasqaq.github.io/p3d/)]
+
+[arxiv 2026.06] CoCoSI: Collaborative Cognitive Map Construction for Spatial Intelligence  [[PDF](https://arxiv.org/abs/2606.10401)]
+
+[arxiv 2026.06] DB-3DME: From Dataset to Benchmark for Human-aligned Automatic 3D Mesh Evaluation  [[PDF](https://arxiv.org/abs/2606.10142)]
+
+[arxiv 2026.06] SD-GRPO: Verifiable Segment Decomposition for Long-Form Vision-Language Generation  [[PDF](https://arxiv.org/abs/2606.09871)]
+
+[arxiv 2026.06] A History-Aware Visually Grounded Critic for Computer Use Agents  [[PDF](https://arxiv.org/abs/2606.11078),[Page](https://github.com/G-JWLee/HiViG)]
+
+[arxiv 2026.06] Architect-Ant: Editable Automatic Furnishing of Architectural Floor Plans  [[PDF](https://arxiv.org/abs/2606.10953)]
+
+[arxiv 2026.06] Beyond APIs: Probing the Limits of MLLMs in Physical Tool Use  [[PDF](https://arxiv.org/abs/2606.10803)]
+
+[arxiv 2026.06] Do Vision-Language Models See or Guess? Measuring and Reducing Textual-Prior Reliance with a Phrasing-Controlled Benchmark  [[PDF](https://arxiv.org/abs/2606.10400)]
+
+[arxiv 2026.06] Density Ridge Selective Prediction for LLM and VLM Hallucination Detection under Calibration Label Scarcity  [[PDF](https://arxiv.org/abs/2606.10198)]
+
+[arxiv 2026.06] From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs  [[PDF](https://arxiv.org/abs/2606.10147)]
+
 [arxiv 2026.05] ETCHR: Editing To Clarify and Harness Reasoning  [[PDF](https://arxiv.org/abs/2605.23897),[Page](https://github.com/InternLM/ETCHR)]
 
 [arxiv 2026.05] Smart-Insertion-V: Photorealistic Video Insertion via a Closed-Loop Feedback Dual-Stream Framework  [[PDF](https://arxiv.org/abs/2605.23891)]

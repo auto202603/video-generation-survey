@@ -1,5 +1,9 @@
 ## Dataset
 <!-- Added on 2026-06-08 -->
+[arxiv 2026.06] SCAIL-2: Unifying Controlled Character Animation with End-to-end In-Context Conditioning  [[PDF](https://arxiv.org/abs/2606.10804)]
+
+[arxiv 2026.06] Integrated Real-Time Motion Tracking and AI Analysis for Athletic Performance Optimization  [[PDF](https://arxiv.org/abs/2606.09842)]
+
 [arxiv 2026.05] Generator-Refiner-Examiner: A Tri-Module Data Augmentation Framework for 3D Human Avatar Learning from Monocular Videos  [[PDF](https://arxiv.org/abs/2605.23555)]
 
 [arxiv 2026.05] Suicide Risk Assessment from AI-powered Video Surveillance: An Interpretable Framework for Prevention in Metro Stations  [[PDF](https://arxiv.org/abs/2605.22904)]

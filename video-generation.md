@@ -1,5 +1,17 @@
 # Video Generation Survey
-<!-- Added on 2026-06-08 -->
+<!-- Added on 2026-06-10 -->
+[arxiv 2026.06] Next Forcing: Causal World Modeling with Multi-Chunk Prediction  [[PDF](https://arxiv.org/abs/2606.11187),[Page](https://gangweix.github.io/next-forcing/)]
+
+[arxiv 2026.06] WorldOlympiad: Can Your World Model Survive a Triathlon?  [[PDF](https://arxiv.org/abs/2606.11129),[Page](https://alibaba-damo-academy.github.io/WorldOlympiad/)]
+
+[arxiv 2026.06] HarmoView: Harmonizing Multi-View Constraints for Identity-Consistent Video Generation  [[PDF](https://arxiv.org/abs/2606.10839),[Page](https://conallwang.github.io/HarmoView_Pages)]
+
+[arxiv 2026.06] FadeMem: Distance-Aware Memory Consolidation for Autoregressive Video Diffusion  [[PDF](https://arxiv.org/abs/2606.10671)]
+
+[arxiv 2026.06] Making Time Editable in Video Diffusion Transformers  [[PDF](https://arxiv.org/abs/2606.10183)]
+
+[arxiv 2026.06] BiWM: Advancing Open-Source Interactive Video World Models with Bidirectional Autoregression  [[PDF](https://arxiv.org/abs/2606.10135)]
+
 [arxiv 2026.05] Geo-Align: Video Generation Alignment via Metric Geometry Reward  [[PDF](https://arxiv.org/abs/2605.23903)]
 
 [arxiv 2026.05] LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation  [[PDF](https://arxiv.org/abs/2605.23878),[Page](https://lamo-ai.github.io/)]
