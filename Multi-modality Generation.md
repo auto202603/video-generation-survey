@@ -2704,6 +2704,44 @@
 
 [arxiv 2026.06] Closed-Form Spectral Regularization for Multi-Task Model Merging  [[PDF](https://arxiv.org/abs/2606.07289)]
 
+[arxiv 2026.06] Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models  [[PDF](https://arxiv.org/abs/2606.12412),[Page](https://github.com/elmma/mllm-reroute/)]
+
+[arxiv 2026.06] Bridging the Modality Gap in Forensic Image Retrieval  [[PDF](https://arxiv.org/abs/2606.12294)]
+
+[arxiv 2026.06] Bridging Day and Night: Unsupervised Cross-Domain Re-Identification with Synergistic Prompt and Prototype Learning  [[PDF](https://arxiv.org/abs/2606.12258)]
+
+[arxiv 2026.06] MSUE: Multi-Modal Soccer Understanding Expert  [[PDF](https://arxiv.org/abs/2606.12106)]
+
+[arxiv 2026.06] World Model Self-Distillation: Training World Models to Solve General Tasks  [[PDF](https://arxiv.org/abs/2606.12072)]
+
+[arxiv 2026.06] Metadata-Aware Multi-Prompt Reasoning for Zero-Shot Accident Understanding  [[PDF](https://arxiv.org/abs/2606.12047)]
+
+[arxiv 2026.06] Task-Aligned Stability Analysis of Vision-Language Models for Autonomous Driving Hazard Detection  [[PDF](https://arxiv.org/abs/2606.11889)]
+
+[arxiv 2026.06] Task-Aware Structured Memory for Dynamic Multi-modal In-Context Learning  [[PDF](https://arxiv.org/abs/2606.11853)]
+
+[arxiv 2026.06] MultiToP: Learning to Patch Visual Tokens to Mitigate Hallucinations in Video Large Multimodal Models  [[PDF](https://arxiv.org/abs/2606.11792)]
+
+[arxiv 2026.06] From Prompts to Tokens: Internalizing Causal Supervision in Vision-Language Model for Multi-Image Causal Reasoning  [[PDF](https://arxiv.org/abs/2606.11745)]
+
+[arxiv 2026.06] Ouroboros-Spatial: Closing the Data-Model Loop for Spatial Reasoning  [[PDF](https://arxiv.org/abs/2606.11719)]
+
+[arxiv 2026.06] Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning  [[PDF](https://arxiv.org/abs/2606.11683)]
+
+[arxiv 2026.06] Adapting Vision-Language Models from Iconic to Inclusive for Multi-Label Recognition Without Labels  [[PDF](https://arxiv.org/abs/2606.11626)]
+
+[arxiv 2026.06] AVIS: Adaptive Test-Time Scaling for Vision-Language Models  [[PDF](https://arxiv.org/abs/2606.11576),[Page](https://avis-vlm.github.io/)]
+
+[arxiv 2026.06] 4DP-QA: Scalable QA for 4D Perception in Vision Language Models  [[PDF](https://arxiv.org/abs/2606.11568),[Page](https://research.nvidia.com/labs/lpr/4dpqa)]
+
+[arxiv 2026.06] VL-DINO: Leveraging CLIP Vision-Language Knowledge for Open-Vocabulary Object Detectio  [[PDF](https://arxiv.org/abs/2606.11546)]
+
+[arxiv 2026.06] DeceptionX: Explainable Deception Detection with Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2606.11385)]
+
+[arxiv 2026.06] DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?  [[PDF](https://arxiv.org/abs/2606.12402)]
+
+[arxiv 2026.06] Detecting AI-Generated Content on Social Media with Multi-modal Language Models  [[PDF](https://arxiv.org/abs/2606.11200)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 

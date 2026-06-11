@@ -1880,6 +1880,30 @@
 
 [arxiv 2026.06] Semantic-Structural Alignment for Generative Pictorial Charts  [[PDF](https://arxiv.org/abs/2606.06498)]
 
+[arxiv 2026.06] From 2D Grids to 1D Tokens: Reforming Shared Representations for Multimodal Image Fusion  [[PDF](https://arxiv.org/abs/2606.12303)]
+
+[arxiv 2026.06] VOID: Defeating Unauthorized Mimicry in Latent Diffusion Models  [[PDF](https://arxiv.org/abs/2606.12263)]
+
+[arxiv 2026.06] SHERPA: Seam-aware Harmonized ERP Adaptation for Open-Domain 360$^\circ$ Panorama Generation  [[PDF](https://arxiv.org/abs/2606.12213)]
+
+[arxiv 2026.06] Wild3R: Feed-Forward 3D Gaussian Splatting from Unconstrained Sparse Photo Collection  [[PDF](https://arxiv.org/abs/2606.11894)]
+
+[arxiv 2026.06] Scene-Adaptive Nonlinear Tone Curves for Pseudo Ground-Truth Generation in Low-Light 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2606.11841)]
+
+[arxiv 2026.06] TextHOI-3D: Text-to-3D Hand-Object Interaction via Discrete Multi-View Generation and Joint Mesh Optimization  [[PDF](https://arxiv.org/abs/2606.11805)]
+
+[arxiv 2026.06] Seeing What Matters: Perceptual Wrapper with Common Randomness for 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2606.11782)]
+
+[arxiv 2026.06] AnchorEdit: Maintaining Temporal Consistency in Multi-turn Image Editing via Causal Memory  [[PDF](https://arxiv.org/abs/2606.11751),[Page](https://github.com/xuhang07/AnchorEdit)]
+
+[arxiv 2026.06] A Scalable PyTorch Abstraction for Multi-GPU Gaussian Splatting  [[PDF](https://arxiv.org/abs/2606.11390)]
+
+[arxiv 2026.06] NSVQ: Mitigating Codebook Collapse by Stabilizing Encoder Drift in Vector Quantization  [[PDF](https://arxiv.org/abs/2606.11363)]
+
+[arxiv 2026.06] TRON: Tracing Rays to Orchestrate a Neural Renderer for 3D Gaussian Reconstructions  [[PDF](https://arxiv.org/abs/2606.11314),[Page](https://research.nvidia.com/labs/sil/projects/tron/)]
+
+[arxiv 2026.06] i1: A Simple and Fully Open Recipe for Strong Text-to-Image Models  [[PDF](https://arxiv.org/abs/2606.11289),[Page](https://zlab-princeton.github.io/i1)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]

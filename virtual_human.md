@@ -445,6 +445,12 @@
 
 [arxiv 2026.06] AnchorWorld: Embodied Egocentric World Simulation with View-based Evolution Customization  [[PDF](https://arxiv.org/abs/2606.07326)]
 
+[arxiv 2026.06] TopoCap: Learning Topology-Agnostic Motion Priors for Monocular Video-to-Animation  [[PDF](https://arxiv.org/abs/2606.12153)]
+
+[arxiv 2026.06] Multi-View In-Cabin Monitoring System for Public Transport Vehicles  [[PDF](https://arxiv.org/abs/2606.11739)]
+
+[arxiv 2026.06] Contactless 3D Human Body Measurement Using Depth Cameras for Smart Health Monitoring  [[PDF](https://arxiv.org/abs/2606.11578)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 

@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-06-10 -->
+<!-- Added on 2026-06-11 -->
 [arxiv 2026.06] Next Forcing: Causal World Modeling with Multi-Chunk Prediction  [[PDF](https://arxiv.org/abs/2606.11187),[Page](https://gangweix.github.io/next-forcing/)]
 
 [arxiv 2026.06] WorldOlympiad: Can Your World Model Survive a Triathlon?  [[PDF](https://arxiv.org/abs/2606.11129),[Page](https://alibaba-damo-academy.github.io/WorldOlympiad/)]
@@ -34,21 +34,21 @@
 
 [arxiv 2026.05] DrawVideo: Generating Long Video from Storyboard Keyframe Sketches  [[PDF](https://arxiv.org/abs/2605.23508)]
 
-<!-- Added on 2026-05-15 -->
-<!-- Added on 2026-05-14 -->
-<!-- Added on 2026-05-13 -->
-<!-- Added on 2026-05-08 -->
-<!-- Added on 2026-05-07 -->
-<!-- Added on 2026-05-06 -->
-<!-- Added on 2026-05-04 -->
-<!-- Added on 2026-04-23 -->
-<!-- Added on 2026-04-21 -->
-<!-- Added on 2026-04-20 -->
-<!-- Added on 2026-04-17 -->
-<!-- Added on 2026-04-16 -->
-<!-- Added on 2026-04-15 -->
-<!-- Added on 2026-04-14 -->
-<!-- Added on 2026-05-05 -->
+<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-11 -->
 
 [arxiv 2026.05] FaithfulFaces: Pose-Faithful Facial Identity Preservation for Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2605.04702)]
 
@@ -84,13 +84,13 @@
 
 [arxiv 2026.05] World Model for Robot Learning: A Comprehensive Survey  [[PDF](https://arxiv.org/abs/2605.00080)]
 
-<!-- Added on 2026-04-24 -->
+<!-- Added on 2026-06-11 -->
 
-<!-- Added on 2026-04-27 -->
+<!-- Added on 2026-06-11 -->
 
-<!-- Added on 2026-04-29 -->
+<!-- Added on 2026-06-11 -->
 
-<!-- Added on 2026-04-30 -->
+<!-- Added on 2026-06-11 -->
 
 [arxiv 2026.04] CurEvo: Curriculum-Guided Self-Evolution for Video Understanding  [[PDF](https://arxiv.org/abs/2604.26707)]
 
@@ -162,13 +162,13 @@
 
 [arxiv 2026.04] Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding  [[PDF](https://arxiv.org/abs/2604.05015),[Page](https://video-mme-v2.netlify.app/)]
 
-<!-- Added on 2026-04-13 -->
-<!-- Added on 2026-04-13 -->
-<!-- Added on 2026-04-13 -->
-<!-- Added on 2026-04-13 -->
-<!-- Added on 2026-04-13 -->
-<!-- Added on 2026-04-13 -->
-<!-- Added on 2026-04-13 -->
+<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-11 -->
 [arxiv 2026.04] ONE-SHOT: Compositional Human-Environment Video Synthesis via Spatial-Decoupled Motion Injection and Hybrid Context Integration  [[PDF](https://arxiv.org/abs/2604.01043v1),[Page](https://martayang.github.io/ONE-SHOT/)]
 
 [arxiv 2026.04] TRACE: High-Fidelity 3D Scene Editing via Tangible Reconstruction and Geometry-Aligned Contextual Video Masking  [[PDF](https://arxiv.org/abs/2604.01207v1)]
@@ -971,6 +971,18 @@ A reading list of video generation
 [arxiv 2026.06] GOPAgen: Motion-Aware and Efficient Agentic Long-Video Understanding with Structural Memory and Hierarchical Reasoning  [[PDF](https://arxiv.org/abs/2606.06532)]
 
 [arxiv 2026.06] Real-Time AttentionBender: Granular Interactive Network Bending of Video Diffusion Transformers  [[PDF](https://arxiv.org/abs/2606.06497)]
+
+[arxiv 2026.06] Natural-Language Temporal Grounding in Hour-Long Videos is a Search Problem: A Benchmark and Empirical Decomposition  [[PDF](https://arxiv.org/abs/2606.12300),[Page](https://github.com/naver-ai/ExtremeWhenBench)]
+
+[arxiv 2026.06] Q-Fold: Query-Aware Focus-Context Spatio-Temporal Folding for Long Video Understanding  [[PDF](https://arxiv.org/abs/2606.12125)]
+
+[arxiv 2026.06] SpecLoR: Spectral Lookahead Rectification for Motion-Coherent Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2606.11969)]
+
+[arxiv 2026.06] From Content to Knowledge: Lightning Fast Long-Video Understanding with Neural Knowledge Representations  [[PDF](https://arxiv.org/abs/2606.11913)]
+
+[arxiv 2026.06] A Comprehensive Ecosystem for Open-Domain Customized Video Generation  [[PDF](https://arxiv.org/abs/2606.11783)]
+
+[arxiv 2026.06] ARGUS: Stacked Multi-View Identity Mosaic Injection for Subject-Preserving Video Generation  [[PDF](https://arxiv.org/abs/2606.11670)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
