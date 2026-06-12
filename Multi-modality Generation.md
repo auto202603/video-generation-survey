@@ -2742,6 +2742,32 @@
 
 [arxiv 2026.06] Detecting AI-Generated Content on Social Media with Multi-modal Language Models  [[PDF](https://arxiv.org/abs/2606.11200)]
 
+[arxiv 2026.06] SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning  [[PDF](https://arxiv.org/abs/2606.13673),[Page](https://spatialclaw.github.io/)]
+
+[arxiv 2026.06] Cross-Modal Masked Compositional Concept Modeling for Enhancing Visio-Linguistic Compositionality  [[PDF](https://arxiv.org/abs/2606.13288)]
+
+[arxiv 2026.06] Iterative Visual Thinking: Teaching Vision-Language Models Spatial Self-Correction through Visual Feedback  [[PDF](https://arxiv.org/abs/2606.13156)]
+
+[arxiv 2026.06] PP-OCRv6: From 1.5M to 34.5M Parameters, Surpassing Billion-Scale VLMs on OCR Tasks  [[PDF](https://arxiv.org/abs/2606.13108)]
+
+[arxiv 2026.06] Multi-Label Test-Time Adaptation with Bayesian Conditional Priors  [[PDF](https://arxiv.org/abs/2606.12925)]
+
+[arxiv 2026.06] Magnifying What Matters: Attention-Guided Adaptive Rendering for Visual Text Comprehension  [[PDF](https://arxiv.org/abs/2606.12898)]
+
+[arxiv 2026.06] Language-Guided Abstraction for Visual Reasoning  [[PDF](https://arxiv.org/abs/2606.12847)]
+
+[arxiv 2026.06] Perceive, Interact, Reason: Building Tool-Augmented Visual Agents for Spatial Reasoning  [[PDF](https://arxiv.org/abs/2606.12830)]
+
+[arxiv 2026.06] GRIP: Feedback-Guided Prompt Retrieval for Large Multimodal Models  [[PDF](https://arxiv.org/abs/2606.12744)]
+
+[arxiv 2026.06] SalArt-VQA: Diagnosing Whether VLMs Understand Salient Artifacts in Generated Images  [[PDF](https://arxiv.org/abs/2606.12671),[Page](https://huggingface.co/datasets/salartvqa/SalArt-VQA)]
+
+[arxiv 2026.06] ComAct: Reframing Professional Software Manipulation via COM-as-Action Paradigm  [[PDF](https://arxiv.org/abs/2606.13239)]
+
+[arxiv 2026.06] Bounding Boxes as Goals: Language-Conditioned Grasping via Neuro-Symbolic Planning  [[PDF](https://arxiv.org/abs/2606.12910),[Page](https://allisonandreyev.github.io/grasp.github.io/)]
+
+[arxiv 2026.06] Emerging Flexible Designs for Geospatial Multimodal Foundation Models  [[PDF](https://arxiv.org/abs/2606.12595)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 

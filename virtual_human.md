@@ -451,6 +451,14 @@
 
 [arxiv 2026.06] Contactless 3D Human Body Measurement Using Depth Cameras for Smart Health Monitoring  [[PDF](https://arxiv.org/abs/2606.11578)]
 
+[arxiv 2026.06] ReFree: Towards Realistic Co-Speech Video Generation via Reward-Free RL and Multilevel Speech Guidance  [[PDF](https://arxiv.org/abs/2606.13304)]
+
+[arxiv 2026.06] A Machine Learning Framework for Real-Time Personalized Ergonomic Pose Analysis  [[PDF](https://arxiv.org/abs/2606.12988)]
+
+[arxiv 2026.06] Stereo Vision-Based Fall Prediction and Detection using Human Pose Estimation on the AMD Kria K26 SOM  [[PDF](https://arxiv.org/abs/2606.12473)]
+
+[arxiv 2026.06] VideoMDM: Towards 3D Human Motion Generation From 2D Supervision  [[PDF](https://arxiv.org/abs/2606.13364),[Page](https://videomdm.github.io/)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 

@@ -1904,6 +1904,32 @@
 
 [arxiv 2026.06] i1: A Simple and Fully Open Recipe for Strong Text-to-Image Models  [[PDF](https://arxiv.org/abs/2606.11289),[Page](https://zlab-princeton.github.io/i1)]
 
+[arxiv 2026.06] InterleaveThinker: Reinforcing Agentic Interleaved Generation  [[PDF](https://arxiv.org/abs/2606.13679),[Page](https://zhengdian1.github.io/InterleaveThinker-proj/)]
+
+[arxiv 2026.06] Modality Forcing for Scalable Spatial Generation  [[PDF](https://arxiv.org/abs/2606.13676)]
+
+[arxiv 2026.06] World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible  [[PDF](https://arxiv.org/abs/2606.13652),[Page](https://haoz19.github.io/world-tracing-page/)]
+
+[arxiv 2026.06] Revisiting Vehicle Color Recognition in Long-Tailed Surveillance Scenarios  [[PDF](https://arxiv.org/abs/2606.13625)]
+
+[arxiv 2026.06] Edit the Bits, Diff the Codes: Bitwise Residual Editing for Visual Autoregressive Models  [[PDF](https://arxiv.org/abs/2606.13558)]
+
+[arxiv 2026.06] OmniDirector: General Multi-Shot Camera Cloning without Cross-Paired Data  [[PDF](https://arxiv.org/abs/2606.13432)]
+
+[arxiv 2026.06] Dual-Domain Equivariant Generative Adversarial Network for Multimodal CT-PET Synthesis  [[PDF](https://arxiv.org/abs/2606.13341)]
+
+[arxiv 2026.06] DuET: Dual Expert Trajectories for Diffusion Image Editing  [[PDF](https://arxiv.org/abs/2606.13303)]
+
+[arxiv 2026.06] Diffusion Transformer World-Action Model for AV Scene Prediction  [[PDF](https://arxiv.org/abs/2606.12987)]
+
+[arxiv 2026.06] Efficient, Robust, and Anti-Collusion Fingerprinting of Image Diffusion Models  [[PDF](https://arxiv.org/abs/2606.12977)]
+
+[arxiv 2026.06] Bridging Modal Isolation in Interleaved Thinking: Supervising Modality Transitions via Stepwise Reinforcement  [[PDF](https://arxiv.org/abs/2606.12886)]
+
+[arxiv 2026.06] High-Fidelity Two-Step Image Generation via Teacher-Aligned End-to-End Distillation  [[PDF](https://arxiv.org/abs/2606.12575)]
+
+[arxiv 2026.06] AudioX-Turbo: A Unified Framework for Efficient Anything-to-Audio Generation  [[PDF](https://arxiv.org/abs/2606.12555)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]

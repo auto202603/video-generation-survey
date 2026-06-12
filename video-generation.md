@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-12 -->
 [arxiv 2026.06] Next Forcing: Causal World Modeling with Multi-Chunk Prediction  [[PDF](https://arxiv.org/abs/2606.11187),[Page](https://gangweix.github.io/next-forcing/)]
 
 [arxiv 2026.06] WorldOlympiad: Can Your World Model Survive a Triathlon?  [[PDF](https://arxiv.org/abs/2606.11129),[Page](https://alibaba-damo-academy.github.io/WorldOlympiad/)]
@@ -34,21 +34,21 @@
 
 [arxiv 2026.05] DrawVideo: Generating Long Video from Storyboard Keyframe Sketches  [[PDF](https://arxiv.org/abs/2605.23508)]
 
-<!-- Added on 2026-06-11 -->
-<!-- Added on 2026-06-11 -->
-<!-- Added on 2026-06-11 -->
-<!-- Added on 2026-06-11 -->
-<!-- Added on 2026-06-11 -->
-<!-- Added on 2026-06-11 -->
-<!-- Added on 2026-06-11 -->
-<!-- Added on 2026-06-11 -->
-<!-- Added on 2026-06-11 -->
-<!-- Added on 2026-06-11 -->
-<!-- Added on 2026-06-11 -->
-<!-- Added on 2026-06-11 -->
-<!-- Added on 2026-06-11 -->
-<!-- Added on 2026-06-11 -->
-<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-12 -->
+<!-- Added on 2026-06-12 -->
+<!-- Added on 2026-06-12 -->
+<!-- Added on 2026-06-12 -->
+<!-- Added on 2026-06-12 -->
+<!-- Added on 2026-06-12 -->
+<!-- Added on 2026-06-12 -->
+<!-- Added on 2026-06-12 -->
+<!-- Added on 2026-06-12 -->
+<!-- Added on 2026-06-12 -->
+<!-- Added on 2026-06-12 -->
+<!-- Added on 2026-06-12 -->
+<!-- Added on 2026-06-12 -->
+<!-- Added on 2026-06-12 -->
+<!-- Added on 2026-06-12 -->
 
 [arxiv 2026.05] FaithfulFaces: Pose-Faithful Facial Identity Preservation for Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2605.04702)]
 
@@ -84,13 +84,13 @@
 
 [arxiv 2026.05] World Model for Robot Learning: A Comprehensive Survey  [[PDF](https://arxiv.org/abs/2605.00080)]
 
-<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-12 -->
 
-<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-12 -->
 
-<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-12 -->
 
-<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-12 -->
 
 [arxiv 2026.04] CurEvo: Curriculum-Guided Self-Evolution for Video Understanding  [[PDF](https://arxiv.org/abs/2604.26707)]
 
@@ -162,13 +162,13 @@
 
 [arxiv 2026.04] Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding  [[PDF](https://arxiv.org/abs/2604.05015),[Page](https://video-mme-v2.netlify.app/)]
 
-<!-- Added on 2026-06-11 -->
-<!-- Added on 2026-06-11 -->
-<!-- Added on 2026-06-11 -->
-<!-- Added on 2026-06-11 -->
-<!-- Added on 2026-06-11 -->
-<!-- Added on 2026-06-11 -->
-<!-- Added on 2026-06-11 -->
+<!-- Added on 2026-06-12 -->
+<!-- Added on 2026-06-12 -->
+<!-- Added on 2026-06-12 -->
+<!-- Added on 2026-06-12 -->
+<!-- Added on 2026-06-12 -->
+<!-- Added on 2026-06-12 -->
+<!-- Added on 2026-06-12 -->
 [arxiv 2026.04] ONE-SHOT: Compositional Human-Environment Video Synthesis via Spatial-Decoupled Motion Injection and Hybrid Context Integration  [[PDF](https://arxiv.org/abs/2604.01043v1),[Page](https://martayang.github.io/ONE-SHOT/)]
 
 [arxiv 2026.04] TRACE: High-Fidelity 3D Scene Editing via Tangible Reconstruction and Geometry-Aligned Contextual Video Masking  [[PDF](https://arxiv.org/abs/2604.01207v1)]
@@ -983,6 +983,14 @@ A reading list of video generation
 [arxiv 2026.06] A Comprehensive Ecosystem for Open-Domain Customized Video Generation  [[PDF](https://arxiv.org/abs/2606.11783)]
 
 [arxiv 2026.06] ARGUS: Stacked Multi-View Identity Mosaic Injection for Subject-Preserving Video Generation  [[PDF](https://arxiv.org/abs/2606.11670)]
+
+[arxiv 2026.06] Flex4DHuman: Flexible Multi-view Video Diffusion for 4D Human Reconstruction  [[PDF](https://arxiv.org/abs/2606.13655)]
+
+[arxiv 2026.06] MoVerse: Real-Time Video World Modeling with Panoramic Gaussian Scaffold  [[PDF](https://arxiv.org/abs/2606.13376)]
+
+[arxiv 2026.06] OR-Action: Multi-Role Video Understanding with Fine-Grained Actions  [[PDF](https://arxiv.org/abs/2606.13332)]
+
+[arxiv 2026.06] TetherCache: Stabilizing Autoregressive Long-Form Video Generation with Gated Recall and Trusted Alignment  [[PDF](https://arxiv.org/abs/2606.13035)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
