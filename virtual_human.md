@@ -459,6 +459,8 @@
 
 [arxiv 2026.06] VideoMDM: Towards 3D Human Motion Generation From 2D Supervision  [[PDF](https://arxiv.org/abs/2606.13364),[Page](https://videomdm.github.io/)]
 
+[arxiv 2026.06] C-MambaPose: A Physics-Informed Complex Mamba Framework for Cross-Environment WiFi Human Pose Estimation  [[PDF](https://arxiv.org/abs/2606.13700)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 

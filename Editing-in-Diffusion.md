@@ -1930,6 +1930,24 @@
 
 [arxiv 2026.06] AudioX-Turbo: A Unified Framework for Efficient Anything-to-Audio Generation  [[PDF](https://arxiv.org/abs/2606.12555)]
 
+[arxiv 2026.06] HPSv3++: Scaling Reward Models Across the Full Spectrum of Diffusion Model Capabilities  [[PDF](https://arxiv.org/abs/2606.14657)]
+
+[arxiv 2026.06] MooMIns -- Monocular 3D Reconstruction and Object Pose Estimation from Multiple Instances  [[PDF](https://arxiv.org/abs/2606.14389)]
+
+[arxiv 2026.06] ForceForget: Reinforcement Concept Removal for Enhancing Safety in Text-to-Image Models  [[PDF](https://arxiv.org/abs/2606.14351)]
+
+[arxiv 2026.06] Pix2Pix-Hybrid: Structure-Guided Conditional Synthesis of Hajj Crowd Images with Multi-Channel Conditioning and Weak Attribute Supervision  [[PDF](https://arxiv.org/abs/2606.14297)]
+
+[arxiv 2026.06] MUSE: Agentic 3D Scene Authoring via Memory-Grounded Incremental Requirement Satisfaction  [[PDF](https://arxiv.org/abs/2606.14168)]
+
+[arxiv 2026.06] Conditioning Matters: Stabilizing Inversion and Attention in Diffusion Image Editing  [[PDF](https://arxiv.org/abs/2606.14125)]
+
+[arxiv 2026.06] Rethinking One-Step Image Editing through ChordEdit: Reproduction, Simplification, and New Insights  [[PDF](https://arxiv.org/abs/2606.14042)]
+
+[arxiv 2026.06] Toward 360-Degree Indoor Panorama Editing via Tuning-Free Diffusion Model with Refocusing Cross-Attention  [[PDF](https://arxiv.org/abs/2606.14035),[Page](https://vdkhoi20.github.io/FocusDiff)]
+
+[arxiv 2026.06] Compressing Image Style Training into a Single Model Forward  [[PDF](https://arxiv.org/abs/2606.13809)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]

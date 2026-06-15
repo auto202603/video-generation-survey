@@ -2768,6 +2768,28 @@
 
 [arxiv 2026.06] Emerging Flexible Designs for Geospatial Multimodal Foundation Models  [[PDF](https://arxiv.org/abs/2606.12595)]
 
+[arxiv 2026.06] Gaze Heads: How VLMs Look at What They Describe  [[PDF](https://arxiv.org/abs/2606.14703)]
+
+[arxiv 2026.06] OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains  [[PDF](https://arxiv.org/abs/2606.14702),[Page](https://github.com/MiG-NJU/OmniVideo-100K)]
+
+[arxiv 2026.06] RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space  [[PDF](https://arxiv.org/abs/2606.14700),[Page](https://xichenpan.com/repfusion)]
+
+[arxiv 2026.06] Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control  [[PDF](https://arxiv.org/abs/2606.14699),[Page](https://instruct-particulate.github.io/)]
+
+[arxiv 2026.06] IndustryBench-MIPU: Benchmarking Multi-Image Attribute Value Extraction for Industrial Products  [[PDF](https://arxiv.org/abs/2606.14383)]
+
+[arxiv 2026.06] What Drives Test-Time Adaptation for CLIP? A Controlled Empirical Study from an Update Perspective  [[PDF](https://arxiv.org/abs/2606.14299)]
+
+[arxiv 2026.06] One Layer&#39;s Trash is Another Layer&#39;s Treasure: Adaptive Layer-wise Visual Token Selection in LVLMs  [[PDF](https://arxiv.org/abs/2606.14277)]
+
+[arxiv 2026.06] GarmentSketch: Large-scale Sketch-to-Fashion Benchmark  [[PDF](https://arxiv.org/abs/2606.14025),[Page](https://khangbdd.github.io/garmentsketch)]
+
+[arxiv 2026.06] RT-VLA: Real-Time Vision-Language-Action Models via Knowledge Distillation  [[PDF](https://arxiv.org/abs/2606.14010)]
+
+[arxiv 2026.06] Self-Evolving Visual Questioner  [[PDF](https://arxiv.org/abs/2606.13929),[Page](https://joliang17.github.io/SelfEvolvingVQG/)]
+
+[arxiv 2026.06] Mirage Probes: How Vision Models Fake Visual Understanding  [[PDF](https://arxiv.org/abs/2606.13870)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 

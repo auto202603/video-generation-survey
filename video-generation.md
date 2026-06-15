@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-06-12 -->
+<!-- Added on 2026-06-15 -->
 [arxiv 2026.06] Next Forcing: Causal World Modeling with Multi-Chunk Prediction  [[PDF](https://arxiv.org/abs/2606.11187),[Page](https://gangweix.github.io/next-forcing/)]
 
 [arxiv 2026.06] WorldOlympiad: Can Your World Model Survive a Triathlon?  [[PDF](https://arxiv.org/abs/2606.11129),[Page](https://alibaba-damo-academy.github.io/WorldOlympiad/)]
@@ -991,6 +991,18 @@ A reading list of video generation
 [arxiv 2026.06] OR-Action: Multi-Role Video Understanding with Fine-Grained Actions  [[PDF](https://arxiv.org/abs/2606.13332)]
 
 [arxiv 2026.06] TetherCache: Stabilizing Autoregressive Long-Form Video Generation with Gated Recall and Trusted Alignment  [[PDF](https://arxiv.org/abs/2606.13035)]
+
+[arxiv 2026.06] Memento: Reconstruct to Remember for Consistent Long Video Generation  [[PDF](https://arxiv.org/abs/2606.14667),[Page](https://ernie-research.github.io/Memento/)]
+
+[arxiv 2026.06] CausalMotion: Structured Physical Reasoning as Keyframe and Trajectory Guidance for Training-Free Video Generation  [[PDF](https://arxiv.org/abs/2606.14317),[Page](https://zhuangsh0713.github.io/CausalMotion/)]
+
+[arxiv 2026.06] VideoWeave: Unlocking Geometric Consistency in Video Generation via Joint Geometry-Video Modeling  [[PDF](https://arxiv.org/abs/2606.14162)]
+
+[arxiv 2026.06] Prompt2Effect: Training-Free Image-to-Video Model Specialization via LoRA Generation  [[PDF](https://arxiv.org/abs/2606.13971)]
+
+[arxiv 2026.06] Avatar V: Scaling Video-Reference Avatar Video Generation  [[PDF](https://arxiv.org/abs/2606.13872)]
+
+[arxiv 2026.06] CineOrchestra: Unified Entity-Centric Conditioning for Cinematic Video Generation  [[PDF](https://arxiv.org/abs/2606.13768),[Page](https://snap-research.github.io/CineOrchestra)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
