@@ -585,7 +585,6 @@
 
 [arxiv 2026.04] Evaluation of Embedding-Based and Generative Methods for LLM-Driven Document Classification: Opportunities and Challenges  [[PDF](https://arxiv.org/abs/2604.04997)]
 
-
 <!-- Added on 2026-05-27 -->
 <!-- Added on 2026-05-27 -->
 <!-- Added on 2026-05-27 -->
@@ -938,18 +937,14 @@
 
 [arxiv 2026.03] SpatialPoint: Spatial-aware Point Prediction for Embodied Localization  [[PDF](https://arxiv.org/abs/2603.26690)]
 
-
-
 ## Dataset 
 
 **MultiVerse**
 [arxiv 2025.10]  MultiVerse: A Multi-Turn Conversation Benchmark for Evaluating Large Vision and Language Models [[PDF](https://arxiv.org/abs/2510.16641),[Page](https://passing2961.github.io/multiverse-project-page/)] 
 
-
 ###  LLM 
 
 [arxiv 2024.12] Training Large Language Models to Reason in a Continuous Latent Space  [[PDF](https://arxiv.org/pdf/2412.06769)]
-
 
 [arxiv 2026.03] Exploring the Use of VLMs for Navigation Assistance for People with Blindness and Low Vision  [[PDF](https://arxiv.org/abs/2603.15624)]
 
@@ -1185,7 +1180,6 @@
 
 [arxiv 2026.03] Less Data, Faster Convergence: Goal-Driven Data Optimization for Multimodal Instruction Tuning  [[[PDF](https://arxiv.org/abs/2603.12478)]]
 
-
 [arxiv 2026.03] UniFusion: A Unified Image Fusion Framework with Robust Representation and Source-Aware Preservation  [[[PDF](https://arxiv.org/abs/2603.14214)]]
 
 [arxiv 2026.03] How Do Medical MLLMs Fail? A Study on Visual Grounding in Medical Images  [[[PDF](https://arxiv.org/abs/2603.14323)]]
@@ -1199,7 +1193,6 @@
 [arxiv 2026.03] A comprehensive multimodal dataset and benchmark for ulcerative colitis scoring in endoscopy  [[[PDF](https://arxiv.org/abs/2603.14559)]]
 
 [arxiv 2026.03] Medical Image Spatial Grounding with Semantic Sampling  [[[PDF](https://arxiv.org/abs/2603.14579)]]
-
 
 [arxiv 2026.03] Deterministic Mode Proposals: An Efficient Alternative to Generative Sampling for Ambiguous Segmentation [[[PDF](https://arxiv.org/abs/2603.20191)]]
 
@@ -1438,7 +1431,6 @@
 [arxiv 2026.03] IMAGAgent: Orchestrating Multi-Turn Image Editing via Constraint-Aware Planning and Reflection  [[PDF](https://arxiv.org/abs/2603.29602)]
 
 [arxiv 2026.03] Bioinspired123D: Generative 3D Modeling System for Bioinspired Structures  [[PDF](https://arxiv.org/abs/2603.29592)]
-
 
 [arxiv 2026.04] Steerable Visual Representations  [[PDF](https://arxiv.org/abs/2604.02327)]
 
@@ -1990,7 +1982,6 @@
 
 [arxiv 2026.04] CHASM: Unveiling Covert Advertisements on Chinese Social Media  [[PDF](https://arxiv.org/abs/2604.20511)]
 
-
 [arxiv 2025.12] CPJ: Explainable Agricultural Pest Diagnosis via Caption-Prompt-Judge with LLM-Judged Refinement  [[PDF](https://arxiv.org/abs/2512.24947)]
 
 [arxiv 2026.04] When VLMs &#39;Fix&#39; Students: Identifying and Penalizing Over-Correction in the Evaluation of Multi-line Handwritten Math OCR  [[PDF](https://arxiv.org/abs/2604.22774)]
@@ -2238,7 +2229,6 @@
 [arxiv 2026.05] Allegory of the Cave: Measurement-Grounded Vision-Language Learning  [[PDF](https://arxiv.org/abs/2605.11727)]
 
 [arxiv 2026.05] LatentRouter: Can We Choose the Right Multimodal Model Before Seeing Its Answer?  [[PDF](https://arxiv.org/abs/2605.11301)]
-
 
 [arxiv 2026.05] ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both  [[PDF](https://arxiv.org/abs/2605.15198),[Page](https://atlas-oneword.github.io)]
 
@@ -2790,8 +2780,49 @@
 
 [arxiv 2026.06] Mirage Probes: How Vision Models Fake Visual Understanding  [[PDF](https://arxiv.org/abs/2606.13870)]
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.06] Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification  [[PDF](https://arxiv.org/abs/2606.18249),[Page](https://sharelab-sii.github.io/uniar-web)]
 
+[arxiv 2026.06] EventDrive: Event Cameras for Vision-Language Driving Intelligence  [[PDF](https://arxiv.org/abs/2606.18242),[Page](https://dylanorange.github.io/projects/eventdrive)]
+
+[arxiv 2026.06] PhaseWin: An Efficient Search Algorithm for Faithful Visual Attribution  [[PDF](https://arxiv.org/abs/2606.18008)]
+
+[arxiv 2026.06] MLLMs Get It Right, Then Get It Wrong: Tracing and Correcting Late-Layer Textual Bias  [[PDF](https://arxiv.org/abs/2606.17953)]
+
+[arxiv 2026.06] Million-scale multimodal pollen microscopy with expert-guided foundation models  [[PDF](https://arxiv.org/abs/2606.17809)]
+
+[arxiv 2026.06] See First, Answer Later: Visual Evidence Pre-Alignment via Sufficiency-Driven RL  [[PDF](https://arxiv.org/abs/2606.17678)]
+
+[arxiv 2026.06] Divide, Deliberate, Decide: A Multi-Agent Framework for Fine-Grained Egocentric Action Recognition  [[PDF](https://arxiv.org/abs/2606.17627)]
+
+[arxiv 2026.06] Reinforcing Dual-Path Reasoning in Spatial Vision Language Models  [[PDF](https://arxiv.org/abs/2606.17539)]
+
+[arxiv 2026.06] SPHINX: First Explain, Then Explore  [[PDF](https://arxiv.org/abs/2606.17482)]
+
+[arxiv 2026.06] LADBench: A Benchmark for Logical Fault Detection in Images  [[PDF](https://arxiv.org/abs/2606.17433)]
+
+[arxiv 2026.06] CIAN: Multi-Stage Framework for Event-Enriched Image Captioning via Retrieval-Augmented Generation  [[PDF](https://arxiv.org/abs/2606.17430)]
+
+[arxiv 2026.06] Attention Alignment Between Humans and Vision-Language Models  [[PDF](https://arxiv.org/abs/2606.17410)]
+
+[arxiv 2026.06] Visuals Lie, Consistency Speaks: Disentangling Spatial Attention from Reliability in Vision-Language Models  [[PDF](https://arxiv.org/abs/2606.17389),[Page](https://github.com/itsloganmann/VLM-Reliability-Probe)]
+
+[arxiv 2026.06] DriveJudge: Rethinking Autonomous Driving Evaluation with Vision-Language Models  [[PDF](https://arxiv.org/abs/2606.17362)]
+
+[arxiv 2026.06] Pareto LoRA: Mitigating Modality Imbalance in Unified Multimodal Models via Pareto-Optimal Gradient Integration  [[PDF](https://arxiv.org/abs/2606.17296)]
+
+[arxiv 2026.06] GeoDisaster: Benchmarking Orchestrated Agents for Operational Disaster Geo-Intelligence  [[PDF](https://arxiv.org/abs/2606.17246)]
+
+[arxiv 2026.06] Not Truly Multilingual: Script Consistency as a Missing Dimension in VLM Evaluation  [[PDF](https://arxiv.org/abs/2606.17188)]
+
+[arxiv 2026.06] ERQA-Plus: A Diagnostic Benchmark for Reasoning in Embodied AI  [[PDF](https://arxiv.org/abs/2606.17639)]
+
+[arxiv 2026.06] MODE-RAG: Manifold Outlier Diagnosis and Energy-based Retrieval-Augmented Generation Evaluation  [[PDF](https://arxiv.org/abs/2606.17449)]
+
+[arxiv 2026.06] AnnotateAnything: Automatic Annotation of 3D Assets for Robot Manipulation  [[PDF](https://arxiv.org/abs/2606.17446)]
+
+[arxiv 2026.06] ProCUA-SFT Technical Report  [[PDF](https://arxiv.org/abs/2606.17321)]
+
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## Feedback 
 [arxiv 2025.02] DAMO: Data- and Model-aware Alignment of Multi-modal LLMs  [[PDF](https://arxiv.org/abs/2502.01943),[Page](https://github.com/injadlu/DAMO)] ![Code](https://img.shields.io/github/stars/injadlu/DAMO?style=social&label=Star) 
@@ -2815,7 +2846,6 @@
 [arxiv 2025.06]  Omni-DPO: A Dual-Perspective Paradigm for Dynamic Preference Learning of LLMs [[PDF](https://arxiv.org/abs/2506.10054)] ![Code](https://img.shields.io/github/stars/pspdada/Omni-DPO?style=social&label=Star) 
 
 [arxiv 2025.10]  NoisyGRPO: Incentivizing Multimodal CoT Reasoning via Noise Injection and Bayesian Estimation [[PDF](https://arxiv.org/abs/2510.21122),[Page](https://artanic30.github.io/project_pages/NoisyGRPO/)] ![Code](https://img.shields.io/github/stars/Artanic30/NoisyGRPO?style=social&label=Star) 
-
 
 [arxiv 2026.03] Question-guided Visual Compression with Memory Feedback for Long-Term Video Understanding  [[PDF](https://arxiv.org/abs/2603.15167)]
 
@@ -2898,7 +2928,6 @@
 [arxiv 2025.08]  TurboTrain: Towards Efficient and Balanced Multi-Task Learning for Multi-Agent Perception and Prediction [[PDF](https://arxiv.org/abs/2508.04682),[Page](https://github.com/ucla-mobility/TurboTrain)] ![Code](https://img.shields.io/github/stars/ucla-mobility/TurboTrain?style=social&label=Star) 
 
 [arxiv 2025.10]  MAT-Agent: Adaptive Multi-Agent Training Optimization [[PDF](https://arxiv.org/abs/2510.17845)]
-
 
 [arxiv 2026.03] RieMind: Geometry-Grounded Spatial Agent for Scene Understanding  [[PDF](https://arxiv.org/abs/2603.15386)]
 
@@ -3050,7 +3079,6 @@
 
 [arxiv 2024.12] InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for Long-term Streaming Video and Audio Interactions  [[PDF](https://arxiv.org/abs/2412.09596),[Page](https://github.com/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-OmniLive)] ![Code](https://img.shields.io/github/stars/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-OmniLive?style=social&label=Star) 
 
-
 [arxiv 2025.01]  VideoRefer Suite: Advancing Spatial-Temporal Object Understanding with Video LLM [[PDF](http://arxiv.org/abs/2501.00599),[Page](https://damo-nlp-sg.github.io/VideoRefer/)] ![Code](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoRefer?style=social&label=Star) 
 
 [arxiv 2025.01] VideoChat-Flash: Hierarchical Compression for Long-Context Video Modeling  [[PDF](https://arxiv.org/abs/2501.00574),[Page](https://github.com/OpenGVLab/VideoChat-Flash)] ![Code](https://img.shields.io/github/stars/OpenGVLab/VideoChat-Flash?style=social&label=Star) 
@@ -3148,7 +3176,6 @@
 [arxiv 2026.01] Youtu-VL: Unleashing Visual Potential via Unified Vision-Language Supervision  [[PDF](https://arxiv.org/abs/2601.19798),[Page](https://github.com/TencentCloudADP/youtu-vl)] ![Code](https://img.shields.io/github/stars/TencentCloudADP/youtu-vl?style=social&label=Star) 
 
 [arxiv 2026.03] Phi-4-reasoning-vision-15B Technical Report  [[PDF](https://arxiv.org/pdf/2603.03975),[Page](https://huggingface.co/microsoft/Phi-4-reasoning-vision-15B)] ![Code](https://img.shields.io/github/stars/microsoft/phi-4-reasoning-vision-15B?style=social&label=Star) 
-
 
 [arxiv 2026.03] Multimodal Connectome Fusion via Cross-Attention for Autism Spectrum Disorder Classification Using Graph Learning  [[PDF](https://arxiv.org/abs/2603.15168)]
 
@@ -3333,7 +3360,6 @@
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
-
 ## downstream
 [arxiv 2025.05]  Multi-SpatialMLLM: Multi-Frame Spatial Understanding with Multi-Modal Large Language Models [[PDF](https://arxiv.org/abs/2505.17015),[Page](https://runsenxu.com/projects/Multi-SpatialMLLM)] ![Code](https://img.shields.io/github/stars/facebookresearch/Multi-SpatialMLLM?style=social&label=Star) 
 
@@ -3388,7 +3414,6 @@
 [arxiv 2026.04] Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs  [[PDF](https://arxiv.org/abs/2604.02689v1)] ![Code](https://img.shields.io/github/stars/sol924/Efficient3D?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
-
 
 ## Long Video Understanding
 [arxiv 2025.02] CoS: Chain-of-Shot Prompting for Long Video Understanding  [[PDF](https://arxiv.org/abs/2502.06428),[Page](https://lwpyh.github.io/CoS/)] ![Code](https://img.shields.io/github/stars/lwpyh/CoS_codes?style=social&label=Star) 
@@ -3499,8 +3524,6 @@
 
 [arxiv 2026.03] HiMu: Hierarchical Multimodal Frame Selection for Long Video Question Answering  [[PDF](https://arxiv.org/abs/2603.18558)]
 
-
-
 ## Generation 
 [arxiv 2023.12]SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models [[PDF](https://arxiv.org/abs/2312.06739),[Page](https://yuzhou914.github.io/SmartEdit/)]
 
@@ -3517,7 +3540,6 @@
 [arxiv 2024.08] Show-o: One Single Transformer to Unify Multimodal Understanding and Generation[[PDF](https://arxiv.org/abs/2408.12528), [Page](https://github.com/showlab/Show-o)]
 
 [arxiv 2024.09] VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation[[PDF](https://arxiv.org/abs/2409.04429)]
-
 
 [arxiv 2024.09] Emu3: Next-Token Prediction is All You Need[[PDF](https://arxiv.org/abs/2409.18869), [Page](https://emu.baai.ac.cn/)]
 
@@ -3618,7 +3640,6 @@
 [arxiv 2026.01]  NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation [[PDF](https://arxiv.org/pdf/2601.02204),[Page](https://github.com/ByteVisionLab/NextFlow)] ![Code](https://img.shields.io/github/stars/ByteVisionLab/NextFlow?style=social&label=Star) 
 
 [arxiv 2026.02] Kelix Technique Report: Closing the Understanding Gap of Discrete Tokens in Unified Multimodal Models  [[PDF](https://arxiv.org/pdf/2602.09843)]
-
 
 [arxiv 2026.03] Learning Latent Proxies for Controllable Single-Image Relighting  [[PDF](https://arxiv.org/abs/2603.15555)]
 
@@ -3731,7 +3752,6 @@
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
-
 ## diffusion LLM
 [arxiv 2025.05]  MMaDA: Multimodal Large Diffusion Language Models [[PDF](https://arxiv.org/abs/2505.15809),[Page](https://github.com/Gen-Verse/MMaDA)] ![Code](https://img.shields.io/github/stars/Gen-Verse/MMaDA?style=social&label=Star) 
 
@@ -3783,10 +3803,8 @@
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
-
 ## evaluation 
 [arxiv 2024.10] The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio[[PDF](https://arxiv.org/abs/2410.12787)]
-
 
 [arxiv 2026.03] HalDec-Bench: Benchmarking Hallucination Detector in Image Captioning  [[PDF](https://arxiv.org/abs/2603.15253),[Page](https://dahlian00.github.io/HalDec-Bench-Page/)]
 
@@ -3932,7 +3950,6 @@
 [arxiv 2026.01]  MAIN-VLA: Modeling Abstraction of Intention and eNvironment for Vision-Language-Action Models [[PDF](https://arxiv.org/abs/2602.02212),[Page](https://main-vla.github.io/)] 
 
 [arxiv 2026.02] DreamZero: World Action Models are Zero-shot Policies  [[PDF](https://dreamzero0.github.io/DreamZero.pdf),[Page](https://dreamzero0.github.io/)] ![Code](https://img.shields.io/github/stars/dreamzero0/dreamzero?style=social&label=Star) 
-
 
 [arxiv 2026.03] Towards Generalizable Robotic Manipulation in Dynamic Environments  [[PDF](https://arxiv.org/abs/2603.15620)] ![Code](https://img.shields.io/github/stars/H-EmbodVis/DOMINO?style=social&label=Star)
 
@@ -4132,7 +4149,6 @@
 
 [arxiv 2025.12] Video-CoM: Interactive Video Reasoning via Chain of Manipulations  [[PDF](https://arxiv.org/pdf/2511.23477),[Page](https://github.com/mbzuai-oryx/Video-CoM)] ![Code](https://img.shields.io/github/stars/mbzuai-oryx/Video-CoM?style=social&label=Star) 
 
-
 [arxiv 2026.03] Multi-turn Physics-informed Vision-language Model for Physics-grounded Anomaly Detection  [[PDF](https://arxiv.org/abs/2603.15237)]
 
 [arxiv 2026.03] Molecular Identifier Visual Prompt and Verifiable Reinforcement Learning for Chemical Reaction Diagram Parsing  [[PDF](https://arxiv.org/abs/2603.15011)]
@@ -4237,7 +4253,6 @@
 
 [arxiv 2026.03] Insight-V++: Towards Advanced Long-Chain Visual Reasoning with Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2603.18118)]
 
-
 ## Compression
 [arxiv 2025.02]  AdaSVD: Adaptive Singular Value Decomposition for Large Language Models [[PDF](https://arxiv.org/abs/2502.01403),[Page](https://github.com/ZHITENGLI/AdaSVD)] ![Code](https://img.shields.io/github/stars/ZHITENGLI/AdaSVD?style=social&label=Star) 
 
@@ -4246,7 +4261,6 @@
 [arxiv 2025.02] From 16-Bit to 1-Bit: Visual KV Cache Quantization for Memory-Efficient Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2502.14882)]
 
 [arxiv 2025.03]  Token-Efficient Long Video Understanding for Multimodal LLMs [[PDF](https://arxiv.org/pdf/2503.04130)]
-
 
 [arxiv 2026.03] Balancing Saliency and Coverage: Semantic Prominence-Aware Budgeting for Visual Token Compression in VLMs  [[PDF](https://arxiv.org/abs/2603.14892)]
 
@@ -4325,7 +4339,6 @@
 ## few-shot
 [arxiv 2025.02]  Efficient Few-Shot Continual Learning in Vision-Language Models [[PDF](https://arxiv.org/pdf/2502.04098)]
 
-
 [arxiv 2026.03] Seeing Beyond: Extrapolative Domain Adaptive Panoramic Segmentation  [[PDF](https://arxiv.org/abs/2603.15475)] ![Code](https://img.shields.io/github/stars/zyfone/EDA-PSeg?style=social&label=Star)
 
 [arxiv 2026.03] Detection of Autonomous Shuttles in Urban Traffic Images Using Adaptive Residual Context  [[PDF](https://arxiv.org/abs/2603.15404)]
@@ -4368,7 +4381,6 @@
 [arxiv 2025.11]  Chain-of-Visual-Thought: Teaching VLMs to See and Think Better with Continuous Visual Tokens [[PDF](https://arxiv.org/abs/2511.19418),[Page](https://wakalsprojectpage.github.io/comt-website/)] ![Code](https://img.shields.io/github/stars/Wakals/CoVT?style=social&label=Star) 
 
 [arxiv 2026.02]  UniWeTok: An Unified Binary Tokenizer with Codebook Size 2 up 128 for Unified Multimodal Large Language Model [[PDF](https://arxiv.org/abs/2602.14178)]
-
 
 [arxiv 2026.04] Moondream Segmentation: From Words to Masks  [[PDF](https://arxiv.org/abs/2604.02593v1)]
 
@@ -4471,12 +4483,10 @@
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
-
 ## audio 
 [arxiv 2024.10] MuVi: Video-to-Music Generation with Semantic Alignment and Rhythmic Synchronization[[PDF](https://arxiv.org/abs/2410.12957)]
 
 [arxiv 2024.11]Video-Guided Foley Sound Generation with Multimodal Controls [[PDF](https://arxiv.org/abs/2411.17698), [Page](https://ificl.github.io/MultiFoley/)]
-
 
 [arxiv 2026.03] Evaluating Time Awareness and Cross-modal Active Perception of Large Models via 4D Escape Room Task  [[PDF](https://arxiv.org/abs/2603.15467)]
 
@@ -4534,7 +4544,6 @@
 
 ## Study 
 [arxiv 2025.03] Should VLMs be Pre-trained with Image Data?  [[PDF](https://arxiv.org/abs/2503.07603)]
-
 
 [arxiv 2026.03] Qianfan-OCR: A Unified End-to-End Model for Document Intelligence  [[PDF](https://arxiv.org/abs/2603.13398)]
 
@@ -4603,7 +4612,6 @@
 [arxiv 2026.03] To See or To Please: Uncovering Visual Sycophancy and Split Beliefs in VLMs  [[PDF](https://arxiv.org/abs/2603.18373)]
 
 [arxiv 2026.03] Cognitive Mismatch in Multimodal Large Language Models for Discrete Symbol Understanding  [[PDF](https://arxiv.org/abs/2603.18472)]
-
 
 ## agent
 [arxiv 2025.08]  OPENCUA: Open Foundations for Computer-Use Agents [[PDF](https://arxiv.org/abs/2508.09123),[Page](https://opencua.xlang.ai/)] ![Code](https://img.shields.io/github/stars/xlang-ai/OpenCUA?style=social&label=Star) 
@@ -4854,7 +4862,6 @@
 
 [arxiv 2025.10]  DeepSeek-OCR: Contexts Optical Compression [[PDF](https://arxiv.org/abs/2510.18234),[Page](https://github.com/deepseek-ai/DeepSeek-OCR)] ![Code](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-OCR?style=social&label=Star) 
 
-
 [arxiv 2026.04] Moondream Segmentation: From Words to Masks  [[PDF](https://arxiv.org/abs/2604.02593v1)]
 
 [arxiv 2026.04] VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors  [[PDF](https://arxiv.org/abs/2604.02486v1)]
@@ -4903,13 +4910,11 @@
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
-
 ## speed 
 [arxiv 2024.10]PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction[[PDF](https://arxiv.org/abs/2410.17247), [Page]()]
 
 [arxiv 2024.12]  [CLS] Attention is All You Need for Training-Free Visual Token Pruning: Make VLM Inference Faster
  [[PDF](https://arxiv.org/abs/2412.01818),[Page](https://theia-4869.github.io/FasterVLM)] ![Code](https://img.shields.io/github/stars/Theia-4869/FasterVLM?style=social&label=Star) 
-
 
 [arxiv 2025.03]  Dynamic Pyramid Network for Efficient Multimodal Large Language Model [[PDF](https://arxiv.org/abs/2503.20322)]
 
@@ -4922,7 +4927,6 @@
 [arxiv 2025.08] MMTok: Multimodal Coverage Maximization for Efficient Inference of VLMs  [[PDF](https://arxiv.org/abs/2508.18264),[Page](https://cv.ironieser.cc/projects/mmtok.html)] ![Code](https://img.shields.io/github/stars/Ironieser/MMTok/?style=social&label=Star) 
 
 [arxiv 2025.10] AndesVL Technical Report: An Efficient Mobile-side Multimodal Large Language Model  [[PDF](https://arxiv.org/abs/2510.11496),[Page](https://github.com/OPPO-Mente-Lab/AndesVL_Evaluation)] ![Code](https://img.shields.io/github/stars/OPPO-Mente-Lab/AndesVL_Evaluation?style=social&label=Star) 
-
 
 [arxiv 2026.03] Look Where It Matters: High-Resolution Crops Retrieval for Efficient VLMs  [[PDF](https://arxiv.org/abs/2603.16932)]
 
@@ -5279,8 +5283,6 @@
 [arxiv 2026.05] Faithful-MR1: Faithful Multimodal Reasoning via Anchoring and Reinforcing Visual Attention  [[PDF](https://arxiv.org/abs/2605.22072)]
 
 [arxiv 2026.05] LatentOmni: Rethinking Omni-Modal Understanding via Unified Audio-Visual Latent Reasoning  [[PDF](https://arxiv.org/abs/2605.22012)]
-
-
 
 [arxiv 2026.06] OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs  [[PDF](https://arxiv.org/abs/2606.03890),[Page](https://internlm.github.io/OVO-S-Bench/)]
 

@@ -566,7 +566,6 @@
 
 [arxiv 2026.03] ORACLE: Orchestrate NPC Daily Activities using Contrastive Learning with Transformer-CVAE  [[PDF](https://arxiv.org/abs/2603.23933)]
 
-
 ## text-to-image
 [arxiv 2026.03] Gen-Searcher: Reinforcing Agentic Search for Image Generation  [[PDF](https://arxiv.org/abs/2603.28767)]
 
@@ -663,7 +662,6 @@
 [arxiv 2026.01] GLM-Image  [[PDF](https://z.ai/blog/glm-image),[Page](https://github.com/zai-org/GLM-Image)] ![Code](https://img.shields.io/github/stars/zai-org/GLM-Image?style=social&label=Star)
 
 [arxiv 2026.02] FireRed-Image-Edit-1.0 Techinical Report  [[PDF](https://arxiv.org/abs/2602.13344),[Page](https://github.com/FireRedTeam/FireRed-Image-Edit)] ![Code](https://img.shields.io/github/stars/FireRedTeam/FireRed-Image-Edit?style=social&label=Star)
-
 
 [arxiv 2026.03] CyCLeGen: Cycle-Consistent Layout Prediction and Image Generation in Vision Foundation Models  [[PDF](https://arxiv.org/abs/2603.14957)]
 
@@ -801,7 +799,6 @@
 
 [arxiv 2026.03] Curriculum Sampling: A Two-Phase Curriculum for Efficient Training of Flow Matching  [[[PDF](https://arxiv.org/abs/2603.12517)]]
 
-
 [arxiv 2026.03] ChArtist: Generating Pictorial Charts with Unified Spatial and Subject Control  [[[PDF](https://arxiv.org/abs/2603.14209),[Page](https://chartist-ai.github.io/)]]
 
 [arxiv 2026.03] DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization  [[[PDF](https://arxiv.org/abs/2603.14267)]]
@@ -809,7 +806,6 @@
 [arxiv 2026.03] Direct Object-Level Reconstruction via Probabilistic Gaussian Splatting  [[[PDF](https://arxiv.org/abs/2603.14316)]]
 
 [arxiv 2026.03] Representation Alignment for Just Image Transformers is not Easier than You Think  [[[PDF](https://arxiv.org/abs/2603.14366)]] ![Code](https://img.shields.io/github/stars/kaist-cvml/PixelREPA?style=social&label=Star)
-
 
 [arxiv 2026.03] Rel-Zero: Harnessing Patch-Pair Invariance for Robust Zero-Watermarking Against AI Editing  [[PDF](https://arxiv.org/abs/2603.17531)]
 
@@ -1016,7 +1012,6 @@
 [arxiv 2026.03] MMFace-DiT: A Dual-Stream Diffusion Transformer for High-Fidelity Multimodal Face Generation  [[PDF](https://arxiv.org/abs/2603.29029),[Page](https://vcbsl.github.io/MMFace-DiT/)] ![Code](https://img.shields.io/github/stars/Bharath-K3/MMFace-DiT?style=social&label=Star)
 
 [arxiv 2026.03] UltraG-Ray: Physics-Based Gaussian Ray Casting for Novel Ultrasound View Synthesis  [[PDF](https://arxiv.org/abs/2603.29022)]
-
 
 [arxiv 2026.04] EventHub: Data Factory for Generalizable Event-Based Stereo Networks without Active Sensors  [[PDF](https://arxiv.org/abs/2604.02331),[Page](https://bartn8.github.io/eventhub/)]
 
@@ -1376,7 +1371,6 @@
 
 [arxiv 2026.04] ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control  [[PDF](https://arxiv.org/abs/2604.20816),[Page](https://shelley-golan.github.io/ParetoSlider-webpage/)]
 
-
 [arxiv 2026.04] Breaking Degradation Coupling: A Structural Entropy Guided Decoupled Framework and Benchmark for Infrared Enhancement  [[PDF](https://arxiv.org/abs/2604.22886)]
 
 [arxiv 2026.04] V-GRPO: Online Reinforcement Learning for Denoising Generative Models Is Easier than You Think  [[PDF](https://arxiv.org/abs/2604.23380)]
@@ -1558,7 +1552,6 @@
 [arxiv 2026.05] FeatMap: Understanding image manipulation in the feature space and its implications for feature space geometry  [[PDF](https://arxiv.org/abs/2605.11203),[Page](https://github.com/AI4HealthUOL/FeatMap)]
 
 [arxiv 2026.05] TMPO: Trajectory Matching Policy Optimization for Diverse and Efficient Diffusion Alignment  [[PDF](https://arxiv.org/abs/2605.10983)]
-
 
 [arxiv 2026.05] RefDecoder: Enhancing Visual Generation with Conditional Video Decoding  [[PDF](https://arxiv.org/abs/2605.15196)]
 
@@ -1948,6 +1941,28 @@
 
 [arxiv 2026.06] Compressing Image Style Training into a Single Model Forward  [[PDF](https://arxiv.org/abs/2606.13809)]
 
+[arxiv 2026.06] Neural Tree Reconstruction for the Open Forest Observatory  [[PDF](https://arxiv.org/abs/2606.18153)]
+
+[arxiv 2026.06] AIGS-Net: Compact Illumination Field Modeling via 2D Gaussian Splatting for Fast Low-Light Image Enhancement  [[PDF](https://arxiv.org/abs/2606.17998)]
+
+[arxiv 2026.06] Gaussian Light Field Splatting: A Physical Prior-Driven Vision Transformer for Unsupervised Low-Light Image Enhancement  [[PDF](https://arxiv.org/abs/2606.17985)]
+
+[arxiv 2026.06] GSPan: A Continuous Gaussian Primitive Representation for Arbitrary-Scale Pansharpening  [[PDF](https://arxiv.org/abs/2606.17722)]
+
+[arxiv 2026.06] RAVA: Retrieval-Augmented Viewpoint Alignment for Subject-Driven Image Generation  [[PDF](https://arxiv.org/abs/2606.17619)]
+
+[arxiv 2026.06] Root-Selecting Fixed-Point Inversion for Rectified Flows via Trajectory Straightness  [[PDF](https://arxiv.org/abs/2606.17584)]
+
+[arxiv 2026.06] Universal Image Restoration via Internalized Chain-of-Thought Reasoning  [[PDF](https://arxiv.org/abs/2606.17557)]
+
+[arxiv 2026.06] UoU: A Universal Fingerprint Foundation Model Based on Large-Scale Unsupervised Learning  [[PDF](https://arxiv.org/abs/2606.17436)]
+
+[arxiv 2026.06] TerraTransfer: Learning End-to-End Driving Policies Without Expert Demonstrations  [[PDF](https://arxiv.org/abs/2606.17386)]
+
+[arxiv 2026.06] GASE: Gaussian Splatting-Based Automated System for Reconstructing Embodied-Simulation Environments  [[PDF](https://arxiv.org/abs/2606.17520)]
+
+[arxiv 2026.06] Edit3DGS: Unified Framework for Dynamic Head Editing via 2D Instruction-Guided Diffusion and 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2606.17432)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]
@@ -1974,7 +1989,6 @@
 [arxiv 2025.11]  DiP: Taming Diffusion Models in Pixel Space [[PDF](https://arxiv.org/pdf/2511.18822)]
 
 [arxiv 2025.11] PixelDiT: Pixel Diffusion Transformers for Image Generation  [[PDF](https://arxiv.org/pdf/2511.20645)]
-
 
 [arxiv 2025.04] Learning Enhanced Structural Representations with Block-Based Uncertainties for Ocean Floor Mapping  [[PDF](https://arxiv.org/abs/2504.14372)]
 
@@ -2361,7 +2375,6 @@
 
 [arxiv 2024.05] Enhancing Text-to-Image Editing via Hybrid Mask-Informed Fusion  [[PDF](https://arxiv.org/abs/2405.15313)]
 
-
 [arxiv 2024.06] DiffUHaul: A Training-Free Method for Object Dragging in Images  [[PDF](https://arxiv.org/abs/2406.01594),[Page](https://omriavrahami.com/diffuhaul/)]
 
 [arxiv 2024.06]  MultiEdits: Simultaneous Multi-Aspect Editing with Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2406.00985),[Page](https://mingzhenhuang.com/projects/MultiEdits.html)]
@@ -2401,9 +2414,7 @@
 
 [arxiv 2024.09] SimInversion: A Simple Framework for Inversion-Based Text-to-Image Editing  [[PDF](https://arxiv.org/abs/2409.10476)]
 
-
 [arxiv 2024.09]FreeEdit: Mask-free Reference-based Image Editing with Multi-modal Instruction [[PDF](https://arxiv.org/abs/2409.18071),[Page](https://freeedit.github.io/)]
-
 
 [arxiv 2024.09] GroupDiff: Diffusion-based Group Portrait Editing  [[PDF](https://arxiv.org/abs/2409.14379)]
 
@@ -2733,7 +2744,6 @@
 
 [arxiv 2026.02] Instruction-based Image Editing with Planning, Reasoning, and Generation  [[PDF](https://arxiv.org/pdf/2602.22624)]
 
-
 [arxiv 2026.03] Edit2Interp: Adapting Image Foundation Models from Spatial Editing to Video Frame Interpolation with Few-Shot Learning  [[PDF](https://arxiv.org/abs/2603.15003)]
 
 [arxiv 2026.03] Workflow-Aware Structured Layer Decomposition for Illustration Production  [[PDF](https://arxiv.org/abs/2603.14925)] ![Code](https://img.shields.io/github/stars/zty0304/Anime-layer-decomposition?style=social&label=Star)
@@ -2780,7 +2790,6 @@
 
 ## end of editing 
 
-
 ## Analysis
 [arxiv 2025.02]  SliderSpace: Decomposing the Visual Capabilities of Diffusion Models [[PDF](https://arxiv.org/pdf/2502.01639),[Page](https://sliderspace.baulab.info/)] 
 
@@ -2814,7 +2823,6 @@
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
 ## reason
 [arxiv 2025.06]  MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning [[PDF](https://arxiv.org/abs/2506.10963),[Page](https://mmmgbench.github.io/)] ![Code](https://img.shields.io/github/stars/MMMGBench/MMMG/?style=social&label=Star)
 
@@ -2837,7 +2845,6 @@
 [arxiv 2026.01] UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing  [[PDF](https://arxiv.org/abs/2602.02437),[Page](https://github.com/AlenjandroWang/UniReason)] ![Code](https://img.shields.io/github/stars/AlenjandroWang/UniReason?style=social&label=Star)
 
 [arxiv 2026.02] Uni-Animator: Towards Unified Visual Colorization  [[PDF](https://arxiv.org/pdf/2602.23191)]
-
 
 [arxiv 2026.03] COT-FM: Cluster-wise Optimal Transport Flow Matching  [[PDF](https://arxiv.org/abs/2603.13395)]
 
@@ -2953,7 +2960,6 @@
 
 [arxiv 2026.02]  CoLoGen: Progressive Learning of Concept–Localization Duality for Unified Image Generation [[PDF](https://arxiv.org/abs/2602.22150)]
 
-
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
 [arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
@@ -2983,7 +2989,6 @@
 [arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 ## Generation and Understanding in a Unified Framework 
 [arxiv 2024.11] Diff-2-in-1: Bridging Generation and Dense Perception with Diffusion Models  [[PDF](https://arxiv.org/abs/2411.05005),[Page]()]
@@ -3050,7 +3055,6 @@
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
 ## Architecture
 
 [arxiv 2024.03]Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts [[PDF](https://arxiv.org/abs/2403.09176),[Page](https://byeongjun-park.github.io/Switch-DiT/)]
@@ -3090,7 +3094,6 @@
 [arxiv 2025.06] M4V: Multi-Modal Mamba for Text-to-Video Generation  [[PDF](https://arxiv.org/abs/xxx),[Page](https://huangjch526.github.io/M4V_project/)] 
 
 [arxiv 2025.12] Visual Generation Tuning  [[PDF](https://arxiv.org/pdf/2511.23469),[Page](https://github.com/hustvl/VGT)] ![Code](https://img.shields.io/github/stars/hustvl/VGT?style=social&label=Star)
-
 
 [arxiv 2026.03] AnyPhoto: Multi-Person Identity Preserving Image Generation with ID Adaptive Modulation on Location Canvas  [[PDF](https://arxiv.org/abs/2603.14770)]
 
@@ -3218,7 +3221,6 @@
 
 [arxiv 2026.01]  FlowConsist: Make Your Flow Consistent with Real Trajectory [[PDF](https://arxiv.org/pdf/2602.06346)]
 
-
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
 [arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
@@ -3248,7 +3250,6 @@
 [arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 ## CFG
 [arxiv 2025.01] Visual Generation Without Guidance  [[PDF](https://arxiv.org/abs/2501.15420),[Page](https://github.com/thu-ml/GFT)] ![Code](https://img.shields.io/github/stars/thu-ml/GFT?style=social&label=Star)
@@ -3265,7 +3266,6 @@
 
 [arxiv 2025.10]  Rectified-CFG++ for Flow Based Models [[PDF](https://arxiv.org/abs/2510.07631),[Page](https://rectified-cfgpp.github.io/)] ![Code](https://img.shields.io/github/stars/shreshthsaini/Rectified-CFGpp?style=social&label=Star)
 
-
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
 [arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
@@ -3295,7 +3295,6 @@
 [arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 ## ROPE
 
@@ -3364,10 +3363,8 @@
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
 ## Chat for editing 
 [arxiv 2024.12] ChatDiT: A Training-Free Baseline for Task-Agnostic Free-Form Chatting with Diffusion Transformers  [[PDF](https://arxiv.org/abs/2412.12571),[Page](https://github.com/ali-vilab/ChatDiT)] ![Code](https://img.shields.io/github/stars/ali-vilab/ChatDiT?style=social&label=Star)
-
 
 ## Instruct for editing 
 [arxiv 2024.07] GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing  [[PDF](https://arxiv.org/abs/2407.05600),[Page](https://zhenyuw16.github.io/GenArtist_page/)]
@@ -3421,7 +3418,6 @@
 [arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 ## Improve T2I base modules
 [arxiv 2023]LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts [[PDF](https://arxiv.org/abs/2310.10640),[Page](https://github.com/hananshafi/llmblueprint)]
@@ -3572,7 +3568,6 @@
 
 [arxiv 2024.10] Sparse Repellency for Shielded Generation in Text-to-image Diffusion Models  [[PDF](https://arxiv.org/abs/2410.06025),[Page]()]
 
-
 [arxiv 2024.10] Training-free Diffusion Model Alignment with Sampling Demons  [[PDF](https://arxiv.org/abs/2410.05760)]
 
 [arxiv 2024.10]  Diffusion Models Need Visual Priors for Image Generation [[PDF](https://arxiv.org/abs/2410.08531)]
@@ -3679,10 +3674,8 @@
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
 ## data augmentation
 [arxiv 2025.03] How far can we go with ImageNet for Text-to-Image generation?  [[PDF](https://arxiv.org/abs/2502.21318),[Page](https://lucasdegeorge.github.io/projects/t2i_imagenet/)] ![Code](https://img.shields.io/github/stars/lucasdegeorge/T2I-ImageNet?style=social&label=Star)
-
 
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
@@ -3763,7 +3756,6 @@
 [arxiv 2025.12] Both Semantics and Reconstruction Matter: Making Representation Encoders Ready for Text-to-Image Generation and Editing  [[PDF](https://jshilong.github.io/PS-VAE-PAGE/),[Page](https://jshilong.github.io/PS-VAE-PAGE/)] 
 
 [arxiv 2026.01] NativeTok: Native Visual Tokenization for Improved Image Generation  [[PDF](https://arxiv.org/abs/2601.22837),[Page](https://github.com/wangbei1/Nativetok)] ![Code](https://img.shields.io/github/stars/wangbei1/Nativetok?style=social&label=Star)
-
 
 [arxiv 2026.03] HYDRA: Unifying Multi-modal Generation and Understanding via Representation-Harmonized Tokenization  [[PDF](https://arxiv.org/abs/2603.15228)]
 
@@ -3915,7 +3907,6 @@
 
 [arxiv 2026.02]  BitDance: Scaling Autoregressive Generative Models with Binary Tokens [[PDF](https://arxiv.org/abs/2602.14041),[Page](https://bitdance.csuhan.com/)] ![Code](https://img.shields.io/github/stars/shallowdream204/BitDance?style=social&label=Star)
 
-
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
 [arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
@@ -3950,12 +3941,10 @@
 
 [arxiv 2026.03] Revisiting Autoregressive Models for Generative Image Classification  [[PDF](https://arxiv.org/abs/2603.19122)]
 
-
 ## autoregressive improvement
 [arxiv 2025.10] REAR: Rethinking Visual Autoregressive Models via Generator-Tokenizer Consistency Regularization  [[PDF](https://arxiv.org/abs/2510.04450)]
 
 [arxiv 2025.12]  DiverseVAR: Balancing Diversity and Quality of Next-Scale Visual Autoregressive Models [[PDF](https://arxiv.org/pdf/2511.21415)]
-
 
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
@@ -3986,7 +3975,6 @@
 [arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 ## autoregressive Editing 
 [arxiv 2025.04] Training-Free Text-Guided Image Editing with Visual Autoregressive Model  [[PDF](https://arxiv.org/abs/2503.23897),[Page](https://github.com/wyf0912/AREdit)] ![Code](https://img.shields.io/github/stars/wyf0912/AREdit?style=social&label=Star)
@@ -4029,7 +4017,6 @@
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
 ## autoregressive concept
 [arxiv 2025.04] Personalized Text-to-Image Generation with Auto-Regressive Models  [[PDF](https://arxiv.org/abs/2504.13162),[Page](https://github.com/KaiyueSun98/T2I-Personalization-with-AR)] ![Code](https://img.shields.io/github/stars/KaiyueSun98/T2I-Personalization-with-AR?style=social&label=Star)
 
@@ -4040,7 +4027,6 @@
 [arxiv 2025.10] TokenAR: Multiple Subject Generation via Autoregressive Token-level enhancement  [[PDF](https://arxiv.org/abs/2510.16332),[Page](https://github.com/lyrig/TokenAR)] ![Code](https://img.shields.io/github/stars/lyrig/TokenAR?style=social&label=Star)
 
 [arxiv 2026.01]  DreamVAR: Taming Reinforced Visual Autoregressive Model for High-Fidelity Subject-Driven Image Generation [[PDF](https://arxiv.org/abs/2601.22507)]
-
 
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
@@ -4071,7 +4057,6 @@
 [arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 ## autoregressive speed
 [arxiv 2025.04]  Fast Autoregressive Models for Continuous Latent Generation [[PDF](https://arxiv.org/pdf/2504.18391)]
@@ -4113,7 +4098,6 @@
 ## autoregressive continuous
 [arxiv 2025.05]  Continuous Visual Autoregressive Generation via Score Maximization [[PDF](https://arxiv.org/pdf/2505.07812)]
 
-
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
 [arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
@@ -4144,12 +4128,10 @@
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
 ## autoregressive apps
 [arxiv 2025.07]  A Training-Free Style-Personalization via Scale-wise Autoregressive Model [[PDF](https://arxiv.org/pdf/2507.04482),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2025.07]  CSD-VAR: Content-Style Decomposition in Visual Autoregressive Models [[PDF](https://arxiv.org/pdf/2507.13984)]
-
 
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
@@ -4214,7 +4196,6 @@
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
 ## autoregressive feedback
 [arxiv 2025.08] AR-GRPO: Training Autoregressive Image Generation Models via Reinforcement Learning [[PDF](https://arxiv.org/pdf/2508.06924),[Page](https://github.com/Kwai-Klear/AR-GRPO)] ![Code](https://img.shields.io/github/stars/Kwai-Klear/AR-GRPO?style=social&label=Star)
 
@@ -4248,7 +4229,6 @@
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
 ## Distill Diffusion Model 
 [arxiv 2024.05]Distilling Diffusion Models into Conditional GANs [[PDF](https://arxiv.org/abs/2405.05967),[Page](https://mingukkang.github.io/Diffusion2GAN/)]
 
@@ -4258,13 +4238,11 @@
 
 [arxiv 2024.10]  DDIL: Improved Diffusion Distillation With Imitation Learning[[PDF](https://arxiv.org/abs/2410.11971)]
 
-
 [arxiv 2025.03] Scale-wise Distillation of Diffusion Models  [[PDF](https://arxiv.org/abs/2503.16397),[Page](https://yandex-research.github.io/swd/)] ![Code](https://img.shields.io/github/stars/yandex-research/swd?style=social&label=Star)
 
 [arxiv 2025.04]  Autoregressive Distillation of Diffusion Transformers [[PDF](https://arxiv.org/abs/2504.11295),[Page](https://github.com/alsdudrla10/ARD)] ![Code](https://img.shields.io/github/stars/alsdudrla10/ARD?style=social&label=Star)
 
 [arxiv 2025.08] Echo-4o: Harnessing the Power of GPT-4o Synthetic Images for Improved Image Generation  [[PDF](https://arxiv.org/abs/2508.09987),[Page](https://github.com/yejy53/Echo-4o)] ![Code](https://img.shields.io/github/stars/yejy53/Echo-4o?style=social&label=Star)
-
 
 [arxiv 2026.03] Self-Distillation of Hidden Layers for Self-Supervised Representation Learning  [[PDF](https://arxiv.org/abs/2603.15553)]
 
@@ -4341,7 +4319,6 @@
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] Q-Drift: Quantization-Aware Drift Correction for Diffusion Model Sampling  [[PDF](https://arxiv.org/abs/2603.18095)]
-
 
 ## Try-on 
 [arxiv 2024.03]Time-Efficient and Identity-Consistent Virtual Try-On Using A Variant of Altered Diffusion Models [[PDF](https://arxiv.org/abs/2403.07371)]
@@ -4470,7 +4447,6 @@
 
 [arxiv 2026.03] MOBILE-VTON: High-Fidelity On-Device Virtual Try-On  [[PDF](https://arxiv.org/pdf/2603.00947)]
 
-
 [arxiv 2026.03] Garments2Look: A Multi-Reference Dataset for High-Fidelity Outfit-Level Virtual Try-On with Clothing and Accessories  [[PDF](https://arxiv.org/abs/2603.14153)]
 
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
@@ -4510,7 +4486,6 @@
 
 [arxiv 2024.10]  Model merging with SVD to tie the Knots [[PDF](https://arxiv.org/abs/2410.19735),[Page](https://github.com/gstoica27/KnOTS)]
 
-
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
 [arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
@@ -4540,7 +4515,6 @@
 [arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 ## Text 
 [arxiv 2023.12]UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models [[PDF](https://arxiv.org/abs/2312.04884)]
@@ -4599,7 +4573,6 @@
 
 [arxiv 2025.10] OmniText: A Training-Free Generalist for Controllable Text-Image Manipulation  [[PDF](https://arxiv.org/abs/2510.24093)]
 
-
 [arxiv 2026.03] Real-Time Human Frontal View Synthesis from a Single Image  [[PDF](https://arxiv.org/abs/2603.15433)]
 
 [arxiv 2026.03] Training-free Detection of Generated Videos via Spatial-Temporal Likelihoods  [[PDF](https://arxiv.org/abs/2603.15026),[Page](https://omerbenhayun.github.io/stall-video)]
@@ -4654,7 +4627,6 @@
 
 [arxiv 2025.10] Grasp Any Region: Towards Precise, Contextual Pixel Understanding for Multimodal LLMs  [[PDF](https://arxiv.org/abs/2510.18876),[Page](https://github.com/Haochen-Wang409/Grasp-Any-Region)] ![Code](https://img.shields.io/github/stars/Haochen-Wang409/Grasp-Any-Region?style=social&label=Star)
 
-
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
 [arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
@@ -4684,7 +4656,6 @@
 [arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 ## face swapping 
 [arxiv 2024.03]Infinite-ID: Identity-preserved Personalization via ID-semantics Decoupling Paradigm [[PDF](https://arxiv.org/abs/2403.11781),[Page](https://infinite-id.github.io/)]
@@ -4981,7 +4952,6 @@
 
 [arxiv 2024.09]TextBoost: Towards One-Shot Personalization of Text-to-Image Models via Fine-tuning Text Encoder [[PDF](https://arxiv.org/abs/2409.08248), [Page](https://textboost.github.io/)]  ![Code](https://img.shields.io/github/stars/nahyeonkaty/textboost?style=social&label=Star)
 
-
 [arxiv 2024.09]SaRA: High-Efficient Diffusion Model Fine-tuning with Progressive Sparse Low-Rank Adaptation [[PDF](https://export.arxiv.org/abs/2409.06633), [Page](https://sjtuplayer.github.io/projects/SaRA/)] ![Code](https://img.shields.io/github/stars/sjtuplayer/SaRA?style=social&label=Star)
 
 [arxiv 2024.09] Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation[[PDF](https://arxiv.org/abs/2409.17920), [Page](https://github.com/hqhQAQ/MIP-Adapter)]  ![Code](https://img.shields.io/github/stars/hqhQAQ/MIP-Adapter?style=social&label=Star)
@@ -5096,7 +5066,6 @@
 
 [arxiv 2025.04]  Learning Joint ID-Textual Representation for ID-Preserving Image Synthesis [[PDF](https://arxiv.org/abs/2504.14202)]
 
-
 [arxiv 2025.04] DreamO: A Unified Framework for Image Customization  [[PDF](https://arxiv.org/abs/2504.16915),[Page](https://mc-e.github.io/project/DreamO/)] ![Code](https://img.shields.io/github/stars/bytedance/DreamO?style=social&label=Star)
 
 [arxiv 2025.05] Multi-party Collaborative Attention Control for Image Customization  [[PDF](https://arxiv.org/pdf/2505.01428)]
@@ -5172,7 +5141,6 @@
 
 [arxiv 2026.03] IdGlow: Dynamic Identity Modulation for Multi-Subject Generation  [[PDF](https://arxiv.org/pdf/2603.00607),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
 [arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
@@ -5203,9 +5171,7 @@
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
 ## end of concept
-
 
 ## MV Concept 
 [arxiv 2025.10] MVCustom: Multi-View Customized Diffusion via Geometric Latent Rendering and Completion  [[PDF](https://arxiv.org/abs/2510.13702),[Page](https://minjung-s.github.io/mvcustom)] ![Code](https://img.shields.io/github/stars/minjung-s/MVCustom?style=social&label=Star)
@@ -5239,7 +5205,6 @@
 [arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 ## multi-object
 [arxiv 2025.06]  MultiHuman-Testbench: Benchmarking Image Generation for Multiple Humans [[PDF](https://arxiv.org/abs/2506.20879)]
@@ -5283,7 +5248,6 @@
 [arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 ## group generation 
 
@@ -5372,12 +5336,9 @@
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
 ## multi-view consistency
 
-
 [arxiv 2024.12] MV-Adapter: Multi-view Consistent Image Generation Made Easy  [[PDF](https://arxiv.org/abs/2412.03632),[Page](https://huanngzh.github.io/MV-Adapter-Page/)] ![Code](https://img.shields.io/github/stars/huanngzh/MV-Adapter?style=social&label=Star)
-
 
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
@@ -5408,7 +5369,6 @@
 [arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 ## Story-telling
 
@@ -5519,7 +5479,6 @@
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
 [arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
@@ -5549,7 +5508,6 @@
 [arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 ## Layout Generation 
 [arxiv 2022.08]Layout-Bridging Text-to-Image Synthesis [[PDF](https://arxiv.org/pdf/2208.06162.pdf)]
@@ -5633,7 +5591,6 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2025.10] SEGA: A Stepwise Evolution Paradigm for Content-Aware Layout Generation with Design Prior  [[PDF](https://arxiv.org/abs/2510.15749),[Page](https://brucew91.github.io/SEGA.github.io/)] ![Code](https://img.shields.io/github/stars/BruceW91/SEGA?style=social&label=Star) 
 
-
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
 [arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
@@ -5663,7 +5620,6 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
-
 
 ## SVG
 [arxiv 2022.11; UCB] VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models \[[PDF](https://arxiv.org/abs/2211.11319)\]
@@ -5743,7 +5699,6 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 ## composition & Translation
 [arxiv 2022; Google]Sketch-Guided Text-to-Image Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13752.pdf), code\]  
@@ -6140,12 +6095,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
 # end of composition
 
 ## Image Variation 
 [arxiv 2023.08]IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2308.06721.pdf), [Page](https://ip-adapter.github.io/)]
-
 
 ## Super-Resolution & restoration & Higher-resolution generation
 [arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
@@ -6214,7 +6167,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2024.04]BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion [[PDF](https://arxiv.org/abs/2404.04544), [Page](https://janeyeon.github.io/beyond-scene)]
 
-
 [arxiv 2024.05]CDFormer:When Degradation Prediction Embraces Diffusion Model for Blind Image Super-Resolution [[PDF](https://arxiv.org/abs/2405.07648)]
 
 [arxiv 2024.05]Frequency-Domain Refinement with Multiscale Diffusion for Super Resolution [[PDF](https://arxiv.org/abs/2405.10014)]
@@ -6230,7 +6182,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2024.06] Is One GPU Enough? Pushing Image Generation at Higher-Resolutions with Foundation Models [[PDF](https://arxiv.org/abs/2406.07251),[Page](https://github.com/Thanos-DB/Pixelsmith)]
 
 [arxiv 2024.06]  Towards Realistic Data Generation for Real-World Super-Resolution[[PDF](https://arxiv.org/abs/2406.07255)]
-
 
 [arxiv 2024.06] LFMamba: Light Field Image Super-Resolution with State Space Model [[PDF](https://arxiv.org/abs/2406.12463)]
 
@@ -6312,7 +6263,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2024.12] RAP-SR: RestorAtion Prior Enhancement in Diffusion Models for Realistic Image Super-Resolution  [[PDF](https://arxiv.org/abs/2412.07149),[Page](https://github.com/W-JG/RAP-SR)] ![Code](https://img.shields.io/github/stars/W-JG/RAP-SR?style=social&label=Star)
 
 [arxiv 2024.12]  FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion [[PDF](https://arxiv.org/abs/2412.09626),[Page](http://haonanqiu.com/projects/FreeScale.html)] 
-
 
 [arxiv 2024.12]  Arbitrary-steps Image Super-resolution via Diffusion Inversion [[PDF](),[Page](https://github.com/zsyOAOA/InvSR)] ![Code](https://img.shields.io/github/stars/zsyOAOA/InvSR?style=social&label=Star)
 
@@ -6424,7 +6374,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03]  AlignVAR: Towards Globally Consistent Visual Autoregression for Image Super-Resolution [[PDF](https://arxiv.org/pdf/2603.00589)]
 
-
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
 [arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
@@ -6457,15 +6406,12 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03] Color image restoration based on nonlocal saturation-value similarity  [[PDF](https://arxiv.org/abs/2603.18586)]
 
-
-
 ## translation 
 [arxiv 2024.10] CtrLoRA: An Extensible and Efficient Framework for Controllable Image Generation  [[PDF](https://arxiv.org/abs/2410.09400),[Page](https://github.com/xyfJASON/ctrlora)]
 
 [arxiv 2024.11] Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot Subject-Driven Image Generator  [[PDF](https://arxiv.org/abs/2411.15466),[Page](https://diptychprompting.github.io/)] 
 
 [arxiv 2025.02] RelaCtrl: Relevance-Guided Efficient Control for Diffusion Transformers  [[PDF](https://arxiv.org/abs/2502.14377),[Page](https://relactrl.github.io/RelaCtrl/)] 
-
 
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
@@ -6496,7 +6442,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 ## action transfer 
 [arxiv 2023.11]Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2311.15841)]
@@ -6746,12 +6691,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
 ## RAG
 [arxiv 2025.02]  ImageRAG: Dynamic Image Retrieval for Reference-Guided Image Generation [[PDF](https://arxiv.org/pdf/2502.09411),[Page](https://rotem-shalev.github.io/ImageRAG)] ![Code](https://img.shields.io/github/stars/rotem-shalev/ImageRAG?style=social&label=Star)
 
 [arxiv 2025.05] IA-T2I: Internet-Augmented Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2505.15779)]
-
 
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
@@ -6782,7 +6725,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 ## COT
 [arxiv 2025.03]  MINT: Multi-modal Chain of Thought in Unified Generative Models for Enhanced Image Generation [[PDF](https://arxiv.org/pdf/2503.01298)]
@@ -6833,7 +6775,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
 ## agent
 [arxiv 2025.03] CoSTA∗: Cost-Sensitive Toolpath Agent for Multi-turn Image Editin  [[PDF](https://arxiv.org/abs/2503.10613),[Page](https://github.com/tianyi-lab/CoSTAR)] ![Code](https://img.shields.io/github/stars/tianyi-lab/CoSTAR?style=social&label=Star)
 
@@ -6878,7 +6819,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 ## downstream apps
 [arxiv 2023.11]Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human Expression [[PDF](https://arxiv.org/abs/2311.10794)]
@@ -6949,7 +6889,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03] LogoDiffuser: Training-Free Multilingual Logo Generation and Stylization via Letter-Aware Attention Control  [[PDF](https://arxiv.org/pdf/2603.09759)]
 
-
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
 [arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
@@ -6979,7 +6918,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 ## test-time computation
 [arxiv 2025.01]  Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [[PDF](https://arxiv.org/abs/2501.13926),[Page](https://github.com/ZiyuGuo99/Image-Generation-CoT)] ![Code](https://img.shields.io/github/stars/ZiyuGuo99/Image-Generation-CoT?style=social&label=Star)
@@ -6988,7 +6926,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.04]  From Reflection to Perfection: Scaling Inference-Time Optimization for Text-to-Image Diffusion Models via Reflection Tuning [[PDF](https://arxiv.org/abs/2504.16080),[Page](https://diffusion-cot.github.io/reflection2perfection/)] ![Code](https://img.shields.io/github/stars/Diffusion-CoT/ReflectionFlow?style=social&label=Star)
 
-
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
 [arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
@@ -7018,7 +6955,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 ## Joint generation
 
@@ -7054,12 +6990,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
 ## camera 
 [arxiv 2025.01] PreciseCam: Precise Camera Control for Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2501.12910),[Page](https://graphics.unizar.es/projects/PreciseCam2024/#)]
 
 [arxiv 2025.10]  DiffCamera: Arbitrary Refocusing on Images [[PDF](https://arxiv.org/abs/2509.26599)]
-
 
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
@@ -7090,7 +7024,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 ## Mesh generation
 [arxiv 2024.09]  EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation [[PDF](https://arxiv.org/abs/2409.18114),[Page](https://research.nvidia.com/labs/dir/edgerunner/)]
@@ -7195,13 +7128,11 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
 ## scaling
 
 [arxiv 2024.10]  FINE: Factorizing Knowledge for Initialization of Variable-sized Diffusion Models [[PDF](https://arxiv.org/pdf/2409.19289)]
 
 [arxiv 2024.12]  Efficient Scaling of Diffusion Transformers for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2412.12391)]
-
 
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
@@ -7233,10 +7164,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
 ## disentanglement
 [ICMR 2023]Not Only Generative Art: Stable Diffusion for Content-Style Disentanglement in Art Analysis [[PDF](https://arxiv.org/abs/2304.10278)]
-
 
 ## Face ID 
 [arxiv 2022.12]HS-Diffusion: Learning a Semantic-Guided Diffusion Model for Head Swapping[[PDF](https://arxiv.org/pdf/2212.06458.pdf)]
@@ -7251,7 +7180,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.03]  HyperLoRA: Parameter-Efficient Adaptive Generation for Portrait Synthesis [[PDF](https://arxiv.org/pdf/2503.16944)]
 
-
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
 [arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
@@ -7282,16 +7210,13 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
 ## scene composition
 [arxiv 2023.02]MIXTURE OF DIFFUSERS FOR SCENE COMPOSITION AND HIGH RESOLUTION IMAGE GENERATION [[PDF](https://arxiv.org/abs/2302.02412)]
 
 [arxiv 2023.02]Cross-domain Compositing with Pretrained Diffusion Models[[PDF](https://arxiv.org/abs/2302.10167)]
 
-
 ## hand writing 
 [arxiv 2023.03]WordStylist: Styled Verbatim Handwritten Text Generation with Latent Diffusion Models[[PDF](https://arxiv.org/abs/2303.16576)]
-
 
 ## speed
 [arxiv 2023.05]FISEdit: Accelerating Text-to-image Editing via Cache-enabled Sparse Diffusion Inference [[PDF](https://arxiv.org/abs/2305.17423)]
@@ -7371,7 +7296,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2024.08] A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models[[PDF](https://arxiv.org/abs/2408.05927)]
 
-
 [arxiv 2024.08]Low-Bitwidth Floating Point Quantization for Efficient High-Quality Diffusion Models [[PDF](https://arxiv.org/abs/2408.06995)]
 
 [arxiv 2024.08]PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future [[PDF](https://arxiv.org/abs/2408.08822)]
@@ -7424,7 +7348,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2024.12]  TSD-SR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution [[PDF](https://arxiv.org/abs/2411.18263)] 
 
-
 [arxiv 2024.12] SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance  [[PDF](https://arxiv.org/abs/2412.02687),[Page](https://snoopi-onestep.github.io/)] ![Code](https://img.shields.io/github/stars/VinAIResearch/SNOOPI?style=social&label=Star)
 
 [arxiv 2024.12] Schedule On the Fly: Diffusion Time Prediction for Faster and Better Image Generation  [[PDF](https://arxiv.org/abs/2412.01243)]
@@ -7470,9 +7393,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.03] Distilling Diversity and Control in Diffusion Models  [[PDF](https://arxiv.org/pdf/2503.10637),[Page](https://distillation.baulab.info/)] ![Code](https://img.shields.io/github/stars/rohitgandikota/distillation?style=social&label=Star)
 
-
 [arxiv 2025.03]  FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transformers [[PDF](https://arxiv.org/abs/2503.15465),[Page](https://github.com/cccrrrccc/FP4DiT)] ![Code](https://img.shields.io/github/stars/cccrrrccc/FP4DiT?style=social&label=Star)
-
 
 [arxiv 2025.03] Di[M]O: Distilling Masked Diffusion Models into One-step Generator  [[PDF](https://arxiv.org/abs/2503.15457),[Page](https://yuanzhi-zhu.github.io/DiMO/)] ![Code](https://img.shields.io/github/stars/yuanzhi-zhu/DiMO?style=social&label=Star)
 
@@ -7532,7 +7453,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.02] ArcFlow: Unleashing 2-Step Text-to-Image Generation via High-Precision Non-Linear Flow Distillation  [[PDF](https://arxiv.org/abs/2602.09014),[Page](https://github.com/pnotp/ArcFlow)] ![Code](https://img.shields.io/github/stars/pnotp/ArcFlow?style=social&label=Star)
 
-
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
 [arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
@@ -7562,7 +7482,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 ## consistency model 
 [arxiv 2024.10] Simplifying, stabilizing, and scaling continuous-time consistency models  [[PDF](https://arxiv.org/abs/2410.11081),[Page](https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models/)]
@@ -7605,7 +7524,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 ## limited data 
 [arxiv 2023.06]Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2306.14153)]
-
 
 ## Study 
 [CVPR 2023]Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)]
@@ -7711,13 +7629,11 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2024.04]Who Evaluates the Evaluations? Objectively Scoring Text-to-Image Prompt Coherence Metrics with T2IScoreScore (TS2) [[PDF](https://arxiv.org/abs/2404.04251)]
 
-
 [arxiv 2024.05]FAIntbench: A Holistic and Precise Benchmark for Bias Evaluation in Text-to-Image Models [[PDF](https://arxiv.org/abs/2405.17814)]
 
 [arxiv 2024.06]GAIA: Rethinking Action Quality Assessment for AI-Generated Videos[[PDF](https://arxiv.org/abs/2406.06087)]
 
 [arxiv 2024.06]Words Worth a Thousand Pictures: Measuring and Understanding Perceptual Variability in Text-to-Image Generation [[PDF](https://arxiv.org/abs/2406.08482)]
-
 
 [arxiv 2024.06]PhyBench: A Physical Commonsense Benchmark for Evaluating Text-to-Image Models [[PDF](https://arxiv.org/abs/2406.11802)]
 
@@ -7819,7 +7735,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 ## Feedback
 [arxiv 2023.11]Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model [[PDF](https://arxiv.org/abs/2311.13231)]
@@ -7932,7 +7847,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.01]  PromptRL: Prompt Matters in RL for Flow-Based Image Generation [[PDF](https://arxiv.org/abs/2602.01382),[Page](https://github.com/G-U-N/UniRL)] ![Code](https://img.shields.io/github/stars/G-U-N/UniRL?style=social&label=Star)
 
-
 [arxiv 2026.03] Relevance Feedback in Text-to-Image Diffusion: A Training-Free And Model-Agnostic Interactive Framework  [[PDF](https://arxiv.org/abs/2603.14936)]
 
 [arxiv 2026.03] VisionCoach: Reinforcing Grounded Video Reasoning via Visual-Perception Prompting  [[PDF](https://arxiv.org/abs/2603.14659)]
@@ -7973,14 +7887,12 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03] CRAFT: Aligning Diffusion Models with Fine-Tuning Is Easier Than You Think  [[PDF](https://arxiv.org/abs/2603.18991)]
 
-
 ## GPT4o evaluation 
 [arxiv 2025.05] Preliminary Explorations with GPT-4o(mni) Native Image Generation  [[PDF](https://arxiv.org/pdf/2505.05501)]
 
 [arxiv 2025.05] A Preliminary Study for GPT-4o on Image Restoration  [[PDF](https://arxiv.org/abs/2505.05621)]
 
 [arxiv 2025.10] EditReward: A Human-Aligned Reward Model for Instruction-Guided Image Editing  [[PDF](https://arxiv.org/abs/2509.26346),[Page](https://tiger-ai-lab.github.io/EditReward/)] ![Code](https://img.shields.io/github/stars/TIGER-AI-Lab/EditReward?style=social&label=Star)
-
 
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
@@ -8012,14 +7924,12 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
 ##  Finetuning 
 [arxiv 2021.07] Low-rank Adaptation for Fast Text-to-Image Diffusion Fine-tuning [[PDF](https://arxiv.org/pdf/2106.09685.pdf), [code](https://github.com/cloneofsimo/lora)]
 
 [arxiv 2023.02]DoRA: Weight-Decomposed Low-Rank Adaptation [[PDF](https://arxiv.org/pdf/2402.09353.pdf)]
 
 [arxiv 2024.06]Spectrum-Aware Parameter Efficient Fine-Tuning for Diffusion Models [[PDF](https://arxiv.org/abs/2405.21050)]
-
 
 ## Related 
 
@@ -8058,17 +7968,13 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2023.11]ToddlerDiffusion: Flash Interpretable Controllable Diffusion Model [[PDF](https://arxiv.org/abs/2311.14542)]
 
-
 [arxiv 2024.04]Many-to-many Image Generation with Auto-regressive Diffusion Models [[PDF](https://arxiv.org/abs/2404.03109)]
 
 [arxiv 2024.04]On the Scalability of Diffusion-based Text-to-Image Generation [[PDF](https://arxiv.org/abs/2404.02883)]
 
-
 [arxiv 2024.06]Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation [[PDF](https://arxiv.org/abs/2406.11189)]
 
-
 [arxiv 2024.06]Diffusion Models in Low-Level Vision: A Survey [[PDF](https://arxiv.org/abs/2406.11138)]
-
 
 [arxiv 2024.06]A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2406.14555), [Page](https://github.com/xinchengshuai/Awesome-Image-Editing)]
 
@@ -8085,7 +7991,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.01] An Empirical Study of Autoregressive Pre-training from Videos  [[PDF](https://arxiv.org/pdf/2501.05453),[Page](https://brjathu.github.io/toto/)] 
 
 [arxiv 2025.11]  SAM 3: Segment Anything with Concepts [[PDF](https://arxiv.org/pdf/2511.16719),[Page](https://github.com/facebookresearch/sam3)] ![Code](https://img.shields.io/github/stars/facebookresearch/sam3?style=social&label=Star)
-
 
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
@@ -8116,7 +8021,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.04] TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction  [[PDF](https://arxiv.org/abs/2604.02586v1)] ![Code](https://img.shields.io/github/stars/yindaheng98/TrackerSplat?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 # architecture /distribution
 [arxiv 2024.09]HydraViT: Stacking Heads for a Scalable ViT [[PDF](https://arxiv.org/abs/2409.17978), [Page](https://github.com/ds-kiel/HydraViT)]
@@ -8171,7 +8075,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.01]  PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss [[PDF](https://arxiv.org/abs/2602.02493),[Page](https://zehong-ma.github.io/PixelGen/)] ![Code](https://img.shields.io/github/stars/Zehong-Ma/PixelGen?style=social&label=Star)
 
-
 [arxiv 2026.04] VBGS-SLAM: Variational Bayesian Gaussian Splatting Simultaneous Localization and Mapping  [[PDF](https://arxiv.org/abs/2604.02696v1)]
 
 [arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
@@ -8202,12 +8105,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
 ## Data 
 [arxiv 2024.06]What If We Recaption Billions of Web Images with LLaMA-3? [[PDF](https://arxiv.org/abs/2406.08478), [Page](https://www.haqtu.me/Recap-Datacomp-1B/)]
 
 [arxiv 2025.07] GPT-IMAGE-EDIT-1.5M: A Million-Scale, GPT-Generated Image Dataset [[PDF](https://arxiv.org/abs/2507.21033),[Page](https://ucsc-vlaa.github.io/GPT-Image-Edit/)] ![Code](https://img.shields.io/github/stars/wyhlovecpp/GPT-Image-Edit?style=social&label=Star)
-
 
 ## Repository
 ***DIFFUSERS*** Hugging-face sota repository. \[[DIFFUSERS](https://github.com/huggingface/diffusers)\]
@@ -8297,12 +8198,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
 ## basics 
 [arxiv 2024.12] Flow Matching Guide and Code  [[PDF](https://arxiv.org/abs/2412.06264),[Page](https://github.com/facebookresearch/flow_matching)] ![Code](https://img.shields.io/github/stars/facebookresearch/flow_matching?style=social&label=Star)
 
 [arxiv 2025.02] On the Guidance of Flow Matching  [[PDF](https://arxiv.org/abs/2502.02150),[Page](https://github.com/AI4Science-WestlakeU/flow_guidance)] ![Code](https://img.shields.io/github/stars/AI4Science-WestlakeU/flow_guidance?style=social&label=Star)
-
 
 [arxiv 2026.03] Deterministic Mode Proposals: An Efficient Alternative to Generative Sampling for Ambiguous Segmentation [[PDF](https://arxiv.org/abs/2603.20191)]
 
@@ -8521,8 +8420,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.05] GenEvolve: Self-Evolving Image Generation Agents via Tool-Orchestrated Visual Experience Distillation  [[PDF](https://arxiv.org/abs/2605.21605)]
 
 [arxiv 2026.05] Lens: Rethinking Training Efficiency for Foundational Text-to-Image Models  [[PDF](https://arxiv.org/abs/2605.21573),[Page](https://github.com/microsoft/Lens)]
-
-
 
 [arxiv 2026.06] Bootstrap Your Generator: Unpaired Visual Editing with Flow Matching  [[PDF](https://arxiv.org/abs/2606.03911),[Page](https://research.nvidia.com/labs/par/byg/)]
 
