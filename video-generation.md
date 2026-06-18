@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-06-17 -->
+<!-- Added on 2026-06-18 -->
 [arxiv 2026.06] Next Forcing: Causal World Modeling with Multi-Chunk Prediction  [[PDF](https://arxiv.org/abs/2606.11187),[Page](https://gangweix.github.io/next-forcing/)]
 
 [arxiv 2026.06] WorldOlympiad: Can Your World Model Survive a Triathlon?  [[PDF](https://arxiv.org/abs/2606.11129),[Page](https://alibaba-damo-academy.github.io/WorldOlympiad/)]
@@ -992,6 +992,15 @@ A reading list of video generation
 [arxiv 2026.06] Reasoning Text-to-Video Retrieval for Operating Room Clips via Action-Driven Digital Twins  [[PDF](https://arxiv.org/abs/2606.17298)]
 
 [arxiv 2026.06] Pulling The REINS: Training-Free Safety Alignment of Video Diffusion Models via Representation Steering  [[PDF](https://arxiv.org/abs/2606.17257)]
+
+<!-- Added on 2026-06-18 -->
+[arxiv 2026.06] UniTemp: Unlocking Video Generation in Any Temporal Order via Bidirectional Distillation  [[PDF](https://arxiv.org/abs/2606.18702)]
+
+[arxiv 2026.06] Bridging Creative Intent and Visual Quality: Creator-Driven Recurrent Video Generation with Agentic Feedback Loops  [[PDF](https://arxiv.org/abs/2606.18591)]
+
+[arxiv 2026.06] Data-Forcing Distillation: Restoring Diversity and Fidelity in Few-Step Video Generation  [[PDF](https://arxiv.org/abs/2606.18478)]
+
+[arxiv 2026.06] SC3-Eval: Evaluating Robot Foundation Models via Self-Consistent Video Generation  [[PDF](https://arxiv.org/abs/2606.18610)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

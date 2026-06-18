@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-06-08 -->
+<!-- Added on 2026-06-18 -->
 [arxiv 2026.06] Mean Flow Distillation: Robust and Stable Distillation for Flow Matching Models  [[PDF](https://arxiv.org/abs/2606.11155)]
 
 [arxiv 2026.06] IDEAL: In-DEpth ALignment Makes A Discrete Representation AutoEncoder  [[PDF](https://arxiv.org/abs/2606.11096),[Page](https://github.com/Row11n/IDEAL)]
@@ -1962,6 +1962,37 @@
 [arxiv 2026.06] GASE: Gaussian Splatting-Based Automated System for Reconstructing Embodied-Simulation Environments  [[PDF](https://arxiv.org/abs/2606.17520)]
 
 [arxiv 2026.06] Edit3DGS: Unified Framework for Dynamic Head Editing via 2D Instruction-Guided Diffusion and 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2606.17432)]
+
+<!-- Added on 2026-06-18 -->
+[arxiv 2026.06] NeuMesh++: Towards Versatile and Efficient Volumetric Editing with Disentangled Neural Mesh-based Implicit Field  [[PDF](https://arxiv.org/abs/2606.19316),[Page](https://zju3dv.github.io/neumeshplusplus/)]
+
+[arxiv 2026.06] Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance  [[PDF](https://arxiv.org/abs/2606.19195)]
+
+[arxiv 2026.06] DVANet: Degradation-aware Visual-prior Alignment Network for Image Restoration  [[PDF](https://arxiv.org/abs/2606.19097)]
+
+[arxiv 2026.06] Taming I2V models for Image HOI Editing: A Cognitive Benchmark and Agentic Self-Correcting Framework  [[PDF](https://arxiv.org/abs/2606.19073)]
+
+[arxiv 2026.06] FlowObject: Flow Steering for Bridging Generative Priors and Reconstruction Fidelity  [[PDF](https://arxiv.org/abs/2606.19019),[Page](https://yuchenrao.github.io/projects/flowObject/flowObject.html)]
+
+[arxiv 2026.06] BindEdit: Taming Attention Leakage for Precise Multi-Object Image Editing  [[PDF](https://arxiv.org/abs/2606.18906)]
+
+[arxiv 2026.06] SpectralDiT: Timestep-Conditioned Spectral Residual Correction for Flow-Matching DiTs  [[PDF](https://arxiv.org/abs/2606.18765)]
+
+[arxiv 2026.06] Spiking Pyramid Wavelet Transformation for High-efficient and Low-energy Image Restoration  [[PDF](https://arxiv.org/abs/2606.18644)]
+
+[arxiv 2026.06] Intrinsic 4D Gaussian Segmentation from Scene Cues  [[PDF](https://arxiv.org/abs/2606.18623)]
+
+[arxiv 2026.06] Rethinking Text-to-Image as Semantic-Aware Data Augmentation for Indoor Scene Recognition  [[PDF](https://arxiv.org/abs/2606.18555)]
+
+[arxiv 2026.06] Forged Calamity: Benchmark for Cross-Domain Synthetic Disaster Detection in the Age of Diffusion  [[PDF](https://arxiv.org/abs/2606.18554)]
+
+[arxiv 2026.06] Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors  [[PDF](https://arxiv.org/abs/2606.19325),[Page](https://finmickey.github.io/scena/)]
+
+[arxiv 2026.06] The Market in the Model: Latent Diffusion as Neural Economy  [[PDF](https://arxiv.org/abs/2606.19151)]
+
+[arxiv 2026.06] EDoF-NeRF: extended depth-of-field neural radiance fields using a coded aperture camera  [[PDF](https://arxiv.org/abs/2606.18826)]
+
+[arxiv 2026.06] Splaxel: Efficient Distributed Training of 3D Gaussian Splatting for Large-scale Scene Reconstruction via Pixel-level Communication  [[PDF](https://arxiv.org/abs/2606.18588)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

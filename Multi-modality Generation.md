@@ -1,4 +1,4 @@
-<!-- Added on 2026-06-08 -->
+<!-- Added on 2026-06-18 -->
 [arxiv 2026.06] ARM: An AutoRegressive Large Multimodal Model with Unified Discrete Representations  [[PDF](https://arxiv.org/abs/2606.11188)]
 
 [arxiv 2026.06] P3D-Bench: Benchmarking MLLMs for Parametric 3D Generation and Structural Reasoning  [[PDF](https://arxiv.org/abs/2606.11152),[Page](https://lucasqaq.github.io/p3d/)]
@@ -2821,6 +2821,45 @@
 [arxiv 2026.06] AnnotateAnything: Automatic Annotation of 3D Assets for Robot Manipulation  [[PDF](https://arxiv.org/abs/2606.17446)]
 
 [arxiv 2026.06] ProCUA-SFT Technical Report  [[PDF](https://arxiv.org/abs/2606.17321)]
+
+<!-- Added on 2026-06-18 -->
+[arxiv 2026.06] Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games  [[PDF](https://arxiv.org/abs/2606.19338)]
+
+[arxiv 2026.06] A Multi-Domain Benchmark for Detecting AI-Generated Text-Rich Images from GPT-Image-2  [[PDF](https://arxiv.org/abs/2606.19259)]
+
+[arxiv 2026.06] CABLE: Cloud-Assisted Bandwidth-efficient LMM-based Encoding for V2X Systems  [[PDF](https://arxiv.org/abs/2606.19258)]
+
+[arxiv 2026.06] OneCanvas: 3D Scene Understanding via Panoramic Reprojection  [[PDF](https://arxiv.org/abs/2606.19253),[Page](https://baranowskibrt.github.io/onecanvas/)]
+
+[arxiv 2026.06] ProductConsistency: Improving Product Identity Preservation in Instruction-Based Image Editing via SFT and RL  [[PDF](https://arxiv.org/abs/2606.19103)]
+
+[arxiv 2026.06] AMALIA-VL: A Native European Portuguese Open-Source Vision and Language Model  [[PDF](https://arxiv.org/abs/2606.19100)]
+
+[arxiv 2026.06] PorTEXTO: A European Portuguese Benchmark for Visual Text Extraction  [[PDF](https://arxiv.org/abs/2606.19096)]
+
+[arxiv 2026.06] DREAM: Extending Vision-Language Models with Dual-Objective Encoding for Cross-Modal Retrieval  [[PDF](https://arxiv.org/abs/2606.19062)]
+
+[arxiv 2026.06] Benchmarking Large Vision-Language Models on Fine-Grained Image Tasks: From Evaluation to Diagnosis  [[PDF](https://arxiv.org/abs/2606.19053)]
+
+[arxiv 2026.06] Visual-OPSD: Cross-Modal On-Policy Self-Distillation for Efficient Unified Multimodal Reasoning  [[PDF](https://arxiv.org/abs/2606.18974)]
+
+[arxiv 2026.06] From Bounding Boxes to Visual Reasoning: An On-Policy Data Annotation Tool for Vision-Language Models  [[PDF](https://arxiv.org/abs/2606.18846)]
+
+[arxiv 2026.06] SAMA: Semantic Anchor-aligned Augmentation for Unified Low-Resource Multimodal Information Extraction  [[PDF](https://arxiv.org/abs/2606.18780)]
+
+[arxiv 2026.06] Moving Beyond Diversity: Visual Token Pruning as Subspace Reconstruction for Efficient VLMs  [[PDF](https://arxiv.org/abs/2606.18681)]
+
+[arxiv 2026.06] LandslideAgent with Multimodal LandslideBench: A Domain-Rule-Augmented Agent for Autonomous Landslide Identification and Analysis  [[PDF](https://arxiv.org/abs/2606.18661)]
+
+[arxiv 2026.06] Hierarchical Multi-Modal Retrieval for Knowledge-Grounded News Image Captioning  [[PDF](https://arxiv.org/abs/2606.18553)]
+
+[arxiv 2026.06] Domain Generalizable Adaptation of 3D Vision-Language Models via Regularized Fine-Tuning  [[PDF](https://arxiv.org/abs/2606.18472)]
+
+[arxiv 2026.06] Reasoning as Intersection: Consensus-Frame Alignment for Visual Focus in Video-MLLMs  [[PDF](https://arxiv.org/abs/2606.18441)]
+
+[arxiv 2026.06] Seeing Before Reasoning: Decoupling Perception and Reasoning for Shortcut-Resilient Multimodal On-Policy Self-Distillation  [[PDF](https://arxiv.org/abs/2606.19120)]
+
+[arxiv 2026.06] Semantic Robustness Certification for Vision-Language Models  [[PDF](https://arxiv.org/abs/2606.18839)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

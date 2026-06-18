@@ -1,5 +1,5 @@
 ## Dataset
-<!-- Added on 2026-06-08 -->
+<!-- Added on 2026-06-18 -->
 [arxiv 2026.06] SCAIL-2: Unifying Controlled Character Animation with End-to-end In-Context Conditioning  [[PDF](https://arxiv.org/abs/2606.10804)]
 
 [arxiv 2026.06] Integrated Real-Time Motion Tracking and AI Analysis for Athletic Performance Optimization  [[PDF](https://arxiv.org/abs/2606.09842)]
@@ -460,6 +460,11 @@
 [arxiv 2026.06] VideoMDM: Towards 3D Human Motion Generation From 2D Supervision  [[PDF](https://arxiv.org/abs/2606.13364),[Page](https://videomdm.github.io/)]
 
 [arxiv 2026.06] C-MambaPose: A Physics-Informed Complex Mamba Framework for Cross-Environment WiFi Human Pose Estimation  [[PDF](https://arxiv.org/abs/2606.13700)]
+
+<!-- Added on 2026-06-18 -->
+[arxiv 2026.06] Hand-4DGS: Feed-Forward 3D Gaussian Splatting for 4D Hand Reconstruction from Egocentric Videos  [[PDF](https://arxiv.org/abs/2606.19156),[Page](https://jeongminb.github.io/hand-4dgs/)]
+
+[arxiv 2026.06] Seeing Through Occlusion: Deterministic Arm Kinematic Correction for Robot Teleoperation  [[PDF](https://arxiv.org/abs/2606.19240)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
