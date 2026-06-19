@@ -1,5 +1,15 @@
 # Video Generation Survey
-<!-- Added on 2026-06-18 -->
+<!-- Added on 2026-06-19 -->
+[arxiv 2026.06] Through the PRISM: Preference Representation in Intermediate States of Video Diffusion Models  [[PDF](https://arxiv.org/abs/2606.20310)]
+
+[arxiv 2026.06] Cinematic Compositing Using Character-Environment-Harmonized Video Generation Models  [[PDF](https://arxiv.org/abs/2606.20233)]
+
+[arxiv 2026.06] Holo-World: Unified Camera, Object and Weather Control for Video World Model  [[PDF](https://arxiv.org/abs/2606.20083),[Page](https://xiangchenyin.github.io/Holo-World)]
+
+[arxiv 2026.06] NEST: Narrative Event Structures in Time for Long Video Understanding  [[PDF](https://arxiv.org/abs/2606.19706)]
+
+[arxiv 2026.06] ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing?  [[PDF](https://arxiv.org/abs/2606.19531),[Page](https://zhangwenyao1.github.io/ImageWAM/)]
+
 [arxiv 2026.06] Next Forcing: Causal World Modeling with Multi-Chunk Prediction  [[PDF](https://arxiv.org/abs/2606.11187),[Page](https://gangweix.github.io/next-forcing/)]
 
 [arxiv 2026.06] WorldOlympiad: Can Your World Model Survive a Triathlon?  [[PDF](https://arxiv.org/abs/2606.11129),[Page](https://alibaba-damo-academy.github.io/WorldOlympiad/)]

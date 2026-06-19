@@ -1,5 +1,9 @@
 ## Dataset
-<!-- Added on 2026-06-18 -->
+<!-- Added on 2026-06-19 -->
+[arxiv 2026.06] CalTennis: Large Multi-View Tennis Video Dataset and Benchmark of Monocular-to-3D Pose Estimation  [[PDF](https://arxiv.org/abs/2606.20542)]
+
+[arxiv 2026.06] One-Shot Novel View and Pose Human Image Synthesis via 3D Prior Guided Diffusion Model  [[PDF](https://arxiv.org/abs/2606.19718)]
+
 [arxiv 2026.06] SCAIL-2: Unifying Controlled Character Animation with End-to-end In-Context Conditioning  [[PDF](https://arxiv.org/abs/2606.10804)]
 
 [arxiv 2026.06] Integrated Real-Time Motion Tracking and AI Analysis for Athletic Performance Optimization  [[PDF](https://arxiv.org/abs/2606.09842)]

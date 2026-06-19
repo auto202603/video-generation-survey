@@ -1,4 +1,36 @@
-<!-- Added on 2026-06-18 -->
+<!-- Added on 2026-06-19 -->
+[arxiv 2026.06] TimeProVe: Propose, then Verify for Efficient Long Video Temporal Reasoning in Activities of Daily Living  [[PDF](https://arxiv.org/abs/2606.20561)]
+
+[arxiv 2026.06] Spectral Query-Key Product Weight Steering for Training-Free VLM Hallucination Mitigation  [[PDF](https://arxiv.org/abs/2606.20419)]
+
+[arxiv 2026.06] SPOT-E: Test-Time Entropy Shaping with Visual Spotlights for Frozen VLMs  [[PDF](https://arxiv.org/abs/2606.20244)]
+
+[arxiv 2026.06] WeGenBench: A Multidimensional Diagnostic Benchmark towards Text-to-Image Model Optimization  [[PDF](https://arxiv.org/abs/2606.20100)]
+
+[arxiv 2026.06] Vision-Reasoning-Guided Occlusion Removal from Light Fields  [[PDF](https://arxiv.org/abs/2606.19985)]
+
+[arxiv 2026.06] ROSE: Benchmarking the Perception-to-Action Gap in Multimodal Models  [[PDF](https://arxiv.org/abs/2606.19965)]
+
+[arxiv 2026.06] Timage: A Generative Text-in-Image Paradigm for Fine-Tuning Vision-Language Models  [[PDF](https://arxiv.org/abs/2606.19944)]
+
+[arxiv 2026.06] CARE: Competence-Aware Reward Shaping for Adaptive Reasoning Length in Video-MLLMs  [[PDF](https://arxiv.org/abs/2606.19927)]
+
+[arxiv 2026.06] SpatialSV: Internalizing Interpretable 3D Spatial Awareness in MLLMs via Task-Oriented Visual Supervision  [[PDF](https://arxiv.org/abs/2606.19915)]
+
+[arxiv 2026.06] 3D-PLOT-LLM: Part-Level Object Tokens for 3D Large Language Models  [[PDF](https://arxiv.org/abs/2606.19828)]
+
+[arxiv 2026.06] Occ-VLM: Occupancy Grounded Vision Language Model for Indoor Scene Understanding  [[PDF](https://arxiv.org/abs/2606.19776)]
+
+[arxiv 2026.06] Exploring Multi-Modal Large Language Models and Two-Stage Fine-Tuning for Fashion Image Retrieval  [[PDF](https://arxiv.org/abs/2606.19684)]
+
+[arxiv 2026.06] Language-Instructed Vision Embeddings for Controllable and Generalizable Perception  [[PDF](https://arxiv.org/abs/2606.19584)]
+
+[arxiv 2026.06] PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models  [[PDF](https://arxiv.org/abs/2606.19534),[Page](https://github.com/MSALab-PKU/PerceptionDLM)]
+
+[arxiv 2026.06] StylisticBias: A Few Human Visual Cues Drive Most Social Biases in MLLMs  [[PDF](https://arxiv.org/abs/2606.20527)]
+
+[arxiv 2026.06] SAFE-Cascade: Cost-Adaptive Vision-Language Routing for Chart Question Answering  [[PDF](https://arxiv.org/abs/2606.19646)]
+
 [arxiv 2026.06] ARM: An AutoRegressive Large Multimodal Model with Unified Discrete Representations  [[PDF](https://arxiv.org/abs/2606.11188)]
 
 [arxiv 2026.06] P3D-Bench: Benchmarking MLLMs for Parametric 3D Generation and Structural Reasoning  [[PDF](https://arxiv.org/abs/2606.11152),[Page](https://lucasqaq.github.io/p3d/)]

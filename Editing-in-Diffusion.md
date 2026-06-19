@@ -1,5 +1,39 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-06-18 -->
+<!-- Added on 2026-06-19 -->
+[arxiv 2026.06] Thinking in Boxes: 3D Editing in Real Images Made Easy  [[PDF](https://arxiv.org/abs/2606.20556),[Page](https://thinking-in-boxes.github.io/)]
+
+[arxiv 2026.06] SSD: Spatially Speculative Decoding Accelerates Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2606.20543)]
+
+[arxiv 2026.06] The FID Lottery: Quantifying Hidden Randomness in Generative-Model Evaluation  [[PDF](https://arxiv.org/abs/2606.20536),[Page](https://kyutai.org/fid-lottery)]
+
+[arxiv 2026.06] VisDom: Sparse Novel View Synthesis with Visible Domain Constraint  [[PDF](https://arxiv.org/abs/2606.20531)]
+
+[arxiv 2026.06] FlowBender: Feedback-Aware Training for Self-Correcting Conditional Flows  [[PDF](https://arxiv.org/abs/2606.20404),[Page](https://flow-bender.github.io/)]
+
+[arxiv 2026.06] BAFIS: Dataset + Framework to assess occupational Bias and Human Preference in modern Text-to-image Models  [[PDF](https://arxiv.org/abs/2606.20241)]
+
+[arxiv 2026.06] NAMESAKES: Probing Identity Memorization in Text-to-Image Models  [[PDF](https://arxiv.org/abs/2606.20155)]
+
+[arxiv 2026.06] Geometry-Preserving in 3D Gaussian Splatting for LiDAR-Camera Extrinsic Calibration  [[PDF](https://arxiv.org/abs/2606.20103)]
+
+[arxiv 2026.06] Variable-Length Tokenization via Learnable Global Merging for Diffusion Transformers  [[PDF](https://arxiv.org/abs/2606.20076)]
+
+[arxiv 2026.06] CrossFlow: One-Step Generation Across Latent and Pixel Spaces  [[PDF](https://arxiv.org/abs/2606.19970)]
+
+[arxiv 2026.06] Addressing Detail Bottlenecks in Latent Diffusion for RGB-to-SWIR Image Translation  [[PDF](https://arxiv.org/abs/2606.19961)]
+
+[arxiv 2026.06] DiffMath: Symbol- and Graph-Aware Latent Diffusion Transformer for Handwritten Mathematical Expression Generation  [[PDF](https://arxiv.org/abs/2606.19939)]
+
+[arxiv 2026.06] Linear Recurrent Unit with Semantic Modulation for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2606.19901)]
+
+[arxiv 2026.06] Learning When to Denoise: Optimizing Asynchronous Schedules for Latent Diffusion  [[PDF](https://arxiv.org/abs/2606.19662)]
+
+[arxiv 2026.06] On the Redundancy of Timestep Embeddings in Diffusion Models  [[PDF](https://arxiv.org/abs/2606.20416)]
+
+[arxiv 2026.06] MMD-SLAM: Structure-Enhanced Multi-Meta Gaussian Distribution-Guided Visual SLAM  [[PDF](https://arxiv.org/abs/2606.19874)]
+
+[arxiv 2026.06] Flow Map Denoisers: Traversing the Distortion-Perception Plane for Inverse Problems  [[PDF](https://arxiv.org/abs/2606.19802)]
+
 [arxiv 2026.06] Mean Flow Distillation: Robust and Stable Distillation for Flow Matching Models  [[PDF](https://arxiv.org/abs/2606.11155)]
 
 [arxiv 2026.06] IDEAL: In-DEpth ALignment Makes A Discrete Representation AutoEncoder  [[PDF](https://arxiv.org/abs/2606.11096),[Page](https://github.com/Row11n/IDEAL)]
