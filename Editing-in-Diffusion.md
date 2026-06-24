@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-06-19 -->
+<!-- Added on 2026-06-24 -->
 [arxiv 2026.06] Thinking in Boxes: 3D Editing in Real Images Made Easy  [[PDF](https://arxiv.org/abs/2606.20556),[Page](https://thinking-in-boxes.github.io/)]
 
 [arxiv 2026.06] SSD: Spatially Speculative Decoding Accelerates Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2606.20543)]
@@ -86,15 +86,6 @@
 
 [arxiv 2026.05] What Linear Probes Miss: Multi-View Probing for Weight-Space Learning  [[PDF](https://arxiv.org/abs/2605.23410),[Page](https://github.com/AI-hew-math/MVProbe)]
 
-<!-- Added on 2026-05-27 -->
-<!-- Added on 2026-05-27 -->
-<!-- Added on 2026-05-27 -->
-<!-- Added on 2026-05-27 -->
-<!-- Added on 2026-05-27 -->
-<!-- Added on 2026-05-27 -->
-<!-- Added on 2026-05-27 -->
-<!-- Added on 2026-05-27 -->
-<!-- Added on 2026-05-27 -->
 
 [arxiv 2026.05] Taming Outlier Tokens in Diffusion Transformers  [[PDF](https://arxiv.org/abs/2605.05206)]
 
@@ -234,15 +225,10 @@
 
 [arxiv 2026.05] FieryGS: In-the-Wild Fire Synthesis with Physics-Integrated Gaussian Splatting  [[PDF](https://arxiv.org/abs/2605.00177)]
 
-<!-- Added on 2026-05-27 -->
 
-<!-- Added on 2026-05-27 -->
 
-<!-- Added on 2026-05-27 -->
 
-<!-- Added on 2026-05-27 -->
 
-<!-- Added on 2026-05-27 -->
 
 [arxiv 2026.04] Generalizable Sparse-View 3D Reconstruction from Unconstrained Images  [[PDF](https://arxiv.org/abs/2604.28193),[Page](https://genwildsplat.github.io/)]
 
@@ -546,8 +532,6 @@
 
 [arxiv 2026.04] Part-Level 3D Gaussian Vehicle Generation with Joint and Hinge Axis Estimation  [[PDF](https://arxiv.org/abs/2604.05070)]
 
-<!-- Added on 2026-05-27 -->
-<!-- Added on 2026-05-27 -->
 [arxiv 2026.03] ViHOI: Human-Object Interaction Synthesis with Visual Priors  [[PDF](https://arxiv.org/abs/2603.24383)]
 
 [arxiv 2026.03] InstanceRSR: Real-World Super-Resolution via Instance-Aware Representation Alignment  [[PDF](https://arxiv.org/abs/2603.24240)]
@@ -1997,7 +1981,6 @@
 
 [arxiv 2026.06] Edit3DGS: Unified Framework for Dynamic Head Editing via 2D Instruction-Guided Diffusion and 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2606.17432)]
 
-<!-- Added on 2026-06-18 -->
 [arxiv 2026.06] NeuMesh++: Towards Versatile and Efficient Volumetric Editing with Disentangled Neural Mesh-based Implicit Field  [[PDF](https://arxiv.org/abs/2606.19316),[Page](https://zju3dv.github.io/neumeshplusplus/)]
 
 [arxiv 2026.06] Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance  [[PDF](https://arxiv.org/abs/2606.19195)]
@@ -2027,6 +2010,40 @@
 [arxiv 2026.06] EDoF-NeRF: extended depth-of-field neural radiance fields using a coded aperture camera  [[PDF](https://arxiv.org/abs/2606.18826)]
 
 [arxiv 2026.06] Splaxel: Efficient Distributed Training of 3D Gaussian Splatting for Large-scale Scene Reconstruction via Pixel-level Communication  [[PDF](https://arxiv.org/abs/2606.18588)]
+
+[arxiv 2026.06] DiffusionBench: On Holistic Evaluation of Diffusion Transformers  [[PDF](https://arxiv.org/abs/2606.24888)]
+
+[arxiv 2026.06] FLAT: Feedforward Latent Triangle Splatting for Geometrically Accurate Scene Generation  [[PDF](https://arxiv.org/abs/2606.24876)]
+
+[arxiv 2026.06] FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation  [[PDF](https://arxiv.org/abs/2606.24874)]
+
+[arxiv 2026.06] Bridging the Manifold Gap: Riemannian Residual Line Search for One-Step Image Editing  [[PDF](https://arxiv.org/abs/2606.24844)]
+
+[arxiv 2026.06] High-Fidelity Synthetic Transmission Electron Microscopy Image Generation Using Diffusion Probabilistic Models for Data-Limited Semiconductor Metrology  [[PDF](https://arxiv.org/abs/2606.24817)]
+
+[arxiv 2026.06] Pocket-SLAM: Rendering-Area-Aware Pruning for Memory-Efficient 3DGS-SLAM  [[PDF](https://arxiv.org/abs/2606.24796)]
+
+[arxiv 2026.06] VSANet: View-aware Sparse Attention Network for Light Field Image Denoising  [[PDF](https://arxiv.org/abs/2606.24737)]
+
+[arxiv 2026.06] SignNet-1M: Large-Scale Multilingual Sign Language Video Dataset with Downstream Benchmarks  [[PDF](https://arxiv.org/abs/2606.24361)]
+
+[arxiv 2026.06] UniTranslator: A Unified Multi-modal Framework for End-to-end In-Image Machine Translation  [[PDF](https://arxiv.org/abs/2606.24333)]
+
+[arxiv 2026.06] MM-TRELLIS: Point-Cloud Guided Multi-Modal 3D Vehicle Generation in Autonomous Driving  [[PDF](https://arxiv.org/abs/2606.24301)]
+
+[arxiv 2026.06] 3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis  [[PDF](https://arxiv.org/abs/2606.24257)]
+
+[arxiv 2026.06] Inclusive Interactive Collisions for Multi-View Consistent Compositional 3D Generation  [[PDF](https://arxiv.org/abs/2606.24206)]
+
+[arxiv 2026.06] Geometry-Aware Style Transfer in 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2606.24144)]
+
+[arxiv 2026.06] EPEdit: Redefining Image Editing with Generative AI and User-Centric Design  [[PDF](https://arxiv.org/abs/2606.24057)]
+
+[arxiv 2026.06] Token-to-Token Alignment of Text Embeddings for Semantic Blending  [[PDF](https://arxiv.org/abs/2606.24021)]
+
+[arxiv 2026.06] DivRL: Disentangled Self-Similarity Rewards for Diverse Subject-Driven Generation  [[PDF](https://arxiv.org/abs/2606.23950),[Page](https://qianwangx.github.io/DivRL/)]
+
+[arxiv 2026.06] ArtiTwinSplat: Interactable Digital Twin Reconstruction via Gaussian Splatting from RGB-D videos  [[PDF](https://arxiv.org/abs/2606.24628)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -8183,8 +8200,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2023.04]Synthesizing Anyone, Anywhere, in Any Pose[[PDF](https://arxiv.org/abs/2304.03164)]
 
 # real-to-cg
-<!-- Added on 2026-05-27 -->
-<!-- Added on 2026-05-27 -->
 [arxiv 2026.04] EmoScene: A Dual-space Dataset for Controllable Affective Image Generation  [[PDF](https://arxiv.org/abs/2604.00933v1)]
 
 [arxiv 2026.04] MotionGrounder: Grounded Multi-Object Motion Transfer via Diffusion Transformer  [[PDF](https://arxiv.org/abs/2604.00853v1),[Page](https://kaist-viclab.github.io/motiongrounder-site/)]

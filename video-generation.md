@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-06-19 -->
+<!-- Added on 2026-06-24 -->
 [arxiv 2026.06] Through the PRISM: Preference Representation in Intermediate States of Video Diffusion Models  [[PDF](https://arxiv.org/abs/2606.20310)]
 
 [arxiv 2026.06] Cinematic Compositing Using Character-Environment-Harmonized Video Generation Models  [[PDF](https://arxiv.org/abs/2606.20233)]
@@ -44,21 +44,6 @@
 
 [arxiv 2026.05] DrawVideo: Generating Long Video from Storyboard Keyframe Sketches  [[PDF](https://arxiv.org/abs/2605.23508)]
 
-<!-- Added on 2026-06-17 -->
-<!-- Added on 2026-06-17 -->
-<!-- Added on 2026-06-17 -->
-<!-- Added on 2026-06-17 -->
-<!-- Added on 2026-06-17 -->
-<!-- Added on 2026-06-17 -->
-<!-- Added on 2026-06-17 -->
-<!-- Added on 2026-06-17 -->
-<!-- Added on 2026-06-17 -->
-<!-- Added on 2026-06-17 -->
-<!-- Added on 2026-06-17 -->
-<!-- Added on 2026-06-17 -->
-<!-- Added on 2026-06-17 -->
-<!-- Added on 2026-06-17 -->
-<!-- Added on 2026-06-17 -->
 
 [arxiv 2026.05] FaithfulFaces: Pose-Faithful Facial Identity Preservation for Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2605.04702)]
 
@@ -94,13 +79,9 @@
 
 [arxiv 2026.05] World Model for Robot Learning: A Comprehensive Survey  [[PDF](https://arxiv.org/abs/2605.00080)]
 
-<!-- Added on 2026-06-17 -->
 
-<!-- Added on 2026-06-17 -->
 
-<!-- Added on 2026-06-17 -->
 
-<!-- Added on 2026-06-17 -->
 
 [arxiv 2026.04] CurEvo: Curriculum-Guided Self-Evolution for Video Understanding  [[PDF](https://arxiv.org/abs/2604.26707)]
 
@@ -172,13 +153,6 @@
 
 [arxiv 2026.04] Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding  [[PDF](https://arxiv.org/abs/2604.05015),[Page](https://video-mme-v2.netlify.app/)]
 
-<!-- Added on 2026-06-17 -->
-<!-- Added on 2026-06-17 -->
-<!-- Added on 2026-06-17 -->
-<!-- Added on 2026-06-17 -->
-<!-- Added on 2026-06-17 -->
-<!-- Added on 2026-06-17 -->
-<!-- Added on 2026-06-17 -->
 [arxiv 2026.04] ONE-SHOT: Compositional Human-Environment Video Synthesis via Spatial-Decoupled Motion Injection and Hybrid Context Integration  [[PDF](https://arxiv.org/abs/2604.01043v1),[Page](https://martayang.github.io/ONE-SHOT/)]
 
 [arxiv 2026.04] TRACE: High-Fidelity 3D Scene Editing via Tangible Reconstruction and Geometry-Aligned Contextual Video Masking  [[PDF](https://arxiv.org/abs/2604.01207v1)]
@@ -1003,7 +977,6 @@ A reading list of video generation
 
 [arxiv 2026.06] Pulling The REINS: Training-Free Safety Alignment of Video Diffusion Models via Representation Steering  [[PDF](https://arxiv.org/abs/2606.17257)]
 
-<!-- Added on 2026-06-18 -->
 [arxiv 2026.06] UniTemp: Unlocking Video Generation in Any Temporal Order via Bidirectional Distillation  [[PDF](https://arxiv.org/abs/2606.18702)]
 
 [arxiv 2026.06] Bridging Creative Intent and Visual Quality: Creator-Driven Recurrent Video Generation with Agentic Feedback Loops  [[PDF](https://arxiv.org/abs/2606.18591)]
@@ -1011,6 +984,20 @@ A reading list of video generation
 [arxiv 2026.06] Data-Forcing Distillation: Restoring Diversity and Fidelity in Few-Step Video Generation  [[PDF](https://arxiv.org/abs/2606.18478)]
 
 [arxiv 2026.06] SC3-Eval: Evaluating Robot Foundation Models via Self-Consistent Video Generation  [[PDF](https://arxiv.org/abs/2606.18610)]
+
+[arxiv 2026.06] GeoT2V-Bench: Benchmarking 3D Consistency in Text-to-Video Models via 3D Reconstruction  [[PDF](https://arxiv.org/abs/2606.24829)]
+
+[arxiv 2026.06] OrbitForge: Text-to-3D Scene Generation via Reconstruction-Anchored Video Synthesis  [[PDF](https://arxiv.org/abs/2606.24799)]
+
+[arxiv 2026.06] video-SALMONN-R$^3$: Learning to ReWatch, ReAsk, and ReAnswer for Efficient Video Understanding  [[PDF](https://arxiv.org/abs/2606.24477)]
+
+[arxiv 2026.06] Geometry-Instructed Video Editing  [[PDF](https://arxiv.org/abs/2606.24225)]
+
+[arxiv 2026.06] Towards Fast and Effective Long Video Understanding of Multimodal Large Language Models via Adaptive Quasi-Gaussian Sampling  [[PDF](https://arxiv.org/abs/2606.24187)]
+
+[arxiv 2026.06] Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation  [[PDF](https://arxiv.org/abs/2606.23743)]
+
+[arxiv 2026.06] AVOC: Enhancing Hour-Level Audio-Video Understanding in Omni-Modal LLMs via Retrieval-Inspired Token Compression  [[PDF](https://arxiv.org/abs/2606.24286)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

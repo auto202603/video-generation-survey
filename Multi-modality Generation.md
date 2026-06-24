@@ -1,4 +1,4 @@
-<!-- Added on 2026-06-19 -->
+<!-- Added on 2026-06-24 -->
 [arxiv 2026.06] TimeProVe: Propose, then Verify for Efficient Long Video Temporal Reasoning in Activities of Daily Living  [[PDF](https://arxiv.org/abs/2606.20561)]
 
 [arxiv 2026.06] Spectral Query-Key Product Weight Steering for Training-Free VLM Hallucination Mitigation  [[PDF](https://arxiv.org/abs/2606.20419)]
@@ -79,13 +79,6 @@
 
 [arxiv 2026.05] Debiased Negative Mining Improves Out-of-distribution Detection with Pre-trained Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.23797)]
 
-<!-- Added on 2026-05-27 -->
-<!-- Added on 2026-05-27 -->
-<!-- Added on 2026-05-27 -->
-<!-- Added on 2026-05-27 -->
-<!-- Added on 2026-05-27 -->
-<!-- Added on 2026-05-27 -->
-<!-- Added on 2026-05-27 -->
 
 [arxiv 2026.05] OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents  [[PDF](https://arxiv.org/abs/2605.05185),[Page](https://github.com/shawn0728/OpenSearch-VL)]
 
@@ -231,15 +224,10 @@
 
 [arxiv 2026.05] Prompt-Induced Score Variance in Zero-Shot Binary Vision-Language Safety Classification  [[PDF](https://arxiv.org/abs/2605.00326)]
 
-<!-- Added on 2026-05-27 -->
 
-<!-- Added on 2026-05-27 -->
 
-<!-- Added on 2026-05-27 -->
 
-<!-- Added on 2026-05-27 -->
 
-<!-- Added on 2026-05-27 -->
 
 [arxiv 2026.04] AEGIS: A Holistic Benchmark for Evaluating Forensic Analysis of AI-Generated Academic Images  [[PDF](https://arxiv.org/abs/2604.28177)]
 
@@ -617,9 +605,6 @@
 
 [arxiv 2026.04] Evaluation of Embedding-Based and Generative Methods for LLM-Driven Document Classification: Opportunities and Challenges  [[PDF](https://arxiv.org/abs/2604.04997)]
 
-<!-- Added on 2026-05-27 -->
-<!-- Added on 2026-05-27 -->
-<!-- Added on 2026-05-27 -->
 [arxiv 2026.04] Benchmarking and Mechanistic Analysis of Vision-Language Models for Cross-Depiction Assembly Instruction Alignment  [[PDF](https://arxiv.org/abs/2604.00913v1),[Page](https://ryenhails.github.io/IKEA-Bench/)]
 
 [arxiv 2026.04] Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding  [[PDF](https://arxiv.org/abs/2604.00528v1)]
@@ -2854,7 +2839,6 @@
 
 [arxiv 2026.06] ProCUA-SFT Technical Report  [[PDF](https://arxiv.org/abs/2606.17321)]
 
-<!-- Added on 2026-06-18 -->
 [arxiv 2026.06] Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games  [[PDF](https://arxiv.org/abs/2606.19338)]
 
 [arxiv 2026.06] A Multi-Domain Benchmark for Detecting AI-Generated Text-Rich Images from GPT-Image-2  [[PDF](https://arxiv.org/abs/2606.19259)]
@@ -2892,6 +2876,64 @@
 [arxiv 2026.06] Seeing Before Reasoning: Decoupling Perception and Reasoning for Shortcut-Resilient Multimodal On-Policy Self-Distillation  [[PDF](https://arxiv.org/abs/2606.19120)]
 
 [arxiv 2026.06] Semantic Robustness Certification for Vision-Language Models  [[PDF](https://arxiv.org/abs/2606.18839)]
+
+[arxiv 2026.06] IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2606.24849)]
+
+[arxiv 2026.06] EG-VQA: Benchmarking Verifiable Video Question Answering with Grounded Temporal Evidence  [[PDF](https://arxiv.org/abs/2606.24797)]
+
+[arxiv 2026.06] UniDrive: A Unified Vision-Language and Grounding Framework for Interpretable Risk Understanding in Autonomous Driving  [[PDF](https://arxiv.org/abs/2606.24759)]
+
+[arxiv 2026.06] SER: Learning to Ground Video Reasoning with Semantic Evidence Rewards  [[PDF](https://arxiv.org/abs/2606.24726)]
+
+[arxiv 2026.06] Evaluating the Interpretability of Sparse Autoencoders with Concept Annotations  [[PDF](https://arxiv.org/abs/2606.24716)]
+
+[arxiv 2026.06] Agentic Collaborative Cognition for Zero-Shot 3D Understanding  [[PDF](https://arxiv.org/abs/2606.24649),[Page](https://zhangbo135.github.io/agentic-collaborative-cognition/)]
+
+[arxiv 2026.06] ViTexQA: A Multi-Frame Temporal Perception Dataset for Video Text Question Answering  [[PDF](https://arxiv.org/abs/2606.24602)]
+
+[arxiv 2026.06] Are Text-to-Image Models Inductivist Turkeys? A Counterfactual Benchmark for Causal Reasoning  [[PDF](https://arxiv.org/abs/2606.24548),[Page](https://github.com/jylei16/CF-World.github.io)]
+
+[arxiv 2026.06] PointVG-R: Internalizing Geometric Reasoning in MLLMs for Precise Pointing Localization via Visual Chain of Thought  [[PDF](https://arxiv.org/abs/2606.24539)]
+
+[arxiv 2026.06] ForensicsTok: Forensics-Guided Tokenized Modeling for Image Tampering Localization  [[PDF](https://arxiv.org/abs/2606.24538)]
+
+[arxiv 2026.06] VisCritic: Visual State Comparison as Process Reward for GUI Agents  [[PDF](https://arxiv.org/abs/2606.24525)]
+
+[arxiv 2026.06] Advancing WordArt-Oriented Scene Text Recognition: Datasets and Methods  [[PDF](https://arxiv.org/abs/2606.24484)]
+
+[arxiv 2026.06] P-MTP: Efficient Document Parsing via Multi-Token Prediction with Progressive Depth Scaling  [[PDF](https://arxiv.org/abs/2606.24447)]
+
+[arxiv 2026.06] EgoSAT: A Comprehensive Benchmark of Egocentric Streaming Interaction Understanding  [[PDF](https://arxiv.org/abs/2606.24422),[Page](https://leiyj23.github.io/EgoSAT/)]
+
+[arxiv 2026.06] Open-Vocabulary BEV Segmentation with 3D-Aware Geometric Constraints  [[PDF](https://arxiv.org/abs/2606.24353)]
+
+[arxiv 2026.06] Ill-Posed by Design: Probing Evidence Use in VLMs  [[PDF](https://arxiv.org/abs/2606.24335)]
+
+[arxiv 2026.06] ActiveScope: Actively Seeking and Correcting Perception for MLLMs  [[PDF](https://arxiv.org/abs/2606.24292)]
+
+[arxiv 2026.06] Latent Visual States for Efficient Multimodal Reasoning  [[PDF](https://arxiv.org/abs/2606.24233)]
+
+[arxiv 2026.06] Spectral Evolution-Guided Token Pruning in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2606.24165)]
+
+[arxiv 2026.06] Accelerating Multimodal Large Language Models with Prior-Corrected Token Reduction  [[PDF](https://arxiv.org/abs/2606.24156)]
+
+[arxiv 2026.06] An LMM for Precisely Grounding Elements in Documents  [[PDF](https://arxiv.org/abs/2606.24118)]
+
+[arxiv 2026.06] VisChronos: Revolutionizing Image Captioning Through Real-Life Events  [[PDF](https://arxiv.org/abs/2606.24058)]
+
+[arxiv 2026.06] DriveStack-VLA: Render-Teacher Alignment for BEV-Based DeepStack Vision-Language-Action Model  [[PDF](https://arxiv.org/abs/2606.24051)]
+
+[arxiv 2026.06] Trustworthy Image Authentication using Forensic Knowledge Graphs  [[PDF](https://arxiv.org/abs/2606.23917)]
+
+[arxiv 2026.06] The Professor: Multi-Teacher Unsupervised Prompt Distillation for Vision-Language Models  [[PDF](https://arxiv.org/abs/2606.23897)]
+
+[arxiv 2026.06] REALM: A Unified Red-Teaming Benchmark for Physical-World VLMs  [[PDF](https://arxiv.org/abs/2606.23892)]
+
+[arxiv 2026.06] Mind the Heads: Topological Representation Alignment for Multimodal LLMs  [[PDF](https://arxiv.org/abs/2606.23885)]
+
+[arxiv 2026.06] HANCLIP: A Family of Hyperbolic Angular Negation Vision Language Models  [[PDF](https://arxiv.org/abs/2606.23843)]
+
+[arxiv 2026.06] Ground Then Rank: Revisiting Knowledge-Based VQA with Training-Free Entity Identification  [[PDF](https://arxiv.org/abs/2606.23881),[Page](https://github.com/VAN-QIAN/ACL26-IBA/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

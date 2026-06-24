@@ -1,5 +1,5 @@
 ## Dataset
-<!-- Added on 2026-06-19 -->
+<!-- Added on 2026-06-24 -->
 [arxiv 2026.06] CalTennis: Large Multi-View Tennis Video Dataset and Benchmark of Monocular-to-3D Pose Estimation  [[PDF](https://arxiv.org/abs/2606.20542)]
 
 [arxiv 2026.06] One-Shot Novel View and Pose Human Image Synthesis via 3D Prior Guided Diffusion Model  [[PDF](https://arxiv.org/abs/2606.19718)]
@@ -12,12 +12,6 @@
 
 [arxiv 2026.05] Suicide Risk Assessment from AI-powered Video Surveillance: An Interpretable Framework for Prevention in Metro Stations  [[PDF](https://arxiv.org/abs/2605.22904)]
 
-<!-- Added on 2026-05-27 -->
-<!-- Added on 2026-05-27 -->
-<!-- Added on 2026-05-27 -->
-<!-- Added on 2026-05-27 -->
-<!-- Added on 2026-05-27 -->
-<!-- Added on 2026-05-27 -->
 
 [arxiv 2026.05] Syn4D: A Multiview Synthetic 4D Dataset  [[PDF](https://arxiv.org/abs/2605.05207),[Page](https://jzr99.github.io/Syn4D/)]
 
@@ -45,15 +39,10 @@
 
 [arxiv 2026.05] MAEPose: Self-Supervised Spatiotemporal Learning for Human Pose Estimation on mmWave Video  [[PDF](https://arxiv.org/abs/2605.00242)]
 
-<!-- Added on 2026-05-27 -->
 
-<!-- Added on 2026-05-27 -->
 
-<!-- Added on 2026-05-27 -->
 
-<!-- Added on 2026-05-27 -->
 
-<!-- Added on 2026-05-27 -->
 
 [arxiv 2026.04] Action Motifs: Self-Supervised Hierarchical Representation of Human Body Movements  [[PDF](https://arxiv.org/abs/2604.28173)]
 
@@ -125,7 +114,6 @@
 
 [arxiv 2026.04] Human Interaction-Aware 3D Reconstruction from a Single Image  [[PDF](https://arxiv.org/abs/2604.05436)]
 
-<!-- Added on 2026-05-27 -->
 [arxiv 2026.03] HandX: Scaling Bimanual Motion and Interaction Generation  [[PDF](https://arxiv.org/abs/2603.28766)]
 
 [arxiv 2026.03] PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models  [[PDF](https://arxiv.org/abs/2603.28763)]
@@ -142,7 +130,6 @@
 
 [arxiv 2026.03] Uncertainty-Aware Mapping from 3D Keypoints to Anatomical Landmarks for Markerless Biomechanics  [[PDF](https://arxiv.org/abs/2603.26844)]
 
-<!-- Added on 2026-05-27 -->
 [arxiv 2026.03] B-MoE: A Body-Part-Aware Mixture-of-Experts "All Parts Matter" Approach to Micro-Action Recognition  [[PDF](https://arxiv.org/abs/2603.24245)]
 
 [arxiv 2026.03] ViHOI: Human-Object Interaction Synthesis with Visual Priors  [[PDF](https://arxiv.org/abs/2603.24383)]
@@ -465,10 +452,13 @@
 
 [arxiv 2026.06] C-MambaPose: A Physics-Informed Complex Mamba Framework for Cross-Environment WiFi Human Pose Estimation  [[PDF](https://arxiv.org/abs/2606.13700)]
 
-<!-- Added on 2026-06-18 -->
 [arxiv 2026.06] Hand-4DGS: Feed-Forward 3D Gaussian Splatting for 4D Hand Reconstruction from Egocentric Videos  [[PDF](https://arxiv.org/abs/2606.19156),[Page](https://jeongminb.github.io/hand-4dgs/)]
 
 [arxiv 2026.06] Seeing Through Occlusion: Deterministic Arm Kinematic Correction for Robot Teleoperation  [[PDF](https://arxiv.org/abs/2606.19240)]
+
+[arxiv 2026.06] Social Structure Matters in 3D Human-Human Interaction Generation  [[PDF](https://arxiv.org/abs/2606.24255)]
+
+[arxiv 2026.06] FiCA: Feed-forward instant Gaussian Codec Avatars from a Single Portrait Image  [[PDF](https://arxiv.org/abs/2606.24232),[Page](https://kim-youwang.github.io/FiCA)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -779,9 +769,6 @@
 
 
 # ego
-<!-- Added on 2026-05-27 -->
-<!-- Added on 2026-05-27 -->
-<!-- Added on 2026-05-27 -->
 [arxiv 2025.04]  The Invisible EgoHand: 3D Hand Forecasting through EgoBody Pose Estimation [[PDF](https://arxiv.org/abs/2504.08654),[Page](https://masashi-hatano.github.io/EgoH4/)] ![Code](https://img.shields.io/github/stars/masashi-hatano/EgoH4?style=social&label=Star)
 
 [arxiv 2026.04] CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator  [[PDF](https://arxiv.org/abs/2604.03156v1)]
@@ -800,8 +787,6 @@
 
 
 # LLM 
-<!-- Added on 2026-05-27 -->
-<!-- Added on 2026-05-27 -->
 [arxiv 2026.04] Sparkle: A Robust and Versatile Representation for Point Cloud based Human Motion Capture  [[PDF](https://arxiv.org/abs/2604.00857v1)]
 
 [arxiv 2026.04] PrivHAR-Bench: A Graduated Privacy Benchmark Dataset for Video-Based Action Recognition  [[PDF](https://arxiv.org/abs/2604.00761v1)]
