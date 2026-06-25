@@ -2934,6 +2934,29 @@
 [arxiv 2026.06] HANCLIP: A Family of Hyperbolic Angular Negation Vision Language Models  [[PDF](https://arxiv.org/abs/2606.23843)]
 
 [arxiv 2026.06] Ground Then Rank: Revisiting Knowledge-Based VQA with Training-Free Entity Identification  [[PDF](https://arxiv.org/abs/2606.23881),[Page](https://github.com/VAN-QIAN/ACL26-IBA/)]
+[arxiv 2026.06] How Robust is OCR-Reasoning? Evaluating OCR-Reasoning Robustness of Vision-Language Models under Visual Perturbations  [[PDF](https://arxiv.org/abs/2606.26041)]
+[arxiv 2026.06] TriViewBench: Controlled Complexity Scaling for Multi-View Structural Reasoning in MLLMs  [[PDF](https://arxiv.org/abs/2606.26029)]
+[arxiv 2026.06] OracleAnalyser: Analysing Implicit Semantics of Oracle Bone Scripts through MLLMs with Post-training  [[PDF](https://arxiv.org/abs/2606.25906)]
+[arxiv 2026.06] USS: Unified Spatial-Semantic Prompts for Embodied Visual Tracking with Latent Dynamics Learning  [[PDF](https://arxiv.org/abs/2606.25880)]
+[arxiv 2026.06] Graph it first! Enabling Reasoning on Long-form Egocentric Videos through Scene Graphs  [[PDF](https://arxiv.org/abs/2606.25842)]
+[arxiv 2026.06] Edges Before Embeddings: A Confidence-Aware Blur Gate for Vision-Language Pipelines  [[PDF](https://arxiv.org/abs/2606.25838)]
+[arxiv 2026.06] ShutterMuse: Capture-Time Photography Guidance with MLLMs  [[PDF](https://arxiv.org/abs/2606.25763),[Page](https://lijayutnt.github.io/ShutterMuse)]
+[arxiv 2026.06] Dual Distribution Estimation for Zero-shot Noisy Test-Time Adaptation with VLMs  [[PDF](https://arxiv.org/abs/2606.25758),[Page](https://zhuwenjie98.github.io/DDE-project-page/)]
+[arxiv 2026.06] Falcon: Functional Assembly and Language for Compositional Reasoning in X-ray  [[PDF](https://arxiv.org/abs/2606.25701),[Page](https://yonathan-kiflom.github.io/FALCON/page/)]
+[arxiv 2026.06] Steering Vision-Language Models with Joint Sparse Autoencoders  [[PDF](https://arxiv.org/abs/2606.25657)]
+[arxiv 2026.06] SSMNBench: Diagnosing Image-based Cross-View Human-Object Understanding via Single-View Sufficiency and Multi-View Necessity  [[PDF](https://arxiv.org/abs/2606.25634),[Page](https://github.com/gtc-gh/SSMNBench)]
+[arxiv 2026.06] FeVOS: Foresight Expression Video Object Segmentation  [[PDF](https://arxiv.org/abs/2606.25585),[Page](https://henghuiding.com/FeVOS/)]
+[arxiv 2026.06] Invoice Haystack: Benchmarking Document Retrieval and Visual Question Answering Under Strong Visual Homogeneity  [[PDF](https://arxiv.org/abs/2606.25343)]
+[arxiv 2026.06] V-Zero: Answer-Label-Free On-Policy Distillation with Contrastive Evidence Gating for Fine-Grained Visual Reasoning  [[PDF](https://arxiv.org/abs/2606.25319)]
+[arxiv 2026.06] Are We There Yet? Exploring the Capabilities of MLLMs in Assistive AI Applications  [[PDF](https://arxiv.org/abs/2606.25084)]
+[arxiv 2026.06] Yuvion VL: A Multimodal Foundation Model for Adversarial Content and AI Safety  [[PDF](https://arxiv.org/abs/2606.25034)]
+[arxiv 2026.06] Curvature-Guided Mixing for MLLM Adaptation  [[PDF](https://arxiv.org/abs/2606.24963)]
+[arxiv 2026.06] Learning Action Priors for Cross-embodiment Robot Manipulation  [[PDF](https://arxiv.org/abs/2606.26095)]
+[arxiv 2026.06] Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2606.26079)]
+[arxiv 2026.06] Uncertainty Quantification for Computer-Use Agents: A Benchmark across Vision-Language Models and GUI Grounding Datasets  [[PDF](https://arxiv.org/abs/2606.25760)]
+[arxiv 2026.06] Toward Low-Latency Vision-Language Models with Doubly-Correct Predictions in Egocentric Visual Understanding  [[PDF](https://arxiv.org/abs/2606.25160)]
+[arxiv 2026.06] Do vision-language models search like humans? Reasoning tokens as a reaction-time analog in classic visual-search paradigms  [[PDF](https://arxiv.org/abs/2606.25066)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

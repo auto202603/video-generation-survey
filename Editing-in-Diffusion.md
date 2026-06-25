@@ -2044,6 +2044,15 @@
 [arxiv 2026.06] DivRL: Disentangled Self-Similarity Rewards for Diverse Subject-Driven Generation  [[PDF](https://arxiv.org/abs/2606.23950),[Page](https://qianwangx.github.io/DivRL/)]
 
 [arxiv 2026.06] ArtiTwinSplat: Interactable Digital Twin Reconstruction via Gaussian Splatting from RGB-D videos  [[PDF](https://arxiv.org/abs/2606.24628)]
+[arxiv 2026.06] MIMFlow: Integrating Masked Image Modeling with Normalizing Flows for End-to-End Image Generation  [[PDF](https://arxiv.org/abs/2606.26016)]
+[arxiv 2026.06] From Sparse and Imperfect 2D Anchors to Consistent 3D Gaussian Street Scenes: Support-Aware Appearance  [[PDF](https://arxiv.org/abs/2606.26007)]
+[arxiv 2026.06] Shift Variant Image Degradation and Restoration Using Singular Value Decomposition  [[PDF](https://arxiv.org/abs/2606.25818)]
+[arxiv 2026.06] H-Adapter: Pose-Robust Hairstyle Transfer via Attention-Derived, Source-Aligned Hair Masks  [[PDF](https://arxiv.org/abs/2606.25578),[Page](https://sanghunpark.github.io/hadapter_page/)]
+[arxiv 2026.06] Gastroendoscopy View Synthesis: A New Real Dataset and Evaluation  [[PDF](https://arxiv.org/abs/2606.25427),[Page](http://www.ok.sc.e.titech.ac.jp/res/GastroNVS/GastroGS/)]
+[arxiv 2026.06] Minimalist Preprocessing Approach for Image Synthesis Detection  [[PDF](https://arxiv.org/abs/2606.25297)]
+[arxiv 2026.06] Cross-Modality Structural Guidance in 3D Latent Diffusion for Robust FLAIR Super-Resolution  [[PDF](https://arxiv.org/abs/2606.25255)]
+[arxiv 2026.06] Structuring Sparsity: Block-Sparse Featurizers Capture Visual Concept Manifolds  [[PDF](https://arxiv.org/abs/2606.25234)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

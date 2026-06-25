@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-06-24 -->
+<!-- Added on 2026-06-25 -->
 [arxiv 2026.06] Through the PRISM: Preference Representation in Intermediate States of Video Diffusion Models  [[PDF](https://arxiv.org/abs/2606.20310)]
 
 [arxiv 2026.06] Cinematic Compositing Using Character-Environment-Harmonized Video Generation Models  [[PDF](https://arxiv.org/abs/2606.20233)]
@@ -998,6 +998,13 @@ A reading list of video generation
 [arxiv 2026.06] Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation  [[PDF](https://arxiv.org/abs/2606.23743)]
 
 [arxiv 2026.06] AVOC: Enhancing Hour-Level Audio-Video Understanding in Omni-Modal LLMs via Retrieval-Inspired Token Compression  [[PDF](https://arxiv.org/abs/2606.24286)]
+[arxiv 2026.06] MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation  [[PDF](https://arxiv.org/abs/2606.26087),[Page](https://cvlab-kaist.github.io/MVTrack4Gen/)]
+[arxiv 2026.06] DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation  [[PDF](https://arxiv.org/abs/2606.26058)]
+[arxiv 2026.06] Towards a Dynamic and Fixed-budget Memory Bank for Efficient Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2606.25658)]
+[arxiv 2026.06] VPA-Guard: Defending and Benchmarking Image-to-Video Generation Against Visual Prompt Attacks  [[PDF](https://arxiv.org/abs/2606.25592),[Page](https://huggingface.co/datasets/CSU-JPG/VVA-Bench)]
+[arxiv 2026.06] Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models  [[PDF](https://arxiv.org/abs/2606.25473)]
+[arxiv 2026.06] Physics Question Scene Graph: Fine-grained Evaluation of Physical Plausibility in Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2606.25306),[Page](https://github.com/atinpothiraj/pqsg)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
