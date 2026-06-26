@@ -1,5 +1,21 @@
 # Video Generation Survey
-<!-- Added on 2026-06-25 -->
+<!-- Added on 2026-06-26 -->
+[arxiv 2026.06] PhysiFormer: Learning to Simulate Mechanics in World Space  [[PDF](https://arxiv.org/abs/2606.27364),[Page](https://yimingc9.github.io/physiformer)]
+
+[arxiv 2026.06] RayPE: Ray-Space Positional Encoding for 3D-Aware Video Generation  [[PDF](https://arxiv.org/abs/2606.27345)]
+
+[arxiv 2026.06] HarmVideoBench: Benchmarking Harmful Video Understanding in Large Multimodal Models  [[PDF](https://arxiv.org/abs/2606.27187)]
+
+[arxiv 2026.06] PhysRAG: Enhancing Physics-Awareness in Video Generation via Retrieval-Augmented Generation  [[PDF](https://arxiv.org/abs/2606.26916)]
+
+[arxiv 2026.06] Confidence-Aware Tool Orchestration for Robust Video Understanding  [[PDF](https://arxiv.org/abs/2606.26904),[Page](https://rova-v2.github.io/)]
+
+[arxiv 2026.06] NaviCache: Test-Time Self-Calibration Caching for Video Generation  [[PDF](https://arxiv.org/abs/2606.26795)]
+
+[arxiv 2026.06] ProtoKV: Streaming Video Understanding under Delayed Query with Summary-State Memory  [[PDF](https://arxiv.org/abs/2606.26762)]
+
+[arxiv 2026.06] LiveEdit: Towards Real-Time Diffusion-Based Streaming Video Editing  [[PDF](https://arxiv.org/abs/2606.26740),[Page](https://live-edit.github.io)]
+
 [arxiv 2026.06] Through the PRISM: Preference Representation in Intermediate States of Video Diffusion Models  [[PDF](https://arxiv.org/abs/2606.20310)]
 
 [arxiv 2026.06] Cinematic Compositing Using Character-Environment-Harmonized Video Generation Models  [[PDF](https://arxiv.org/abs/2606.20233)]

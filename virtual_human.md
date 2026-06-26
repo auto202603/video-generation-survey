@@ -1,5 +1,13 @@
 ## Dataset
-<!-- Added on 2026-06-24 -->
+<!-- Added on 2026-06-26 -->
+[arxiv 2026.06] Identifying the Unknown: Prompt-Free Open Vocabulary Anomaly Recognition for Robot-Object Interaction  [[PDF](https://arxiv.org/abs/2606.26829)]
+
+[arxiv 2026.06] PressMimic: Pressure-Guided Motion Capture and Control for Humanoid Robot Imitation  [[PDF](https://arxiv.org/abs/2606.26741)]
+
+[arxiv 2026.06] DanceDuo: Bridging Human Movement and AI Choreography  [[PDF](https://arxiv.org/abs/2606.26507)]
+
+[arxiv 2026.06] TaskNPoint: How to Teach Your Humanoid to Hit a Backhand in Minutes  [[PDF](https://arxiv.org/abs/2606.26215)]
+
 [arxiv 2026.06] CalTennis: Large Multi-View Tennis Video Dataset and Benchmark of Monocular-to-3D Pose Estimation  [[PDF](https://arxiv.org/abs/2606.20542)]
 
 [arxiv 2026.06] One-Shot Novel View and Pose Human Image Synthesis via 3D Prior Guided Diffusion Model  [[PDF](https://arxiv.org/abs/2606.19718)]

@@ -1,5 +1,43 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-06-24 -->
+<!-- Added on 2026-06-26 -->
+[arxiv 2026.06] DanceOPD: On-Policy Generative Field Distillation  [[PDF](https://arxiv.org/abs/2606.27377),[Page](https://danceopd.github.io/)]
+
+[arxiv 2026.06] Don&#39;t Settle at the Mode! Mitigating Diversity Collapse in Pretrained Flow Models via Feature Self-Guidance  [[PDF](https://arxiv.org/abs/2606.27371),[Page](https://dont-settle-at-the-mode.github.io/)]
+
+[arxiv 2026.06] RoPEMover: Depth-Aware Object Relocation via Positional Embeddings  [[PDF](https://arxiv.org/abs/2606.27332)]
+
+[arxiv 2026.06] Sculpting NeRF Geometry: Human-Preference Fine-Tuning of a 3D-Aware Face GAN  [[PDF](https://arxiv.org/abs/2606.27305)]
+
+[arxiv 2026.06] Safe Autoregressive Image Generation with Iterative Self-Improving Codebooks  [[PDF](https://arxiv.org/abs/2606.27147)]
+
+[arxiv 2026.06] TMP: Tree-structured Mixed-policy Pruning for Large-scale Image Generation and Editing  [[PDF](https://arxiv.org/abs/2606.27089)]
+
+[arxiv 2026.06] PanoImager: Geometry-Guided Novel View Synthesis and Reconstruction from Sparse Panoramic Views  [[PDF](https://arxiv.org/abs/2606.27071)]
+
+[arxiv 2026.06] Scaling Multi-Reference Image Generation with Dynamic Reward Optimization  [[PDF](https://arxiv.org/abs/2606.26947)]
+
+[arxiv 2026.06] PortraitGen: Exemplar-Driven GRPO with Dual-Reward Guidance for Photorealistic Portrait Generation  [[PDF](https://arxiv.org/abs/2606.26930)]
+
+[arxiv 2026.06] Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation  [[PDF](https://arxiv.org/abs/2606.26907)]
+
+[arxiv 2026.06] SpatialFlow-GRPO: Where Spatial Credit Drives Image Editing  [[PDF](https://arxiv.org/abs/2606.26872)]
+
+[arxiv 2026.06] LearniBridge: Learnable Calibration of Feature Caching for Diffusion Models Acceleration  [[PDF](https://arxiv.org/abs/2606.26778)]
+
+[arxiv 2026.06] Capacity-Controlled Multi-View Stylization of 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2606.26754),[Page](https://vcc2310.github.io/SceneStyler/)]
+
+[arxiv 2026.06] Do Image Editing Models Understand Lighting?  [[PDF](https://arxiv.org/abs/2606.26738)]
+
+[arxiv 2026.06] TaskTok: Delving into Task Tokens for Task-driven Image Restoration  [[PDF](https://arxiv.org/abs/2606.26615)]
+
+[arxiv 2026.06] LogicIR: Logic Gate Networks for Image Restoration  [[PDF](https://arxiv.org/abs/2606.26609)]
+
+[arxiv 2026.06] PhyEditBench: A Real-World Multi-Stage Benchmark for Physics-Aware Image Editing  [[PDF](https://arxiv.org/abs/2606.26551)]
+
+[arxiv 2026.06] LCG: Long-Context Consistent Image Generation with Sparse Relational Attention  [[PDF](https://arxiv.org/abs/2606.26171)]
+
+[arxiv 2026.06] ResilPhase: Plug-and-Play Phase Mapping and Noise-Resilient Macro-Trajectory Extrapolation for Diffusion Acceleration  [[PDF](https://arxiv.org/abs/2606.26769)]
+
 [arxiv 2026.06] Thinking in Boxes: 3D Editing in Real Images Made Easy  [[PDF](https://arxiv.org/abs/2606.20556),[Page](https://thinking-in-boxes.github.io/)]
 
 [arxiv 2026.06] SSD: Spatially Speculative Decoding Accelerates Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2606.20543)]

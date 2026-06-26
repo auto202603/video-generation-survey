@@ -1,4 +1,28 @@
-<!-- Added on 2026-06-24 -->
+<!-- Added on 2026-06-26 -->
+[arxiv 2026.06] Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards  [[PDF](https://arxiv.org/abs/2606.27376)]
+
+[arxiv 2026.06] Paying More Attention to Visual Tokens in Self-Evolving Large Multimodal Models  [[PDF](https://arxiv.org/abs/2606.27373)]
+
+[arxiv 2026.06] Event-Aware Instructed Assistant for Referring Video Segmentation  [[PDF](https://arxiv.org/abs/2606.26994)]
+
+[arxiv 2026.06] ReasonCLIP-58M: Visually Grounded Commonsense Reasoning Supervision for CLIP  [[PDF](https://arxiv.org/abs/2606.26794)]
+
+[arxiv 2026.06] Position Rebinding Cache Reuse: Replay-Free Visual Revisiting for Interleaved Multimodal Reasoning  [[PDF](https://arxiv.org/abs/2606.26631)]
+
+[arxiv 2026.06] DiCoBench: Benchmarking Multi-Image Fine-Grained Perception via Differential and Commonality Visual Cues  [[PDF](https://arxiv.org/abs/2606.26602),[Page](https://github.com/PKU-ICST-MIPL/DICO_Bench_ECCV2026)]
+
+[arxiv 2026.06] Staying VIGILant: Mitigating Visual Laziness via Counterfactual Visual Alignment in MLLMs  [[PDF](https://arxiv.org/abs/2606.26387)]
+
+[arxiv 2026.06] GeMoE: Gating Entropy is All You Need for Uncertainty-aware Adaptive Routing in MoE-based Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2606.26287)]
+
+[arxiv 2026.06] DocArena: Turning Raw Documents into Controllable Training Environments for Document Search Agents  [[PDF](https://arxiv.org/abs/2606.26122)]
+
+[arxiv 2026.06] Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning  [[PDF](https://arxiv.org/abs/2606.27330)]
+
+[arxiv 2026.06] WatchAct: A Benchmark for Behavior-Grounded Robot Manipulation  [[PDF](https://arxiv.org/abs/2606.26443)]
+
+[arxiv 2026.06] From Structure to Synergy: A Survey of Vision-Language Perception Paradigm Evolution in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2606.26196)]
+
 [arxiv 2026.06] TimeProVe: Propose, then Verify for Efficient Long Video Temporal Reasoning in Activities of Daily Living  [[PDF](https://arxiv.org/abs/2606.20561)]
 
 [arxiv 2026.06] Spectral Query-Key Product Weight Steering for Training-Free VLM Hallucination Mitigation  [[PDF](https://arxiv.org/abs/2606.20419)]
