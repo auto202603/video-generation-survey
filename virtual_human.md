@@ -468,6 +468,20 @@
 
 [arxiv 2026.06] FiCA: Feed-forward instant Gaussian Codec Avatars from a Single Portrait Image  [[PDF](https://arxiv.org/abs/2606.24232),[Page](https://kim-youwang.github.io/FiCA)]
 
+[arxiv 2026.06] EMOSH: Expressive Motion and Shape Disentanglement for Human Animation  [[PDF](https://arxiv.org/abs/2606.28026),[Page](https://eastbeanzhang.github.io/EMOSH/)]
+
+[arxiv 2026.06] HumanMoveVQA: Can Video MLLMs reason about human movement in videos?  [[PDF](https://arxiv.org/abs/2606.27999)]
+
+[arxiv 2026.06] Directing the World: Fast Autoregressive Video Generation with Compositional Human-Camera Control  [[PDF](https://arxiv.org/abs/2606.27964)]
+
+[arxiv 2026.06] Every Step of the Way: Video-based Parkinsonian Turning Step Counting  [[PDF](https://arxiv.org/abs/2606.27918)]
+
+[arxiv 2026.06] Long-Term Prediction of Local and Global Human Motion with Occlusion Recovery  [[PDF](https://arxiv.org/abs/2606.27900)]
+
+[arxiv 2026.06] Scene and Human in One World: Reconstruction in a Feedforward Pass  [[PDF](https://arxiv.org/abs/2606.27720)]
+
+[arxiv 2026.06] Beyond MoCap: Scaling Motion Tokenizers with Synthetic Human Motion for Generative Modeling  [[PDF](https://arxiv.org/abs/2606.27547)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -777,6 +791,7 @@
 
 
 # ego
+<!-- Added on 2026-06-29 -->
 [arxiv 2025.04]  The Invisible EgoHand: 3D Hand Forecasting through EgoBody Pose Estimation [[PDF](https://arxiv.org/abs/2504.08654),[Page](https://masashi-hatano.github.io/EgoH4/)] ![Code](https://img.shields.io/github/stars/masashi-hatano/EgoH4?style=social&label=Star)
 
 [arxiv 2026.04] CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator  [[PDF](https://arxiv.org/abs/2604.03156v1)]

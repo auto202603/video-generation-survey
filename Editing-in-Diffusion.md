@@ -1,4 +1,5 @@
 # Image Editing In Diffusion 
+<!-- Added on 2026-06-29 -->
 <!-- Added on 2026-06-26 -->
 [arxiv 2026.06] DanceOPD: On-Policy Generative Field Distillation  [[PDF](https://arxiv.org/abs/2606.27377),[Page](https://danceopd.github.io/)]
 
@@ -2091,6 +2092,30 @@
 [arxiv 2026.06] Cross-Modality Structural Guidance in 3D Latent Diffusion for Robust FLAIR Super-Resolution  [[PDF](https://arxiv.org/abs/2606.25255)]
 [arxiv 2026.06] Structuring Sparsity: Block-Sparse Featurizers Capture Visual Concept Manifolds  [[PDF](https://arxiv.org/abs/2606.25234)]
 
+
+[arxiv 2026.06] StructSplat: Generalizable 3D Gaussian Splatting from Uncalibrated Sparse Views  [[PDF](https://arxiv.org/abs/2606.28321),[Page](https://structsplat.github.io)]
+
+[arxiv 2026.06] BiDeMem: Bidirectional Degradation Memory for Explainable Image Restoration  [[PDF](https://arxiv.org/abs/2606.28112)]
+
+[arxiv 2026.06] Parallel Rollout Approximation for Pixel-Space Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2606.27978)]
+
+[arxiv 2026.06] Home3D 1.0: A High-Fidelity Image-to-3D Asset Generation System for Interior Design  [[PDF](https://arxiv.org/abs/2606.27923)]
+
+[arxiv 2026.06] ScaLe-INR: Scale and Learn Implicit Neural Representations  [[PDF](https://arxiv.org/abs/2606.27862)]
+
+[arxiv 2026.06] Hippocampus-DETR: An Explicit Memory Object Detection Framework Based on Hippocampus Modeling  [[PDF](https://arxiv.org/abs/2606.27831)]
+
+[arxiv 2026.06] CSD: Content-aware Speculative Decoding for Efficient Image Generation  [[PDF](https://arxiv.org/abs/2606.27829)]
+
+[arxiv 2026.06] PixelU: A U-Shaped Transformer for Efficient End-to-End Pixel Diffusion  [[PDF](https://arxiv.org/abs/2606.27760)]
+
+[arxiv 2026.06] CoIn: Comprehensive 2D-3D Inpainting with Gaussian Splatting Guidance  [[PDF](https://arxiv.org/abs/2606.27584)]
+
+[arxiv 2026.06] Perceptual 3D Simulation With Physical World Modeling  [[PDF](https://arxiv.org/abs/2606.27575)]
+
+[arxiv 2026.06] Structured-Li-GS: Structured 3D Gaussians Splatting with LiDAR Incorporation and Spatial Constraints  [[PDF](https://arxiv.org/abs/2606.27509)]
+
+[arxiv 2026.06] Class-frequency Guided Noise Schedule for Diffusion Models  [[PDF](https://arxiv.org/abs/2606.27696)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

@@ -1,4 +1,4 @@
-<!-- Added on 2026-06-26 -->
+<!-- Added on 2026-06-29 -->
 [arxiv 2026.06] Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards  [[PDF](https://arxiv.org/abs/2606.27376)]
 
 [arxiv 2026.06] Paying More Attention to Visual Tokens in Self-Evolving Large Multimodal Models  [[PDF](https://arxiv.org/abs/2606.27373)]
@@ -2981,6 +2981,34 @@
 [arxiv 2026.06] Toward Low-Latency Vision-Language Models with Doubly-Correct Predictions in Egocentric Visual Understanding  [[PDF](https://arxiv.org/abs/2606.25160)]
 [arxiv 2026.06] Do vision-language models search like humans? Reasoning tokens as a reaction-time analog in classic visual-search paradigms  [[PDF](https://arxiv.org/abs/2606.25066)]
 
+
+[arxiv 2026.06] Toward Robust In-Context Segmentation via Concept Guidance  [[PDF](https://arxiv.org/abs/2606.28149)]
+
+[arxiv 2026.06] ReScene: Structured Indoor Scene Reconstruction from Multi-View Captures  [[PDF](https://arxiv.org/abs/2606.28060)]
+
+[arxiv 2026.06] ProMSA:Progressive Multimodal Search Agents for Knowledge-Based Visual Question Answering  [[PDF](https://arxiv.org/abs/2606.27974)]
+
+[arxiv 2026.06] Understanding How MLLMs Describe Artworks Using Token Activation Maps  [[PDF](https://arxiv.org/abs/2606.27947)]
+
+[arxiv 2026.06] Video-MME-Logical: A Controlled Diagnostic Benchmark for Video Temporal-Logical Reasoning  [[PDF](https://arxiv.org/abs/2606.27828)]
+
+[arxiv 2026.06] MVPruner: Dynamic Token Pruning for Accelerating Multi-view Vision-Language Models in Autonomous Driving  [[PDF](https://arxiv.org/abs/2606.27660)]
+
+[arxiv 2026.06] VLM-Aware Meta-Optic Front-End Design for Frozen Vision-Language Models  [[PDF](https://arxiv.org/abs/2606.27646)]
+
+[arxiv 2026.06] Qwen-Image-2.0-RL Technical Report  [[PDF](https://arxiv.org/abs/2606.27608)]
+
+[arxiv 2026.06] Dismantling Pathological Shortcuts: A Causal Framework for Faithful LVLM Decoding  [[PDF](https://arxiv.org/abs/2606.27596)]
+
+[arxiv 2026.06] MemoBench: Benchmarking World Modeling in Dynamically Changing Environments  [[PDF](https://arxiv.org/abs/2606.27537)]
+
+[arxiv 2026.06] Large Language Model Teaches Visual Students: Cross-Modality Transfer of Fine-Grained Conceptual Knowledge  [[PDF](https://arxiv.org/abs/2606.27527)]
+
+[arxiv 2026.06] Fine-tuning a multimodal large language model for clinician-grade autism behavioral scoring from short home videos  [[PDF](https://arxiv.org/abs/2606.27484)]
+
+[arxiv 2026.06] Verifiable Geometry Problem Solving: Solver-Driven Autoformalization and Theorem Proposing  [[PDF](https://arxiv.org/abs/2606.27926)]
+
+[arxiv 2026.06] NormGuard: Reward-Preserving Norm Constraints in Flow-Matching Reinforcement Learning  [[PDF](https://arxiv.org/abs/2606.27771)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

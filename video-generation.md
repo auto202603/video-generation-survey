@@ -1,4 +1,5 @@
 # Video Generation Survey
+<!-- Added on 2026-06-29 -->
 <!-- Added on 2026-06-26 -->
 [arxiv 2026.06] PhysiFormer: Learning to Simulate Mechanics in World Space  [[PDF](https://arxiv.org/abs/2606.27364),[Page](https://yimingc9.github.io/physiformer)]
 
@@ -1021,6 +1022,12 @@ A reading list of video generation
 [arxiv 2026.06] Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models  [[PDF](https://arxiv.org/abs/2606.25473)]
 [arxiv 2026.06] Physics Question Scene Graph: Fine-grained Evaluation of Physical Plausibility in Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2606.25306),[Page](https://github.com/atinpothiraj/pqsg)]
 
+
+[arxiv 2026.06] TempAct: Advancing Temporal Plausibility in Autoregressive Video Generation via Planner-Executor RL  [[PDF](https://arxiv.org/abs/2606.28016)]
+
+[arxiv 2026.06] Reflect-R1: Evidence-Driven Reflection for Self-Correction in Long Video Understanding  [[PDF](https://arxiv.org/abs/2606.27922)]
+
+[arxiv 2026.06] SIFT: Self-Imagination Fine-Tuning for Physically Plausible Motion in Video Diffusion Models  [[PDF](https://arxiv.org/abs/2606.27741)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
