@@ -1,6 +1,41 @@
 # Image Editing In Diffusion 
 <!-- Added on 2026-06-29 -->
 <!-- Added on 2026-06-26 -->
+<!-- Added on 2026-07-01 -->
+[arxiv 2026.06] GEAR: Guided End-to-End AutoRegression for Image Synthesis  [[PDF](https://arxiv.org/abs/2606.32039)]
+
+[arxiv 2026.06] SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE  [[PDF](https://arxiv.org/abs/2606.32033)]
+
+[arxiv 2026.06] No Place to Hide: Benchmarking Video Hallucination with Background-Controlled Pairs  [[PDF](https://arxiv.org/abs/2606.31933)]
+
+[arxiv 2026.06] Histogram-constrained Image Generation  [[PDF](https://arxiv.org/abs/2606.31683)]
+
+[arxiv 2026.06] DPPE: Rethinking Camera-Based Positional Encoding for Scaling Multi-View Transformers  [[PDF](https://arxiv.org/abs/2606.31585)]
+
+[arxiv 2026.06] AugSplat: Radiance Field-Informed Gaussian Splatting for Sparse-View Settings  [[PDF](https://arxiv.org/abs/2606.31556)]
+
+[arxiv 2026.06] DataEvolver: Self-Evolving Multi-Agent Data Construction for Text-Rich Image Generation  [[PDF](https://arxiv.org/abs/2606.31537)]
+
+[arxiv 2026.06] No Prompt, No Leaks: A Robust Generative Steganography Framework via Prompt-Free Diffusion  [[PDF](https://arxiv.org/abs/2606.31427)]
+
+[arxiv 2026.06] RCL-Mamba: A Dual-domain State Space Model for Measurement-oriented Image Restoration in Rotational Sparse-View Scanning Computed Laminography  [[PDF](https://arxiv.org/abs/2606.31353)]
+
+[arxiv 2026.06] Editing Everything Everywhere All at Once  [[PDF](https://arxiv.org/abs/2606.31278)]
+
+[arxiv 2026.06] WarpHammer: Densifying Scene Warps with 3D Object Priors for Extreme View Synthesis  [[PDF](https://arxiv.org/abs/2606.31258)]
+
+[arxiv 2026.06] WaterGen: Decoupling Scene and Medium in Underwater Image Generation  [[PDF](https://arxiv.org/abs/2606.31147)]
+
+[arxiv 2026.06] Learning Video Dynamics with Predictive Differentiable Rendering  [[PDF](https://arxiv.org/abs/2606.31050)]
+
+[arxiv 2026.06] WarpI2I: Image Warping for Image-to-Image Translation  [[PDF](https://arxiv.org/abs/2606.31018)]
+
+[arxiv 2026.06] SyncCache: Exploiting Asymmetric Dynamics for Fast Audio-Driven Portrait Animation  [[PDF](https://arxiv.org/abs/2606.30849)]
+
+[arxiv 2026.06] GaussLite: Online Task-Conditioned 3D Gaussian Splatting for Real-Time Robotic Mapping  [[PDF](https://arxiv.org/abs/2606.30809)]
+
+[arxiv 2026.06] Practical High-Fidelity Novel-View Synthesis of Mounted Lepidoptera  [[PDF](https://arxiv.org/abs/2606.31679)]
+
 [arxiv 2026.06] DanceOPD: On-Policy Generative Field Distillation  [[PDF](https://arxiv.org/abs/2606.27377),[Page](https://danceopd.github.io/)]
 
 [arxiv 2026.06] Don&#39;t Settle at the Mode! Mitigating Diversity Collapse in Pretrained Flow Models via Feature Self-Guidance  [[PDF](https://arxiv.org/abs/2606.27371),[Page](https://dont-settle-at-the-mode.github.io/)]

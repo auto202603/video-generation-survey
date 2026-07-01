@@ -1,6 +1,17 @@
 # Video Generation Survey
 <!-- Added on 2026-06-29 -->
 <!-- Added on 2026-06-26 -->
+<!-- Added on 2026-07-01 -->
+[arxiv 2026.06] World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration  [[PDF](https://arxiv.org/abs/2606.31946)]
+
+[arxiv 2026.06] DriveWeaver: Point-Conditioned Video Inpainting for Controllable Vehicle Insertion in Autonomous Driving Simulation  [[PDF](https://arxiv.org/abs/2606.31918),[Page](https://github.com/LogosRoboticsGroup/DriveWeaver)]
+
+[arxiv 2026.06] MemLearner: Learning to Query Context memory for Video World Models  [[PDF](https://arxiv.org/abs/2606.31734),[Page](https://yujiwen.github.io/memlearner/)]
+
+[arxiv 2026.06] Bridging Video Understanding and Generation in a Unified Framework  [[PDF](https://arxiv.org/abs/2606.31326)]
+
+[arxiv 2026.06] AVTok: 1D Unified Tokenization for Holistic Audio-Video Generation  [[PDF](https://arxiv.org/abs/2606.30811)]
+
 [arxiv 2026.06] PhysiFormer: Learning to Simulate Mechanics in World Space  [[PDF](https://arxiv.org/abs/2606.27364),[Page](https://yimingc9.github.io/physiformer)]
 
 [arxiv 2026.06] RayPE: Ray-Space Positional Encoding for 3D-Aware Video Generation  [[PDF](https://arxiv.org/abs/2606.27345)]

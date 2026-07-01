@@ -792,6 +792,13 @@
 
 # ego
 <!-- Added on 2026-06-29 -->
+<!-- Added on 2026-07-01 -->
+[arxiv 2026.06] PointSplat: Compact Gaussian Splatting via Human-Centric Prediction  [[PDF](https://arxiv.org/abs/2606.32036),[Page](https://zju3dv.github.io/pointsplat)]
+
+[arxiv 2026.06] LUNA: Learning Universal 3D Human Animation Beyond Skinning  [[PDF](https://arxiv.org/abs/2606.31981),[Page](https://penghtyx.github.io/LUNA/)]
+
+[arxiv 2026.06] JacobianAvatar: Temporally Consistent Semi-rigid Avatar Reconstruction from a Monocular Video  [[PDF](https://arxiv.org/abs/2606.31115)]
+
 [arxiv 2025.04]  The Invisible EgoHand: 3D Hand Forecasting through EgoBody Pose Estimation [[PDF](https://arxiv.org/abs/2504.08654),[Page](https://masashi-hatano.github.io/EgoH4/)] ![Code](https://img.shields.io/github/stars/masashi-hatano/EgoH4?style=social&label=Star)
 
 [arxiv 2026.04] CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator  [[PDF](https://arxiv.org/abs/2604.03156v1)]

@@ -1,4 +1,53 @@
 <!-- Added on 2026-06-29 -->
+<!-- Added on 2026-07-01 -->
+[arxiv 2026.06] CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts  [[PDF](https://arxiv.org/abs/2606.31986),[Page](https://github.com/hulianyuyy/CoLT)]
+
+[arxiv 2026.06] ERA: Entropy-Guided Visual Token Pruning with Rectified Attention for Efficient MLLMs  [[PDF](https://arxiv.org/abs/2606.31982)]
+
+[arxiv 2026.06] InstanceControl: Controllable Complex Image Generation without Instance Labeling  [[PDF](https://arxiv.org/abs/2606.31924)]
+
+[arxiv 2026.06] Attend, Transform, or Silence: Operator-Level Visual Skipping for Efficient Multimodal LLM Inference  [[PDF](https://arxiv.org/abs/2606.31903)]
+
+[arxiv 2026.06] UniCoder: Unified Visual-to-Code Generation via Symbolic Rewards and Reference-Guided Code Optimization  [[PDF](https://arxiv.org/abs/2606.31732)]
+
+[arxiv 2026.06] Technical Report of RoboSpatial Challenge at CVPR 2026: Selective Reasoning Activation and Reference-Frame Disambiguation for Embodied Spatial Reasoning  [[PDF](https://arxiv.org/abs/2606.31645)]
+
+[arxiv 2026.06] Localized Conformal Prediction for Image Classification with Vision-Language Models  [[PDF](https://arxiv.org/abs/2606.31577)]
+
+[arxiv 2026.06] MV-GEL: Language-Driven Multi-View Geometric Entity Localization on Meshes  [[PDF](https://arxiv.org/abs/2606.31533)]
+
+[arxiv 2026.06] Think While You Map: Asynchronous Vision-Language Agents for Incremental 3D Scene Graphs  [[PDF](https://arxiv.org/abs/2606.31471),[Page](https://denizbickici.github.io/thinkgraphs/)]
+
+[arxiv 2026.06] Visual Semantic Entropy: Do Vision Language Models Recognize Visual Ambiguity?  [[PDF](https://arxiv.org/abs/2606.31407)]
+
+[arxiv 2026.06] One Video, One World: Turning Monocular Video into Physical 4D Scenes  [[PDF](https://arxiv.org/abs/2606.31388),[Page](https://OneVideoOneWorld.github.io/)]
+
+[arxiv 2026.06] MS-Resampler: Multi-Scope Visual Resampling for Efficient Multimodal LLMs  [[PDF](https://arxiv.org/abs/2606.31383)]
+
+[arxiv 2026.06] Language-Assisted Super-Resolution from Real-World Low-Resolution Patches  [[PDF](https://arxiv.org/abs/2606.31363)]
+
+[arxiv 2026.06] Learning from Failure: Inference-Time Self-Improvement for Computer-Use Agents  [[PDF](https://arxiv.org/abs/2606.31270)]
+
+[arxiv 2026.06] Decodable Is Not Grounded: A Vision-Ablation Arbiter for VLM Spatial Reasoning  [[PDF](https://arxiv.org/abs/2606.31257)]
+
+[arxiv 2026.06] AC3S: Adaptive Conditioning for 3D-Aware Synthetic Data Generation  [[PDF](https://arxiv.org/abs/2606.31204),[Page](https://ac3s.cvmlgroup.web.illinois.edu/)]
+
+[arxiv 2026.06] Learning to Deny: Action Denial in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2606.31187)]
+
+[arxiv 2026.06] Beyond Single Character: Evaluating MLLMs for Sentence-Level Oracle Bone Inscription Understanding  [[PDF](https://arxiv.org/abs/2606.31169)]
+
+[arxiv 2026.06] PruneGround: Plug-and-play Spatial Pruning for 3D Visual Grounding  [[PDF](https://arxiv.org/abs/2606.31148)]
+
+[arxiv 2026.06] ADAPT: Attention Dynamics Alignment with Preference Tuning for Faithful MLLMs  [[PDF](https://arxiv.org/abs/2606.31054)]
+
+[arxiv 2026.06] The Label Imitation Game: Turing Test Network for Zero-Shot Pseudo-Label Pruning  [[PDF](https://arxiv.org/abs/2606.30875)]
+
+[arxiv 2026.06] CoMet: Context and Multiplicity Decomposition for Multimodal Uncertainty Estimation  [[PDF](https://arxiv.org/abs/2606.32012)]
+
+[arxiv 2026.06] MECoBench: A Systematic Study of Multimodal Agent Collaboration in Embodied Environments  [[PDF](https://arxiv.org/abs/2606.31966),[Page](https://q-i-n-g.github.io/MECoBench-Website/)]
+
+[arxiv 2026.06] Harnessing Textual Refusal Directions for Multimodal Safety  [[PDF](https://arxiv.org/abs/2606.31876)]
+
 [arxiv 2026.06] Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards  [[PDF](https://arxiv.org/abs/2606.27376)]
 
 [arxiv 2026.06] Paying More Attention to Visual Tokens in Self-Evolving Large Multimodal Models  [[PDF](https://arxiv.org/abs/2606.27373)]
