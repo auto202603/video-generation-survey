@@ -1,4 +1,5 @@
 # Video Generation Survey
+<!-- Added on 2026-07-02 -->
 <!-- Added on 2026-06-29 -->
 <!-- Added on 2026-06-26 -->
 <!-- Added on 2026-07-01 -->
@@ -72,7 +73,6 @@
 
 [arxiv 2026.05] DrawVideo: Generating Long Video from Storyboard Keyframe Sketches  [[PDF](https://arxiv.org/abs/2605.23508)]
 
-
 [arxiv 2026.05] FaithfulFaces: Pose-Faithful Facial Identity Preservation for Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2605.04702)]
 
 [arxiv 2026.05] Lightning Unified Video Editing via In-Context Sparse Attention  [[PDF](https://arxiv.org/abs/2605.04569)]
@@ -106,10 +106,6 @@
 [arxiv 2026.05] Scaling Video Understanding via Compact Latent Multi-Agent Collaboration  [[PDF](https://arxiv.org/abs/2605.00444)]
 
 [arxiv 2026.05] World Model for Robot Learning: A Comprehensive Survey  [[PDF](https://arxiv.org/abs/2605.00080)]
-
-
-
-
 
 [arxiv 2026.04] CurEvo: Curriculum-Guided Self-Evolution for Video Understanding  [[PDF](https://arxiv.org/abs/2604.26707)]
 
@@ -1033,12 +1029,17 @@ A reading list of video generation
 [arxiv 2026.06] Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models  [[PDF](https://arxiv.org/abs/2606.25473)]
 [arxiv 2026.06] Physics Question Scene Graph: Fine-grained Evaluation of Physical Plausibility in Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2606.25306),[Page](https://github.com/atinpothiraj/pqsg)]
 
-
 [arxiv 2026.06] TempAct: Advancing Temporal Plausibility in Autoregressive Video Generation via Planner-Executor RL  [[PDF](https://arxiv.org/abs/2606.28016)]
 
 [arxiv 2026.06] Reflect-R1: Evidence-Driven Reflection for Self-Correction in Long Video Understanding  [[PDF](https://arxiv.org/abs/2606.27922)]
 
 [arxiv 2026.06] SIFT: Self-Imagination Fine-Tuning for Physically Plausible Motion in Video Diffusion Models  [[PDF](https://arxiv.org/abs/2606.27741)]
+
+[arxiv 2026.07] QCA: Query- and Content-Aware Keyframe Selection for Long Video Understanding  [[PDF](https://arxiv.org/abs/2607.00983)]
+
+[arxiv 2026.07] Towards Memory-Efficient Autoregressive Video Generation via Instance-Specific Parametric Absorption  [[PDF](https://arxiv.org/abs/2607.00712)]
+
+[arxiv 2026.07] RetailSMV: Exocentric vs. Egocentric Adaptation of Foundation Video World Models in Retail  [[PDF](https://arxiv.org/abs/2607.00310)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

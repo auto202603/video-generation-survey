@@ -20,7 +20,6 @@
 
 [arxiv 2026.05] Suicide Risk Assessment from AI-powered Video Surveillance: An Interpretable Framework for Prevention in Metro Stations  [[PDF](https://arxiv.org/abs/2605.22904)]
 
-
 [arxiv 2026.05] Syn4D: A Multiview Synthetic 4D Dataset  [[PDF](https://arxiv.org/abs/2605.05207),[Page](https://jzr99.github.io/Syn4D/)]
 
 [arxiv 2026.05] Anny-Fit: All-Age Human Mesh Recovery  [[PDF](https://arxiv.org/abs/2605.04728),[Page](https://github.com/naver/anny-fit)]
@@ -46,11 +45,6 @@
 [arxiv 2026.05] PhysiGen: Integrating Collision-Aware Physical Constraints for High-Fidelity Human-Human Interaction Generation  [[PDF](https://arxiv.org/abs/2605.00517)]
 
 [arxiv 2026.05] MAEPose: Self-Supervised Spatiotemporal Learning for Human Pose Estimation on mmWave Video  [[PDF](https://arxiv.org/abs/2605.00242)]
-
-
-
-
-
 
 [arxiv 2026.04] Action Motifs: Self-Supervised Hierarchical Representation of Human Body Movements  [[PDF](https://arxiv.org/abs/2604.28173)]
 
@@ -172,7 +166,6 @@
 
 [arxiv 2025.07] Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data  [[PDF](https://arxiv.org/abs/2507.07095),[Page](https://github.com/VankouF/MotionMillion-Codes)] ![Code](https://img.shields.io/github/stars/VankouF/MotionMillion-Codes?style=social&label=Star)
 
-
 [arxiv 2026.03] UMO: Unified In-Context Learning Unlocks Motion Foundation Model Priors  [[PDF](https://arxiv.org/abs/2603.15975),[Page](https://oliver-cong02.github.io/UMO.github.io/)]
 
 [arxiv 2026.03] Ground Reaction Inertial Poser: Physics-based Human Motion Capture from Sparse IMUs and Insole Pressure Sensors  [[PDF](https://arxiv.org/abs/2603.16233),[Page](https://ryosukehori.github.io/grip-project/)]
@@ -201,9 +194,7 @@
 
 [arxiv 2026.03] BehaviorVLM: Unified Finetuning-Free Behavioral Understanding with Vision-Language Reasoning  [[[PDF](https://arxiv.org/abs/2603.12176)]]
 
-
 [arxiv 2026.03] Human-AI Ensembles Improve Deepfake Detection in Low-to-Medium Quality Videos  [[[PDF](https://arxiv.org/abs/2603.14658)]]
-
 
 [arxiv 2026.03] Controllable Text-to-Motion Generation via Modular Body-Part Phase Control [[[PDF](https://arxiv.org/abs/2603.19795)]]
 
@@ -226,7 +217,6 @@
 [arxiv 2026.03] MaskAdapt: Learning Flexible Motion Adaptation via Mask-Invariant Prior for Physics-Based Characters  [[PDF](https://arxiv.org/abs/2603.29272)]
 
 [arxiv 2026.03] DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA  [[PDF](https://arxiv.org/abs/2603.29844),[Page](https://xpeng-robotics.github.io/dial)]
-
 
 [arxiv 2026.04] True to Tone? Quantifying Skin Tone Fidelity and Bias in Photographic-to-Virtual Human Pipelines  [[PDF](https://arxiv.org/abs/2604.02055)]
 
@@ -314,7 +304,6 @@
 
 [arxiv 2026.04] UniCon3R: Contact-aware 3D Human-Scene Reconstruction from Monocular Video  [[PDF](https://arxiv.org/abs/2604.19923),[Page](https://surtantheta.github.io/UniCon3R)]
 
-
 [arxiv 2026.04] DGHMesh: A Large-scale Dual-radar mmWave Dataset and Generalization-focused Benchmark for Human Mesh Reconstruction  [[PDF](https://arxiv.org/abs/2604.22827)]
 
 [arxiv 2026.04] 2D Pre-Training for 3D Pose Estimation  [[PDF](https://arxiv.org/abs/2604.22830),[Page](https://github.com/ECE740F21T01/pytorch-pose-hg-3d)] ![Code](https://img.shields.io/github/stars/ECE740F21T01/pytorch-pose-hg-3d?style=social&label=Star)
@@ -366,7 +355,6 @@
 [arxiv 2026.05] PoseBridge: Bridging the Skeletonization Gap for Zero-Shot Skeleton-Based Action Recognition  [[PDF](https://arxiv.org/abs/2605.11497)]
 
 [arxiv 2026.05] Dynamic Full-body Motion Agent with Object Interaction via Blending Pre-trained Modular Controllers  [[PDF](https://arxiv.org/abs/2605.11369)]
-
 
 [arxiv 2026.05] EverAnimate: Minute-Scale Human Animation via Latent Flow Restoration  [[PDF](https://arxiv.org/abs/2605.15042),[Page](https://everanimate.github.io/homepage/)]
 
@@ -482,12 +470,18 @@
 
 [arxiv 2026.06] Beyond MoCap: Scaling Motion Tokenizers with Synthetic Human Motion for Generative Modeling  [[PDF](https://arxiv.org/abs/2606.27547)]
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.07] MoHallBench: A Benchmark for Motion Hallucination in Video Large Language Models  [[PDF](https://arxiv.org/abs/2607.01117)]
 
+[arxiv 2026.07] GaussianEmoTalker: Real-Time Emotional Talking Head Synthesis with Audio-Driven and Blendshape-Based 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2607.00959)]
+
+[arxiv 2026.07] Stitched Embeddings: A Unified Latent Space for 3D Garments and 2D Patterns  [[PDF](https://arxiv.org/abs/2607.00829)]
+
+[arxiv 2026.07] Learning When to Listen: Gated Affect Fusion for Human Motion Prediction  [[PDF](https://arxiv.org/abs/2607.00296)]
+
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Gaussian Face 
 [arxiv 2025.01] PERSE: Personalized 3D Generative Avatars from A Single Portrait  [[PDF](https://arxiv.org/abs/2412.21206),[Page](https://hyunsoocha.github.io/perse/)] ![Code](https://img.shields.io/github/stars/snuvclab/perse?style=social&label=Star)
-
 
 [arxiv 2026.03] High-Fidelity 3D Facial Avatar Synthesis with Controllable Fine-Grained Expressions  [[PDF](https://arxiv.org/abs/2603.14781)]
 
@@ -653,7 +647,6 @@
 
 [arxiv 2026.03]  U-Mind: A Unified Framework for Real-Time Multimodal Interaction with Audiovisual Generation [[PDF](https://arxiv.org/abs/2602.23739)]
 
-
 [arxiv 2026.03] Fast SAM 3D Body: Accelerating SAM 3D Body for Real-Time Full-Body Human Mesh Recovery  [[PDF](https://arxiv.org/abs/2603.15603)]
 
 [arxiv 2026.03] Kimodo: Scaling Controllable Human Motion Generation  [[PDF](https://arxiv.org/abs/2603.15546)]
@@ -737,7 +730,6 @@
 
 [arxiv 2025.03]  ExGes: Expressive Human Motion Retrieval and Modulation for Audio-Driven Gesture Synthesis [[PDF](https://arxiv.org/pdf/2503.06499)]
 
-
 [arxiv 2026.04] CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator  [[PDF](https://arxiv.org/abs/2604.03156v1)]
 
 [arxiv 2026.04] Exploring Motion-Language Alignment for Text-driven Motion Generation  [[PDF](https://arxiv.org/abs/2604.02973v1)]
@@ -751,7 +743,6 @@
 [arxiv 2026.04] UNICA: A Unified Neural Framework for Controllable 3D Avatars  [[PDF](https://arxiv.org/abs/2604.02799v1)] ![Code](https://img.shields.io/github/stars/zjh21/UNICA?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 ## Hands 
 [arxiv 2024.10]Learning Interaction-aware 3D Gaussian Splatting for One-shot Hand Avatars [[PDF](https://arxiv.org/abs/2410.08840),[Page](https://github.com/XuanHuang0/GuassianHand)]
@@ -772,7 +763,6 @@
 
 [arxiv 2025.10] TOUCH: Text-gUided Controllable Generation of Free-Form Hand-Object Interactions  [[PDF](https://arxiv.org/abs/2510.14874),[Page](https://guangyid.github.io/hoi123touch/)] 
 
-
 [arxiv 2026.03] Enhancing Hands in 3D Whole-Body Pose Estimation with Conditional Hands Modulator  [[PDF](https://arxiv.org/abs/2603.14726)]
 
 [arxiv 2026.04] CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator  [[PDF](https://arxiv.org/abs/2604.03156v1)]
@@ -788,7 +778,6 @@
 [arxiv 2026.04] UNICA: A Unified Neural Framework for Controllable 3D Avatars  [[PDF](https://arxiv.org/abs/2604.02799v1)] ![Code](https://img.shields.io/github/stars/zjh21/UNICA?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 # ego
 <!-- Added on 2026-06-29 -->
@@ -814,7 +803,6 @@
 [arxiv 2026.04] UNICA: A Unified Neural Framework for Controllable 3D Avatars  [[PDF](https://arxiv.org/abs/2604.02799v1)] ![Code](https://img.shields.io/github/stars/zjh21/UNICA?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 # LLM 
 [arxiv 2026.04] Sparkle: A Robust and Versatile Representation for Point Cloud based Human Motion Capture  [[PDF](https://arxiv.org/abs/2604.00857v1)]
@@ -854,8 +842,6 @@
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] Generalized Hand-Object Pose Estimation with Occlusion Awareness  [[PDF](https://arxiv.org/abs/2603.19013)]
-
-
 
 ## Interaction 
 [arxiv 2024.05]  Scaling Up Dynamic Human-Scene Interaction Modeling [[PDF](https://arxiv.org/abs/2403.08629),[Page](https://jnnan.github.io/trumans/)] ![Code](https://img.shields.io/github/stars/jnnan/trumans_utils?style=social&label=Star)
@@ -950,7 +936,6 @@
 
 [arxiv 2026.01]  InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions [[PDF](https://arxiv.org/abs/2602.06035),[Page](https://sirui-xu.github.io/InterPrior/)] 
 
-
 [arxiv 2026.03] HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human-Scene Interactions  [[PDF](https://arxiv.org/abs/2603.15612)]
 
 [arxiv 2026.03] Face-to-Face: A Video Dataset for Multi-Person Interaction Modeling  [[PDF](https://arxiv.org/abs/2603.14794)]
@@ -985,7 +970,6 @@
 
 [arxiv 2026.03] GHOST: Fast Category-agnostic Hand-Object Interaction Reconstruction from RGB Videos using Gaussian Splatting  [[PDF](https://arxiv.org/abs/2603.18912)]
 
-
 ## Interaction Detection 
 
 [arxiv 2024.12]  Orchestrating the Symphony of Prompt Distribution Learning for Human-Object Interaction Detection [[PDF](https://arxiv.org/abs/2412.08506)]
@@ -1013,7 +997,6 @@
 [arxiv 2026.04] UNICA: A Unified Neural Framework for Controllable 3D Avatars  [[PDF](https://arxiv.org/abs/2604.02799v1)] ![Code](https://img.shields.io/github/stars/zjh21/UNICA?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 [arxiv 2026.04] CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator  [[PDF](https://arxiv.org/abs/2604.03156v1)]
 
@@ -1048,7 +1031,6 @@
 
 [arxiv 2026.01] Dynamic Worlds, Dynamic Humans: Generating Virtual Human-Scene Interaction Motion in Dynamic Scenes  [[PDF](https://arxiv.org/abs/2601.19484)]
 
-
 [arxiv 2026.04] CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator  [[PDF](https://arxiv.org/abs/2604.03156v1)]
 
 [arxiv 2026.04] Exploring Motion-Language Alignment for Text-driven Motion Generation  [[PDF](https://arxiv.org/abs/2604.02973v1)]
@@ -1068,7 +1050,6 @@
 
 [arxiv 2026.02] VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model  [[PDF](https://arxiv.org/abs/2602.10098),[Page](https://github.com/ginwind/VLA-JEPA/)] ![Code](https://img.shields.io/github/stars/ginwind/VLA-JEPA/?style=social&label=Star)
 
-
 [arxiv 2026.04] CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator  [[PDF](https://arxiv.org/abs/2604.03156v1)]
 
 [arxiv 2026.04] Exploring Motion-Language Alignment for Text-driven Motion Generation  [[PDF](https://arxiv.org/abs/2604.02973v1)]
@@ -1083,7 +1064,6 @@
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
 ## Capture 
 
 [arxiv 2024.11] FreeCap: Hybrid Calibration-Free Motion Capture in Open Environments  [[PDF](https://arxiv.org/abs/2411.04469)]
@@ -1091,7 +1071,6 @@
 [arxiv 2025.04]  EMO-X: Efficient Multi-Person Pose and Shape Estimation in One-Stage [[PDF](https://arxiv.org/abs/2504.08718)]
 
 [arxiv 2025.04] CoMotion: Concurrent Multi-person 3D Motion  [[PDF](https://arxiv.org/abs/2504.12186),[Page](https://github.com/apple/ml-comotion)] ![Code](https://img.shields.io/github/stars/apple/ml-comotion?style=social&label=Star)
-
 
 [arxiv 2026.03] Severe Domain Shift in Skeleton-Based Action Recognition:A Study of Uncertainty Failure in Real-World Gym Environments  [[PDF](https://arxiv.org/abs/2603.15574)]
 
@@ -1188,8 +1167,6 @@
 [arxiv 2026.05] Bounding-Box Trajectories Matter for Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2605.21957)]
 
 [arxiv 2026.05] Imagine2Real: Towards Zero-shot Humanoid-Object Interaction via Video Generative Priors  [[PDF](https://arxiv.org/abs/2605.22272)]
-
-
 
 [arxiv 2026.06] SimuScene: Simulation-Ready Compositional 3D Scene Reconstruction from a Single Image  [[PDF](https://arxiv.org/abs/2606.03994),[Page](https://snuvclab.github.io/SimuScene/)]
 

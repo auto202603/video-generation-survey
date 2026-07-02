@@ -152,7 +152,6 @@
 
 [arxiv 2026.05] Debiased Negative Mining Improves Out-of-distribution Detection with Pre-trained Vision-Language Models  [[PDF](https://arxiv.org/abs/2605.23797)]
 
-
 [arxiv 2026.05] OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents  [[PDF](https://arxiv.org/abs/2605.05185),[Page](https://github.com/shawn0728/OpenSearch-VL)]
 
 [arxiv 2026.05] Direct Product Flow Matching: Decoupling Radial and Angular Dynamics for Few-Shot Adaptation  [[PDF](https://arxiv.org/abs/2605.05054)]
@@ -296,11 +295,6 @@
 [arxiv 2026.05] MMAudio-LABEL: Audio Event Labeling via Audio Generation for Silent Video  [[PDF](https://arxiv.org/abs/2605.00495)]
 
 [arxiv 2026.05] Prompt-Induced Score Variance in Zero-Shot Binary Vision-Language Safety Classification  [[PDF](https://arxiv.org/abs/2605.00326)]
-
-
-
-
-
 
 [arxiv 2026.04] AEGIS: A Holistic Benchmark for Evaluating Forensic Analysis of AI-Generated Academic Images  [[PDF](https://arxiv.org/abs/2604.28177)]
 
@@ -3030,7 +3024,6 @@
 [arxiv 2026.06] Toward Low-Latency Vision-Language Models with Doubly-Correct Predictions in Egocentric Visual Understanding  [[PDF](https://arxiv.org/abs/2606.25160)]
 [arxiv 2026.06] Do vision-language models search like humans? Reasoning tokens as a reaction-time analog in classic visual-search paradigms  [[PDF](https://arxiv.org/abs/2606.25066)]
 
-
 [arxiv 2026.06] Toward Robust In-Context Segmentation via Concept Guidance  [[PDF](https://arxiv.org/abs/2606.28149)]
 
 [arxiv 2026.06] ReScene: Structured Indoor Scene Reconstruction from Multi-View Captures  [[PDF](https://arxiv.org/abs/2606.28060)]
@@ -3058,6 +3051,52 @@
 [arxiv 2026.06] Verifiable Geometry Problem Solving: Solver-Driven Autoformalization and Theorem Proposing  [[PDF](https://arxiv.org/abs/2606.27926)]
 
 [arxiv 2026.06] NormGuard: Reward-Preserving Norm Constraints in Flow-Matching Reinforcement Learning  [[PDF](https://arxiv.org/abs/2606.27771)]
+
+[arxiv 2026.07] Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning  [[PDF](https://arxiv.org/abs/2607.01191),[Page](https://github.com/ZJU-REAL/Perceive-to-Reason)]
+
+[arxiv 2026.07] LongVQUBench: Benchmarking Long-Term Video Quality Understanding of Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.01086)]
+
+[arxiv 2026.07] GenAU: Language-Grounded Industrial Anomaly Understanding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.01049)]
+
+[arxiv 2026.07] GMO-E$^2$DIT: Grounded Multi-Operation Editing for E-Commerce Images  [[PDF](https://arxiv.org/abs/2607.00920)]
+
+[arxiv 2026.07] OmniView-Space: Reinforcing Spatial Reasoning via Multi-Perspective Spatial Mapping  [[PDF](https://arxiv.org/abs/2607.00881)]
+
+[arxiv 2026.07] Towards High-Resolution Visual Perception via Hierarchical Entity Exploration  [[PDF](https://arxiv.org/abs/2607.00816)]
+
+[arxiv 2026.07] LeVLJEPA: End-to-End Vision-Language Pretraining Without Negatives  [[PDF](https://arxiv.org/abs/2607.00784)]
+
+[arxiv 2026.07] AV-SyncBench: Decoupled Benchmarking of Temporal and Semantic Audio-Visual Synchronization  [[PDF](https://arxiv.org/abs/2607.00726)]
+
+[arxiv 2026.07] DART: Difficulty-Adaptive Routing for Zero-Shot Video Temporal Grounding  [[PDF](https://arxiv.org/abs/2607.00672)]
+
+[arxiv 2026.07] Linguistic Relative Policy Optimization for Video Anomaly Reasoning  [[PDF](https://arxiv.org/abs/2607.00654)]
+
+[arxiv 2026.07] EgoGapBench: Benchmarking Egocentric Action Selection in Multi-Agent Scenes  [[PDF](https://arxiv.org/abs/2607.00547),[Page](https://github.com/jhCOR/EgoGapBench)]
+
+[arxiv 2026.07] MindEdit-Bench: Benchmarking Object-Level Counterfactual Spatial Reasoning in VLMs from In-the-Wild Photos  [[PDF](https://arxiv.org/abs/2607.00491),[Page](https://huggingface.co/datasets/ZODAOfficial/MindEdit-Bench)]
+
+[arxiv 2026.07] StochasT: Learning with Stochastic Turn Depth for Visual Instruction Tuning  [[PDF](https://arxiv.org/abs/2607.00465),[Page](https://yuanqing-ai.github.io/StochasT)]
+
+[arxiv 2026.07] Multimodal Continuous Reasoning via Asymmetric Mutual Variational Learning  [[PDF](https://arxiv.org/abs/2607.00461)]
+
+[arxiv 2026.07] Information-Regularized Attention for Visual-Centric Reasoning  [[PDF](https://arxiv.org/abs/2607.00434)]
+
+[arxiv 2026.07] Personalized Object Identification and Localization via In-Context Inference with Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.00357)]
+
+[arxiv 2026.07] EgoSafetyBench: A Diagnostic Egocentric Video Benchmark for Evaluating Embodied VLMs as Runtime Safety Guards  [[PDF](https://arxiv.org/abs/2607.00218)]
+
+[arxiv 2026.07] Steal the Patch Size: Adversarially Manipulate Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.00174)]
+
+[arxiv 2026.07] Decompose, Compare, and Decide: Multimodal LLMs are Implicit Few-Shot Learners  [[PDF](https://arxiv.org/abs/2607.00125)]
+
+[arxiv 2026.07] PixelEyes: Decoupling Perception and Reasoning for Pinpoint Visual Evidence Seeking  [[PDF](https://arxiv.org/abs/2607.00115)]
+
+[arxiv 2026.07] What&#39;s Hidden Matters: Identifying Planning-Critical Occluded Agents using Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.00283)]
+
+[arxiv 2026.07] Identifying and Resolving Pitfalls of Knowledge-Based VQA Benchmarks: Auditing, Repairing, and Augmenting  [[PDF](https://arxiv.org/abs/2607.00159),[Page](https://github.com/VAN-QIAN/ECCV26-ARA)]
+
+[arxiv 2026.03] Surfacing Variations to Calibrate Perceived Reliability of MLLM-generated Image Descriptions  [[PDF](https://arxiv.org/abs/2507.15692)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

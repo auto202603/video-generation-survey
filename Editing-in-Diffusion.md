@@ -160,7 +160,6 @@
 
 [arxiv 2026.05] What Linear Probes Miss: Multi-View Probing for Weight-Space Learning  [[PDF](https://arxiv.org/abs/2605.23410),[Page](https://github.com/AI-hew-math/MVProbe)]
 
-
 [arxiv 2026.05] Taming Outlier Tokens in Diffusion Transformers  [[PDF](https://arxiv.org/abs/2605.05206)]
 
 [arxiv 2026.05] D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models  [[PDF](https://arxiv.org/abs/2605.05204),[Page](https://vvvvvjdy.github.io/d-opsd/)]
@@ -298,11 +297,6 @@
 [arxiv 2026.05] VkSplat: High-Performance 3DGS Training in Vulkan Compute  [[PDF](https://arxiv.org/abs/2605.00219)]
 
 [arxiv 2026.05] FieryGS: In-the-Wild Fire Synthesis with Physics-Integrated Gaussian Splatting  [[PDF](https://arxiv.org/abs/2605.00177)]
-
-
-
-
-
 
 [arxiv 2026.04] Generalizable Sparse-View 3D Reconstruction from Unconstrained Images  [[PDF](https://arxiv.org/abs/2604.28193),[Page](https://genwildsplat.github.io/)]
 
@@ -2127,7 +2121,6 @@
 [arxiv 2026.06] Cross-Modality Structural Guidance in 3D Latent Diffusion for Robust FLAIR Super-Resolution  [[PDF](https://arxiv.org/abs/2606.25255)]
 [arxiv 2026.06] Structuring Sparsity: Block-Sparse Featurizers Capture Visual Concept Manifolds  [[PDF](https://arxiv.org/abs/2606.25234)]
 
-
 [arxiv 2026.06] StructSplat: Generalizable 3D Gaussian Splatting from Uncalibrated Sparse Views  [[PDF](https://arxiv.org/abs/2606.28321),[Page](https://structsplat.github.io)]
 
 [arxiv 2026.06] BiDeMem: Bidirectional Degradation Memory for Explainable Image Restoration  [[PDF](https://arxiv.org/abs/2606.28112)]
@@ -2151,6 +2144,50 @@
 [arxiv 2026.06] Structured-Li-GS: Structured 3D Gaussians Splatting with LiDAR Incorporation and Spatial Constraints  [[PDF](https://arxiv.org/abs/2606.27509)]
 
 [arxiv 2026.06] Class-frequency Guided Noise Schedule for Diffusion Models  [[PDF](https://arxiv.org/abs/2606.27696)]
+
+[arxiv 2026.07] World from Motion: Generative Dynamic Gaussian Reconstruction from Monocular Video  [[PDF](https://arxiv.org/abs/2607.01202),[Page](https://research.nvidia.com/labs/amri/projects/world-from-motion/)]
+
+[arxiv 2026.07] EquiSteer: Cross-Attention Steering Towards a Fairer Text-Guided Image Generation  [[PDF](https://arxiv.org/abs/2607.01147)]
+
+[arxiv 2026.07] Relation-Centric Open-Vocabulary 3D Gaussian Segmentation  [[PDF](https://arxiv.org/abs/2607.01140),[Page](https://eunsungcha.github.io/PairGS-web/)]
+
+[arxiv 2026.07] Post-Training Pruning for Diffusion Transformers  [[PDF](https://arxiv.org/abs/2607.00927)]
+
+[arxiv 2026.07] DeWorldSG: Depth-Aware 3D Semantic Scene Graph Generation via World-Model Priors  [[PDF](https://arxiv.org/abs/2607.00889)]
+
+[arxiv 2026.07] Improving Sparse-View 3DGS Generalization via Flat Minima Optimization  [[PDF](https://arxiv.org/abs/2607.00885),[Page](https://kangrnin.github.io/FlatMinGS)]
+
+[arxiv 2026.07] Pano2World: End-to-End 3D Generation via Unified Multi-View Sequences  [[PDF](https://arxiv.org/abs/2607.00832)]
+
+[arxiv 2026.07] Training-Free Debiasing of Diffusion Models via CLIP-Guided Denoising Optimization  [[PDF](https://arxiv.org/abs/2607.00817)]
+
+[arxiv 2026.07] Decoupled Guidance: Disentangling Subject and Context Pathways in Text-to-Image Personalization  [[PDF](https://arxiv.org/abs/2607.00766)]
+
+[arxiv 2026.07] GaussianFusion: Unified 3D Gaussian Representation for Multi-Modal Fusion Perception  [[PDF](https://arxiv.org/abs/2607.00746)]
+
+[arxiv 2026.07] GADA: Geometry-Aware Deformable Aggregation for Image-Based Gaussian Splatting  [[PDF](https://arxiv.org/abs/2607.00595)]
+
+[arxiv 2026.07] NoPA: Non-Parametric Online 3D Scene Graph Generation  [[PDF](https://arxiv.org/abs/2607.00529)]
+
+[arxiv 2026.07] HyFL-CLIP: Hyperbolic Fine-Tuning of CLIP for Robust Long-Context Understanding  [[PDF](https://arxiv.org/abs/2607.00428),[Page](https://janeyeon.github.io/hyflclip)]
+
+[arxiv 2026.07] MindAU: EEG-Conditioned Facial Action Unit Editing via Dual-Stream Manifold Alignment  [[PDF](https://arxiv.org/abs/2607.00410)]
+
+[arxiv 2026.07] The Illusion of High Utility in Safety Alignment of Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2607.00402)]
+
+[arxiv 2026.07] Vitality-Aware Compression for Efficient Image-to-Shape Diffusion Transformers  [[PDF](https://arxiv.org/abs/2607.00382)]
+
+[arxiv 2026.07] MEPA: Multi-Scale Representation Alignment for Visual Autoregressive Modeling with Mixture of Experts  [[PDF](https://arxiv.org/abs/2607.00371)]
+
+[arxiv 2026.07] Rosetta: Composable Native Multimodal Pretraining  [[PDF](https://arxiv.org/abs/2607.00293)]
+
+[arxiv 2026.07] DriftScope: Measuring The Hidden Effects of Diffusion Model Adaptation  [[PDF](https://arxiv.org/abs/2607.00183)]
+
+[arxiv 2026.07] Progressive Pose-Guided 4D Animal Reconstruction from Monocular Video  [[PDF](https://arxiv.org/abs/2607.00157)]
+
+[arxiv 2026.07] MG-SpaIR: Multi-grade Sparse-guided Implicit Representation for Training-Data-Free Image Restoration  [[PDF](https://arxiv.org/abs/2607.00138)]
+
+[arxiv 2026.07] Flow-Map GRPO: Reinforcement Learning for Few-Step Flow-Map Generators via Anchored Stochastic Composition  [[PDF](https://arxiv.org/abs/2607.00535)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
