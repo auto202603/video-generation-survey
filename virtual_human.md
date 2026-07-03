@@ -478,6 +478,14 @@
 
 [arxiv 2026.07] Learning When to Listen: Gated Affect Fusion for Human Motion Prediction  [[PDF](https://arxiv.org/abs/2607.00296)]
 
+[arxiv 2026.07] HandsOnWorld: Unconstrained Egocentric Video Generation with Camera-Disentangled Hand Control  [[PDF](https://arxiv.org/abs/2607.02075)]
+
+[arxiv 2026.07] ComplexMimic: Human-Scene Interaction Imitation in Complex 3D Environments  [[PDF](https://arxiv.org/abs/2607.02034)]
+
+[arxiv 2026.07] Training-free Controllable Human Motion Generation under Heterogeneous Constraints  [[PDF](https://arxiv.org/abs/2607.01990)]
+
+[arxiv 2026.07] Multi-THuMBS: Multi-person Tracking of 3D Human Meshes Beyond Video Shots  [[PDF](https://arxiv.org/abs/2607.01626),[Page](https://on-jungwoan.github.io/projects/multi-thumbs/)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Gaussian Face 
@@ -780,6 +788,7 @@
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 # ego
+<!-- Added on 2026-07-03 -->
 <!-- Added on 2026-06-29 -->
 <!-- Added on 2026-07-01 -->
 [arxiv 2026.06] PointSplat: Compact Gaussian Splatting via Human-Centric Prediction  [[PDF](https://arxiv.org/abs/2606.32036),[Page](https://zju3dv.github.io/pointsplat)]

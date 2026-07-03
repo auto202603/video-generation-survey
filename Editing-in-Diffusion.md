@@ -1,4 +1,5 @@
 # Image Editing In Diffusion 
+<!-- Added on 2026-07-03 -->
 <!-- Added on 2026-06-29 -->
 <!-- Added on 2026-06-26 -->
 <!-- Added on 2026-07-01 -->
@@ -2188,6 +2189,56 @@
 [arxiv 2026.07] MG-SpaIR: Multi-grade Sparse-guided Implicit Representation for Training-Data-Free Image Restoration  [[PDF](https://arxiv.org/abs/2607.00138)]
 
 [arxiv 2026.07] Flow-Map GRPO: Reinforcement Learning for Few-Step Flow-Map Generators via Anchored Stochastic Composition  [[PDF](https://arxiv.org/abs/2607.00535)]
+
+[arxiv 2026.07] PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation  [[PDF](https://arxiv.org/abs/2607.02515),[Page](https://haofeixu.github.io/pointdit/)]
+
+[arxiv 2026.07] From SRA to Self-Flow: Data Augmentation or Self-Supervision?  [[PDF](https://arxiv.org/abs/2607.02508)]
+
+[arxiv 2026.07] Wavelet-Guided Semantic Signal Compensation for Inversion-Free Image Editing  [[PDF](https://arxiv.org/abs/2607.02421)]
+
+[arxiv 2026.07] Learning Spectral and Polarimetric Clues for One-to-Multimodal Novel View Synthesis  [[PDF](https://arxiv.org/abs/2607.02372),[Page](https://medialab.dei.unipd.it/paper_data/SPoILeR/)]
+
+[arxiv 2026.07] InvSplat: Inverse Feed-Forward Scene Splatting  [[PDF](https://arxiv.org/abs/2607.02301)]
+
+[arxiv 2026.07] DisciplineGen-1M: A Large-Scale Dataset for Multidisciplinary Visual Generation and Editing  [[PDF](https://arxiv.org/abs/2607.02290)]
+
+[arxiv 2026.07] DetailAnywhere: Fashion Detail Generation via Cross-Modal Feature Alignment Distillation  [[PDF](https://arxiv.org/abs/2607.02220)]
+
+[arxiv 2026.07] X-Splat: Gaussian Splatting for 3D CBCT Generation from Single Panoramic Radiograph  [[PDF](https://arxiv.org/abs/2607.02099)]
+
+[arxiv 2026.07] PWM-ArtGen: Part World Model for Articulated Object Generation  [[PDF](https://arxiv.org/abs/2607.02045)]
+
+[arxiv 2026.07] NeoMap: Training-free Novel-View Synthesis from Single Images and Videos  [[PDF](https://arxiv.org/abs/2607.01962),[Page](https://github.com/vLAR-group/NeoMap)]
+
+[arxiv 2026.07] Rethinking Conditional Generation for Underwater Salient Object Detection  [[PDF](https://arxiv.org/abs/2607.01825)]
+
+[arxiv 2026.07] PixGS: Pixel-Space Diffusion for Direct 3D Gaussian Splat Generation  [[PDF](https://arxiv.org/abs/2607.01803)]
+
+[arxiv 2026.07] The Turning Point of 3D Plant Phenotyping: 3D Foundation Models Enable Minute-to-Second Cross-Crop Reconstruction and Beyond  [[PDF](https://arxiv.org/abs/2607.01753)]
+
+[arxiv 2026.07] InterCMDM: Block-Causal Diffusion for Autoregressive Human Interaction Generation  [[PDF](https://arxiv.org/abs/2607.01743),[Page](https://yu1ut.com/InterCMDM-HP/)]
+
+[arxiv 2026.07] Consistent Scene Understanding in 3D Gaussian Splatting via Multi-Cue Mask Refinement  [[PDF](https://arxiv.org/abs/2607.01708)]
+
+[arxiv 2026.07] Structure-Aware Gaussian Splatting for Large-Scale Scene Reconstruction  [[PDF](https://arxiv.org/abs/2607.01698)]
+
+[arxiv 2026.07] Multi-Resolution Flow Matching: Training-Free Diffusion Acceleration via Staged Sampling  [[PDF](https://arxiv.org/abs/2607.01642),[Page](https://github.com/Xingyu-Zheng/MrFlow)]
+
+[arxiv 2026.07] MVFusion-GS: Motion-Variance Guided Temporal Attention for High-Quality Dynamic Gaussian Splatting  [[PDF](https://arxiv.org/abs/2607.01578)]
+
+[arxiv 2026.07] Mind the Gap: Standard 3DGS Evaluation Primarily Measures Near-Trajectory Interpolation  [[PDF](https://arxiv.org/abs/2607.01556)]
+
+[arxiv 2026.07] MIBE: Multi-subject Interaction Benchmark and Evaluator for Personalized Image Generation  [[PDF](https://arxiv.org/abs/2607.01383)]
+
+[arxiv 2026.07] MapDreamer: Aerial Imagery Conditioned Latent Diffusion for Lane-Level Map Generation  [[PDF](https://arxiv.org/abs/2607.01370)]
+
+[arxiv 2026.07] AnchorSplat: Fast and Structure Consistent Detail Synthesis for Gaussian Splatting  [[PDF](https://arxiv.org/abs/2607.01290)]
+
+[arxiv 2026.07] PhysMani: Physics-principled 3D World Model for Dynamic Object Manipulation  [[PDF](https://arxiv.org/abs/2607.01938),[Page](https://github.com/vLAR-group/PhysMani)]
+
+[arxiv 2026.07] DL-SLAM: Enabling High-Fidelity Gaussian Splatting SLAM in Dynamic Environments based on Dual-Level Probability  [[PDF](https://arxiv.org/abs/2607.01860)]
+
+[arxiv 2026.07] Quantum-Inspired Vision: Leveraging Wave-Particle Duality for Low-Illumination Enhancement  [[PDF](https://arxiv.org/abs/2607.01731)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

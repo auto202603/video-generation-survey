@@ -1,4 +1,4 @@
-<!-- Added on 2026-06-29 -->
+<!-- Added on 2026-07-03 -->
 <!-- Added on 2026-07-01 -->
 [arxiv 2026.06] CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts  [[PDF](https://arxiv.org/abs/2606.31986),[Page](https://github.com/hulianyuyy/CoLT)]
 
@@ -3097,6 +3097,54 @@
 [arxiv 2026.07] Identifying and Resolving Pitfalls of Knowledge-Based VQA Benchmarks: Auditing, Repairing, and Augmenting  [[PDF](https://arxiv.org/abs/2607.00159),[Page](https://github.com/VAN-QIAN/ECCV26-ARA)]
 
 [arxiv 2026.03] Surfacing Variations to Calibrate Perceived Reliability of MLLM-generated Image Descriptions  [[PDF](https://arxiv.org/abs/2507.15692)]
+
+[arxiv 2026.07] Seek to Segment: Active Perception for Panoramic Referring Segmentation  [[PDF](https://arxiv.org/abs/2607.02497),[Page](https://henghuiding.com/APRS/)]
+
+[arxiv 2026.07] Towards Robustness against Typographic Attack with Training-free Concept Localization  [[PDF](https://arxiv.org/abs/2607.02494)]
+
+[arxiv 2026.07] EAGLE-360: Embodied Active Global-to-Local Exploration in 360$^\circ$  [[PDF](https://arxiv.org/abs/2607.02479)]
+
+[arxiv 2026.07] Learning to Evolve Scenes: Reasoning about Human Activities with Scene Graphs  [[PDF](https://arxiv.org/abs/2607.02425),[Page](https://francescapistilli.github.io/GLEN)]
+
+[arxiv 2026.07] Show Me Examples: Inferring Visual Concepts from Image Sets  [[PDF](https://arxiv.org/abs/2607.02402),[Page](https://github.com/CompVis/set-learner)]
+
+[arxiv 2026.07] Search-based Testing of Vision Language Models for In-Car Scene Understanding  [[PDF](https://arxiv.org/abs/2607.02300)]
+
+[arxiv 2026.07] AnyGroundBench: A Specialized-Domain Benchmark for Video Grounding in Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.02269)]
+
+[arxiv 2026.07] Efficient PEFT Methods with Adaptive Checkpointing for Vision Models and VLMs on Resource Constrained Consumer-GPUs  [[PDF](https://arxiv.org/abs/2607.02158)]
+
+[arxiv 2026.07] ESC: Emotional Self-Correction for Reliable Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.02089),[Page](https://genai4e.github.io/ESC/?)]
+
+[arxiv 2026.07] DeepGaze3.5-VL: Modeling Scanpaths via Autoregressive Token Prediction  [[PDF](https://arxiv.org/abs/2607.02083)]
+
+[arxiv 2026.07] MolSight: A Graph-Aware Vision-Language Model for Unified Chemical Image Understanding  [[PDF](https://arxiv.org/abs/2607.01982)]
+
+[arxiv 2026.07] SAB-LVLM: Significance-Aware Binarization for Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.01876)]
+
+[arxiv 2026.07] MMBench-Live: A Continuously Evolving Benchmark for Multimodal Models  [[PDF](https://arxiv.org/abs/2607.01813)]
+
+[arxiv 2026.07] SpaceEra++: A Unified Framework Towards 3D Spatial Reasoning in Video  [[PDF](https://arxiv.org/abs/2607.01784)]
+
+[arxiv 2026.07] RTE-FM-Dehazer: Radiative Transfer Equation Inspired Flow Matching for Real-World Image Dehazing  [[PDF](https://arxiv.org/abs/2607.01748)]
+
+[arxiv 2026.07] LASER: A Corrective Lens for LVLMs via Visual Attention Preservation and Sink Suppression  [[PDF](https://arxiv.org/abs/2607.01707)]
+
+[arxiv 2026.07] Teaching Vision-Language-Action Models What to See and Where to Look  [[PDF](https://arxiv.org/abs/2607.01658)]
+
+[arxiv 2026.07] Domain Generalization via Text-Anchored Information Bottleneck  [[PDF](https://arxiv.org/abs/2607.01657)]
+
+[arxiv 2026.07] Bridging 3D Gaussians and Semantic Occupancy for Comprehensive Open-Vocabulary Scene Understanding from Unposed Images  [[PDF](https://arxiv.org/abs/2607.01633)]
+
+[arxiv 2026.07] Disentangling Pictorial Cue Understanding from Language Bias in VLMs via Depth Ordering Task  [[PDF](https://arxiv.org/abs/2607.01503)]
+
+[arxiv 2026.07] Visually Grounded Self-Reflection for Vision-Language Models via Reinforcement Learning  [[PDF](https://arxiv.org/abs/2607.02490)]
+
+[arxiv 2026.07] EduArt: An educational-level benchmark for evaluating art history knowledge in large language models  [[PDF](https://arxiv.org/abs/2607.02007)]
+
+[arxiv 2026.07] Multimodal Knowledge Edit-Scoped Generalization for Online Recursive MLLM Editing  [[PDF](https://arxiv.org/abs/2607.01978)]
+
+[arxiv 2026.07] From Forgeries to Foundation Models: A Systematic Survey of Identity Document Attack and Detection  [[PDF](https://arxiv.org/abs/2607.01442)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

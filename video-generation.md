@@ -1,4 +1,5 @@
 # Video Generation Survey
+<!-- Added on 2026-07-03 -->
 <!-- Added on 2026-07-02 -->
 <!-- Added on 2026-06-29 -->
 <!-- Added on 2026-06-26 -->
@@ -1040,6 +1041,24 @@ A reading list of video generation
 [arxiv 2026.07] Towards Memory-Efficient Autoregressive Video Generation via Instance-Specific Parametric Absorption  [[PDF](https://arxiv.org/abs/2607.00712)]
 
 [arxiv 2026.07] RetailSMV: Exocentric vs. Egocentric Adaptation of Foundation Video World Models in Retail  [[PDF](https://arxiv.org/abs/2607.00310)]
+
+[arxiv 2026.07] WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory  [[PDF](https://arxiv.org/abs/2607.02517),[Page](https://worlddirector.github.io/)]
+
+[arxiv 2026.07] OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers  [[PDF](https://arxiv.org/abs/2607.02461)]
+
+[arxiv 2026.07] NEvo: Neural-Guided Evolutionary Video Synthesis for Dynamic Visual Selectivity  [[PDF](https://arxiv.org/abs/2607.02317)]
+
+[arxiv 2026.07] LongEgoRefer: A Benchmark for Long-Form Egocentric Video Referring Expression Comprehension  [[PDF](https://arxiv.org/abs/2607.02096),[Page](https://github.com/shunya-kato/LongEgoRefer)]
+
+[arxiv 2026.07] QWERTY: Training-Free Motion Control via Query-Warped Video Diffusion Transformers  [[PDF](https://arxiv.org/abs/2607.01869)]
+
+[arxiv 2026.07] ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA  [[PDF](https://arxiv.org/abs/2607.01737)]
+
+[arxiv 2026.07] ICDepth: Taming Video Diffusion Models for Video Depth Estimation via In-Context Conditioning  [[PDF](https://arxiv.org/abs/2607.01677),[Page](https://xuanhuahe.github.io/ICDepth/)]
+
+[arxiv 2026.07] Temporal and Cross-Modal Alignment for Enhanced Audiovisual Video Captioning  [[PDF](https://arxiv.org/abs/2607.01667)]
+
+[arxiv 2026.07] Anti-Prompt: Image Protection against Text-Guided Image-to-Video Generation  [[PDF](https://arxiv.org/abs/2607.01499)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
