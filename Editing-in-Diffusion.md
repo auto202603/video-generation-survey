@@ -1,4 +1,27 @@
 # Image Editing In Diffusion 
+<!-- Added on 2026-07-08 -->
+[arxiv 2026.07] ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation  [[PDF](https://arxiv.org/abs/2607.06565)]
+
+[arxiv 2026.07] From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models  [[PDF](https://arxiv.org/abs/2607.06553)]
+
+[arxiv 2026.07] Prompt-Adapter Context Routing for Parameter-Efficient Multi-Shot Long Video Extrapolation  [[PDF](https://arxiv.org/abs/2607.06481)]
+
+[arxiv 2026.07] PIPBench: A Profile-Inclusive Framework for Personalized Image Generation Evaluation  [[PDF](https://arxiv.org/abs/2607.06440)]
+
+[arxiv 2026.07] High-Resolution Artwork Outpainting with Global Blueprint Guidance and Layout Control  [[PDF](https://arxiv.org/abs/2607.06162)]
+
+[arxiv 2026.07] Tuning-Free Latent Diffusion Models for Ultrahigh-Resolution Image Editing  [[PDF](https://arxiv.org/abs/2607.06136)]
+
+[arxiv 2026.07] GaussFusion: Towards Multimodal 3D Gaussian Pretraining  [[PDF](https://arxiv.org/abs/2607.05906)]
+
+[arxiv 2026.07] REVIVE: A Multi-Modal Framework for Vandalism Detection and Recovery in Autonomous Vehicles  [[PDF](https://arxiv.org/abs/2607.05649)]
+
+[arxiv 2026.07] Patch Knowledge Transfer for Efficient AI-Generated Image Quality Assessment  [[PDF](https://arxiv.org/abs/2607.05605)]
+
+[arxiv 2026.07] Rendering-Aware Bayesian 3D Gaussian Splatting with Native Uncertainty and Adaptive Complexity Control  [[PDF](https://arxiv.org/abs/2607.05522)]
+
+[arxiv 2026.07] TILDE: TILt-based Distributional Erasure for Concept Unlearning  [[PDF](https://arxiv.org/abs/2607.06432)]
+
 <!-- Added on 2026-07-03 -->
 <!-- Added on 2026-06-29 -->
 <!-- Added on 2026-06-26 -->

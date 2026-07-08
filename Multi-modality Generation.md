@@ -1,4 +1,45 @@
 <!-- Added on 2026-07-03 -->
+<!-- Added on 2026-07-08 -->
+[arxiv 2026.07] Vision as Unified Multimodal Generation  [[PDF](https://arxiv.org/abs/2607.06560)]
+
+[arxiv 2026.07] CAIRN: Cross-Room 3D Scene Understanding with Topology-Aware Large Multimodal Models  [[PDF](https://arxiv.org/abs/2607.06534),[Page](https://oceansdepp.github.io/cairn_web/)]
+
+[arxiv 2026.07] Analysis-by-Proxy: Localization Signals in VLMs Operating as Condition Encoders  [[PDF](https://arxiv.org/abs/2607.06445)]
+
+[arxiv 2026.07] HoloCount: A Holistic Visual Counting Benchmark for MLLMs  [[PDF](https://arxiv.org/abs/2607.06420)]
+
+[arxiv 2026.07] What Images Cannot Say: Language-Guided Olfactory Representation Learning  [[PDF](https://arxiv.org/abs/2607.06402),[Page](https://www.lix.polytechnique.fr/vista/projects/2026_scent_tsonis/)]
+
+[arxiv 2026.07] VaseMuseum: Digital Intelligent Museum for Ancient Greek Pottery  [[PDF](https://arxiv.org/abs/2607.06374),[Page](https://github.com/AIGeeksGroup/VaseMuseum)]
+
+[arxiv 2026.07] Token-Based Dual-view Fusion and Adaptation of Large Vision Models for Breast Cancer Classification  [[PDF](https://arxiv.org/abs/2607.06309)]
+
+[arxiv 2026.07] VendorBench-100: A Unified Cross-Paradigm Benchmark for Deepfake Image Detection  [[PDF](https://arxiv.org/abs/2607.06254),[Page](https://github.com/sharayu-20/vendorbench-100)]
+
+[arxiv 2026.07] Structured-Condensed Prompt Tuning in Vision-Language Models for Fine-grained Image Recognition  [[PDF](https://arxiv.org/abs/2607.06185)]
+
+[arxiv 2026.07] Propose and Attend: Training-free MLLM Grounding Confidence via Multi-Token Localized Attention  [[PDF](https://arxiv.org/abs/2607.05978)]
+
+[arxiv 2026.07] Progressive Reasoning with Primitive Correction for Compositional Zero-Shot Learning  [[PDF](https://arxiv.org/abs/2607.05911)]
+
+[arxiv 2026.07] AVA-VLM: Adaptive Visual Attention-Vision Language Model for In-the-Wild Construction Site Monitoring  [[PDF](https://arxiv.org/abs/2607.05859)]
+
+[arxiv 2026.07] Segmentation before Answering: Pixel Grounding for MLLM Visual Reasoning  [[PDF](https://arxiv.org/abs/2607.05798)]
+
+[arxiv 2026.07] SAMPLe: SAM-based Optimizer for Prompt Learning in VLMs  [[PDF](https://arxiv.org/abs/2607.05727)]
+
+[arxiv 2026.07] Scene Graph Thinking: Reinforcing Structured Visual Reasoning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2607.05716)]
+
+[arxiv 2026.07] Harnessing Generative Image Models for Training-Free Primitive Shape Abstraction  [[PDF](https://arxiv.org/abs/2607.05568)]
+
+[arxiv 2026.07] Ground3D-LMM: Fine-Grained 3D Point Grounding and Spatial Reasoning with LMM  [[PDF](https://arxiv.org/abs/2607.05493)]
+
+[arxiv 2026.07] Bridging Physical Reasoning and Task Generalization via Visual Action Outcome Reasoning Alignment  [[PDF](https://arxiv.org/abs/2607.06522)]
+
+[arxiv 2026.07] UI2App: Benchmarking Visual Interaction Inference in Executable Web Application Generation  [[PDF](https://arxiv.org/abs/2607.06306)]
+
+[arxiv 2026.07] BaFCo: A Document Understanding Benchmark for Complex Bangla Form Comprehension  [[PDF](https://arxiv.org/abs/2607.05614)]
+
 <!-- Added on 2026-07-01 -->
 [arxiv 2026.06] CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts  [[PDF](https://arxiv.org/abs/2606.31986),[Page](https://github.com/hulianyuyy/CoLT)]
 

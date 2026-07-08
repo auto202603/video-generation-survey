@@ -1,4 +1,11 @@
 ## Dataset
+<!-- Added on 2026-07-08 -->
+[arxiv 2026.07] DeSeG: Decoupling Semantic Intent and Geometric Constraints for Physically Plausible Human-Scene Interaction  [[PDF](https://arxiv.org/abs/2607.05787)]
+
+[arxiv 2026.07] ARMS: Anchor-Relational Motion Streaming for Seamless Solo-Social Motion Transitions  [[PDF](https://arxiv.org/abs/2607.05733),[Page](https://hkliu.com/arms)]
+
+[arxiv 2026.07] WristMimic: Full-Body Humanoid Control with Wrist-Guided Manipulation  [[PDF](https://arxiv.org/abs/2607.06438)]
+
 <!-- Added on 2026-06-26 -->
 [arxiv 2026.06] Identifying the Unknown: Prompt-Free Open Vocabulary Anomaly Recognition for Robot-Object Interaction  [[PDF](https://arxiv.org/abs/2606.26829)]
 

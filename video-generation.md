@@ -1,4 +1,15 @@
 # Video Generation Survey
+<!-- Added on 2026-07-08 -->
+[arxiv 2026.07] EgoPolice: A Benchmark for Egocentric Video Understanding in High-Stakes Police Body-Worn Camera Footage  [[PDF](https://arxiv.org/abs/2607.06468)]
+
+[arxiv 2026.07] AlayaWorld: Long-Horizon and Playable Video World Generation  [[PDF](https://arxiv.org/abs/2607.06291)]
+
+[arxiv 2026.07] MobileWan: Closing the Quality Gap for Mobile Video Diffusion  [[PDF](https://arxiv.org/abs/2607.06173)]
+
+[arxiv 2026.07] SparseCtrl-HOI: Sparse Temporal Control for Human-Object Interaction Video Generation  [[PDF](https://arxiv.org/abs/2607.05994),[Page](https://mpi-lab.github.io/SparseCtrl-HOI)]
+
+[arxiv 2026.07] Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory  [[PDF](https://arxiv.org/abs/2607.05511),[Page](https://clare-nie.github.io/Light-Omni)]
+
 <!-- Added on 2026-07-03 -->
 <!-- Added on 2026-07-02 -->
 <!-- Added on 2026-06-29 -->
