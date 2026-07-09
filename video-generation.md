@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-07-08 -->
+<!-- Added on 2026-07-09 -->
 [arxiv 2026.07] EgoPolice: A Benchmark for Egocentric Video Understanding in High-Stakes Police Body-Worn Camera Footage  [[PDF](https://arxiv.org/abs/2607.06468)]
 
 [arxiv 2026.07] AlayaWorld: Long-Horizon and Playable Video World Generation  [[PDF](https://arxiv.org/abs/2607.06291)]
@@ -1070,6 +1070,10 @@ A reading list of video generation
 [arxiv 2026.07] Temporal and Cross-Modal Alignment for Enhanced Audiovisual Video Captioning  [[PDF](https://arxiv.org/abs/2607.01667)]
 
 [arxiv 2026.07] Anti-Prompt: Image Protection against Text-Guided Image-to-Video Generation  [[PDF](https://arxiv.org/abs/2607.01499)]
+
+[arxiv 2026.07] Gen4U: Unifying Video Generation and Understanding via Diffusion  [[PDF](https://arxiv.org/abs/2607.06856)]
+
+[arxiv 2026.07] Dynamic-in-Few-Step: Unifying Dynamic Computation and Few-Step Distillation for Efficient Video Generation  [[PDF](https://arxiv.org/abs/2607.06631)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

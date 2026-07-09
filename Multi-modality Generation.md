@@ -1,3 +1,4 @@
+<!-- Added on 2026-07-09 -->
 <!-- Added on 2026-07-03 -->
 <!-- Added on 2026-07-08 -->
 [arxiv 2026.07] Vision as Unified Multimodal Generation  [[PDF](https://arxiv.org/abs/2607.06560)]
@@ -3186,6 +3187,32 @@
 [arxiv 2026.07] Multimodal Knowledge Edit-Scoped Generalization for Online Recursive MLLM Editing  [[PDF](https://arxiv.org/abs/2607.01978)]
 
 [arxiv 2026.07] From Forgeries to Foundation Models: A Systematic Survey of Identity Document Attack and Detection  [[PDF](https://arxiv.org/abs/2607.01442)]
+
+[arxiv 2026.07] HIVE: Understanding Post-Hallucination Reasoning in Vision Language Models  [[PDF](https://arxiv.org/abs/2607.07507)]
+
+[arxiv 2026.07] When Prompts Ignore Structure: Graph-Based Attribute Reasoning for Calibrated VLMs  [[PDF](https://arxiv.org/abs/2607.07395)]
+
+[arxiv 2026.07] MMAgent-R$^2$: Learning to Rerank and Reject for Agentic mRAG  [[PDF](https://arxiv.org/abs/2607.07383)]
+
+[arxiv 2026.07] BUS: Brain-Inspired Unsupervised Self-Reflection for Advanced Multimodal Reasoning  [[PDF](https://arxiv.org/abs/2607.07361)]
+
+[arxiv 2026.07] SoccerNet 2026 Challenges Results  [[PDF](https://arxiv.org/abs/2607.07320)]
+
+[arxiv 2026.07] InfraQR: Edge-Placed QR-Inspired Structured Patch Attacks on Infrared Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.07288)]
+
+[arxiv 2026.07] Comparative Study of Domain-adapted VLMs for General Document Visual Question Answering  [[PDF](https://arxiv.org/abs/2607.07179)]
+
+[arxiv 2026.07] Tree-of-Thoughts Reasoning for Text-to-Image In-Context Learning  [[PDF](https://arxiv.org/abs/2607.07117),[Page](https://github.com/Pandastep/ToT-T2I-ICL)]
+
+[arxiv 2026.07] AnchorPrune: Relevance-Anchored Contextual Expansion for Visual Token Pruning  [[PDF](https://arxiv.org/abs/2607.07033)]
+
+[arxiv 2026.07] A Good Initialization is All You Need for Faithful Visual Attribution  [[PDF](https://arxiv.org/abs/2607.06726)]
+
+[arxiv 2026.07] SpaR3D-MoE: Adaptive 3D Spatial Reasoning from Sparse Views Meets Geometry-Inductive Mixture-of-Experts  [[PDF](https://arxiv.org/abs/2607.06620)]
+
+[arxiv 2026.07] Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation  [[PDF](https://arxiv.org/abs/2607.07608),[Page](https://github.com/quhongyu/LaMem-VLA)]
+
+[arxiv 2026.07] LEMUR 2: Unlocking Neural Network Diversity for AI  [[PDF](https://arxiv.org/abs/2607.06839)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

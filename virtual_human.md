@@ -493,6 +493,10 @@
 
 [arxiv 2026.07] Multi-THuMBS: Multi-person Tracking of 3D Human Meshes Beyond Video Shots  [[PDF](https://arxiv.org/abs/2607.01626),[Page](https://on-jungwoan.github.io/projects/multi-thumbs/)]
 
+[arxiv 2026.07] Ego-Human Motion Prediction with 3D-Aware LLM  [[PDF](https://arxiv.org/abs/2607.07001)]
+
+[arxiv 2026.07] Retrieving and Refining Winning Noise Tickets for Diffusion-Based Motion Generation  [[PDF](https://arxiv.org/abs/2607.06843),[Page](https://sinc865.github.io/winro/)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Gaussian Face 
@@ -795,9 +799,7 @@
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 # ego
-<!-- Added on 2026-07-03 -->
-<!-- Added on 2026-06-29 -->
-<!-- Added on 2026-07-01 -->
+<!-- Added on 2026-07-09 -->
 [arxiv 2026.06] PointSplat: Compact Gaussian Splatting via Human-Centric Prediction  [[PDF](https://arxiv.org/abs/2606.32036),[Page](https://zju3dv.github.io/pointsplat)]
 
 [arxiv 2026.06] LUNA: Learning Universal 3D Human Animation Beyond Skinning  [[PDF](https://arxiv.org/abs/2606.31981),[Page](https://penghtyx.github.io/LUNA/)]

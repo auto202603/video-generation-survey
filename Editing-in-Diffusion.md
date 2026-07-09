@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-07-08 -->
+<!-- Added on 2026-07-09 -->
 [arxiv 2026.07] ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation  [[PDF](https://arxiv.org/abs/2607.06565)]
 
 [arxiv 2026.07] From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models  [[PDF](https://arxiv.org/abs/2607.06553)]
@@ -2262,6 +2262,20 @@
 [arxiv 2026.07] DL-SLAM: Enabling High-Fidelity Gaussian Splatting SLAM in Dynamic Environments based on Dual-Level Probability  [[PDF](https://arxiv.org/abs/2607.01860)]
 
 [arxiv 2026.07] Quantum-Inspired Vision: Leveraging Wave-Particle Duality for Low-Illumination Enhancement  [[PDF](https://arxiv.org/abs/2607.01731)]
+
+[arxiv 2026.07] Stage-Aware Adaptation and Distribution Calibration for Subject-Driven Personalized Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2607.07173)]
+
+[arxiv 2026.07] PUF: Plug-and-Play Uncertainty-Aware Fusion for Online 3D Scene Graph Generation  [[PDF](https://arxiv.org/abs/2607.07170)]
+
+[arxiv 2026.07] NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction  [[PDF](https://arxiv.org/abs/2607.07168)]
+
+[arxiv 2026.07] Making Implicit Preservation Intent Explicit in Conversational Image Editing  [[PDF](https://arxiv.org/abs/2607.07051)]
+
+[arxiv 2026.07] Do Counterfactually Fair Image Classifiers Satisfy Group Fairness? -- A Theoretical and Empirical Study  [[PDF](https://arxiv.org/abs/2607.06603)]
+
+[arxiv 2026.07] AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis  [[PDF](https://arxiv.org/abs/2607.06590),[Page](https://www.cdics.org/)]
+
+[arxiv 2026.07] Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF  [[PDF](https://arxiv.org/abs/2607.07693)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
