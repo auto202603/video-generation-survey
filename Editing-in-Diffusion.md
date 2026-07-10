@@ -2277,6 +2277,24 @@
 
 [arxiv 2026.07] Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF  [[PDF](https://arxiv.org/abs/2607.07693)]
 
+[arxiv 2026.07] Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction  [[PDF](https://arxiv.org/abs/2607.08769),[Page](https://insta360-research-team.github.io/GGPS-Website)]
+
+[arxiv 2026.07] Enhancing In-context Panoramic Generation via Geometric-aware Pretraining  [[PDF](https://arxiv.org/abs/2607.08765)]
+
+[arxiv 2026.07] Beyond wheelchairs and blindfolds: Investigating disability stereotypes in T2I models with INCLUDE-BENCH  [[PDF](https://arxiv.org/abs/2607.08515)]
+
+[arxiv 2026.07] WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2607.08375)]
+
+[arxiv 2026.07] On the Design of Mixture-of-Experts for Dynamic Gaussian Splatting  [[PDF](https://arxiv.org/abs/2607.08250)]
+
+[arxiv 2026.07] Multimodal 3D LUT Generation via StatLUT with Statistical Features for Photorealistic Style Transfer  [[PDF](https://arxiv.org/abs/2607.08227)]
+
+[arxiv 2026.07] TMI: Text-to-Image Meets Image-to-Image for Complementary Data Synthesis to Boost Long-Tailed Instance Segmentation  [[PDF](https://arxiv.org/abs/2607.08201)]
+
+[arxiv 2026.07] Leveraging Color Naming for Image Enhancement  [[PDF](https://arxiv.org/abs/2607.08185),[Page](https://namedcurves.github.io)]
+
+[arxiv 2026.03] NamedCurves: Learned Image Enhancement via Color Naming  [[PDF](https://arxiv.org/abs/2407.09892)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]

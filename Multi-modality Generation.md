@@ -3214,6 +3214,22 @@
 
 [arxiv 2026.07] LEMUR 2: Unlocking Neural Network Diversity for AI  [[PDF](https://arxiv.org/abs/2607.06839)]
 
+[arxiv 2026.07] HumanForge: A Human-Centric Deepfake Video Benchmark with Multi-Agent Forgery Rationales  [[PDF](https://arxiv.org/abs/2607.08705)]
+
+[arxiv 2026.07] When Structured Sparse Autoencoders Learn Consistent Concepts Across Modalities  [[PDF](https://arxiv.org/abs/2607.08605)]
+
+[arxiv 2026.07] Switch-Reasoner: Learn When to Think in Multitask Mixtures via Reinforcement Learning  [[PDF](https://arxiv.org/abs/2607.08572)]
+
+[arxiv 2026.07] VocaDet: Sample-Driven Open-Vocabulary Object Detection and Segmentation via Visual Tokenization and Vector Database Retrieval  [[PDF](https://arxiv.org/abs/2607.08541)]
+
+[arxiv 2026.07] Cognitive-structured Multimodal Agent for Multimodal Understanding, Generation, and Editing  [[PDF](https://arxiv.org/abs/2607.08497),[Page](https://caseclose.github.io/cma-harness/)]
+
+[arxiv 2026.07] VEGAS: Human-Aligned Video Caption Evaluation via Gaze  [[PDF](https://arxiv.org/abs/2607.08489)]
+
+[arxiv 2026.07] DeltaV: Thinking with Visual State Updates in Unified Large Multimodal Models  [[PDF](https://arxiv.org/abs/2607.08434)]
+
+[arxiv 2026.07] Attribute Retrieving for Open-Vocabulary Endoscopic Compositional Referring Segmentation  [[PDF](https://arxiv.org/abs/2607.08397)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## Feedback 

@@ -1075,6 +1075,16 @@ A reading list of video generation
 
 [arxiv 2026.07] Dynamic-in-Few-Step: Unifying Dynamic Computation and Few-Step Distillation for Efficient Video Generation  [[PDF](https://arxiv.org/abs/2607.06631)]
 
+[arxiv 2026.07] LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models  [[PDF](https://arxiv.org/abs/2607.08770),[Page](https://cdfan0627.github.io/LongE2V-page/)]
+
+[arxiv 2026.07] OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators  [[PDF](https://arxiv.org/abs/2607.08766),[Page](https://meigen-ai.github.io/OPSD-V)]
+
+[arxiv 2026.07] OpenCoF: Learning to Reason Through Video Generation  [[PDF](https://arxiv.org/abs/2607.08763),[Page](https://opencof.github.io/)]
+
+[arxiv 2026.07] SAGA: Stable Acceleration Guidance for Autoregressive Video Generation  [[PDF](https://arxiv.org/abs/2607.08020)]
+
+[arxiv 2026.07] LightCrafter: PBR-Conditioned Video Diffusion Refinement for Controllable and Consistent Relighting  [[PDF](https://arxiv.org/abs/2607.08016)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## VAE

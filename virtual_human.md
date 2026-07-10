@@ -497,6 +497,8 @@
 
 [arxiv 2026.07] Retrieving and Refining Winning Noise Tickets for Diffusion-Based Motion Generation  [[PDF](https://arxiv.org/abs/2607.06843),[Page](https://sinc865.github.io/winro/)]
 
+[arxiv 2026.07] ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation  [[PDF](https://arxiv.org/abs/2607.08741)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Gaussian Face 
