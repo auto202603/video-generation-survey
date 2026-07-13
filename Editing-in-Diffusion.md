@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-07-09 -->
+<!-- Added on 2026-07-13 -->
 [arxiv 2026.07] ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation  [[PDF](https://arxiv.org/abs/2607.06565)]
 
 [arxiv 2026.07] From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models  [[PDF](https://arxiv.org/abs/2607.06553)]
@@ -2294,6 +2294,26 @@
 [arxiv 2026.07] Leveraging Color Naming for Image Enhancement  [[PDF](https://arxiv.org/abs/2607.08185),[Page](https://namedcurves.github.io)]
 
 [arxiv 2026.03] NamedCurves: Learned Image Enhancement via Color Naming  [[PDF](https://arxiv.org/abs/2407.09892)]
+
+[arxiv 2026.07] CtrlVTON: Controllable Virtual Try-On via Visual-Instance-Prompt Segmentation  [[PDF](https://arxiv.org/abs/2607.09362)]
+
+[arxiv 2026.07] Simon-SR: Spatially Adaptive Modulation and Visual Prompt Adaptation for Text-Reinforced Super-Resolution  [[PDF](https://arxiv.org/abs/2607.09351)]
+
+[arxiv 2026.07] AnythingReality: Robust Online Gaussian Splatting SLAM for Open-Vocabulary VR Scene Exploration  [[PDF](https://arxiv.org/abs/2607.09260)]
+
+[arxiv 2026.07] YeTI: You Only Need Two Noisy Images for Real-World sRGB Noise Generation  [[PDF](https://arxiv.org/abs/2607.09193)]
+
+[arxiv 2026.07] IB-Flow: Information Bottleneck-Guided CFG Distillation for Few-Step Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2607.09133)]
+
+[arxiv 2026.07] 4D Human-Scene Reconstruction from Low-Overlap Captures  [[PDF](https://arxiv.org/abs/2607.09125),[Page](https://sisyphm.github.io/studiorecon-page/)]
+
+[arxiv 2026.07] Probing Diffusion Denoising Dynamics for Contrastive Representation Learning  [[PDF](https://arxiv.org/abs/2607.09067)]
+
+[arxiv 2026.07] Decoupled Illumination Priors for Spatially Controllable Multi-View Indoor Scene Relighting  [[PDF](https://arxiv.org/abs/2607.08879)]
+
+[arxiv 2026.07] StereoSplat+: Feed-Forward Stereo Gaussian Splatting with Diffusion-Assisted Progressive Inference  [[PDF](https://arxiv.org/abs/2607.08808)]
+
+[arxiv 2026.07] SplatCtrl: Perception-Action Coupling via Gaussian Scene Representations and Reactive Robot Control  [[PDF](https://arxiv.org/abs/2607.08948)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

@@ -1,5 +1,5 @@
 ## Dataset
-<!-- Added on 2026-07-08 -->
+<!-- Added on 2026-07-13 -->
 [arxiv 2026.07] DeSeG: Decoupling Semantic Intent and Geometric Constraints for Physically Plausible Human-Scene Interaction  [[PDF](https://arxiv.org/abs/2607.05787)]
 
 [arxiv 2026.07] ARMS: Anchor-Relational Motion Streaming for Seamless Solo-Social Motion Transitions  [[PDF](https://arxiv.org/abs/2607.05733),[Page](https://hkliu.com/arms)]
@@ -498,6 +498,10 @@
 [arxiv 2026.07] Retrieving and Refining Winning Noise Tickets for Diffusion-Based Motion Generation  [[PDF](https://arxiv.org/abs/2607.06843),[Page](https://sinc865.github.io/winro/)]
 
 [arxiv 2026.07] ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation  [[PDF](https://arxiv.org/abs/2607.08741)]
+
+[arxiv 2026.07] TSR-Ego: Temporally Guided Stereo Refinement Framework for Egocentric 3D Human Pose Estimation  [[PDF](https://arxiv.org/abs/2607.09169)]
+
+[arxiv 2026.07] DETRAM: End-to-end DEtection, Tracking and Recovery of HumAn Meshes  [[PDF](https://arxiv.org/abs/2607.09089)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

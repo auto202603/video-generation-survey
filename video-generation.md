@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-07-09 -->
+<!-- Added on 2026-07-13 -->
 [arxiv 2026.07] EgoPolice: A Benchmark for Egocentric Video Understanding in High-Stakes Police Body-Worn Camera Footage  [[PDF](https://arxiv.org/abs/2607.06468)]
 
 [arxiv 2026.07] AlayaWorld: Long-Horizon and Playable Video World Generation  [[PDF](https://arxiv.org/abs/2607.06291)]
@@ -1084,6 +1084,8 @@ A reading list of video generation
 [arxiv 2026.07] SAGA: Stable Acceleration Guidance for Autoregressive Video Generation  [[PDF](https://arxiv.org/abs/2607.08020)]
 
 [arxiv 2026.07] LightCrafter: PBR-Conditioned Video Diffusion Refinement for Controllable and Consistent Relighting  [[PDF](https://arxiv.org/abs/2607.08016)]
+
+[arxiv 2026.07] Video Generation Models are General-Purpose Vision Learners  [[PDF](https://arxiv.org/abs/2607.09024)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

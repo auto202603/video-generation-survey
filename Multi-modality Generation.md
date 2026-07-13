@@ -1,6 +1,6 @@
 <!-- Added on 2026-07-09 -->
-<!-- Added on 2026-07-03 -->
-<!-- Added on 2026-07-08 -->
+<!-- Added on 2026-07-13 -->
+<!-- Added on 2026-07-13 -->
 [arxiv 2026.07] Vision as Unified Multimodal Generation  [[PDF](https://arxiv.org/abs/2607.06560)]
 
 [arxiv 2026.07] CAIRN: Cross-Room 3D Scene Understanding with Topology-Aware Large Multimodal Models  [[PDF](https://arxiv.org/abs/2607.06534),[Page](https://oceansdepp.github.io/cairn_web/)]
@@ -3229,6 +3229,32 @@
 [arxiv 2026.07] DeltaV: Thinking with Visual State Updates in Unified Large Multimodal Models  [[PDF](https://arxiv.org/abs/2607.08434)]
 
 [arxiv 2026.07] Attribute Retrieving for Open-Vocabulary Endoscopic Compositional Referring Segmentation  [[PDF](https://arxiv.org/abs/2607.08397)]
+
+[arxiv 2026.07] Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models  [[PDF](https://arxiv.org/abs/2607.09654)]
+
+[arxiv 2026.07] The Count Is There, but Misaligned: Understanding and Correcting Counting Failures in VLMs  [[PDF](https://arxiv.org/abs/2607.09544)]
+
+[arxiv 2026.07] Seeing is Free, Speaking is Not: Uncovering the True Energy Bottleneck in Edge VLM Inference  [[PDF](https://arxiv.org/abs/2607.09520)]
+
+[arxiv 2026.07] SigLIP-HD by Fine-to-Coarse Supervision  [[PDF](https://arxiv.org/abs/2607.09488),[Page](https://github.com/LiheYoung/SigLIP-HD)]
+
+[arxiv 2026.07] Robustifying Vision-Language Models via Test-Time Prompt Adaptation  [[PDF](https://arxiv.org/abs/2607.09450)]
+
+[arxiv 2026.07] Parameter-Efficient Vision-Language Adaptation with Continuous Metadata Conditioning for Animal Re-Identification  [[PDF](https://arxiv.org/abs/2607.09443)]
+
+[arxiv 2026.07] Integrating Large Language Models and Graph Convolutional Networks for Semi-Supervised Image Classification  [[PDF](https://arxiv.org/abs/2607.09104)]
+
+[arxiv 2026.07] OmniMapBench: Benchmarking Visual-Centric Reasoning on Diverse Map Documents  [[PDF](https://arxiv.org/abs/2607.09068)]
+
+[arxiv 2026.07] On Locality and Length Generalization in Visual Reasoning  [[PDF](https://arxiv.org/abs/2607.09061)]
+
+[arxiv 2026.07] MOSAIC: Adaptive Inter-layer Composition for Efficient Heterogeneous Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.09029)]
+
+[arxiv 2026.07] C-GAP: Class-Aware and Online Prompting Improves Vision-Language Models on Imbalanced Classes  [[PDF](https://arxiv.org/abs/2607.09008)]
+
+[arxiv 2026.07] Mixture of Probes: Learning from Privileged Modalities in Multimodal LLMs Through Probing  [[PDF](https://arxiv.org/abs/2607.08839)]
+
+[arxiv 2026.07] GReFEM: Multimodal LLMs as Zero-Shot Semantic Assistants for Physics-Guided 3D Mesh Refinement  [[PDF](https://arxiv.org/abs/2607.08798)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
