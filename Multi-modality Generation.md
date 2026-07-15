@@ -3256,6 +3256,21 @@
 
 [arxiv 2026.07] GReFEM: Multimodal LLMs as Zero-Shot Semantic Assistants for Physics-Guided 3D Mesh Refinement  [[PDF](https://arxiv.org/abs/2607.08798)]
 
+[arxiv 2026.07] Breaking Déjà Vu: Independent Auditing of Visual Place Recognition through Vision-Language Reasoning  [[PDF](https://arxiv.org/abs/2607.12818)]
+[arxiv 2026.07] UniVR: Thinking in Visual Space for Unified Visual Reasoning  [[PDF](https://arxiv.org/abs/2607.12800),[Page](https://maverickren.github.io/UniVR.github.io/)]
+[arxiv 2026.07] CoRe: A Comprehensive Framework for Cross-Image Comparative Reasoning in Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.12786)]
+[arxiv 2026.07] EvoGraph-R1: Self-Evolving Multimodal Knowledge Hypergraphs for Agentic Retrieval  [[PDF](https://arxiv.org/abs/2607.12764)]
+[arxiv 2026.07] VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token Compression  [[PDF](https://arxiv.org/abs/2607.12756)]
+[arxiv 2026.07] DynTrace: Tracking Dynamic Object Evidence for 4D Spatio-Temporal Reasoning in MLLMs  [[PDF](https://arxiv.org/abs/2607.12503)]
+[arxiv 2026.07] MQAdapter: Multi-Modal Quantum Adapter for Coarse-to-Fine VLM Fine-tuning  [[PDF](https://arxiv.org/abs/2607.12418)]
+[arxiv 2026.07] IQA-T1: Tool-based Visual Evidence Reasoning for Image Quality Assessment  [[PDF](https://arxiv.org/abs/2607.12375)]
+[arxiv 2026.07] DM-KG: A Novel Method for Boosting Spatial Cognition of Vision-Language Models in Street View Imagery  [[PDF](https://arxiv.org/abs/2607.12319)]
+[arxiv 2026.07] Semantic-Edge Response Decoding of SAM3 for Zero-Shot Crack Segmentation  [[PDF](https://arxiv.org/abs/2607.12292)]
+[arxiv 2026.07] SymbOmni: Evolving Agentic Omni Models via Symbolic Concept Learning  [[PDF](https://arxiv.org/abs/2607.12042),[Page](https://spherelab.ai/symbomni)]
+[arxiv 2026.07] Anomalous Frame Detection Using VLM-Based Description Comparison for Extracting Expert-Specific Actions and Contextual Decision-Making Scenes with Intra-Video Self-Similarity  [[PDF](https://arxiv.org/abs/2607.11957)]
+[arxiv 2026.07] Do We Really Need Multimodal Emotion Language Models Larger Than 1B Parameters?  [[PDF](https://arxiv.org/abs/2607.12787)]
+[arxiv 2026.07] Do You Remember? Toward Memory-Centric Multimodal AI  [[PDF](https://arxiv.org/abs/2607.11919)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## Feedback 

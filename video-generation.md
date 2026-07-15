@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-07-13 -->
+<!-- Added on 2026-07-15 -->
 [arxiv 2026.07] EgoPolice: A Benchmark for Egocentric Video Understanding in High-Stakes Police Body-Worn Camera Footage  [[PDF](https://arxiv.org/abs/2607.06468)]
 
 [arxiv 2026.07] AlayaWorld: Long-Horizon and Playable Video World Generation  [[PDF](https://arxiv.org/abs/2607.06291)]
@@ -1086,6 +1086,11 @@ A reading list of video generation
 [arxiv 2026.07] LightCrafter: PBR-Conditioned Video Diffusion Refinement for Controllable and Consistent Relighting  [[PDF](https://arxiv.org/abs/2607.08016)]
 
 [arxiv 2026.07] Video Generation Models are General-Purpose Vision Learners  [[PDF](https://arxiv.org/abs/2607.09024)]
+
+[arxiv 2026.07] AVSCap: Orchestrating Audio-Visual Synergy for Omni-modal Video Captioning  [[PDF](https://arxiv.org/abs/2607.12820)]
+[arxiv 2026.07] Gaussian Mixture Modeling for Event-Aware Visual Allocation in Long Video Understanding  [[PDF](https://arxiv.org/abs/2607.12557)]
+[arxiv 2026.07] ACID: Adaptive Caching for vIDeo generation  [[PDF](https://arxiv.org/abs/2607.12358)]
+[arxiv 2026.07] The Seriality Gap in Video Diffusion Models  [[PDF](https://arxiv.org/abs/2607.13031),[Page](https://seriality-gap.jdiazchao.com)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

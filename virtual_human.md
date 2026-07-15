@@ -503,6 +503,9 @@
 
 [arxiv 2026.07] DETRAM: End-to-end DEtection, Tracking and Recovery of HumAn Meshes  [[PDF](https://arxiv.org/abs/2607.09089)]
 
+[arxiv 2026.07] RegHead: Non-Humanoid Head Blendshapes via Feed-Forward Registration  [[PDF](https://arxiv.org/abs/2607.12206)]
+[arxiv 2026.07] GaitSpan: Growing Humanoid Locomotion from Walking to Running  [[PDF](https://arxiv.org/abs/2607.12114),[Page](https://gaitspan2026.github.io/)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Gaussian Face 

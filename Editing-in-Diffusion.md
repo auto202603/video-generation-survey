@@ -2315,6 +2315,16 @@
 
 [arxiv 2026.07] SplatCtrl: Perception-Action Coupling via Gaussian Scene Representations and Reactive Robot Control  [[PDF](https://arxiv.org/abs/2607.08948)]
 
+[arxiv 2026.07] ExtraGS: Enhancing Endoscopic View Extrapolation via Diffusion-Guided 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2607.12785)]
+[arxiv 2026.07] RFMSR: Residual Flow Matching for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2607.12753)]
+[arxiv 2026.07] WanToFight: Real-Time Generative Game Engine for Multi-Player Combat Interaction  [[PDF](https://arxiv.org/abs/2607.12592),[Page](https://humanaigc.github.io/wantofight/)]
+[arxiv 2026.07] DiTailed: Ensuring Visual Object Consistency in Text-Image-to-Image Flow Matching Models  [[PDF](https://arxiv.org/abs/2607.12539),[Page](https://francescotaioli.github.io/DiTailed/)]
+[arxiv 2026.07] RealSkin: Spatio-Spectral Partial Neural Adjoint Maps for Image-to-3D Attribute Transfer  [[PDF](https://arxiv.org/abs/2607.12495)]
+[arxiv 2026.07] Let RGB Be the Language of Vision  [[PDF](https://arxiv.org/abs/2607.12450)]
+[arxiv 2026.07] Implicit 4D Gaussian Splatting for Fast Motion with Large Inter-Frame Displacements  [[PDF](https://arxiv.org/abs/2607.12362),[Page](https://seung-gyeom.github.io/SPIN-4DGS)]
+[arxiv 2026.07] Self-Consistent Flow: Unifying Velocity and Endpoint Prediction for Rectified Flow Models  [[PDF](https://arxiv.org/abs/2607.12171)]
+[arxiv 2026.07] MetaView: Monocular Novel View Synthesis with Scale-Aware Implicit Geometry Priors  [[PDF](https://arxiv.org/abs/2607.12000)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]
