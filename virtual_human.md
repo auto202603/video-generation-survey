@@ -1,5 +1,15 @@
 ## Dataset
-<!-- Added on 2026-07-13 -->
+<!-- Added on 2026-07-16 -->
+[arxiv 2026.07] Music-to-Dance Generation via Atomic Movements  [[PDF](https://arxiv.org/abs/2607.13978)]
+
+[arxiv 2026.07] T3HG-Editor: Text-driven 3D Human Garment Editing with Body Priors Embedded in SMPL-X  [[PDF](https://arxiv.org/abs/2607.13654)]
+
+[arxiv 2026.07] Human4K: A Large-Scale 4K Multi-View Mocap Dataset for Whole-Body 3D Human Reconstruction  [[PDF](https://arxiv.org/abs/2607.13646)]
+
+[arxiv 2026.07] MultiAnimate: A Unified Framework for Controllable Multi-Character Animation  [[PDF](https://arxiv.org/abs/2607.13415)]
+
+[arxiv 2026.07] EgoHTR: Egocentric 4D Demonstrations of Human Terrain Traversal  [[PDF](https://arxiv.org/abs/2607.13472),[Page](https://egohtr.github.io)]
+
 [arxiv 2026.07] DeSeG: Decoupling Semantic Intent and Geometric Constraints for Physically Plausible Human-Scene Interaction  [[PDF](https://arxiv.org/abs/2607.05787)]
 
 [arxiv 2026.07] ARMS: Anchor-Relational Motion Streaming for Seamless Solo-Social Motion Transitions  [[PDF](https://arxiv.org/abs/2607.05733),[Page](https://hkliu.com/arms)]

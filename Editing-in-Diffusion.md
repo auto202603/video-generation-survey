@@ -1,5 +1,21 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-07-13 -->
+<!-- Added on 2026-07-16 -->
+[arxiv 2026.07] VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders  [[PDF](https://arxiv.org/abs/2607.14088),[Page](https://zhxie0117.github.io/VideoRAE)]
+
+[arxiv 2026.07] Cyclone: Diffusion Model for Cycle-Consistent Weather Editing from Unpaired Driving Data  [[PDF](https://arxiv.org/abs/2607.13927),[Page](https://ntaquan0125.github.io/weather-cyclone/)]
+
+[arxiv 2026.07] Thresholded Cross-Attention for Reliable Intensity-Chromaticity Fusion in Low-Light Image Enhancement  [[PDF](https://arxiv.org/abs/2607.13925)]
+
+[arxiv 2026.07] Bake It Till You Make It: Ultrafast Spatial Texture-Atlas Splatting  [[PDF](https://arxiv.org/abs/2607.13808),[Page](https://nilkel.github.io/bitymi/)]
+
+[arxiv 2026.07] Calibrated Closed-Form Uncertainty for Radiative Gaussian Splatting in Sparse-View CT  [[PDF](https://arxiv.org/abs/2607.13682),[Page](http://ac.uk)]
+
+[arxiv 2026.07] HIVE-3D: Hierarchical Voxel Enhancement for High-Quality 3D Scene Generation  [[PDF](https://arxiv.org/abs/2607.13468),[Page](https://xbdff.github.io/HIVE-3D/)]
+
+[arxiv 2026.07] DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation  [[PDF](https://arxiv.org/abs/2607.13365)]
+
+[arxiv 2026.07] Learning Physics-Guided Residual Dynamics for Deformable Object Simulation  [[PDF](https://arxiv.org/abs/2607.13451),[Page](https://pgrd-robot.github.io/)]
+
 [arxiv 2026.07] ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation  [[PDF](https://arxiv.org/abs/2607.06565)]
 
 [arxiv 2026.07] From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models  [[PDF](https://arxiv.org/abs/2607.06553)]

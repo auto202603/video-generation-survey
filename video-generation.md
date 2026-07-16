@@ -1,5 +1,15 @@
 # Video Generation Survey
-<!-- Added on 2026-07-15 -->
+<!-- Added on 2026-07-16 -->
+[arxiv 2026.07] VGIF-Score: Interpretable and Diagnostic Evaluation of Spatio-Temporal Instruction Following in Video Generation  [[PDF](https://arxiv.org/abs/2607.13527)]
+
+[arxiv 2026.07] Bring Music The Horizon: Music-Driven 360$^\circ$ Video Generation  [[PDF](https://arxiv.org/abs/2607.13471)]
+
+[arxiv 2026.07] Delving into the Temporal Challenges of Unified Video Protection Against Image-to-Video and Fine-Tuning-based Customization  [[PDF](https://arxiv.org/abs/2607.13336),[Page](https://lifegenip.cc/competition)]
+
+[arxiv 2026.07] FOLIO: Focused Semantic Memory for Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2607.13298)]
+
+[arxiv 2026.07] Text2Sign: A Single-GPU Diffusion Baseline for Text-to-Sign Language Video Generation  [[PDF](https://arxiv.org/abs/2607.13164)]
+
 [arxiv 2026.07] EgoPolice: A Benchmark for Egocentric Video Understanding in High-Stakes Police Body-Worn Camera Footage  [[PDF](https://arxiv.org/abs/2607.06468)]
 
 [arxiv 2026.07] AlayaWorld: Long-Horizon and Playable Video World Generation  [[PDF](https://arxiv.org/abs/2607.06291)]

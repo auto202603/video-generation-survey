@@ -1,5 +1,31 @@
 <!-- Added on 2026-07-09 -->
-<!-- Added on 2026-07-13 -->
+<!-- Added on 2026-07-16 -->
+[arxiv 2026.07] SIVA-RL: Sensitivity-Invariance Visual Alignment for Multimodal Reinforcement Learning  [[PDF](https://arxiv.org/abs/2607.13931)]
+
+[arxiv 2026.07] Unleashing Multimodal Large Language Models for Training-free HOI Detection in the Wild  [[PDF](https://arxiv.org/abs/2607.13881)]
+
+[arxiv 2026.07] EgoProceVQA: A Novel Egocentric Procedural Understanding Task with Self-Skill-Exploration Agent  [[PDF](https://arxiv.org/abs/2607.13792)]
+
+[arxiv 2026.07] Groc-PO: Grounded Context Preference Optimization for Truthful Multimodal LLMs  [[PDF](https://arxiv.org/abs/2607.13712)]
+
+[arxiv 2026.07] Fine-grained CLIP fine-tuning with self-annotated region alignment  [[PDF](https://arxiv.org/abs/2607.13661)]
+
+[arxiv 2026.07] Exploratory, Communicative, and Deployable: Vision-Driven Embodied Agents for Open-World Mobile Manipulation  [[PDF](https://arxiv.org/abs/2607.13653),[Page](https://github.com/InternRobotics/REAL)]
+
+[arxiv 2026.07] GHR-VLM: Making Zero-Shot Transit Video Analytics Realizable with Grounded Hybrid Reasoning  [[PDF](https://arxiv.org/abs/2607.13569)]
+
+[arxiv 2026.07] ThinkBLOX: 3D Indoor Scene Generation with Progressive Reasoning  [[PDF](https://arxiv.org/abs/2607.13539)]
+
+[arxiv 2026.07] Attention-Free and Lightweight Token Reduction for Efficient Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.13500)]
+
+[arxiv 2026.07] GeoAnchor: Collaborative Reasoning via Latent Decomposition for 3D Spatial Understanding  [[PDF](https://arxiv.org/abs/2607.13454)]
+
+[arxiv 2026.07] Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation  [[PDF](https://arxiv.org/abs/2607.13125)]
+
+[arxiv 2026.07] Semantic Anchoring for Robotic Action Representations  [[PDF](https://arxiv.org/abs/2607.13597)]
+
+[arxiv 2026.07] Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment  [[PDF](https://arxiv.org/abs/2607.13429),[Page](https://github.com/dwipddalal/Anchor-Align)]
+
 <!-- Added on 2026-07-13 -->
 [arxiv 2026.07] Vision as Unified Multimodal Generation  [[PDF](https://arxiv.org/abs/2607.06560)]
 
