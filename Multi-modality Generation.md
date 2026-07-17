@@ -1,5 +1,38 @@
 <!-- Added on 2026-07-09 -->
 <!-- Added on 2026-07-16 -->
+<!-- Added on 2026-07-17 -->
+[arxiv 2026.07] Hierarchical Denoising For Multi-Step Visual Reasoning  [[PDF](https://arxiv.org/abs/2607.15278)]
+
+[arxiv 2026.07] HoloGeo: Mitigating Landmark Bias in Geo-localization via Evidence-Driven Reasoning  [[PDF](https://arxiv.org/abs/2607.15255)]
+
+[arxiv 2026.07] ARMOR++: Agentic Orchestration of a Multi-Domain Primitive Set for Transferable Attacks on Deepfake Detectors  [[PDF](https://arxiv.org/abs/2607.15246)]
+
+[arxiv 2026.07] Beyond Single Expert: Harmonizing Diverse Visual Priors in MLLMs for Spatial Understanding  [[PDF](https://arxiv.org/abs/2607.15054)]
+
+[arxiv 2026.07] Video = World + Event Stream  [[PDF](https://arxiv.org/abs/2607.15038),[Page](https://wan-streamer.com/)]
+
+[arxiv 2026.07] U-shaped Multi-granularity Learning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.14966)]
+
+[arxiv 2026.07] VQ-Touch: A Data-Efficient Tactile Generation Framework Across Sensors and Scenarios  [[PDF](https://arxiv.org/abs/2607.14728)]
+
+[arxiv 2026.07] VIABench: A Comprehensive Video Benchmark Collected from Blind Individuals for Visual Impairment Assistance  [[PDF](https://arxiv.org/abs/2607.14660)]
+
+[arxiv 2026.07] Knowing You at First Glance: Inferring Apparent Personality from Faces  [[PDF](https://arxiv.org/abs/2607.14631)]
+
+[arxiv 2026.07] HyMobileAgent: Data-Environment Co-Scaling for Efficient GUI Agents  [[PDF](https://arxiv.org/abs/2607.14548)]
+
+[arxiv 2026.07] VTM-Nav: Hierarchical Visual-Topological Memory for Cross-Episode Object-Goal Navigation  [[PDF](https://arxiv.org/abs/2607.14514)]
+
+[arxiv 2026.07] Reinforcing Egocentric Spatial Perception in Multimodal Large Language Models via Ego Scene Augmentation  [[PDF](https://arxiv.org/abs/2607.14497),[Page](https://github.com/Chikit-WONG/spatialGraph)]
+
+[arxiv 2026.07] SD-MAR: Multi-image Analytical Reasoning via Synthetic Data and Reinforcement Learning  [[PDF](https://arxiv.org/abs/2607.14333)]
+
+[arxiv 2026.07] Multi-LLM Collaborative MRI Report Generation for Visual Instruction Tuning in Brain Oncology  [[PDF](https://arxiv.org/abs/2607.14581)]
+
+[arxiv 2026.07] CARPRT: Class-Aware Zero-Shot Prompt Reweighting for Black-Box Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.14125)]
+
+[arxiv 2026.07] Just Keep Prompting: Evaluating Repetitive Socratic Prompting in VLMs  [[PDF](https://arxiv.org/abs/2607.14099)]
+
 [arxiv 2026.07] SIVA-RL: Sensitivity-Invariance Visual Alignment for Multimodal Reinforcement Learning  [[PDF](https://arxiv.org/abs/2607.13931)]
 
 [arxiv 2026.07] Unleashing Multimodal Large Language Models for Training-free HOI Detection in the Wild  [[PDF](https://arxiv.org/abs/2607.13881)]

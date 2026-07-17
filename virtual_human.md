@@ -1,5 +1,12 @@
 ## Dataset
 <!-- Added on 2026-07-16 -->
+<!-- Added on 2026-07-17 -->
+[arxiv 2026.07] Online Neural Space Time Memory for Dynamic Novel View Synthesis  [[PDF](https://arxiv.org/abs/2607.15271),[Page](https://nst-mem.github.io)]
+
+[arxiv 2026.07] An LLM-Based Automatic Sportscast Solution for Robot Soccer Matches  [[PDF](https://arxiv.org/abs/2607.14809)]
+
+[arxiv 2026.07] WorkDrive: Roadwork Chain of Causation for Autonomous Driving  [[PDF](https://arxiv.org/abs/2607.14727)]
+
 [arxiv 2026.07] Music-to-Dance Generation via Atomic Movements  [[PDF](https://arxiv.org/abs/2607.13978)]
 
 [arxiv 2026.07] T3HG-Editor: Text-driven 3D Human Garment Editing with Body Priors Embedded in SMPL-X  [[PDF](https://arxiv.org/abs/2607.13654)]

@@ -1,5 +1,30 @@
 # Image Editing In Diffusion 
 <!-- Added on 2026-07-16 -->
+<!-- Added on 2026-07-17 -->
+[arxiv 2026.07] QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration  [[PDF](https://arxiv.org/abs/2607.15097)]
+
+[arxiv 2026.07] RoGS: Adaptive Meshgrid Gaussian for Large-Scale Road Surface Mapping  [[PDF](https://arxiv.org/abs/2607.15048)]
+
+[arxiv 2026.07] JADE-GS: Joint Alternating Deblurring Guided by Events in 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2607.14990)]
+
+[arxiv 2026.07] Introspective Attention Modulation for Safe Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2607.14945),[Page](https://basim-azam.github.io/iam/)]
+
+[arxiv 2026.07] TAMF-VTON: Texture-Aware Mask-Free Virtual Try-On via High-Fidelity Image Synthesis  [[PDF](https://arxiv.org/abs/2607.14807)]
+
+[arxiv 2026.07] Rare Concept Generation via Counterfactual Inference in Diffusion Models  [[PDF](https://arxiv.org/abs/2607.14765)]
+
+[arxiv 2026.07] Advanced Image Generation: Negative Prompt Optimization and Latent Classifier Guidance  [[PDF](https://arxiv.org/abs/2607.14580)]
+
+[arxiv 2026.07] Compression of 3D Gaussian Splatting Data Using GPU-friendly Graphics Texture Coding  [[PDF](https://arxiv.org/abs/2607.14513)]
+
+[arxiv 2026.07] Immediate 3D Gaussian Splat Reconstruction of Unordered Input with Global Consistency  [[PDF](https://arxiv.org/abs/2607.14481)]
+
+[arxiv 2026.07] G$^2$SR: Geometric Methods for Fast and Memory-Efficient Gaussian-based Surface Reconstruction  [[PDF](https://arxiv.org/abs/2607.14470)]
+
+[arxiv 2026.07] Multi-Axis Max@K Reinforcement Learning for Representative Diversity in Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2607.14962)]
+
+[arxiv 2026.07] Instant NuRec: Feed-Forward 3D Gaussian Reconstruction for Driving Scene Simulation  [[PDF](https://arxiv.org/abs/2607.14203),[Page](https://research.nvidia.com/labs/sil/projects/instant-nurec/)]
+
 [arxiv 2026.07] VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders  [[PDF](https://arxiv.org/abs/2607.14088),[Page](https://zhxie0117.github.io/VideoRAE)]
 
 [arxiv 2026.07] Cyclone: Diffusion Model for Cycle-Consistent Weather Editing from Unpaired Driving Data  [[PDF](https://arxiv.org/abs/2607.13927),[Page](https://ntaquan0125.github.io/weather-cyclone/)]

@@ -1,5 +1,20 @@
 # Video Generation Survey
 <!-- Added on 2026-07-16 -->
+<!-- Added on 2026-07-17 -->
+[arxiv 2026.07] VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding  [[PDF](https://arxiv.org/abs/2607.14935)]
+
+[arxiv 2026.07] VideoSEMA: a scalable and efficient Mamba-like attention for video understanding  [[PDF](https://arxiv.org/abs/2607.14711)]
+
+[arxiv 2026.07] ReBind: Multi-Reference Video Editing via Structured Instructions with Explicit Reference Relationships  [[PDF](https://arxiv.org/abs/2607.14681),[Page](https://rebind-mrv2v.github.io/)]
+
+[arxiv 2026.07] MagicPrompt: Ultra-Lightweight Prompt Tuning for Video Generation  [[PDF](https://arxiv.org/abs/2607.14595)]
+
+[arxiv 2026.07] KeyFrame-Compass: Towards Comprehensive Evaluation of Keyframe-Conditioned Video Generation  [[PDF](https://arxiv.org/abs/2607.14202)]
+
+[arxiv 2026.07] Inference-Time Concept Suppression and Video-Centric Evaluation for Text-to-Video Models  [[PDF](https://arxiv.org/abs/2607.14194)]
+
+[arxiv 2026.07] MultiRef-Compass: Towards Comprehensive Evaluation of Multi-Reference-to-Audio-Video Generation  [[PDF](https://arxiv.org/abs/2607.14189)]
+
 [arxiv 2026.07] VGIF-Score: Interpretable and Diagnostic Evaluation of Spatio-Temporal Instruction Following in Video Generation  [[PDF](https://arxiv.org/abs/2607.13527)]
 
 [arxiv 2026.07] Bring Music The Horizon: Music-Driven 360$^\circ$ Video Generation  [[PDF](https://arxiv.org/abs/2607.13471)]
