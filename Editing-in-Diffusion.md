@@ -67,6 +67,7 @@
 <!-- Added on 2026-06-29 -->
 <!-- Added on 2026-06-26 -->
 <!-- Added on 2026-07-01 -->
+<!-- Added on 2026-07-20 -->
 [arxiv 2026.06] GEAR: Guided End-to-End AutoRegression for Image Synthesis  [[PDF](https://arxiv.org/abs/2606.32039)]
 
 [arxiv 2026.06] SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE  [[PDF](https://arxiv.org/abs/2606.32033)]
@@ -2365,6 +2366,26 @@
 [arxiv 2026.07] Implicit 4D Gaussian Splatting for Fast Motion with Large Inter-Frame Displacements  [[PDF](https://arxiv.org/abs/2607.12362),[Page](https://seung-gyeom.github.io/SPIN-4DGS)]
 [arxiv 2026.07] Self-Consistent Flow: Unifying Velocity and Endpoint Prediction for Rectified Flow Models  [[PDF](https://arxiv.org/abs/2607.12171)]
 [arxiv 2026.07] MetaView: Monocular Novel View Synthesis with Scale-Aware Implicit Geometry Priors  [[PDF](https://arxiv.org/abs/2607.12000)]
+
+[arxiv 2026.07] Adaptive Contrast Enhancement and Optimised Feature Matching for RootSIFT-Based Palm-Vein Recognition  [[PDF](https://arxiv.org/abs/2607.16077)]
+
+[arxiv 2026.07] ArtChart: A Benchmark for Faithful Artistic Chart Generation with Integrated Text Rendering  [[PDF](https://arxiv.org/abs/2607.16060)]
+
+[arxiv 2026.07] Beyond Unfolding: 60x Faster One-Stage Unmixing for Closely-Spaced Infrared Small Targets  [[PDF](https://arxiv.org/abs/2607.16007)]
+
+[arxiv 2026.07] Efficient Difficulty-Aware Dynamic Routing for Diffusion-Based Real-World Image Super-Resolution  [[PDF](https://arxiv.org/abs/2607.15711)]
+
+[arxiv 2026.07] DiTango: Cost-Effective Parallel Diffusion Generation with Selective Attention State Reuse  [[PDF](https://arxiv.org/abs/2607.15650)]
+
+[arxiv 2026.07] StructGen: Disambiguating Multi-Reference Image Generation via Structured Context Modeling  [[PDF](https://arxiv.org/abs/2607.15619)]
+
+[arxiv 2026.07] WREN: Low Light Image Enhancement Using Retinex theory-based Double U-Net-like Structures  [[PDF](https://arxiv.org/abs/2607.15604)]
+
+[arxiv 2026.07] ImprovedVBGS: Real-time Continual Variational Bayes Gaussian Splatting  [[PDF](https://arxiv.org/abs/2607.15542),[Page](https://github.com/damanimc/ImprovedVBGS)]
+
+[arxiv 2026.07] E3DGS: Unified Geometric-Photometric Equivariance for 3D Gaussian Splatting via Color-as-Geometry Embedding  [[PDF](https://arxiv.org/abs/2607.15536)]
+
+[arxiv 2026.07] Rendering 3D Gaussians on a Graph Processor  [[PDF](https://arxiv.org/abs/2607.15951),[Page](https://nmjfry.github.io/ipu-3dgs/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

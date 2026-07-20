@@ -40,6 +40,7 @@
 <!-- Added on 2026-06-29 -->
 <!-- Added on 2026-06-26 -->
 <!-- Added on 2026-07-01 -->
+<!-- Added on 2026-07-20 -->
 [arxiv 2026.06] World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration  [[PDF](https://arxiv.org/abs/2606.31946)]
 
 [arxiv 2026.06] DriveWeaver: Point-Conditioned Video Inpainting for Controllable Vehicle Insertion in Autonomous Driving Simulation  [[PDF](https://arxiv.org/abs/2606.31918),[Page](https://github.com/LogosRoboticsGroup/DriveWeaver)]
@@ -1116,6 +1117,18 @@ A reading list of video generation
 [arxiv 2026.07] Gaussian Mixture Modeling for Event-Aware Visual Allocation in Long Video Understanding  [[PDF](https://arxiv.org/abs/2607.12557)]
 [arxiv 2026.07] ACID: Adaptive Caching for vIDeo generation  [[PDF](https://arxiv.org/abs/2607.12358)]
 [arxiv 2026.07] The Seriality Gap in Video Diffusion Models  [[PDF](https://arxiv.org/abs/2607.13031),[Page](https://seriality-gap.jdiazchao.com)]
+
+[arxiv 2026.07] FVAttn: Adaptive Sparse Attention with Runtime Load Balancing for Video Generation  [[PDF](https://arxiv.org/abs/2607.16190)]
+
+[arxiv 2026.07] Test-Time Noise Guided Adaptation for Realistic Autoregressive Video Generation  [[PDF](https://arxiv.org/abs/2607.15849)]
+
+[arxiv 2026.07] Modularized Dynamic-Granularity Video LLM for Multi-Event Long Video Understanding  [[PDF](https://arxiv.org/abs/2607.15778)]
+
+[arxiv 2026.07] SlotMem: Character-Addressable Internal Memory for Narrative Long Video Generation  [[PDF](https://arxiv.org/abs/2607.15772)]
+
+[arxiv 2026.07] PE-Field 4D: Video Generation Models as Canvas  [[PDF](https://arxiv.org/abs/2607.15667)]
+
+[arxiv 2026.07] Audio-Visual Flamingo: Open Audio-Visual Intelligence for Long and Complex Videos  [[PDF](https://arxiv.org/abs/2607.16107),[Page](https://avflamingo.pages.dev/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

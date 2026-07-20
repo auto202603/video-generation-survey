@@ -101,6 +101,7 @@
 [arxiv 2026.07] BaFCo: A Document Understanding Benchmark for Complex Bangla Form Comprehension  [[PDF](https://arxiv.org/abs/2607.05614)]
 
 <!-- Added on 2026-07-01 -->
+<!-- Added on 2026-07-20 -->
 [arxiv 2026.06] CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts  [[PDF](https://arxiv.org/abs/2606.31986),[Page](https://github.com/hulianyuyy/CoLT)]
 
 [arxiv 2026.06] ERA: Entropy-Guided Visual Token Pruning with Rectified Attention for Efficient MLLMs  [[PDF](https://arxiv.org/abs/2606.31982)]
@@ -3329,6 +3330,42 @@
 [arxiv 2026.07] Anomalous Frame Detection Using VLM-Based Description Comparison for Extracting Expert-Specific Actions and Contextual Decision-Making Scenes with Intra-Video Self-Similarity  [[PDF](https://arxiv.org/abs/2607.11957)]
 [arxiv 2026.07] Do We Really Need Multimodal Emotion Language Models Larger Than 1B Parameters?  [[PDF](https://arxiv.org/abs/2607.12787)]
 [arxiv 2026.07] Do You Remember? Toward Memory-Centric Multimodal AI  [[PDF](https://arxiv.org/abs/2607.11919)]
+
+[arxiv 2026.07] Searching Videos as Trees: Self-Correcting Agents for Grounded Long Video QA  [[PDF](https://arxiv.org/abs/2607.16189)]
+
+[arxiv 2026.07] Vision-Language Assistant for Emotional Reactions to Risky Driving  [[PDF](https://arxiv.org/abs/2607.16181)]
+
+[arxiv 2026.07] An Exam for Active Observers  [[PDF](https://arxiv.org/abs/2607.16165),[Page](https://activevision.dev)]
+
+[arxiv 2026.07] Attention-Guided Saliency Maps for Interpreting Visualization Literacy in VLMs  [[PDF](https://arxiv.org/abs/2607.16105)]
+
+[arxiv 2026.07] How Do VLMs Fail? Vision-Operation Misalignment in Compositional VQA  [[PDF](https://arxiv.org/abs/2607.16094)]
+
+[arxiv 2026.07] HCIG: A Hierarchical Cross-Modal Incongruity Graph Network for Multimodal Sarcasm and Cyberbullying Detection  [[PDF](https://arxiv.org/abs/2607.16076)]
+
+[arxiv 2026.07] Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction  [[PDF](https://arxiv.org/abs/2607.15851)]
+
+[arxiv 2026.07] Personalized Image Aesthetic Assessment via Preference-rich Sample Mining and Cohort Merging  [[PDF](https://arxiv.org/abs/2607.15752)]
+
+[arxiv 2026.07] Debiasing Text-to-Image Evaluation via Implicit Cultural Alignment Reward Modeling  [[PDF](https://arxiv.org/abs/2607.15740)]
+
+[arxiv 2026.07] IoUPD: IoU-Aware Privileged Distillation for Visual Grounding with Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2607.15732)]
+
+[arxiv 2026.07] Efficient Frame Selection for Long Videos at Test Time with Attention-Based MLLM Selectors  [[PDF](https://arxiv.org/abs/2607.15689)]
+
+[arxiv 2026.07] Ask Twice, Look Twice: Prompt Echoing Resolves the Question-First Paradox in Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.15565)]
+
+[arxiv 2026.07] SLAPBench: Benchmarking Multimodal Large Language Models for Four-Finger SLAP Fingerprint Verification  [[PDF](https://arxiv.org/abs/2607.15517),[Page](https://github.com/bibeshpyakurel/SLAPBench)]
+
+[arxiv 2026.07] Reasoning-Guided Part-Level Visual Grounding via Reinforcement Learning  [[PDF](https://arxiv.org/abs/2607.15374)]
+
+[arxiv 2026.07] Training-Free Open-Vocabulary 3D Point-Cloud Segmentation on the Generalized Few-Shot Benchmark  [[PDF](https://arxiv.org/abs/2607.15331)]
+
+[arxiv 2026.07] Do Agents Dream of False Memories? Black-box Visual Attacks on Long-term Memory in Multimodal AI Agents  [[PDF](https://arxiv.org/abs/2607.15657)]
+
+[arxiv 2026.07] DrawingVQA: A Real-World Benchmark for Multi-Depth Visual-Textual Reasoning on Construction Drawings  [[PDF](https://arxiv.org/abs/2607.15418)]
+
+[arxiv 2026.07] MLLM-DataEngine: Closing the Loop of Multimodal Instruction Tuning Data Generation  [[PDF](https://arxiv.org/abs/2607.15299)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

@@ -523,6 +523,12 @@
 [arxiv 2026.07] RegHead: Non-Humanoid Head Blendshapes via Feed-Forward Registration  [[PDF](https://arxiv.org/abs/2607.12206)]
 [arxiv 2026.07] GaitSpan: Growing Humanoid Locomotion from Walking to Running  [[PDF](https://arxiv.org/abs/2607.12114),[Page](https://gaitspan2026.github.io/)]
 
+[arxiv 2026.07] Exo2EgoPose: Leveraging Exocentric Demonstrations for Vision-Language guided Egocentric 3D Hand Pose Forecasting  [[PDF](https://arxiv.org/abs/2607.15890)]
+
+[arxiv 2026.07] EgoExoMoCap: Distributed Ego-Exo Human Motion Capture  [[PDF](https://arxiv.org/abs/2607.15868),[Page](https://siplab.org/projects/EgoExoMoCap)]
+
+[arxiv 2026.07] HybridSim: A Physics-Learning Hybrid Digital Twin for mmWave Human Sensing  [[PDF](https://arxiv.org/abs/2607.15806),[Page](https://weitao-xiong.github.io/HybridSim/)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Gaussian Face 
@@ -826,6 +832,7 @@
 
 # ego
 <!-- Added on 2026-07-09 -->
+<!-- Added on 2026-07-20 -->
 [arxiv 2026.06] PointSplat: Compact Gaussian Splatting via Human-Centric Prediction  [[PDF](https://arxiv.org/abs/2606.32036),[Page](https://zju3dv.github.io/pointsplat)]
 
 [arxiv 2026.06] LUNA: Learning Universal 3D Human Animation Beyond Skinning  [[PDF](https://arxiv.org/abs/2606.31981),[Page](https://penghtyx.github.io/LUNA/)]
