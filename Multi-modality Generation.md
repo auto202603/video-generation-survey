@@ -1,3 +1,75 @@
+<!-- Added on 2026-07-21 -->
+
+[arxiv 2026.07] The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric  [[PDF](https://arxiv.org/abs/2607.18237),[Page](https://peterwang512.github.io/TPIPS)]
+
+[arxiv 2026.07] Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs  [[PDF](https://arxiv.org/abs/2607.18230),[Page](https://github.com/VILA-Lab/PIXAR-DG)]
+
+[arxiv 2026.07] HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enchancement  [[PDF](https://arxiv.org/abs/2607.18217)]
+
+[arxiv 2026.07] Sparse Evidence Can Suffice: Agentic Evidence Seeking for Multimodal Video Misinformation Detection  [[PDF](https://arxiv.org/abs/2607.18080)]
+
+[arxiv 2026.07] Anticipate Before Acting: Future-State-Conditioned Vision-Language Navigation  [[PDF](https://arxiv.org/abs/2607.18042)]
+
+[arxiv 2026.07] HAS: Highlight-guided Attention Steering for Multimodal LLM Video Summarization  [[PDF](https://arxiv.org/abs/2607.17994)]
+
+[arxiv 2026.07] PRiSM: Prototype Regularization for Few-Shot VLMs  [[PDF](https://arxiv.org/abs/2607.17820)]
+
+[arxiv 2026.07] Measuring Monosemanticity in Sparse Autoencoders via Latent Activation Coherence  [[PDF](https://arxiv.org/abs/2607.17770)]
+
+[arxiv 2026.07] LFM: Leveraging Foundation Models for Source-Free Universal Domain Adaptation  [[PDF](https://arxiv.org/abs/2607.17653)]
+
+[arxiv 2026.07] ConsiSpace: Learning Geometric Consistency Matters for Video Spatial Reasoning  [[PDF](https://arxiv.org/abs/2607.17599)]
+
+[arxiv 2026.07] Thinking in Video: Can Video Generators Really Reason About the Real World?  [[PDF](https://arxiv.org/abs/2607.17523)]
+
+[arxiv 2026.07] TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs  [[PDF](https://arxiv.org/abs/2607.17423)]
+
+[arxiv 2026.07] VecFontLLM: Anchor-Guided Direct Synthesis of Chinese Vector Fonts  [[PDF](https://arxiv.org/abs/2607.17251)]
+
+[arxiv 2026.07] Searching for Task-Specific Vision Paths: Evolutionary Block Pruning Across Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.17052),[Page](https://github.com/TarunTomar122/vision-pathways)]
+
+[arxiv 2026.07] EvoGUI: An Evolution-Aware Benchmark for GUI State-Transition Understanding  [[PDF](https://arxiv.org/abs/2607.17050)]
+
+[arxiv 2026.07] Look Clearly Before Answering: Mitigating Hallucinations in LVLMs via Saliency-Driven Perceptual Realignment  [[PDF](https://arxiv.org/abs/2607.16841)]
+
+[arxiv 2026.07] Multi-Dimensional Quality Assessment for AI-Generated Human-Centric Videos: Dataset and Model  [[PDF](https://arxiv.org/abs/2607.16742)]
+
+[arxiv 2026.07] Geometry-Enhanced Portion Estimation for Multimodal LLMs  [[PDF](https://arxiv.org/abs/2607.16514)]
+
+[arxiv 2026.07] WeedExpert-R1: Incentivizing Botanical Reasoning in MLLMs with Reinforcement Learning for Precision Weed Grounding  [[PDF](https://arxiv.org/abs/2607.16492)]
+
+[arxiv 2026.07] One Modality to Forget Them All: Enhancing Cross-Modal Unlearning in Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.16442)]
+
+[arxiv 2026.07] Think, Plan, Paint: Layout-Aware Reasoning for Controllable Image Generation in Unified Models  [[PDF](https://arxiv.org/abs/2607.16409)]
+
+[arxiv 2026.07] Apple-$π$: Benchmarking Thinking with Video Towards Law-Grounded Physical Intelligence  [[PDF](https://arxiv.org/abs/2607.16401)]
+
+[arxiv 2026.07] CRISP: Pre-LLM Yet Text-Driven Visual Token Pruning for Efficient LVLM Inference  [[PDF](https://arxiv.org/abs/2607.16326)]
+
+[arxiv 2026.07] GMoT: Gated Motion-Aware Tokenization for Fine-Grained Micro-Gesture Video Reasoning with Multimodal LLMs  [[PDF](https://arxiv.org/abs/2607.16322)]
+
+[arxiv 2026.07] Art Beyond Semantics: Sheaf-Informed Contrastive Learning for Multi-Relational Representations  [[PDF](https://arxiv.org/abs/2607.16321)]
+
+[arxiv 2026.07] Seeing What Is Actually There: PriVE-Bench and PriVE-Tools for Counterfactual Evaluation of Agentic Visual Evidence in VLMs  [[PDF](https://arxiv.org/abs/2607.16311)]
+
+[arxiv 2026.07] LookME: Lookup-Based Multimodal Embeddings for Layer Injection in Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.16305)]
+
+[arxiv 2026.07] MAC 2026: Advancing Micro-Action Analysis Towards Fine-Grained Understanding  [[PDF](https://arxiv.org/abs/2607.16284)]
+
+[arxiv 2026.07] 3D FaceShell: Attribute Transfer in 3D Face Avatars as a VLM Defense Mechanism  [[PDF](https://arxiv.org/abs/2607.16280)]
+
+[arxiv 2026.07] OrientSAM: Mitigating Camera-Centric Shortcut in Multimodal Spatial Reasoning via Orientation-Aware Spatial Alignment  [[PDF](https://arxiv.org/abs/2607.17657)]
+
+[arxiv 2026.07] From Perception to Assistance: Open-Vocabulary Shared Autonomy for Robotic Manipulation  [[PDF](https://arxiv.org/abs/2607.17323)]
+
+[arxiv 2026.07] Constraint-Anchored Reasoning Traces  [[PDF](https://arxiv.org/abs/2607.16727)]
+
+[arxiv 2026.07] Autonomous VR-Based Risk Detection for Situational Awareness in Dangerous Settings  [[PDF](https://arxiv.org/abs/2607.16582)]
+
+[arxiv 2026.07] From Modalities to Propositions: A Language-Centric Framework for Multimodal Intelligence  [[PDF](https://arxiv.org/abs/2607.16560)]
+
+[arxiv 2026.07] Self-Evolving Just-In-Time Memory for Proactive Embodied Safety  [[PDF](https://arxiv.org/abs/2607.16247)]
+
 <!-- Added on 2026-07-09 -->
 <!-- Added on 2026-07-16 -->
 <!-- Added on 2026-07-17 -->

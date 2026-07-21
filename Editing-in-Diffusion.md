@@ -1,4 +1,63 @@
 # Image Editing In Diffusion 
+<!-- Added on 2026-07-21 -->
+
+[arxiv 2026.07] Exploration Matters for Escaping the Blur Trap in 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2607.17965),[Page](https://chengbo-wang.github.io/ExploreGS/)]
+
+[arxiv 2026.07] Locality-Aware Density Control for Efficient Gaussian-based Image Representation  [[PDF](https://arxiv.org/abs/2607.17896)]
+
+[arxiv 2026.07] CaT-GS: Efficient 3DGS Rendering for Large Scale Scenes via Inter-frame Caching and Tile Scheduling  [[PDF](https://arxiv.org/abs/2607.17842)]
+
+[arxiv 2026.07] Consistent Feature Transport for Image Relighting  [[PDF](https://arxiv.org/abs/2607.17833)]
+
+[arxiv 2026.07] FF-ProCams: Feed-Forward Gaussian Splatting for Projector-Camera System  [[PDF](https://arxiv.org/abs/2607.17803)]
+
+[arxiv 2026.07] To Blend In, First Decouple: Rethinking Camouflage Image Generation via Context-Decoupled Representations  [[PDF](https://arxiv.org/abs/2607.17768)]
+
+[arxiv 2026.07] RayOcc: Occlusion-Aware Ray Occupancy Estimation via Gaussian Mixture Intensity  [[PDF](https://arxiv.org/abs/2607.17660)]
+
+[arxiv 2026.07] MixDiffusion: Mixing Diffusion-based Uni-condition Text-to-Image Generation Models for Multi-condition Image Synthesis  [[PDF](https://arxiv.org/abs/2607.17634)]
+
+[arxiv 2026.07] Rarity-Aware Discrete Diffusion with Spatially Consistent Decoding for Photo-Realistic Image Super-Resolution  [[PDF](https://arxiv.org/abs/2607.17612)]
+
+[arxiv 2026.07] Pixel-Space Diffusion Transformers  [[PDF](https://arxiv.org/abs/2607.17585)]
+
+[arxiv 2026.07] STBridge: Shared-Target Alignment for Bridging Understanding and Generation in UMMs  [[PDF](https://arxiv.org/abs/2607.17140)]
+
+[arxiv 2026.07] HarmoHOI: Harmonizing Appearance and 3D Motion for Multi-view Hand-Object Interaction Synthesis  [[PDF](https://arxiv.org/abs/2607.17097)]
+
+[arxiv 2026.07] Splat-based 3D Scene Reconstruction with Extreme Motion-blur  [[PDF](https://arxiv.org/abs/2607.16926)]
+
+[arxiv 2026.07] TopoGS: Planar Reconstruction via Topology-aware 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2607.16838),[Page](https://vcc.tech/research/2026/TopoGS)]
+
+[arxiv 2026.07] UniNDM: A Unified Noise-driven Detection and Mitigation Framework Against Sexual Content in Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2607.16828)]
+
+[arxiv 2026.07] Test-Time Registers as Global Priors for Tokenized Image Generation  [[PDF](https://arxiv.org/abs/2607.16824)]
+
+[arxiv 2026.07] SPARE-GS: Structural Parsimony and Resource Efficiency for 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2607.16624)]
+
+[arxiv 2026.07] OmniStyle-INR: Universal and Multimodal Style Transfer for INRs  [[PDF](https://arxiv.org/abs/2607.16362)]
+
+[arxiv 2026.07] Clarify Before Executing: A Self-Evolving Agent for Resolving Intent Asymmetry in 3D Tool Orchestration  [[PDF](https://arxiv.org/abs/2607.16352),[Page](https://github.com/xyzhu1225/CLARE)]
+
+[arxiv 2026.07] The Devil is in the Dark Pixels: Toward Brightness Bias-Robust Denoising  [[PDF](https://arxiv.org/abs/2607.16320),[Page](https://github.com/xmed-lab/BBRD)]
+
+[arxiv 2026.07] SaaF: Scene-Specific Ambiguity-Aware 3D Language Fields towards Interactive Real-World Object Retrieval  [[PDF](https://arxiv.org/abs/2607.16309)]
+
+[arxiv 2026.07] CoBind: Stage-Aware Compositional Binding for Training-Free Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2607.16307)]
+
+[arxiv 2026.07] A${}^2$BM: Alignment-Aware Bridge Matching for Image-to-Image Translation  [[PDF](https://arxiv.org/abs/2607.16294)]
+
+[arxiv 2026.07] Identity-Consistent Expression Fields: A Disentangled Neural Radiance Field Framework for Few-Shot Facial Expression Synthesis  [[PDF](https://arxiv.org/abs/2607.16287)]
+
+[arxiv 2026.07] GenSyn10: A Multi-Generative AI Dataset For Benchmarking Image Classification  [[PDF](https://arxiv.org/abs/2607.16283)]
+
+[arxiv 2026.07] Packet-Loss Robust 3D Gaussian Compression via Atomic Packaging and GNN-based Error Concealment  [[PDF](https://arxiv.org/abs/2607.17916)]
+
+[arxiv 2026.07] AGG: Jacobian-Aggregated Group Gradient for Efficient GRPO Training of Diffusion Models  [[PDF](https://arxiv.org/abs/2607.17572)]
+
+[arxiv 2026.07] Points as Tori: Fast Pointwise Signed Distance for Point Clouds  [[PDF](https://arxiv.org/abs/2607.16946),[Page](https://nzfeng.github.io/research/PointsAsTori)]
+
+
 <!-- Added on 2026-07-16 -->
 <!-- Added on 2026-07-17 -->
 [arxiv 2026.07] QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration  [[PDF](https://arxiv.org/abs/2607.15097)]

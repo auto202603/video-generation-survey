@@ -1,4 +1,21 @@
 # Video Generation Survey
+<!-- Added on 2026-07-21 -->
+
+[arxiv 2026.07] FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry  [[PDF](https://arxiv.org/abs/2607.18227),[Page](https://huggingface.co/datasets/FlowMimic/Uncompressed/blob/main/main.pdf)]
+
+[arxiv 2026.07] Keyframe-Anchored Identity Preservation for Sequential-Action Video Generation  [[PDF](https://arxiv.org/abs/2607.17985)]
+
+[arxiv 2026.07] ShotPlan: Cinematic Video Generation with Learnable Planning Token  [[PDF](https://arxiv.org/abs/2607.17675),[Page](https://pensioner-11.github.io/ShotPlan/)]
+
+[arxiv 2026.07] Brain-Aligned Multi-Stream Video Transformers with Sparse Self-Selection  [[PDF](https://arxiv.org/abs/2607.17625)]
+
+[arxiv 2026.07] When Physical Preferences Meet Semantic Constraints: Physical and Semantic Direct Preference Optimization for Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2607.16947)]
+
+[arxiv 2026.07] PhysAgent: Reflective Agentic Physics Control for Physically Plausible Video Generation  [[PDF](https://arxiv.org/abs/2607.16355),[Page](https://iapple233.github.io/PhysAgent)]
+
+[arxiv 2026.07] SGA: Plug&amp;Play Geometric Verification for Educational Video Synthesis  [[PDF](https://arxiv.org/abs/2607.18116)]
+
+
 <!-- Added on 2026-07-16 -->
 <!-- Added on 2026-07-17 -->
 [arxiv 2026.07] VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding  [[PDF](https://arxiv.org/abs/2607.14935)]

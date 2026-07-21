@@ -1,4 +1,11 @@
 ## Dataset
+<!-- Added on 2026-07-21 -->
+
+[arxiv 2026.07] From Sign Language Generation to Humanoid Execution: Vision-Language Guided Retargeting with Collision Mitigation  [[PDF](https://arxiv.org/abs/2607.17769)]
+
+[arxiv 2026.07] Articulated Humanoid Head for a Robot Receptionist Capable of Natural Human Interaction  [[PDF](https://arxiv.org/abs/2607.17042)]
+
+
 <!-- Added on 2026-07-16 -->
 <!-- Added on 2026-07-17 -->
 [arxiv 2026.07] Online Neural Space Time Memory for Dynamic Novel View Synthesis  [[PDF](https://arxiv.org/abs/2607.15271),[Page](https://nst-mem.github.io)]
