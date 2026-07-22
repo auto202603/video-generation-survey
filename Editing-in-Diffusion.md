@@ -1,6 +1,24 @@
 # Image Editing In Diffusion 
 <!-- Added on 2026-07-21 -->
 
+[arxiv 2026.07] Appearance Pointers -- Multimodal Region Control of Diffusion Transformers  [[PDF](https://arxiv.org/abs/2607.19344)]
+
+[arxiv 2026.07] Text Template Tokens Are Implicit Semantic Registers in Diffusion Transformers  [[PDF](https://arxiv.org/abs/2607.19139)]
+
+[arxiv 2026.07] Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing  [[PDF](https://arxiv.org/abs/2607.19064)]
+
+[arxiv 2026.07] Think Sparse, Predict Dense: Continuous Thought Machines for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2607.18856)]
+
+[arxiv 2026.07] Image Editing Models are Numerical Solvers  [[PDF](https://arxiv.org/abs/2607.18787)]
+
+[arxiv 2026.07] AniGS: Bridging Rendering and Diffusion Prior for 3D Scene Animation  [[PDF](https://arxiv.org/abs/2607.18539),[Page](https://yccyenchicheng.github.io/AniGS/)]
+
+[arxiv 2026.07] DuSPiT: Dual-Branch Sub-Patch Pixel Diffusion Transformer  [[PDF](https://arxiv.org/abs/2607.18510)]
+
+[arxiv 2026.07] ECoNGS: Efficient Compressive Neural Gaussian Splats for Volume Visualization  [[PDF](https://arxiv.org/abs/2607.18466)]
+
+[arxiv 2026.07] Signed Rectified Flow: Negativity-Controlled Generation  [[PDF](https://arxiv.org/abs/2607.18516)]
+
 [arxiv 2026.07] Exploration Matters for Escaping the Blur Trap in 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2607.17965),[Page](https://chengbo-wang.github.io/ExploreGS/)]
 
 [arxiv 2026.07] Locality-Aware Density Control for Efficient Gaussian-based Image Representation  [[PDF](https://arxiv.org/abs/2607.17896)]

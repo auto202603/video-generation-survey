@@ -1,5 +1,15 @@
 # Video Generation Survey
-<!-- Added on 2026-07-21 -->
+<!-- Added on 2026-07-22 -->
+
+[arxiv 2026.07] ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU  [[PDF](https://arxiv.org/abs/2607.19191)]
+
+[arxiv 2026.07] Learning Explicit Physical Parameter Control and Benchmarking for Video Generation  [[PDF](https://arxiv.org/abs/2607.18924)]
+
+[arxiv 2026.07] Moving Alphabet: A Controlled Study of Training Data for Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2607.18789)]
+
+[arxiv 2026.07] DeforM: Reasoning-Guided Physics-Aware Video Generation via Spatial-Temporal Masking  [[PDF](https://arxiv.org/abs/2607.18664)]
+
+[arxiv 2026.07] Surprise Forcing: What to Remember, When to Skip in Long Video Generation  [[PDF](https://arxiv.org/abs/2607.18436)]
 
 [arxiv 2026.07] FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry  [[PDF](https://arxiv.org/abs/2607.18227),[Page](https://huggingface.co/datasets/FlowMimic/Uncompressed/blob/main/main.pdf)]
 

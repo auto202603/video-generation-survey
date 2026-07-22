@@ -1,5 +1,31 @@
 <!-- Added on 2026-07-21 -->
 
+[arxiv 2026.07] ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis  [[PDF](https://arxiv.org/abs/2607.19341)]
+
+[arxiv 2026.07] IGGT4D: Streaming 4D Instance-Grounded Geometry Transformer  [[PDF](https://arxiv.org/abs/2607.19228),[Page](https://iggt4d.github.io)]
+
+[arxiv 2026.07] Context-structured Video Anomaly Detection with Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.19077)]
+
+[arxiv 2026.07] Mitigating Modality and Language-Style Gaps for Zero-Shot Video Moment Retrieval  [[PDF](https://arxiv.org/abs/2607.19027)]
+
+[arxiv 2026.07] Benchmarking Deep Learning Approaches for AEC Engineering Drawing Layout Detection and Information Extraction  [[PDF](https://arxiv.org/abs/2607.18997)]
+
+[arxiv 2026.07] OPD-IAD: From Language Judgment to Industrial Anomaly Detection via On-Policy Self-Distillation  [[PDF](https://arxiv.org/abs/2607.18850)]
+
+[arxiv 2026.07] ZeroSplat: Generalized Referring Segmentation in 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2607.18801)]
+
+[arxiv 2026.07] Continual Video-MLLM Adaptation over Evolving Domains  [[PDF](https://arxiv.org/abs/2607.18716)]
+
+[arxiv 2026.07] Attributes Should Come from Images, Not Class Names: Distribution-Conditioned Attribute Selection for Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.18695)]
+
+[arxiv 2026.07] MissingBench-Verified: Probing Vision-Language Models&#39; Inability to Detect Missing Object Parts  [[PDF](https://arxiv.org/abs/2607.18673)]
+
+[arxiv 2026.07] Hazard or Anomaly? Evaluating VLMs for Understanding Dangers and Discrepancies  [[PDF](https://arxiv.org/abs/2607.18325)]
+
+[arxiv 2026.07] MeetingToM: Evaluating Multimodal LLMs on Theory-of-Mind Reasoning in Multi-Party Meetings  [[PDF](https://arxiv.org/abs/2607.19235)]
+
+[arxiv 2026.07] Cognitive Dual-Process Planning for Autonomous Driving with Structured Scene Knowledge and Verifiable Reasoning-Action Consistency  [[PDF](https://arxiv.org/abs/2607.19194)]
+
 [arxiv 2026.07] The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric  [[PDF](https://arxiv.org/abs/2607.18237),[Page](https://peterwang512.github.io/TPIPS)]
 
 [arxiv 2026.07] Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs  [[PDF](https://arxiv.org/abs/2607.18230),[Page](https://github.com/VILA-Lab/PIXAR-DG)]

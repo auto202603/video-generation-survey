@@ -1,6 +1,10 @@
 ## Dataset
 <!-- Added on 2026-07-21 -->
 
+[arxiv 2026.07] FlexiAvatar: Unified 3D Gaussian Human Avatars Under Arbitrary Body Visibility  [[PDF](https://arxiv.org/abs/2607.19100)]
+
+[arxiv 2026.07] Wave2Body: Rethinking mmWave Human Pose Estimation as Radar-to-Body Token Translation  [[PDF](https://arxiv.org/abs/2607.18875)]
+
 [arxiv 2026.07] From Sign Language Generation to Humanoid Execution: Vision-Language Guided Retargeting with Collision Mitigation  [[PDF](https://arxiv.org/abs/2607.17769)]
 
 [arxiv 2026.07] Articulated Humanoid Head for a Robot Receptionist Capable of Natural Human Interaction  [[PDF](https://arxiv.org/abs/2607.17042)]
