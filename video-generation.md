@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-07-22 -->
+<!-- Added on 2026-07-23 -->
 
 [arxiv 2026.07] ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU  [[PDF](https://arxiv.org/abs/2607.19191)]
 
@@ -26,8 +26,8 @@
 [arxiv 2026.07] SGA: Plug&amp;Play Geometric Verification for Educational Video Synthesis  [[PDF](https://arxiv.org/abs/2607.18116)]
 
 
-<!-- Added on 2026-07-16 -->
-<!-- Added on 2026-07-17 -->
+<!-- Added on 2026-07-23 -->
+<!-- Added on 2026-07-23 -->
 [arxiv 2026.07] VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding  [[PDF](https://arxiv.org/abs/2607.14935)]
 
 [arxiv 2026.07] VideoSEMA: a scalable and efficient Mamba-like attention for video understanding  [[PDF](https://arxiv.org/abs/2607.14711)]
@@ -62,12 +62,12 @@
 
 [arxiv 2026.07] Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory  [[PDF](https://arxiv.org/abs/2607.05511),[Page](https://clare-nie.github.io/Light-Omni)]
 
-<!-- Added on 2026-07-03 -->
-<!-- Added on 2026-07-02 -->
-<!-- Added on 2026-06-29 -->
-<!-- Added on 2026-06-26 -->
-<!-- Added on 2026-07-01 -->
-<!-- Added on 2026-07-20 -->
+<!-- Added on 2026-07-23 -->
+<!-- Added on 2026-07-23 -->
+<!-- Added on 2026-07-23 -->
+<!-- Added on 2026-07-23 -->
+<!-- Added on 2026-07-23 -->
+<!-- Added on 2026-07-23 -->
 [arxiv 2026.06] World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration  [[PDF](https://arxiv.org/abs/2606.31946)]
 
 [arxiv 2026.06] DriveWeaver: Point-Conditioned Video Inpainting for Controllable Vehicle Insertion in Autonomous Driving Simulation  [[PDF](https://arxiv.org/abs/2606.31918),[Page](https://github.com/LogosRoboticsGroup/DriveWeaver)]
@@ -1156,6 +1156,18 @@ A reading list of video generation
 [arxiv 2026.07] PE-Field 4D: Video Generation Models as Canvas  [[PDF](https://arxiv.org/abs/2607.15667)]
 
 [arxiv 2026.07] Audio-Visual Flamingo: Open Audio-Visual Intelligence for Long and Complex Videos  [[PDF](https://arxiv.org/abs/2607.16107),[Page](https://avflamingo.pages.dev/)]
+
+[arxiv 2026.07] Self Gradient Forcing: Native Long Video Extrapolation  [[PDF](https://arxiv.org/abs/2607.20368),[Page](https://zhuang2002.github.io/SelfGradientForcing/)]
+
+[arxiv 2026.07] Vera: Identity-Faithful Human Subject-to-Video Generation  [[PDF](https://arxiv.org/abs/2607.20247)]
+
+[arxiv 2026.07] StreamHOI: Interaction-aware Temporal Memory Adaptation for Streaming HOI Video Generation  [[PDF](https://arxiv.org/abs/2607.20174),[Page](https://github.com/KlingAIResearch/StreamHOI)]
+
+[arxiv 2026.07] HeadCast: Casting Attention Heads for Efficient Autoregressive Video Generation  [[PDF](https://arxiv.org/abs/2607.20125)]
+
+[arxiv 2026.07] OSVE: One Step Video Editing with One Step Diffusion Models  [[PDF](https://arxiv.org/abs/2607.19895)]
+
+[arxiv 2026.07] SafeGen: Goal-Conditioned Video Diffusion of Safety-Critical Scenarios for VLM-Based Autonomous Driving  [[PDF](https://arxiv.org/abs/2607.19701)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

@@ -1,4 +1,4 @@
-<!-- Added on 2026-07-21 -->
+<!-- Added on 2026-07-23 -->
 
 [arxiv 2026.07] ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis  [[PDF](https://arxiv.org/abs/2607.19341)]
 
@@ -96,9 +96,9 @@
 
 [arxiv 2026.07] Self-Evolving Just-In-Time Memory for Proactive Embodied Safety  [[PDF](https://arxiv.org/abs/2607.16247)]
 
-<!-- Added on 2026-07-09 -->
-<!-- Added on 2026-07-16 -->
-<!-- Added on 2026-07-17 -->
+<!-- Added on 2026-07-23 -->
+<!-- Added on 2026-07-23 -->
+<!-- Added on 2026-07-23 -->
 [arxiv 2026.07] Hierarchical Denoising For Multi-Step Visual Reasoning  [[PDF](https://arxiv.org/abs/2607.15278)]
 
 [arxiv 2026.07] HoloGeo: Mitigating Landmark Bias in Geo-localization via Evidence-Driven Reasoning  [[PDF](https://arxiv.org/abs/2607.15255)]
@@ -157,7 +157,7 @@
 
 [arxiv 2026.07] Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment  [[PDF](https://arxiv.org/abs/2607.13429),[Page](https://github.com/dwipddalal/Anchor-Align)]
 
-<!-- Added on 2026-07-13 -->
+<!-- Added on 2026-07-23 -->
 [arxiv 2026.07] Vision as Unified Multimodal Generation  [[PDF](https://arxiv.org/abs/2607.06560)]
 
 [arxiv 2026.07] CAIRN: Cross-Room 3D Scene Understanding with Topology-Aware Large Multimodal Models  [[PDF](https://arxiv.org/abs/2607.06534),[Page](https://oceansdepp.github.io/cairn_web/)]
@@ -198,8 +198,8 @@
 
 [arxiv 2026.07] BaFCo: A Document Understanding Benchmark for Complex Bangla Form Comprehension  [[PDF](https://arxiv.org/abs/2607.05614)]
 
-<!-- Added on 2026-07-01 -->
-<!-- Added on 2026-07-20 -->
+<!-- Added on 2026-07-23 -->
+<!-- Added on 2026-07-23 -->
 [arxiv 2026.06] CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts  [[PDF](https://arxiv.org/abs/2606.31986),[Page](https://github.com/hulianyuyy/CoLT)]
 
 [arxiv 2026.06] ERA: Entropy-Guided Visual Token Pruning with Rectified Attention for Efficient MLLMs  [[PDF](https://arxiv.org/abs/2606.31982)]
@@ -3464,6 +3464,24 @@
 [arxiv 2026.07] DrawingVQA: A Real-World Benchmark for Multi-Depth Visual-Textual Reasoning on Construction Drawings  [[PDF](https://arxiv.org/abs/2607.15418)]
 
 [arxiv 2026.07] MLLM-DataEngine: Closing the Loop of Multimodal Instruction Tuning Data Generation  [[PDF](https://arxiv.org/abs/2607.15299)]
+
+[arxiv 2026.07] PercepCap: Video Captioner with Structured Spatio-Temporal Perception  [[PDF](https://arxiv.org/abs/2607.20389)]
+
+[arxiv 2026.07] Look Less, Think Faster: Joint Token-Compute Adaptation for Multimodal LLMs  [[PDF](https://arxiv.org/abs/2607.20357)]
+
+[arxiv 2026.07] Test-Time Training for Modality Order Consistency in Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.20351)]
+
+[arxiv 2026.07] Diverse-Intent Multi-Turn Fashion Image Retrieval  [[PDF](https://arxiv.org/abs/2607.20291)]
+
+[arxiv 2026.07] MV-Bench: Benchmarking Multimodal Large Language Models for Coordinated Multi-View Interface Construction  [[PDF](https://arxiv.org/abs/2607.19910)]
+
+[arxiv 2026.07] Trace: A Taxonomy-Guided Environment for Multidomain Visual Reasoning  [[PDF](https://arxiv.org/abs/2607.19790)]
+
+[arxiv 2026.07] ChronoStitch: Training-Free Composition of Visual KV Memories for Long-Horizon Temporal Reasoning  [[PDF](https://arxiv.org/abs/2607.19547)]
+
+[arxiv 2026.07] Detect Early, Escalate Rarely: Anytime Detection of AI-Generated Video from the Compressed Bitstream  [[PDF](https://arxiv.org/abs/2607.19476)]
+
+[arxiv 2026.07] BLUE: Semantics-Preserving Video Compression for Efficient Vision-Language Surveillance Analytics  [[PDF](https://arxiv.org/abs/2607.19515)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

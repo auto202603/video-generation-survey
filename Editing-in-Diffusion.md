@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-07-21 -->
+<!-- Added on 2026-07-23 -->
 
 [arxiv 2026.07] Appearance Pointers -- Multimodal Region Control of Diffusion Transformers  [[PDF](https://arxiv.org/abs/2607.19344)]
 
@@ -76,8 +76,8 @@
 [arxiv 2026.07] Points as Tori: Fast Pointwise Signed Distance for Point Clouds  [[PDF](https://arxiv.org/abs/2607.16946),[Page](https://nzfeng.github.io/research/PointsAsTori)]
 
 
-<!-- Added on 2026-07-16 -->
-<!-- Added on 2026-07-17 -->
+<!-- Added on 2026-07-23 -->
+<!-- Added on 2026-07-23 -->
 [arxiv 2026.07] QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration  [[PDF](https://arxiv.org/abs/2607.15097)]
 
 [arxiv 2026.07] RoGS: Adaptive Meshgrid Gaussian for Large-Scale Road Surface Mapping  [[PDF](https://arxiv.org/abs/2607.15048)]
@@ -140,11 +140,11 @@
 
 [arxiv 2026.07] TILDE: TILt-based Distributional Erasure for Concept Unlearning  [[PDF](https://arxiv.org/abs/2607.06432)]
 
-<!-- Added on 2026-07-03 -->
-<!-- Added on 2026-06-29 -->
-<!-- Added on 2026-06-26 -->
-<!-- Added on 2026-07-01 -->
-<!-- Added on 2026-07-20 -->
+<!-- Added on 2026-07-23 -->
+<!-- Added on 2026-07-23 -->
+<!-- Added on 2026-07-23 -->
+<!-- Added on 2026-07-23 -->
+<!-- Added on 2026-07-23 -->
 [arxiv 2026.06] GEAR: Guided End-to-End AutoRegression for Image Synthesis  [[PDF](https://arxiv.org/abs/2606.32039)]
 
 [arxiv 2026.06] SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE  [[PDF](https://arxiv.org/abs/2606.32033)]
@@ -2463,6 +2463,22 @@
 [arxiv 2026.07] E3DGS: Unified Geometric-Photometric Equivariance for 3D Gaussian Splatting via Color-as-Geometry Embedding  [[PDF](https://arxiv.org/abs/2607.15536)]
 
 [arxiv 2026.07] Rendering 3D Gaussians on a Graph Processor  [[PDF](https://arxiv.org/abs/2607.15951),[Page](https://nmjfry.github.io/ipu-3dgs/)]
+
+[arxiv 2026.07] ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion  [[PDF](https://arxiv.org/abs/2607.20417)]
+
+[arxiv 2026.07] STEREOFLOW: Progressive Stereo Matching with StereoDiT and Transition Flow Matching  [[PDF](https://arxiv.org/abs/2607.19986)]
+
+[arxiv 2026.07] ETPDesigner: Multi-Agent Orchestration for Interactive Multimodal Electronic Theater Program  [[PDF](https://arxiv.org/abs/2607.19947)]
+
+[arxiv 2026.07] MTVDiff: Multimodal Conditional Latent Diffusion for Enhanced Thermal-to-Visible Face Translation  [[PDF](https://arxiv.org/abs/2607.19886)]
+
+[arxiv 2026.07] Look Before You Edit: Attention-Guided Camera Placement and Multi-View Alignment for 3D Gaussian Splatting Editing  [[PDF](https://arxiv.org/abs/2607.19777)]
+
+[arxiv 2026.07] Extending a Large View Synthesis Model for Multi-view Panoptic Segmentation  [[PDF](https://arxiv.org/abs/2607.19765),[Page](https://kwonyoung9120.github.io/PanopticLVSM/)]
+
+[arxiv 2026.07] Analytic Distribution of Classifier-Free Guidance for Schedule Design  [[PDF](https://arxiv.org/abs/2607.19725)]
+
+[arxiv 2026.07] Group-of-Latents: Perceptual Video Compression at Extreme Bitrates via Masked Latent Generative Modeling  [[PDF](https://arxiv.org/abs/2607.19437)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
