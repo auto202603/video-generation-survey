@@ -3201,27 +3201,49 @@
 [arxiv 2026.06] HANCLIP: A Family of Hyperbolic Angular Negation Vision Language Models  [[PDF](https://arxiv.org/abs/2606.23843)]
 
 [arxiv 2026.06] Ground Then Rank: Revisiting Knowledge-Based VQA with Training-Free Entity Identification  [[PDF](https://arxiv.org/abs/2606.23881),[Page](https://github.com/VAN-QIAN/ACL26-IBA/)]
+
 [arxiv 2026.06] How Robust is OCR-Reasoning? Evaluating OCR-Reasoning Robustness of Vision-Language Models under Visual Perturbations  [[PDF](https://arxiv.org/abs/2606.26041)]
+
 [arxiv 2026.06] TriViewBench: Controlled Complexity Scaling for Multi-View Structural Reasoning in MLLMs  [[PDF](https://arxiv.org/abs/2606.26029)]
+
 [arxiv 2026.06] OracleAnalyser: Analysing Implicit Semantics of Oracle Bone Scripts through MLLMs with Post-training  [[PDF](https://arxiv.org/abs/2606.25906)]
+
 [arxiv 2026.06] USS: Unified Spatial-Semantic Prompts for Embodied Visual Tracking with Latent Dynamics Learning  [[PDF](https://arxiv.org/abs/2606.25880)]
+
 [arxiv 2026.06] Graph it first! Enabling Reasoning on Long-form Egocentric Videos through Scene Graphs  [[PDF](https://arxiv.org/abs/2606.25842)]
+
 [arxiv 2026.06] Edges Before Embeddings: A Confidence-Aware Blur Gate for Vision-Language Pipelines  [[PDF](https://arxiv.org/abs/2606.25838)]
+
 [arxiv 2026.06] ShutterMuse: Capture-Time Photography Guidance with MLLMs  [[PDF](https://arxiv.org/abs/2606.25763),[Page](https://lijayutnt.github.io/ShutterMuse)]
+
 [arxiv 2026.06] Dual Distribution Estimation for Zero-shot Noisy Test-Time Adaptation with VLMs  [[PDF](https://arxiv.org/abs/2606.25758),[Page](https://zhuwenjie98.github.io/DDE-project-page/)]
+
 [arxiv 2026.06] Falcon: Functional Assembly and Language for Compositional Reasoning in X-ray  [[PDF](https://arxiv.org/abs/2606.25701),[Page](https://yonathan-kiflom.github.io/FALCON/page/)]
+
 [arxiv 2026.06] Steering Vision-Language Models with Joint Sparse Autoencoders  [[PDF](https://arxiv.org/abs/2606.25657)]
+
 [arxiv 2026.06] SSMNBench: Diagnosing Image-based Cross-View Human-Object Understanding via Single-View Sufficiency and Multi-View Necessity  [[PDF](https://arxiv.org/abs/2606.25634),[Page](https://github.com/gtc-gh/SSMNBench)]
+
 [arxiv 2026.06] FeVOS: Foresight Expression Video Object Segmentation  [[PDF](https://arxiv.org/abs/2606.25585),[Page](https://henghuiding.com/FeVOS/)]
+
 [arxiv 2026.06] Invoice Haystack: Benchmarking Document Retrieval and Visual Question Answering Under Strong Visual Homogeneity  [[PDF](https://arxiv.org/abs/2606.25343)]
+
 [arxiv 2026.06] V-Zero: Answer-Label-Free On-Policy Distillation with Contrastive Evidence Gating for Fine-Grained Visual Reasoning  [[PDF](https://arxiv.org/abs/2606.25319)]
+
 [arxiv 2026.06] Are We There Yet? Exploring the Capabilities of MLLMs in Assistive AI Applications  [[PDF](https://arxiv.org/abs/2606.25084)]
+
 [arxiv 2026.06] Yuvion VL: A Multimodal Foundation Model for Adversarial Content and AI Safety  [[PDF](https://arxiv.org/abs/2606.25034)]
+
 [arxiv 2026.06] Curvature-Guided Mixing for MLLM Adaptation  [[PDF](https://arxiv.org/abs/2606.24963)]
+
 [arxiv 2026.06] Learning Action Priors for Cross-embodiment Robot Manipulation  [[PDF](https://arxiv.org/abs/2606.26095)]
+
 [arxiv 2026.06] Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2606.26079)]
+
 [arxiv 2026.06] Uncertainty Quantification for Computer-Use Agents: A Benchmark across Vision-Language Models and GUI Grounding Datasets  [[PDF](https://arxiv.org/abs/2606.25760)]
+
 [arxiv 2026.06] Toward Low-Latency Vision-Language Models with Doubly-Correct Predictions in Egocentric Visual Understanding  [[PDF](https://arxiv.org/abs/2606.25160)]
+
 [arxiv 2026.06] Do vision-language models search like humans? Reasoning tokens as a reaction-time analog in classic visual-search paradigms  [[PDF](https://arxiv.org/abs/2606.25066)]
 
 [arxiv 2026.06] Toward Robust In-Context Segmentation via Concept Guidance  [[PDF](https://arxiv.org/abs/2606.28149)]
@@ -3415,18 +3437,31 @@
 [arxiv 2026.07] GReFEM: Multimodal LLMs as Zero-Shot Semantic Assistants for Physics-Guided 3D Mesh Refinement  [[PDF](https://arxiv.org/abs/2607.08798)]
 
 [arxiv 2026.07] Breaking Déjà Vu: Independent Auditing of Visual Place Recognition through Vision-Language Reasoning  [[PDF](https://arxiv.org/abs/2607.12818)]
+
 [arxiv 2026.07] UniVR: Thinking in Visual Space for Unified Visual Reasoning  [[PDF](https://arxiv.org/abs/2607.12800),[Page](https://maverickren.github.io/UniVR.github.io/)]
+
 [arxiv 2026.07] CoRe: A Comprehensive Framework for Cross-Image Comparative Reasoning in Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.12786)]
+
 [arxiv 2026.07] EvoGraph-R1: Self-Evolving Multimodal Knowledge Hypergraphs for Agentic Retrieval  [[PDF](https://arxiv.org/abs/2607.12764)]
+
 [arxiv 2026.07] VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token Compression  [[PDF](https://arxiv.org/abs/2607.12756)]
+
 [arxiv 2026.07] DynTrace: Tracking Dynamic Object Evidence for 4D Spatio-Temporal Reasoning in MLLMs  [[PDF](https://arxiv.org/abs/2607.12503)]
+
 [arxiv 2026.07] MQAdapter: Multi-Modal Quantum Adapter for Coarse-to-Fine VLM Fine-tuning  [[PDF](https://arxiv.org/abs/2607.12418)]
+
 [arxiv 2026.07] IQA-T1: Tool-based Visual Evidence Reasoning for Image Quality Assessment  [[PDF](https://arxiv.org/abs/2607.12375)]
+
 [arxiv 2026.07] DM-KG: A Novel Method for Boosting Spatial Cognition of Vision-Language Models in Street View Imagery  [[PDF](https://arxiv.org/abs/2607.12319)]
+
 [arxiv 2026.07] Semantic-Edge Response Decoding of SAM3 for Zero-Shot Crack Segmentation  [[PDF](https://arxiv.org/abs/2607.12292)]
+
 [arxiv 2026.07] SymbOmni: Evolving Agentic Omni Models via Symbolic Concept Learning  [[PDF](https://arxiv.org/abs/2607.12042),[Page](https://spherelab.ai/symbomni)]
+
 [arxiv 2026.07] Anomalous Frame Detection Using VLM-Based Description Comparison for Extracting Expert-Specific Actions and Contextual Decision-Making Scenes with Intra-Video Self-Similarity  [[PDF](https://arxiv.org/abs/2607.11957)]
+
 [arxiv 2026.07] Do We Really Need Multimodal Emotion Language Models Larger Than 1B Parameters?  [[PDF](https://arxiv.org/abs/2607.12787)]
+
 [arxiv 2026.07] Do You Remember? Toward Memory-Centric Multimodal AI  [[PDF](https://arxiv.org/abs/2607.11919)]
 
 [arxiv 2026.07] Searching Videos as Trees: Self-Correcting Agents for Grounded Long Video QA  [[PDF](https://arxiv.org/abs/2607.16189)]
@@ -3482,6 +3517,30 @@
 [arxiv 2026.07] Detect Early, Escalate Rarely: Anytime Detection of AI-Generated Video from the Compressed Bitstream  [[PDF](https://arxiv.org/abs/2607.19476)]
 
 [arxiv 2026.07] BLUE: Semantics-Preserving Video Compression for Efficient Vision-Language Surveillance Analytics  [[PDF](https://arxiv.org/abs/2607.19515)]
+
+[arxiv 2026.07] 3D-Aware VLMs with Implicit and Explicit Geometries  [[PDF](https://arxiv.org/abs/2607.21595)]
+
+[arxiv 2026.07] When Are Reasoning-Based Guardrails Not Efficient? ResponseGuard: A Fast Vision-Language Guard for Real-Time Moderation  [[PDF](https://arxiv.org/abs/2607.21401),[Page](https://ndb796.github.io/ResponseGuard)]
+
+[arxiv 2026.07] Unlearning Under Imbalance: Benchmarking Fairness in Multimodal LLM Unlearning  [[PDF](https://arxiv.org/abs/2607.21300)]
+
+[arxiv 2026.07] CRAG-MM-Diagnostics: Enabling Stage-Wise Analysis of Knowledge-Intensive VQA  [[PDF](https://arxiv.org/abs/2607.21155)]
+
+[arxiv 2026.07] HalluScope: Fine-grained Hallucination Diagnosis for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2607.21105)]
+
+[arxiv 2026.07] Geo3R: Mitigating Spatial Reasoning Hallucination in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2607.21085)]
+
+[arxiv 2026.07] C-PTQ: Fisher-weighted Channel-wise Sensitivity for Post-training Quantization of MLLMs  [[PDF](https://arxiv.org/abs/2607.21076)]
+
+[arxiv 2026.07] MVEI &amp; EmObserver: Empowering MLLM-Oriented Visual Emotional Intelligence via Emotion Statement Judgement  [[PDF](https://arxiv.org/abs/2607.21061)]
+
+[arxiv 2026.07] DINO-VPT: Hierarchical Visual Prompt Tuning for Joint Physical-Digital Face Anti-Spoofing  [[PDF](https://arxiv.org/abs/2607.20900)]
+
+[arxiv 2026.07] ViSTR-Bench: Can MLLMs Reason from Continuous Visual Cues in Dynamic Scenes?  [[PDF](https://arxiv.org/abs/2607.20868)]
+
+[arxiv 2026.07] Rethinking Open-World Video Anomaly Detection: Diagnosing Definition Blindness  [[PDF](https://arxiv.org/abs/2607.20780)]
+
+[arxiv 2026.07] EmoAgent-R1: Towards Multimodal Emotion Understanding with Reinforcement Learning-based Dynamic Agent Specialization  [[PDF](https://arxiv.org/abs/2607.21013)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

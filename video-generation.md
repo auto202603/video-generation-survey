@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-07-23 -->
+<!-- Added on 2026-07-24 -->
 
 [arxiv 2026.07] ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU  [[PDF](https://arxiv.org/abs/2607.19191)]
 
@@ -26,8 +26,8 @@
 [arxiv 2026.07] SGA: Plug&amp;Play Geometric Verification for Educational Video Synthesis  [[PDF](https://arxiv.org/abs/2607.18116)]
 
 
-<!-- Added on 2026-07-23 -->
-<!-- Added on 2026-07-23 -->
+<!-- Added on 2026-07-24 -->
+<!-- Added on 2026-07-24 -->
 [arxiv 2026.07] VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding  [[PDF](https://arxiv.org/abs/2607.14935)]
 
 [arxiv 2026.07] VideoSEMA: a scalable and efficient Mamba-like attention for video understanding  [[PDF](https://arxiv.org/abs/2607.14711)]
@@ -62,12 +62,12 @@
 
 [arxiv 2026.07] Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory  [[PDF](https://arxiv.org/abs/2607.05511),[Page](https://clare-nie.github.io/Light-Omni)]
 
-<!-- Added on 2026-07-23 -->
-<!-- Added on 2026-07-23 -->
-<!-- Added on 2026-07-23 -->
-<!-- Added on 2026-07-23 -->
-<!-- Added on 2026-07-23 -->
-<!-- Added on 2026-07-23 -->
+<!-- Added on 2026-07-24 -->
+<!-- Added on 2026-07-24 -->
+<!-- Added on 2026-07-24 -->
+<!-- Added on 2026-07-24 -->
+<!-- Added on 2026-07-24 -->
+<!-- Added on 2026-07-24 -->
 [arxiv 2026.06] World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration  [[PDF](https://arxiv.org/abs/2606.31946)]
 
 [arxiv 2026.06] DriveWeaver: Point-Conditioned Video Inpainting for Controllable Vehicle Insertion in Autonomous Driving Simulation  [[PDF](https://arxiv.org/abs/2606.31918),[Page](https://github.com/LogosRoboticsGroup/DriveWeaver)]
@@ -1087,11 +1087,17 @@ A reading list of video generation
 [arxiv 2026.06] Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation  [[PDF](https://arxiv.org/abs/2606.23743)]
 
 [arxiv 2026.06] AVOC: Enhancing Hour-Level Audio-Video Understanding in Omni-Modal LLMs via Retrieval-Inspired Token Compression  [[PDF](https://arxiv.org/abs/2606.24286)]
+
 [arxiv 2026.06] MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation  [[PDF](https://arxiv.org/abs/2606.26087),[Page](https://cvlab-kaist.github.io/MVTrack4Gen/)]
+
 [arxiv 2026.06] DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation  [[PDF](https://arxiv.org/abs/2606.26058)]
+
 [arxiv 2026.06] Towards a Dynamic and Fixed-budget Memory Bank for Efficient Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2606.25658)]
+
 [arxiv 2026.06] VPA-Guard: Defending and Benchmarking Image-to-Video Generation Against Visual Prompt Attacks  [[PDF](https://arxiv.org/abs/2606.25592),[Page](https://huggingface.co/datasets/CSU-JPG/VVA-Bench)]
+
 [arxiv 2026.06] Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models  [[PDF](https://arxiv.org/abs/2606.25473)]
+
 [arxiv 2026.06] Physics Question Scene Graph: Fine-grained Evaluation of Physical Plausibility in Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2606.25306),[Page](https://github.com/atinpothiraj/pqsg)]
 
 [arxiv 2026.06] TempAct: Advancing Temporal Plausibility in Autoregressive Video Generation via Planner-Executor RL  [[PDF](https://arxiv.org/abs/2606.28016)]
@@ -1141,8 +1147,11 @@ A reading list of video generation
 [arxiv 2026.07] Video Generation Models are General-Purpose Vision Learners  [[PDF](https://arxiv.org/abs/2607.09024)]
 
 [arxiv 2026.07] AVSCap: Orchestrating Audio-Visual Synergy for Omni-modal Video Captioning  [[PDF](https://arxiv.org/abs/2607.12820)]
+
 [arxiv 2026.07] Gaussian Mixture Modeling for Event-Aware Visual Allocation in Long Video Understanding  [[PDF](https://arxiv.org/abs/2607.12557)]
+
 [arxiv 2026.07] ACID: Adaptive Caching for vIDeo generation  [[PDF](https://arxiv.org/abs/2607.12358)]
+
 [arxiv 2026.07] The Seriality Gap in Video Diffusion Models  [[PDF](https://arxiv.org/abs/2607.13031),[Page](https://seriality-gap.jdiazchao.com)]
 
 [arxiv 2026.07] FVAttn: Adaptive Sparse Attention with Runtime Load Balancing for Video Generation  [[PDF](https://arxiv.org/abs/2607.16190)]
@@ -1168,6 +1177,22 @@ A reading list of video generation
 [arxiv 2026.07] OSVE: One Step Video Editing with One Step Diffusion Models  [[PDF](https://arxiv.org/abs/2607.19895)]
 
 [arxiv 2026.07] SafeGen: Goal-Conditioned Video Diffusion of Safety-Critical Scenarios for VLM-Based Autonomous Driving  [[PDF](https://arxiv.org/abs/2607.19701)]
+
+[arxiv 2026.07] Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers  [[PDF](https://arxiv.org/abs/2607.21594),[Page](https://vail-ucla.github.io/worldweaver/)]
+
+[arxiv 2026.07] GraphVid: Interactive Graph-Controllable Video Generation  [[PDF](https://arxiv.org/abs/2607.21580)]
+
+[arxiv 2026.07] SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation  [[PDF](https://arxiv.org/abs/2607.21553)]
+
+[arxiv 2026.07] ElasticTTT: Prior-Preserving Test-Time Tuning for Video Editing  [[PDF](https://arxiv.org/abs/2607.21529)]
+
+[arxiv 2026.07] GroupVideo: Multi-Identity Customized Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2607.21027)]
+
+[arxiv 2026.07] ProCap: Prominence-guided Object Rectification for Faithful and Comprehensive Video Captioning  [[PDF](https://arxiv.org/abs/2607.21022)]
+
+[arxiv 2026.07] Distribution-Alignment Bridge for Uncertainty-Aware Text-to-Video Retrieval  [[PDF](https://arxiv.org/abs/2607.20984)]
+
+[arxiv 2026.07] Ms. Forcing: Efficient Streaming Video Generation with Multi-Scale Patchification and Attention  [[PDF](https://arxiv.org/abs/2607.20940)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

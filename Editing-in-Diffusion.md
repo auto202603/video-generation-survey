@@ -2255,13 +2255,21 @@
 [arxiv 2026.06] DivRL: Disentangled Self-Similarity Rewards for Diverse Subject-Driven Generation  [[PDF](https://arxiv.org/abs/2606.23950),[Page](https://qianwangx.github.io/DivRL/)]
 
 [arxiv 2026.06] ArtiTwinSplat: Interactable Digital Twin Reconstruction via Gaussian Splatting from RGB-D videos  [[PDF](https://arxiv.org/abs/2606.24628)]
+
 [arxiv 2026.06] MIMFlow: Integrating Masked Image Modeling with Normalizing Flows for End-to-End Image Generation  [[PDF](https://arxiv.org/abs/2606.26016)]
+
 [arxiv 2026.06] From Sparse and Imperfect 2D Anchors to Consistent 3D Gaussian Street Scenes: Support-Aware Appearance  [[PDF](https://arxiv.org/abs/2606.26007)]
+
 [arxiv 2026.06] Shift Variant Image Degradation and Restoration Using Singular Value Decomposition  [[PDF](https://arxiv.org/abs/2606.25818)]
+
 [arxiv 2026.06] H-Adapter: Pose-Robust Hairstyle Transfer via Attention-Derived, Source-Aligned Hair Masks  [[PDF](https://arxiv.org/abs/2606.25578),[Page](https://sanghunpark.github.io/hadapter_page/)]
+
 [arxiv 2026.06] Gastroendoscopy View Synthesis: A New Real Dataset and Evaluation  [[PDF](https://arxiv.org/abs/2606.25427),[Page](http://www.ok.sc.e.titech.ac.jp/res/GastroNVS/GastroGS/)]
+
 [arxiv 2026.06] Minimalist Preprocessing Approach for Image Synthesis Detection  [[PDF](https://arxiv.org/abs/2606.25297)]
+
 [arxiv 2026.06] Cross-Modality Structural Guidance in 3D Latent Diffusion for Robust FLAIR Super-Resolution  [[PDF](https://arxiv.org/abs/2606.25255)]
+
 [arxiv 2026.06] Structuring Sparsity: Block-Sparse Featurizers Capture Visual Concept Manifolds  [[PDF](https://arxiv.org/abs/2606.25234)]
 
 [arxiv 2026.06] StructSplat: Generalizable 3D Gaussian Splatting from Uncalibrated Sparse Views  [[PDF](https://arxiv.org/abs/2606.28321),[Page](https://structsplat.github.io)]
@@ -2435,13 +2443,21 @@
 [arxiv 2026.07] SplatCtrl: Perception-Action Coupling via Gaussian Scene Representations and Reactive Robot Control  [[PDF](https://arxiv.org/abs/2607.08948)]
 
 [arxiv 2026.07] ExtraGS: Enhancing Endoscopic View Extrapolation via Diffusion-Guided 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2607.12785)]
+
 [arxiv 2026.07] RFMSR: Residual Flow Matching for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2607.12753)]
+
 [arxiv 2026.07] WanToFight: Real-Time Generative Game Engine for Multi-Player Combat Interaction  [[PDF](https://arxiv.org/abs/2607.12592),[Page](https://humanaigc.github.io/wantofight/)]
+
 [arxiv 2026.07] DiTailed: Ensuring Visual Object Consistency in Text-Image-to-Image Flow Matching Models  [[PDF](https://arxiv.org/abs/2607.12539),[Page](https://francescotaioli.github.io/DiTailed/)]
+
 [arxiv 2026.07] RealSkin: Spatio-Spectral Partial Neural Adjoint Maps for Image-to-3D Attribute Transfer  [[PDF](https://arxiv.org/abs/2607.12495)]
+
 [arxiv 2026.07] Let RGB Be the Language of Vision  [[PDF](https://arxiv.org/abs/2607.12450)]
+
 [arxiv 2026.07] Implicit 4D Gaussian Splatting for Fast Motion with Large Inter-Frame Displacements  [[PDF](https://arxiv.org/abs/2607.12362),[Page](https://seung-gyeom.github.io/SPIN-4DGS)]
+
 [arxiv 2026.07] Self-Consistent Flow: Unifying Velocity and Endpoint Prediction for Rectified Flow Models  [[PDF](https://arxiv.org/abs/2607.12171)]
+
 [arxiv 2026.07] MetaView: Monocular Novel View Synthesis with Scale-Aware Implicit Geometry Priors  [[PDF](https://arxiv.org/abs/2607.12000)]
 
 [arxiv 2026.07] Adaptive Contrast Enhancement and Optimised Feature Matching for RootSIFT-Based Palm-Vein Recognition  [[PDF](https://arxiv.org/abs/2607.16077)]
@@ -2479,6 +2495,38 @@
 [arxiv 2026.07] Analytic Distribution of Classifier-Free Guidance for Schedule Design  [[PDF](https://arxiv.org/abs/2607.19725)]
 
 [arxiv 2026.07] Group-of-Latents: Perceptual Video Compression at Extreme Bitrates via Masked Latent Generative Modeling  [[PDF](https://arxiv.org/abs/2607.19437)]
+
+[arxiv 2026.07] Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning  [[PDF](https://arxiv.org/abs/2607.21591),[Page](https://www.vision.caltech.edu/psp)]
+
+[arxiv 2026.07] Recurrent Sinusoidal INRs for Efficient High-Fidelity Representation  [[PDF](https://arxiv.org/abs/2607.21485)]
+
+[arxiv 2026.07] CLUIE: Clustering-Aware Recurrent Propagation with Local Structural Compensation for Underwater Image Enhancement  [[PDF](https://arxiv.org/abs/2607.21467),[Page](https://github.com/geekpool/CLUIE)]
+
+[arxiv 2026.07] GrainGS: Gradient-Decoupled Gaussian Splatting for Efficient Dynamic Novel View Synthesis  [[PDF](https://arxiv.org/abs/2607.21448)]
+
+[arxiv 2026.07] SlerpFlow: Spherical Trajectory Correction for Rectified Flow Inversion  [[PDF](https://arxiv.org/abs/2607.21326)]
+
+[arxiv 2026.07] Decoupling Cross-Modality Manifold Discrepancy: Leveraging Visible Diffusion Priors for Infrared Super-Resolution  [[PDF](https://arxiv.org/abs/2607.21174),[Page](https://github.com/Assassink8/Shift-IISR)]
+
+[arxiv 2026.07] Causal-AgentIR: Self-Evolving Causal Memory for Adaptive Image Restoration Agents  [[PDF](https://arxiv.org/abs/2607.21125)]
+
+[arxiv 2026.07] The Second LoViF 2026 Challenge on Real-World All-in-One Image Restoration: Methods and Results  [[PDF](https://arxiv.org/abs/2607.21118),[Page](https://lowlevelcv.com/)]
+
+[arxiv 2026.07] The RealDefocus Benchmark for Defocus Deblurring  [[PDF](https://arxiv.org/abs/2607.21078)]
+
+[arxiv 2026.07] MagicMakeup: A Region-Controllable Diffusion Transformer for High-Fidelity Makeup-Transfer  [[PDF](https://arxiv.org/abs/2607.20924)]
+
+[arxiv 2026.07] WhereEdit: Mask-aware Local Latent Editing for One-Step Image Editing  [[PDF](https://arxiv.org/abs/2607.20883)]
+
+[arxiv 2026.07] SubSplat: High-Resolution Pixel-aligned 3DGS via Sub-pixel Gaussian Reparameterization  [[PDF](https://arxiv.org/abs/2607.20813)]
+
+[arxiv 2026.07] 3D-GIMP: When 3D Gaussian Inpainting Meets PatchMatch  [[PDF](https://arxiv.org/abs/2607.20789)]
+
+[arxiv 2026.07] RealVDeblur: One-Step Diffusion for Generalizable Real-World Video Deblurring  [[PDF](https://arxiv.org/abs/2607.20628),[Page](https://rbjin.github.io/RealVDeblur/)]
+
+[arxiv 2026.07] KroQuant: Kronecker-Structured Block Transforms for Efficient Post-Training Quantization of Diffusion Transformers  [[PDF](https://arxiv.org/abs/2607.21446)]
+
+[arxiv 2026.07] GLAM-SLAM: Real-time Gaussian Large-scale Mapping via Flow Densification and Spatial Decomposition  [[PDF](https://arxiv.org/abs/2607.21416),[Page](https://glamslam.github.io/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
