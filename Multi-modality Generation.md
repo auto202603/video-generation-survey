@@ -3542,6 +3542,76 @@
 
 [arxiv 2026.07] EmoAgent-R1: Towards Multimodal Emotion Understanding with Reinforcement Learning-based Dynamic Agent Specialization  [[PDF](https://arxiv.org/abs/2607.21013)]
 
+[arxiv 2026.07] Evidence Attribution in Visual Document Understanding without Coordinates or Region Labels  [[PDF](https://arxiv.org/abs/2607.24651)]
+
+[arxiv 2026.07] Test-Time Adaptation via Dual Distillation for Videos Under Severe Distribution Shifts  [[PDF](https://arxiv.org/abs/2607.24611)]
+
+[arxiv 2026.07] The Visual Bottleneck: Sparse-Frame Adaptation of MLLMs for Joint Spatial-Temporal Video Grounding  [[PDF](https://arxiv.org/abs/2607.24570)]
+
+[arxiv 2026.07] DecoupleMix: Decoupled Ratio Search and Convex Allocation for Scalable VLM Data Recipes  [[PDF](https://arxiv.org/abs/2607.24516)]
+
+[arxiv 2026.07] RP-OPSD: Resolution-Privileged On-Policy Self-Distillation for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2607.24447)]
+
+[arxiv 2026.07] Bigger or Cheaper? Scale and Quantization Effects on Uncertainty Signals in Vision-Language Models Under Image Degradation  [[PDF](https://arxiv.org/abs/2607.24440),[Page](https://github.com/Asif-Ferdous/vlm-scale-quant)]
+
+[arxiv 2026.07] MAViE: A Multi-scale Adaptive Vision Encoder for Fine-grained Visual Perception and Efficient Multimodal Reasoning  [[PDF](https://arxiv.org/abs/2607.24424)]
+
+[arxiv 2026.07] Mixture-of-Thought-Tokens: Unifying Perception and Reasoning for Free-form Multimodal Grounding  [[PDF](https://arxiv.org/abs/2607.24407)]
+
+[arxiv 2026.07] Face Age Verification Vulnerabilities Under Simple Appearance Manipulations  [[PDF](https://arxiv.org/abs/2607.24194)]
+
+[arxiv 2026.07] UniGen-AR: Unifying Visual Generation with Auto-Regressive Modeling  [[PDF](https://arxiv.org/abs/2607.24157)]
+
+[arxiv 2026.07] ReflexTrack: A Feedback-Driven Agent for Training-Free Referring Video Object Segmentation  [[PDF](https://arxiv.org/abs/2607.24098)]
+
+[arxiv 2026.07] When Low CER is Not Enough: An Analysis of Hallucinations in Vision-Language OCR Systems on Historical Uruguayan Documents  [[PDF](https://arxiv.org/abs/2607.24077)]
+
+[arxiv 2026.07] Disentangling Semantic Attention from Structural Bias in the Attention Manifold  [[PDF](https://arxiv.org/abs/2607.24017)]
+
+[arxiv 2026.07] DDVT: Dynamic Dual-level Vision Transformer Fusion Network for Answer Grounding in Visual Question Answering  [[PDF](https://arxiv.org/abs/2607.23921)]
+
+[arxiv 2026.07] Gaze-to-text Generation: Beyond Categorical Decoding of Human Attention  [[PDF](https://arxiv.org/abs/2607.23917)]
+
+[arxiv 2026.07] GNM Head: A Generative aNthropometric Model of the human head  [[PDF](https://arxiv.org/abs/2607.23687),[Page](https://github.com/google/GNM)]
+
+[arxiv 2026.07] ConFusion: Continuous Fusion Space Learning for Fine-Grained Controllable Infrared and Visible Image Fusion  [[PDF](https://arxiv.org/abs/2607.23600)]
+
+[arxiv 2026.07] Token-Region Guided Cross-Attention Fusion for Multimodal Affect Interpretation  [[PDF](https://arxiv.org/abs/2607.23493)]
+
+[arxiv 2026.07] Omni-Prune: Query-Aware Unified Token Pruning for Efficient Omnimodal Large Language Models  [[PDF](https://arxiv.org/abs/2607.23445),[Page](https://github.com/kimberlyii/Omni-Prune)]
+
+[arxiv 2026.07] UltraViT: Latency-Optimized On-device Vision Encoder for Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.23373)]
+
+[arxiv 2026.07] The Gate Always Closes: On Injecting Auxiliary Signals into Frozen Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.23335)]
+
+[arxiv 2026.07] What CLIP Knows but Cannot Say: Recovering Negation from Frozen Intermediate Features  [[PDF](https://arxiv.org/abs/2607.23271)]
+
+[arxiv 2026.07] A Reconstruction-Based Framework for Caption Evaluation Beyond Reference Captions  [[PDF](https://arxiv.org/abs/2607.23235),[Page](https://github.com/ZhijiangTang/Caption-Turing-Test)]
+
+[arxiv 2026.07] OmniScope: Modality-Decoupled Token Compression for Omnimodal Large Language Models  [[PDF](https://arxiv.org/abs/2607.23193)]
+
+[arxiv 2026.07] Similarity Is Not Logic: Factored Inference for Dual-Encoder Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.23052),[Page](https://sultanmo.github.io/factored-vlm)]
+
+[arxiv 2026.07] Structured Redundancy Modeling for Efficient Visual Token Pruning in High-Resolution MLLMs  [[PDF](https://arxiv.org/abs/2607.23046)]
+
+[arxiv 2026.07] Spatial-IQ: Deconstructing Spatial Intelligence via Hierarchical Capability Tests  [[PDF](https://arxiv.org/abs/2607.22864)]
+
+[arxiv 2026.07] AI-generated Images Challenge Visual Trust in High-risk Scenarios  [[PDF](https://arxiv.org/abs/2607.22745)]
+
+[arxiv 2026.07] Visual Token Compression Enhances Robustness of MLLMs  [[PDF](https://arxiv.org/abs/2607.22716),[Page](https://github.com/Eurek001/OOD-VTP)]
+
+[arxiv 2026.07] Child-Oriented AIGC Video Risk Reviewing: A Benchmark and Knowledge-Supported Iterative Reasoning Framework  [[PDF](https://arxiv.org/abs/2607.22715)]
+
+[arxiv 2026.07] StepX-Edge: An On-Device UI Vision-Language Model via Architecture-Training-Deployment Co-Design  [[PDF](https://arxiv.org/abs/2607.22708)]
+
+[arxiv 2026.07] ERUnderstand: Evaluating Vision-Language Models on Structured ER Diagrams  [[PDF](https://arxiv.org/abs/2607.24707)]
+
+[arxiv 2026.07] DeCoRAG: Cognitive Decoupling and Semantic-Aware Cropping for Complex Document Understanding  [[PDF](https://arxiv.org/abs/2607.24554)]
+
+[arxiv 2026.07] LabRobFail: A Benchmark for Robotic Failure Analysis in Chemical Self-driving Laboratories  [[PDF](https://arxiv.org/abs/2607.23704),[Page](https://github.com/Su-ISE-2001/SciRobo)]
+
+[arxiv 2026.07] Reason Before You Retrieve: Agentic Planning for Multi-modal RAG  [[PDF](https://arxiv.org/abs/2607.22643)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## Feedback 

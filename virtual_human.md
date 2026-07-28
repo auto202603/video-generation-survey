@@ -542,6 +542,12 @@
 
 [arxiv 2026.07] ENTRAP-VL: A Taxonomic Probe for Dual Contextual Entrainment in Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.20092)]
 
+[arxiv 2026.07] TaoMate: Anchor-Guided Memory Bridging Evolving and Reference States for Real-Time Audio-Video Digital Human Generation  [[PDF](https://arxiv.org/abs/2607.24359)]
+
+[arxiv 2026.07] Multiview Multi-Person Human Mesh Recovery Under Large Scenes with Occlusions  [[PDF](https://arxiv.org/abs/2607.24302)]
+
+[arxiv 2026.07] mmSimPrior: Learning Simulation Priors for Data-Efficient Real-World Generalizable Radar-Based Human Motion Reconstruction  [[PDF](https://arxiv.org/abs/2607.22973),[Page](https://ch3ngguo.github.io/mmsimprior/)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Gaussian Face 

@@ -2528,6 +2528,70 @@
 
 [arxiv 2026.07] GLAM-SLAM: Real-time Gaussian Large-scale Mapping via Flow Densification and Spatial Decomposition  [[PDF](https://arxiv.org/abs/2607.21416),[Page](https://glamslam.github.io/)]
 
+[arxiv 2026.07] Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation  [[PDF](https://arxiv.org/abs/2607.24731)]
+
+[arxiv 2026.07] MicroZoom: Structure-Preserving Detail Synthesis at Extreme Scale  [[PDF](https://arxiv.org/abs/2607.24729),[Page](https://microzoom-sr.github.io/)]
+
+[arxiv 2026.07] MMOE: Modernizing Diffusion Transformers with Efficient Expert Design  [[PDF](https://arxiv.org/abs/2607.24665)]
+
+[arxiv 2026.07] MSVS-VAE: Multi-Scale Anchored VecSet for High-Fidelity 3D Reconstruction  [[PDF](https://arxiv.org/abs/2607.24436)]
+
+[arxiv 2026.07] GenSplatCodec: Feed-Forward Gaussian Splatting Compression via One-Step Diffusion  [[PDF](https://arxiv.org/abs/2607.24403)]
+
+[arxiv 2026.07] PRISM: Prompt Refinement via Image-grounded Self-rewarding Mechanism for Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2607.24353)]
+
+[arxiv 2026.07] SILICA: Repurposing Diffusion Priors for Joint Glass Segmentation and Depth Estimation  [[PDF](https://arxiv.org/abs/2607.24249)]
+
+[arxiv 2026.07] TreeAdapter: Hierarchical Taxonomy-Guided Adapter Composition for Fine-Grained Species Image Generation  [[PDF](https://arxiv.org/abs/2607.24215)]
+
+[arxiv 2026.07] Image Inpainting via Stochastic Dynamics  [[PDF](https://arxiv.org/abs/2607.24140)]
+
+[arxiv 2026.07] LoTA-N2N: Local Trace Adaptation for Zero-Shot Self-Supervised Image Denoising  [[PDF](https://arxiv.org/abs/2607.24135)]
+
+[arxiv 2026.07] BeyondFusion: Self-Aligned Latent Diffusion for Calibration-Free Infrared Super-Resolution and Infrared-Visible Fusion  [[PDF](https://arxiv.org/abs/2607.24110)]
+
+[arxiv 2026.07] LU-500: A Logo Benchmark for Concept Unlearning  [[PDF](https://arxiv.org/abs/2607.24101)]
+
+[arxiv 2026.07] DailyBench: A Unified Benchmark for AI-Generated and Manipulated Images from Modern Generative Models  [[PDF](https://arxiv.org/abs/2607.24016)]
+
+[arxiv 2026.07] Low-light Image Enhancement via Multi-scale Attention combined with Fourier Transform  [[PDF](https://arxiv.org/abs/2607.24002)]
+
+[arxiv 2026.07] Manifold-Constrained Noise Optimization for Diverse Diffusion Sampling  [[PDF](https://arxiv.org/abs/2607.23937)]
+
+[arxiv 2026.07] What Can I Edit? Open-Ended Strategy Discovery and the Emotion Editability Landscape  [[PDF](https://arxiv.org/abs/2607.23920)]
+
+[arxiv 2026.07] Head Avatars with Dynamic Explicit Hair  [[PDF](https://arxiv.org/abs/2607.23861),[Page](https://dynhair.is.tue.mpg.de/)]
+
+[arxiv 2026.07] OmniCache: Multidimensional Hierarchical Feature Caching For Diffusion Models  [[PDF](https://arxiv.org/abs/2607.23844)]
+
+[arxiv 2026.07] RoadVGGT: Road-Structure-Aware Feed-Forward Road Surface Reconstruction  [[PDF](https://arxiv.org/abs/2607.23758)]
+
+[arxiv 2026.07] Perturbation-Aware Diffusion-Guided Hybrid Segmentation for Robust and Annotation-Efficient Plant Stress Phenotyping  [[PDF](https://arxiv.org/abs/2607.23680)]
+
+[arxiv 2026.07] To Erase, or Not to Erase: Robust Training-Free Concept Erasure with Preservation aware Adaptive Ranked Subspace Expansion  [[PDF](https://arxiv.org/abs/2607.23492)]
+
+[arxiv 2026.07] Fashion-3DLR: A Controllable 3D Garment Generation Using Pairwise Fashion Elements for Intelligent Design  [[PDF](https://arxiv.org/abs/2607.23189)]
+
+[arxiv 2026.07] Breaking the Synthetic-Real Domain Shortcut for Training-Free Generative Replay-based Class Incremental Learning  [[PDF](https://arxiv.org/abs/2607.22994)]
+
+[arxiv 2026.07] Hybrid Semantic and Spectral Ensemble for Robust Synthetic Image Source Attribution  [[PDF](https://arxiv.org/abs/2607.22808)]
+
+[arxiv 2026.07] TOM-GS: Editable Video Representation via Temporal Opacity Modulation of Static 3D Gaussians  [[PDF](https://arxiv.org/abs/2607.22717)]
+
+[arxiv 2026.07] FogDrive: A Multi-Modal Synthetic Driving Dataset for Perception under Graded Fog  [[PDF](https://arxiv.org/abs/2607.22698)]
+
+[arxiv 2026.07] Learning Sampling Parameters for Diffusion Models  [[PDF](https://arxiv.org/abs/2607.23488)]
+
+[arxiv 2026.07] PriSAR: 3D Geometric-Prior-Guided Diffusion for Parameter-Controlled SAR Image Generation  [[PDF](https://arxiv.org/abs/2607.22963)]
+
+[arxiv 2026.07] Meshless Domain Randomization via Explicit Parameter Perturbation of 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2607.22890)]
+
+[arxiv 2026.07] DY-LUT: Depth-Aware YCbCr Lookup Tables for Real-Time Underwater Image Enhancement  [[PDF](https://arxiv.org/abs/2607.22801)]
+
+[arxiv 2026.07] Small, Bias-Free, Blind and Convolutional Denoiser: A compact ConvNeXt U-Net for blind Gaussian color-image denoising  [[PDF](https://arxiv.org/abs/2607.22793)]
+
+[arxiv 2026.07] Inter-Reflective Gaussian Splatting for Robust and Efficient Inverse Rendering  [[PDF](https://arxiv.org/abs/2607.22780)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]

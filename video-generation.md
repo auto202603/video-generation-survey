@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-07-24 -->
+<!-- Added on 2026-07-28 -->
 
 [arxiv 2026.07] ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU  [[PDF](https://arxiv.org/abs/2607.19191)]
 
@@ -26,8 +26,8 @@
 [arxiv 2026.07] SGA: Plug&amp;Play Geometric Verification for Educational Video Synthesis  [[PDF](https://arxiv.org/abs/2607.18116)]
 
 
-<!-- Added on 2026-07-24 -->
-<!-- Added on 2026-07-24 -->
+<!-- Added on 2026-07-28 -->
+<!-- Added on 2026-07-28 -->
 [arxiv 2026.07] VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding  [[PDF](https://arxiv.org/abs/2607.14935)]
 
 [arxiv 2026.07] VideoSEMA: a scalable and efficient Mamba-like attention for video understanding  [[PDF](https://arxiv.org/abs/2607.14711)]
@@ -62,12 +62,12 @@
 
 [arxiv 2026.07] Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory  [[PDF](https://arxiv.org/abs/2607.05511),[Page](https://clare-nie.github.io/Light-Omni)]
 
-<!-- Added on 2026-07-24 -->
-<!-- Added on 2026-07-24 -->
-<!-- Added on 2026-07-24 -->
-<!-- Added on 2026-07-24 -->
-<!-- Added on 2026-07-24 -->
-<!-- Added on 2026-07-24 -->
+<!-- Added on 2026-07-28 -->
+<!-- Added on 2026-07-28 -->
+<!-- Added on 2026-07-28 -->
+<!-- Added on 2026-07-28 -->
+<!-- Added on 2026-07-28 -->
+<!-- Added on 2026-07-28 -->
 [arxiv 2026.06] World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration  [[PDF](https://arxiv.org/abs/2606.31946)]
 
 [arxiv 2026.06] DriveWeaver: Point-Conditioned Video Inpainting for Controllable Vehicle Insertion in Autonomous Driving Simulation  [[PDF](https://arxiv.org/abs/2606.31918),[Page](https://github.com/LogosRoboticsGroup/DriveWeaver)]
@@ -1193,6 +1193,30 @@ A reading list of video generation
 [arxiv 2026.07] Distribution-Alignment Bridge for Uncertainty-Aware Text-to-Video Retrieval  [[PDF](https://arxiv.org/abs/2607.20984)]
 
 [arxiv 2026.07] Ms. Forcing: Efficient Streaming Video Generation with Multi-Scale Patchification and Attention  [[PDF](https://arxiv.org/abs/2607.20940)]
+
+[arxiv 2026.07] CADER: Confidence-Aware Dynamic Evidence Reasoning for Long-Video Understanding  [[PDF](https://arxiv.org/abs/2607.24582)]
+
+[arxiv 2026.07] EgoPlay: Event-Triggered Video Editing for Egocentric Streams  [[PDF](https://arxiv.org/abs/2607.24560),[Page](https://egoplay2026.github.io/egoplay)]
+
+[arxiv 2026.07] FilmBench: A Film-Grade Benchmark for Cinematic Video Generation  [[PDF](https://arxiv.org/abs/2607.24241)]
+
+[arxiv 2026.07] ViDS: Video Diffusion Shader using 3D Face Tracking  [[PDF](https://arxiv.org/abs/2607.24124),[Page](https://fusheng-ji.github.io/ViDS/)]
+
+[arxiv 2026.07] MarineEVT: Advancing Event-Centric Marine Video Understanding via Visual Tool Reasoning  [[PDF](https://arxiv.org/abs/2607.24064)]
+
+[arxiv 2026.07] Sol-Attn: Accelerating Video Generation Inference via On-the-Fly Attention Sparsification  [[PDF](https://arxiv.org/abs/2607.24027)]
+
+[arxiv 2026.07] AptAvatar: Fast and Vivid Long-Form Audio-Driven Video Generation for Production-Ready Avatars  [[PDF](https://arxiv.org/abs/2607.24013)]
+
+[arxiv 2026.07] VIPER: Visual In-Context Physics Reasoning for Physically Plausible Video Generation  [[PDF](https://arxiv.org/abs/2607.23472)]
+
+[arxiv 2026.07] WaveZip: Wavelet-Driven Space-Time Decoupling for Video Token Condensation  [[PDF](https://arxiv.org/abs/2607.23265)]
+
+[arxiv 2026.07] HALLELUAI: A Hallucination-Aware AI System for Ultra-Realistic Image-to-Video Generation at Scale  [[PDF](https://arxiv.org/abs/2607.22959)]
+
+[arxiv 2026.07] MegaSlide-DiT: Memory-Centric Adaptation and Deformable Local Attention for Efficient Video Diffusion  [[PDF](https://arxiv.org/abs/2607.22696)]
+
+[arxiv 2026.07] CachedSearch: Training-Free Cached Exploration for Test-Time Search in Video Diffusion  [[PDF](https://arxiv.org/abs/2607.23159)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
