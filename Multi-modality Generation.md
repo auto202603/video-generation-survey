@@ -1,3 +1,4 @@
+<!-- Added on 2026-07-29 -->
 <!-- Added on 2026-07-23 -->
 
 [arxiv 2026.07] ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis  [[PDF](https://arxiv.org/abs/2607.19341)]
@@ -3611,6 +3612,42 @@
 [arxiv 2026.07] LabRobFail: A Benchmark for Robotic Failure Analysis in Chemical Self-driving Laboratories  [[PDF](https://arxiv.org/abs/2607.23704),[Page](https://github.com/Su-ISE-2001/SciRobo)]
 
 [arxiv 2026.07] Reason Before You Retrieve: Agentic Planning for Multi-modal RAG  [[PDF](https://arxiv.org/abs/2607.22643)]
+
+[arxiv 2026.07] VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening  [[PDF](https://arxiv.org/abs/2607.26042)]
+
+[arxiv 2026.07] Knowledge-Guided Multimodal Reasoning over Interacting Streams for Video-Level Ambivalence and Hesitancy Recognition  [[PDF](https://arxiv.org/abs/2607.25961)]
+
+[arxiv 2026.07] MODUS: Decoder-Only Any-to-Any Modeling of Diverse Modalities  [[PDF](https://arxiv.org/abs/2607.25948),[Page](https://modus-multimodal.epfl.ch)]
+
+[arxiv 2026.07] Evaluating VLMs for Autonomous Agent-Driven Geometry Clipping Detection in Video Game QA  [[PDF](https://arxiv.org/abs/2607.25921)]
+
+[arxiv 2026.07] SepPrune:A Separator-based Pruning Framework for Efficient Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2607.25818)]
+
+[arxiv 2026.07] Fine-Grained Food Image Understanding via Target-Aware Data Alignment  [[PDF](https://arxiv.org/abs/2607.25794)]
+
+[arxiv 2026.07] Towards Faithful Sentimental Image Captioning via Evidence-Aware Multi-Agent Reasoning  [[PDF](https://arxiv.org/abs/2607.25789)]
+
+[arxiv 2026.07] Instruction-based Image Editing: A Survey on Data, Models, Evaluation, and Applications  [[PDF](https://arxiv.org/abs/2607.25642)]
+
+[arxiv 2026.07] Visual prompt engineering for video models  [[PDF](https://arxiv.org/abs/2607.25537)]
+
+[arxiv 2026.07] Argus-Unified: Towards A Compact and Economical Unified Model for Image Understanding and Generation  [[PDF](https://arxiv.org/abs/2607.25527)]
+
+[arxiv 2026.07] Sense it with your eyes: Sensation Generation and Understanding for Advertisements  [[PDF](https://arxiv.org/abs/2607.25314)]
+
+[arxiv 2026.07] CLBench-V: Evaluating Multimodal Context Learning from Grounding to Knowledge Acquisition  [[PDF](https://arxiv.org/abs/2607.25294)]
+
+[arxiv 2026.07] IMPRINT: Image-Conditioned Query Enrichment for Long-Tail Object Goal Navigation  [[PDF](https://arxiv.org/abs/2607.25106),[Page](https://github.com/JelinR/IMPRINT)]
+
+[arxiv 2026.07] PerceptionBench: Evaluating Atomic Visual Perception in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2607.24957)]
+
+[arxiv 2026.07] Mage-VL: An Efficient Codec-Native Streaming Multimodal Foundation Model  [[PDF](https://arxiv.org/abs/2607.24904),[Page](https://microsoft.github.io/Mage)]
+
+[arxiv 2026.07] Harm is not Universal: Community-Specific Toxicity Detection is Urgently Needed  [[PDF](https://arxiv.org/abs/2607.24898)]
+
+[arxiv 2026.07] NEXT: Reasoning-Driven Video Recommendation via a Vision-Language Model  [[PDF](https://arxiv.org/abs/2607.24789)]
+
+[arxiv 2026.07] DocAnnot -- Accelerating the Creation of Key Information Extraction Datasets with GenAI-Powered Auto-annotation  [[PDF](https://arxiv.org/abs/2607.24745)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

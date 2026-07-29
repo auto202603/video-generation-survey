@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-07-28 -->
+<!-- Added on 2026-07-29 -->
 
 [arxiv 2026.07] ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU  [[PDF](https://arxiv.org/abs/2607.19191)]
 
@@ -1217,6 +1217,20 @@ A reading list of video generation
 [arxiv 2026.07] MegaSlide-DiT: Memory-Centric Adaptation and Deformable Local Attention for Efficient Video Diffusion  [[PDF](https://arxiv.org/abs/2607.22696)]
 
 [arxiv 2026.07] CachedSearch: Training-Free Cached Exploration for Test-Time Search in Video Diffusion  [[PDF](https://arxiv.org/abs/2607.23159)]
+
+[arxiv 2026.07] Wonder: Video World Model Done Better  [[PDF](https://arxiv.org/abs/2607.26037),[Page](https://wonder-world-model.github.io/)]
+
+[arxiv 2026.07] Parallel Decoding Distillation for Fast Image and Video Generation  [[PDF](https://arxiv.org/abs/2607.26004)]
+
+[arxiv 2026.07] MEDit-Bench: A Dataset for Evaluating Message-Driven Narrative Video Editing  [[PDF](https://arxiv.org/abs/2607.25300)]
+
+[arxiv 2026.07] FORGE: Frame Orthogonality in Relevance Geometry for Long-Form Video Understanding  [[PDF](https://arxiv.org/abs/2607.25266)]
+
+[arxiv 2026.07] LENS: Adaptive Spatio-Temporal Zooming for Keyframe Sampling in Long-Form Videos  [[PDF](https://arxiv.org/abs/2607.25125),[Page](https://zhangce01.github.io/LENS/)]
+
+[arxiv 2026.07] AVE-Compass: Towards Holistic Evaluation for Audio-Video Editing Abilities  [[PDF](https://arxiv.org/abs/2607.24821)]
+
+[arxiv 2026.07] Reasoning with Memory: A Temporal Granularity-Adaptive Framework for Training-Free Long Video Understanding  [[PDF](https://arxiv.org/abs/2607.24794)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-07-23 -->
+<!-- Added on 2026-07-29 -->
 
 [arxiv 2026.07] Appearance Pointers -- Multimodal Region Control of Diffusion Transformers  [[PDF](https://arxiv.org/abs/2607.19344)]
 
@@ -2591,6 +2591,20 @@
 [arxiv 2026.07] Small, Bias-Free, Blind and Convolutional Denoiser: A compact ConvNeXt U-Net for blind Gaussian color-image denoising  [[PDF](https://arxiv.org/abs/2607.22793)]
 
 [arxiv 2026.07] Inter-Reflective Gaussian Splatting for Robust and Efficient Inverse Rendering  [[PDF](https://arxiv.org/abs/2607.22780)]
+
+[arxiv 2026.07] TIGA: Trajectory-Injected Generative Attack against Black-box AIGC Detectors  [[PDF](https://arxiv.org/abs/2607.25894)]
+
+[arxiv 2026.07] OmniPhys: Knowledge-Graph-Driven Benchmarking and Collective Optimization for Physical Commonsense in Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2607.25641)]
+
+[arxiv 2026.07] Beyond Facial Consistency: Personalized Person Image Generation with Holistic Identity Preservation  [[PDF](https://arxiv.org/abs/2607.25622)]
+
+[arxiv 2026.07] Noise-Free One-Step LoRA for Task-Driven Image Restoration with Diffusion Priors  [[PDF](https://arxiv.org/abs/2607.25390),[Page](https://github.com/JaehaKim97/NOLA-IR)]
+
+[arxiv 2026.07] ScaleResfusion: Residual Rectified Flow based on Residual Vector Field  [[PDF](https://arxiv.org/abs/2607.25275)]
+
+[arxiv 2026.07] Diff-ID: Identity Consistent Facial Image Generation and Morphing via Diffusion Models  [[PDF](https://arxiv.org/abs/2607.25078)]
+
+[arxiv 2026.07] CORF-GS: Real-Time Wireless Radiance Field Reconstruction via Coupled Optical-RF Gaussian Splatting  [[PDF](https://arxiv.org/abs/2607.25569)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
