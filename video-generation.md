@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-07-29 -->
+<!-- Added on 2026-07-30 -->
 
 [arxiv 2026.07] ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU  [[PDF](https://arxiv.org/abs/2607.19191)]
 
@@ -26,8 +26,8 @@
 [arxiv 2026.07] SGA: Plug&amp;Play Geometric Verification for Educational Video Synthesis  [[PDF](https://arxiv.org/abs/2607.18116)]
 
 
-<!-- Added on 2026-07-28 -->
-<!-- Added on 2026-07-28 -->
+<!-- Added on 2026-07-30 -->
+<!-- Added on 2026-07-30 -->
 [arxiv 2026.07] VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding  [[PDF](https://arxiv.org/abs/2607.14935)]
 
 [arxiv 2026.07] VideoSEMA: a scalable and efficient Mamba-like attention for video understanding  [[PDF](https://arxiv.org/abs/2607.14711)]
@@ -62,12 +62,12 @@
 
 [arxiv 2026.07] Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory  [[PDF](https://arxiv.org/abs/2607.05511),[Page](https://clare-nie.github.io/Light-Omni)]
 
-<!-- Added on 2026-07-28 -->
-<!-- Added on 2026-07-28 -->
-<!-- Added on 2026-07-28 -->
-<!-- Added on 2026-07-28 -->
-<!-- Added on 2026-07-28 -->
-<!-- Added on 2026-07-28 -->
+<!-- Added on 2026-07-30 -->
+<!-- Added on 2026-07-30 -->
+<!-- Added on 2026-07-30 -->
+<!-- Added on 2026-07-30 -->
+<!-- Added on 2026-07-30 -->
+<!-- Added on 2026-07-30 -->
 [arxiv 2026.06] World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration  [[PDF](https://arxiv.org/abs/2606.31946)]
 
 [arxiv 2026.06] DriveWeaver: Point-Conditioned Video Inpainting for Controllable Vehicle Insertion in Autonomous Driving Simulation  [[PDF](https://arxiv.org/abs/2606.31918),[Page](https://github.com/LogosRoboticsGroup/DriveWeaver)]
@@ -1231,6 +1231,24 @@ A reading list of video generation
 [arxiv 2026.07] AVE-Compass: Towards Holistic Evaluation for Audio-Video Editing Abilities  [[PDF](https://arxiv.org/abs/2607.24821)]
 
 [arxiv 2026.07] Reasoning with Memory: A Temporal Granularity-Adaptive Framework for Training-Free Long Video Understanding  [[PDF](https://arxiv.org/abs/2607.24794)]
+
+[arxiv 2026.07] FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring  [[PDF](https://arxiv.org/abs/2607.27110),[Page](https://github.com/jiatongli2024/FreqForcing)]
+
+[arxiv 2026.07] Mitigating Compounding Error via Video Representation Regularization  [[PDF](https://arxiv.org/abs/2607.27036)]
+
+[arxiv 2026.07] Ripple: Real-Time Streaming Audio-Video Generation With Cross-Modal Recurrent Memory  [[PDF](https://arxiv.org/abs/2607.26818)]
+
+[arxiv 2026.07] DistillAlign: Coordinating Mode Covering and Mode Seeking in Autoregressive Video Distillation  [[PDF](https://arxiv.org/abs/2607.26811),[Page](https://lijiaxing0213.github.io/DistillAlign)]
+
+[arxiv 2026.07] TPD: Temporal Prior Decoupling for Text-to-Video Diffusion Models  [[PDF](https://arxiv.org/abs/2607.26706)]
+
+[arxiv 2026.07] Visko Orbis 1.0: A Live Model for Real-Time Interactive Long Video Generation  [[PDF](https://arxiv.org/abs/2607.26694)]
+
+[arxiv 2026.07] CineWeaver: Training-Free Reference-Controllable Multi-Shot Long Video Generation for Cinematic Storytelling  [[PDF](https://arxiv.org/abs/2607.26529)]
+
+[arxiv 2026.07] WildShadowRemover: In-the-Wild Video Shadow Removal via Detail-Preserving Video Diffusion Models  [[PDF](https://arxiv.org/abs/2607.26203)]
+
+[arxiv 2026.07] ContactFlow: A video action conditioning that transfers across embodiments  [[PDF](https://arxiv.org/abs/2607.26579)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

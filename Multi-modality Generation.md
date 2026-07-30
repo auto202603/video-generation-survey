@@ -3649,6 +3649,38 @@
 
 [arxiv 2026.07] DocAnnot -- Accelerating the Creation of Key Information Extraction Datasets with GenAI-Powered Auto-annotation  [[PDF](https://arxiv.org/abs/2607.24745)]
 
+[arxiv 2026.07] HumanCLAW: Can Vision-Language Models Act Through a Body?  [[PDF](https://arxiv.org/abs/2607.27180),[Page](https://human-claw.github.io/)]
+
+[arxiv 2026.07] Explainable and Resource-Efficient Spatial Reasoning in Multimodal LLMs for Decision-Critical Applications  [[PDF](https://arxiv.org/abs/2607.27145)]
+
+[arxiv 2026.07] Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection  [[PDF](https://arxiv.org/abs/2607.27113)]
+
+[arxiv 2026.07] Visual Credit Audit for Multimodal Spatial Reasoning  [[PDF](https://arxiv.org/abs/2607.27069),[Page](https://github.com/SouthWinter/VCA)]
+
+[arxiv 2026.07] Progressive Multimodal Alignment for Continual Instruction Tuning  [[PDF](https://arxiv.org/abs/2607.26947)]
+
+[arxiv 2026.07] Prior Directions: Why GUI Grounding Gets Locked in the Past  [[PDF](https://arxiv.org/abs/2607.26913),[Page](https://github.com/phare111/prior-directions)]
+
+[arxiv 2026.07] See2Think: Do Multimodal Models Really Use Intermediate Visual States?  [[PDF](https://arxiv.org/abs/2607.26769)]
+
+[arxiv 2026.07] Dual Inversion for Text-to-Image Diffusion Models: From Both Prompt and Noise Perspectives  [[PDF](https://arxiv.org/abs/2607.26735)]
+
+[arxiv 2026.07] Understanding Knowledge Transfer Mechanism in Heterogeneous MLLM Fusion: A Simple Linear Approach  [[PDF](https://arxiv.org/abs/2607.26608)]
+
+[arxiv 2026.07] Decoupled Visual Processing: Efficient Multimodal Adaptation via Modality-Specific Transformer Substitution  [[PDF](https://arxiv.org/abs/2607.26596)]
+
+[arxiv 2026.07] SpatialQ: Understanding 3D Gaussian Splatting Scene Quality via Visual-based MLLM  [[PDF](https://arxiv.org/abs/2607.26595)]
+
+[arxiv 2026.07] Level, Sharpness, and Corpus: Why Zero-Shot OOD Detector Rankings Do Not Transfer  [[PDF](https://arxiv.org/abs/2607.26582)]
+
+[arxiv 2026.07] TPCD: Tone-Pressure Contrastive Decoding and the Label-Free Gating Bottleneck in Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.26536)]
+
+[arxiv 2026.07] EgoSafe: A First-Person Mobile-Captured Benchmark for Visual Safety Understanding  [[PDF](https://arxiv.org/abs/2607.26518)]
+
+[arxiv 2026.07] FAS-R1: A Unified Multi-Task MLLM for Reasoning Face Anti-Spoofing  [[PDF](https://arxiv.org/abs/2607.26432)]
+
+[arxiv 2026.07] Seeing or Knowing? Visual Context Sensitivity in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2607.26326)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## Feedback 

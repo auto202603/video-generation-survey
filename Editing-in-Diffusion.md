@@ -2606,6 +2606,20 @@
 
 [arxiv 2026.07] CORF-GS: Real-Time Wireless Radiance Field Reconstruction via Coupled Optical-RF Gaussian Splatting  [[PDF](https://arxiv.org/abs/2607.25569)]
 
+[arxiv 2026.07] Anchoring and Steering Diffusion: Enhancing the Faithfulness of Text-to-Image Generation at Inference Time  [[PDF](https://arxiv.org/abs/2607.26647)]
+
+[arxiv 2026.07] Genie Sim PanoWorld: An Infinite Indoor 3D World Generation Pipeline via Panoramic Scene Modeling and Simulation  [[PDF](https://arxiv.org/abs/2607.26646)]
+
+[arxiv 2026.07] 3DGBGS: 3D Granular Ball Gaussian Splatting for Compact Novel View Synthesis  [[PDF](https://arxiv.org/abs/2607.26578)]
+
+[arxiv 2026.07] Do Unified Multimodal Models Think in One Space? A Lens Through Cross-Branch Steering  [[PDF](https://arxiv.org/abs/2607.26411)]
+
+[arxiv 2026.07] MoSAIC: Aligned Intervention Supervision for Part-Local Motion Style Transfer  [[PDF](https://arxiv.org/abs/2607.26304),[Page](https://utsa-virlab.github.io/MoSAIC/)]
+
+[arxiv 2026.07] InkShield: Writing Style Protection Against Unauthorized Handwriting Mimicry  [[PDF](https://arxiv.org/abs/2607.26976)]
+
+[arxiv 2026.07] StructureGS: Structure-aware Gaussian Splatting for Articulated Object Reconstruction  [[PDF](https://arxiv.org/abs/2607.26889)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]

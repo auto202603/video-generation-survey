@@ -548,6 +548,10 @@
 
 [arxiv 2026.07] mmSimPrior: Learning Simulation Priors for Data-Efficient Real-World Generalizable Radar-Based Human Motion Reconstruction  [[PDF](https://arxiv.org/abs/2607.22973),[Page](https://ch3ngguo.github.io/mmsimprior/)]
 
+[arxiv 2026.07] Weight and Height Estimation from a Single Human Image Captured in the Wild  [[PDF](https://arxiv.org/abs/2607.26104)]
+
+[arxiv 2026.07] Speech2Grasp: Data-Efficient Transfer of Text-Conditioned Grasp Detection to Speech in Humanoid Robots  [[PDF](https://arxiv.org/abs/2607.26567)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Gaussian Face 
