@@ -2620,6 +2620,35 @@
 
 [arxiv 2026.07] StructureGS: Structure-aware Gaussian Splatting for Articulated Object Reconstruction  [[PDF](https://arxiv.org/abs/2607.26889)]
 
+[arxiv 2026.07] Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers  [[PDF](https://arxiv.org/abs/2607.28611)]
+
+[arxiv 2026.07] ROAD: Reciprocal-Objective Alignment of Discriminative Semantics for 3D Shape Generation  [[PDF](https://arxiv.org/abs/2607.28581)]
+
+[arxiv 2026.07] What to Remove, What to Preserve: Dual-Ambiguity Rectification for All-in-One Image Restoration  [[PDF](https://arxiv.org/abs/2607.28526)]
+
+[arxiv 2026.07] Hand-Object Interaction in the Age of Large Foundation Models:Reconstruction, Generation, and Embodied Transfer  [[PDF](https://arxiv.org/abs/2607.28394)]
+
+[arxiv 2026.07] MonoVoc: Decoupling Geometry and Semantics for Lightweight Monocular Open-Vocabulary 3D Gaussians  [[PDF](https://arxiv.org/abs/2607.28300)]
+
+[arxiv 2026.07] S-Avatar: Diffusion-Guided Gaussian Head Avatars from a Single Image  [[PDF](https://arxiv.org/abs/2607.28164)]
+
+[arxiv 2026.07] Collaborative Feature Aggregation for Face Super-Resolution and Robust Re-Identification  [[PDF](https://arxiv.org/abs/2607.28130)]
+
+[arxiv 2026.07] Learning Color Grading, No Photo Sharing: Federated Aesthetic Preference Learning for Personalized Image Enhancement  [[PDF](https://arxiv.org/abs/2607.27659)]
+
+[arxiv 2026.07] 4DHumanDiff: Direct Text-to-4DGS Generation for Consistent 360-Degree Dynamic Humans  [[PDF](https://arxiv.org/abs/2607.27634)]
+
+[arxiv 2026.07] BlindPSNR: A No-Reference Fidelity Predictor for Low-Light Image Enhancement  [[PDF](https://arxiv.org/abs/2607.27628)]
+
+[arxiv 2026.07] MPIE-Bench: Benchmarking Anatomically Plausible Multi-Person Interaction Editing  [[PDF](https://arxiv.org/abs/2607.27616)]
+
+[arxiv 2026.07] ProgFormer: Hierarchical Voxel Diffusion Transformer for Longitudinal Brain MRI Prediction  [[PDF](https://arxiv.org/abs/2607.27537)]
+
+[arxiv 2026.07] VETO: Towards Protecting Images From Frontier AI Editing  [[PDF](https://arxiv.org/abs/2607.27292)]
+
+[arxiv 2026.07] ReGenVC: End-to-End Real-Time Generative Video Coding at Ultra-Low Bitrate  [[PDF](https://arxiv.org/abs/2607.28144)]
+
+[arxiv 2026.07] TSOG: A Format For Temporally And Spatially Ordered Gaussians  [[PDF](https://arxiv.org/abs/2607.28049)]
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]

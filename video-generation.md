@@ -1250,6 +1250,21 @@ A reading list of video generation
 
 [arxiv 2026.07] ContactFlow: A video action conditioning that transfers across embodiments  [[PDF](https://arxiv.org/abs/2607.26579)]
 
+[arxiv 2026.07] Beyond Frame Selection: Generative Latent Evidence Aggregation for Long-Video Understanding  [[PDF](https://arxiv.org/abs/2607.28516)]
+
+[arxiv 2026.07] RefCaptioner: Multi-Reference Image-Grounded Video Captioning  [[PDF](https://arxiv.org/abs/2607.28509),[Page](https://github.com/pkucs-Ltf/RefCaptioner)]
+
+[arxiv 2026.07] VisualRouter: Query-Grounded Visual Sampling for Long Video Understanding  [[PDF](https://arxiv.org/abs/2607.28463)]
+
+[arxiv 2026.07] ShadowDancer: Teaching Video World Models Any Action by Learning Unified Dynamics Representations from a Video and Its Shadow  [[PDF](https://arxiv.org/abs/2607.28362),[Page](https://ShadowDancer-1.github.io)]
+
+[arxiv 2026.07] ObjectStream: Latent Objects as Memory Anchors for Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2607.28312)]
+
+[arxiv 2026.07] Temporal Concentration from Rollout Errors: Implicit Preference Optimization for Text-to-Video Diffusion  [[PDF](https://arxiv.org/abs/2607.28058),[Page](https://henglin-liu.github.io/cIPO_vis/)]
+
+[arxiv 2026.07] VideoCoCo: Code-as-CoT for Physically-Consistent Video Generation via an Agentic Dual-Engine System  [[PDF](https://arxiv.org/abs/2607.27380)]
+
+[arxiv 2026.07] MMHBench: A Multi-Perspective Benchmark for Mental Health Understanding in Long-Form Videos  [[PDF](https://arxiv.org/abs/2607.27895)]
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## VAE

@@ -3681,6 +3681,53 @@
 
 [arxiv 2026.07] Seeing or Knowing? Visual Context Sensitivity in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2607.26326)]
 
+[arxiv 2026.07] ReToken: One Token to Improve Vision-Language Models for Visual Retrieval  [[PDF](https://arxiv.org/abs/2607.28627),[Page](https://github.com/avaxiao/ReToken)]
+
+[arxiv 2026.07] Beacon: Knowing When and How to Perform Agentic Visual Reasoning  [[PDF](https://arxiv.org/abs/2607.28595)]
+
+[arxiv 2026.07] MarkushGlyph and OCSRGlyph: Improved Chemical Structure Recognition  [[PDF](https://arxiv.org/abs/2607.28532)]
+
+[arxiv 2026.07] Can Vision-Language Models Reason about AI Edits in Images?  [[PDF](https://arxiv.org/abs/2607.28464)]
+
+[arxiv 2026.07] ViewMind3D: Modular View-Aware Inference for Training-Free 3D-QA  [[PDF](https://arxiv.org/abs/2607.28442)]
+
+[arxiv 2026.07] Capturing Token Tendencies for Training-Free Token Pruning in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2607.28341)]
+
+[arxiv 2026.07] Beyond Visual Ambiguity: Guiding Robust Monocular Depth Estimation in Challenging Scenarios via Detailed Long Captions  [[PDF](https://arxiv.org/abs/2607.28285)]
+
+[arxiv 2026.07] Theia: Large-Scale Multimodal Captioning and Automated Validation of the Incidents1M Dataset for Data-Free Distillation  [[PDF](https://arxiv.org/abs/2607.28269)]
+
+[arxiv 2026.07] FaithEyes: Towards Faithful Tool Use via Multi-Agent Process-Image Verification  [[PDF](https://arxiv.org/abs/2607.28225)]
+
+[arxiv 2026.07] Scaling Vision-Language Models Is Not Enough to Mitigate Bias  [[PDF](https://arxiv.org/abs/2607.28211)]
+
+[arxiv 2026.07] OPLD: On-Policy Latent Distillation for Multimodal Reasoning  [[PDF](https://arxiv.org/abs/2607.28154)]
+
+[arxiv 2026.07] FiRE: Enhancing MLLMs with Fine-Grained Context Learning for Complex Image Retrieval  [[PDF](https://arxiv.org/abs/2607.27959)]
+
+[arxiv 2026.07] LAST: The Last Query Token Guides Visual Token Pruning for Edge-Cloud Collaborative MLLM Inference  [[PDF](https://arxiv.org/abs/2607.27952)]
+
+[arxiv 2026.07] One Patch Is Enough: Reinforcement-Optimized Visual Token Grounding for MLLM-Based Scene Text Spotting  [[PDF](https://arxiv.org/abs/2607.27902)]
+
+[arxiv 2026.07] Thinking Once Is Enough: Intermediate-Layer Evidence Routing for High-Resolution VQA  [[PDF](https://arxiv.org/abs/2607.27830)]
+
+[arxiv 2026.07] Hallucinations Leave a Grounding Signature:Verifier-Guided Decoding for Selective Object Correction  [[PDF](https://arxiv.org/abs/2607.27823)]
+
+[arxiv 2026.07] Calibrate Before Reason: Robust Visual Token Reduction against Semantic Drift in VLMs  [[PDF](https://arxiv.org/abs/2607.27700)]
+
+[arxiv 2026.07] RefineSVG: Visual Feedback-Driven Reinforcement Learning for Image-to-SVG Generation  [[PDF](https://arxiv.org/abs/2607.27699)]
+
+[arxiv 2026.07] JigShape: Evaluating Visual-Geometric Reasoning in VLMs through Jigsaw Puzzles  [[PDF](https://arxiv.org/abs/2607.27670)]
+
+[arxiv 2026.07] Witness Evidence Portfolios: Single-Prefill Risk Detection for Closed Multimodal Answers  [[PDF](https://arxiv.org/abs/2607.27667),[Page](https://github.com/SouthWinter/WEP)]
+
+[arxiv 2026.07] MMOOC: A Comprehensive Benchmark for Out-of-Context Evaluation in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2607.27637),[Page](https://zhuwenjie98.github.io/MMOOC-project-page/)]
+
+[arxiv 2026.07] OVEarth-Bench: Evaluating Category Breadth and Query Diversity for Open-Vocabulary Earth Observation  [[PDF](https://arxiv.org/abs/2607.27278)]
+
+[arxiv 2026.07] OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models  [[PDF](https://arxiv.org/abs/2607.28609)]
+
+[arxiv 2026.07] Sign Language Question Answering: A New Task, Benchmark, and Baseline for Sign Language Understanding  [[PDF](https://arxiv.org/abs/2607.27826)]
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## Feedback 
