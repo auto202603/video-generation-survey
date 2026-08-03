@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-07-30 -->
+<!-- Added on 2026-08-03 -->
 
 [arxiv 2026.07] ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU  [[PDF](https://arxiv.org/abs/2607.19191)]
 
@@ -1265,6 +1265,12 @@ A reading list of video generation
 [arxiv 2026.07] VideoCoCo: Code-as-CoT for Physically-Consistent Video Generation via an Agentic Dual-Engine System  [[PDF](https://arxiv.org/abs/2607.27380)]
 
 [arxiv 2026.07] MMHBench: A Multi-Perspective Benchmark for Mental Health Understanding in Long-Form Videos  [[PDF](https://arxiv.org/abs/2607.27895)]
+[arxiv 2026.07] MoRoute: Dynamic Routing for In-Context Multimodal Video Generation  [[PDF](https://arxiv.org/abs/2607.29545),[Page](https://orange-3dv-team.github.io/MoRoute/)]
+
+[arxiv 2026.07] Adaptive Emotional Video Captioning via Affective Heterogeneous Graph Reasoning and Multi-task Joint Learning  [[PDF](https://arxiv.org/abs/2607.29045)]
+
+[arxiv 2026.07] ViSAGE: Constructing Self-Correcting Memories for Long-Form Video Understanding  [[PDF](https://arxiv.org/abs/2607.28678)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## VAE

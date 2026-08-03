@@ -553,6 +553,8 @@
 [arxiv 2026.07] Speech2Grasp: Data-Efficient Transfer of Text-Conditioned Grasp Detection to Speech in Humanoid Robots  [[PDF](https://arxiv.org/abs/2607.26567)]
 
 [arxiv 2026.07] Split and Drive: Dual-Axis Disentanglement for Real-Time Gaussian Head Avatars  [[PDF](https://arxiv.org/abs/2607.28032)]
+[arxiv 2026.07] Forwardrobe: Garment-Aware Gaussian Avatars from a Single Image  [[PDF](https://arxiv.org/abs/2607.29106)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Gaussian Face 
@@ -855,8 +857,7 @@
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 # ego
-<!-- Added on 2026-07-23 -->
-<!-- Added on 2026-07-23 -->
+<!-- Added on 2026-08-03 -->
 [arxiv 2026.06] PointSplat: Compact Gaussian Splatting via Human-Centric Prediction  [[PDF](https://arxiv.org/abs/2606.32036),[Page](https://zju3dv.github.io/pointsplat)]
 
 [arxiv 2026.06] LUNA: Learning Universal 3D Human Animation Beyond Skinning  [[PDF](https://arxiv.org/abs/2606.31981),[Page](https://penghtyx.github.io/LUNA/)]

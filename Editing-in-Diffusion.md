@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-07-29 -->
+<!-- Added on 2026-08-03 -->
 
 [arxiv 2026.07] Appearance Pointers -- Multimodal Region Control of Diffusion Transformers  [[PDF](https://arxiv.org/abs/2607.19344)]
 
@@ -2649,6 +2649,24 @@
 [arxiv 2026.07] ReGenVC: End-to-End Real-Time Generative Video Coding at Ultra-Low Bitrate  [[PDF](https://arxiv.org/abs/2607.28144)]
 
 [arxiv 2026.07] TSOG: A Format For Temporally And Spatially Ordered Gaussians  [[PDF](https://arxiv.org/abs/2607.28049)]
+[arxiv 2026.07] OASIS: Occlusion-aware Single-image Hand Avatar Reconstruction via 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2607.29633),[Page](https://mova-hand.github.io/MOVA/)] ![Code](https://img.shields.io/github/stars/ivyyy77/OASIS?style=social&label=Star)
+
+[arxiv 2026.07] CoDe-SSM: Context-Detail Decoupled State Space Model for Efficient UHD Image Restoration  [[PDF](https://arxiv.org/abs/2607.29595)]
+
+[arxiv 2026.07] FillGS: Filling Observation Gaps in 4D Gaussian Splatting via Viewpoint-Time Selection and Generative Refinement  [[PDF](https://arxiv.org/abs/2607.29284)]
+
+[arxiv 2026.07] MoRAE: Flow-Friendly Self-Supervised Latents for Text-to-Motion Generation  [[PDF](https://arxiv.org/abs/2607.29180)]
+
+[arxiv 2026.07] A Frozen Pixel-Space Diffusion Model Can Guide Itself with Its Own Samples  [[PDF](https://arxiv.org/abs/2607.29122)]
+
+[arxiv 2026.07] RAID: Towards Robust AI-Generated Image Detection with Bit-Reversed Images  [[PDF](https://arxiv.org/abs/2607.28974)]
+
+[arxiv 2026.07] Retrieval-Driven Training-Free AI-Generated Video Attribution  [[PDF](https://arxiv.org/abs/2607.28955)]
+
+[arxiv 2026.07] FocusGS: Spatial Delta Layers for Local Repair and Deterministic Editing of Trained 3D Gaussian Assets  [[PDF](https://arxiv.org/abs/2607.28834)]
+
+[arxiv 2026.07] WaiT for the Signal: Simple Frequency-Aware Flow-Matching  [[PDF](https://arxiv.org/abs/2607.28760)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]

@@ -1,3 +1,4 @@
+<!-- Added on 2026-08-03 -->
 <!-- Added on 2026-07-29 -->
 <!-- Added on 2026-07-23 -->
 
@@ -3728,6 +3729,30 @@
 [arxiv 2026.07] OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models  [[PDF](https://arxiv.org/abs/2607.28609)]
 
 [arxiv 2026.07] Sign Language Question Answering: A New Task, Benchmark, and Baseline for Sign Language Understanding  [[PDF](https://arxiv.org/abs/2607.27826)]
+[arxiv 2026.07] HierDoc: Hierarchical Page-to-Region Evidence Routing for Long-Document Visual Question Answering  [[PDF](https://arxiv.org/abs/2607.29638)]
+
+[arxiv 2026.07] CodeShrink: Adaptive Visual Compression for Efficient Multimodal Code Understanding  [[PDF](https://arxiv.org/abs/2607.29637)]
+
+[arxiv 2026.07] QR-Structured Thermal Triggers for Targeted Semantic Attacks on Infrared Vision-Language Models  [[PDF](https://arxiv.org/abs/2607.29445)]
+
+[arxiv 2026.07] Role-Break in Attention Heads: Understanding and Detecting Hallucinations in VLMs  [[PDF](https://arxiv.org/abs/2607.29412)]
+
+[arxiv 2026.07] Is It Time for the Renaissance of Salient Object Detection in the Era of MLLMs?  [[PDF](https://arxiv.org/abs/2607.29222)]
+
+[arxiv 2026.07] SciFigPlag-Bench: A Benchmark for Provenance-Aware Scientific Figure Plagiarism Detection  [[PDF](https://arxiv.org/abs/2607.29124)]
+
+[arxiv 2026.07] Evaluation-Verification Reward for Consistent Multi-Reference Image Editing  [[PDF](https://arxiv.org/abs/2607.29025)]
+
+[arxiv 2026.07] CAER: Conflict-Aware Evidence Routing with Dual Prefix Experts for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2607.28991)]
+
+[arxiv 2026.07] Adjudicated Captioning: Multi-Agent Alignment Scoring and Consensus-Distilled Beam Arbitration for Strict Zero-Shot Image Captioning  [[PDF](https://arxiv.org/abs/2607.28986)]
+
+[arxiv 2026.07] SafeNexus: Discovering and Steering Modality-Universal Safety Neurons in MLLMs  [[PDF](https://arxiv.org/abs/2607.28969)]
+
+[arxiv 2026.07] FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2607.29602)]
+
+[arxiv 2026.07] TokenSwap: Benchmarking and Reducing the Modality Gap in Multimodal LLMs  [[PDF](https://arxiv.org/abs/2607.28640)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## Feedback 
