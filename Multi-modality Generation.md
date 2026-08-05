@@ -1,4 +1,57 @@
-<!-- Added on 2026-08-03 -->
+<!-- Added on 2026-08-05 -->
+
+[arxiv 2026.08] ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs  [[PDF](https://arxiv.org/abs/2608.04010)]
+
+[arxiv 2026.08] Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent  [[PDF](https://arxiv.org/abs/2608.03979)]
+
+[arxiv 2026.08] MuRA: Multi-Rank Adaptation for Efficient and Effective Test-Time Vision-Language Generalization  [[PDF](https://arxiv.org/abs/2608.03885)]
+
+[arxiv 2026.08] BanglaWild: An In-the-Wild Bengali Scene Text Recognition Benchmark for OCR and Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.03884)]
+
+[arxiv 2026.08] Geo-Embed: Towards Unified Multimodal Embeddings for Urban Understanding  [[PDF](https://arxiv.org/abs/2608.03826)]
+
+[arxiv 2026.08] UHP Detection: LVLMs have their Unique Hallucination Pattern in the Consistency Space  [[PDF](https://arxiv.org/abs/2608.03817)]
+
+[arxiv 2026.08] TDVR: Joint Text Disambiguation and Viewpoint Reasoning for Zero-Shot 3D Visual Grounding  [[PDF](https://arxiv.org/abs/2608.03763)]
+
+[arxiv 2026.08] Attention is Case-Sensitive  [[PDF](https://arxiv.org/abs/2608.03711)]
+
+[arxiv 2026.08] SlimVLM: Sensitivity-aware Dynamic Structured Pruning with Adaptive Visual Token Selection for Efficient Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.03580)]
+
+[arxiv 2026.08] MT-Web2Code: Benchmarking Coding Agents on Multi-Turn Regional Reconstruction and Localized Modification  [[PDF](https://arxiv.org/abs/2608.03474)]
+
+[arxiv 2026.08] Hi-Token: Hierarchical Coordinate Tokenization for Generative Visual Grounding  [[PDF](https://arxiv.org/abs/2608.03471)]
+
+[arxiv 2026.08] OliveGemma: A 3 Billion Visual Language Model for Recognising the Mediterranean &amp; European Diet  [[PDF](https://arxiv.org/abs/2608.03428)]
+
+[arxiv 2026.08] 3DGSI-Assessor: A Large-Scale Dataset and An LMM-based Method for 3D Gaussian Splatting Image Quality Assessment  [[PDF](https://arxiv.org/abs/2608.03279)]
+
+[arxiv 2026.08] GUI-Lens: Coarse-to-Fine Cropping for GUI Grounding with General-Purpose VLMs  [[PDF](https://arxiv.org/abs/2608.03270),[Page](https://github.com/Fzkuji/GUI-Agent-Harness)]
+
+[arxiv 2026.08] Rectify Then Diffuse: Disentangling Concepts Before Denoising Trajectory Unfolds  [[PDF](https://arxiv.org/abs/2608.03135)]
+
+[arxiv 2026.08] Adaptive Two-Stage Visual Token Pruning for Efficient Inference in Video-Language Models  [[PDF](https://arxiv.org/abs/2608.03112)]
+
+[arxiv 2026.08] LDU-Bench: Multimodal LLM Evaluation for Lithography Defect Understanding under Layout-Varying Circuit Backgrounds  [[PDF](https://arxiv.org/abs/2608.03078)]
+
+[arxiv 2026.08] Global Graph-Validated Optimization for VLM-based 3D Indoor Scene Generation  [[PDF](https://arxiv.org/abs/2608.03064)]
+
+[arxiv 2026.08] Qwen-3D: A Generalist 3D Vision-Language Model for Spatial Understanding  [[PDF](https://arxiv.org/abs/2608.02980),[Page](https://qwen-3d.github.io/)]
+
+[arxiv 2026.08] Material-Segmented Per-Pixel Emissivity Correction for Thermographic Anomaly Detection in Cultural Heritage Digital Twins  [[PDF](https://arxiv.org/abs/2608.02964)]
+
+[arxiv 2026.08] CURV: Enhancing Chart Understanding Through Curriculum Visual Grounded Reasoning  [[PDF](https://arxiv.org/abs/2608.02833)]
+
+[arxiv 2026.08] In-Context Collapse in Vision-Language Models and How to Mitigate it?  [[PDF](https://arxiv.org/abs/2608.02830)]
+
+[arxiv 2026.08] Better, Stronger, Faster, and Broader: Structured All-Mask Prediction for MLLM-Based Segmentation  [[PDF](https://arxiv.org/abs/2608.02791)]
+
+[arxiv 2026.08] Pattern over Pixels: Measuring Pattern Completion Bias in Multimodal Code Generation  [[PDF](https://arxiv.org/abs/2608.03691)]
+
+[arxiv 2026.08] Balancing Efficiency and Efficacy: Training-Free Attention-Guided Switching Between Explicit and Latent Thoughts for MLLMs  [[PDF](https://arxiv.org/abs/2608.03450)]
+
+[arxiv 2026.08] ArtECulture: Benchmarking Culture-Conditioned Visual Emotion Understanding in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2608.03358)]
+
 <!-- Added on 2026-07-29 -->
 <!-- Added on 2026-07-23 -->
 

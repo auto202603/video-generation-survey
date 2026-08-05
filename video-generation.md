@@ -1,5 +1,16 @@
 # Video Generation Survey
-<!-- Added on 2026-08-03 -->
+<!-- Added on 2026-08-05 -->
+
+[arxiv 2026.08] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion  [[PDF](https://arxiv.org/abs/2608.03974),[Page](https://github.com/jd-opensource/JoyAI-Video-Edit)]
+
+[arxiv 2026.08] When and Where to Look: Adaptive Visual Evidence Scheduling for Efficient Long Video Understanding  [[PDF](https://arxiv.org/abs/2608.03918)]
+
+[arxiv 2026.08] SPADE: An Input-Adaptive Sparse Attention Engine for Fast Video Diffusion Models Inference  [[PDF](https://arxiv.org/abs/2608.03335)]
+
+[arxiv 2026.08] SUV: Future Scene Understanding as Video Generation for End-to-End Driving  [[PDF](https://arxiv.org/abs/2608.03084),[Page](https://github.com/ASH-2046/SUV)]
+
+[arxiv 2026.08] CAPE-T2V: Captioner-Anchored Prompt Enhancement toward Two-Sided Conditioning Alignment in Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2608.03046),[Page](https://github.com/yizzz927/CAPE-T2V)]
+
 
 [arxiv 2026.07] ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU  [[PDF](https://arxiv.org/abs/2607.19191)]
 

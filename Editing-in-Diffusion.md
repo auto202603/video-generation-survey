@@ -1,5 +1,26 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-08-03 -->
+<!-- Added on 2026-08-05 -->
+
+[arxiv 2026.08] UniWorld-Design: From Pixel Generation to Layer-Native Design  [[PDF](https://arxiv.org/abs/2608.03971),[Page](https://rabbitvis.rabbitpre.com/blog)]
+
+[arxiv 2026.08] Progressive Learning of a Diffusion-based Inpainting Model for Separating Overlapped Fingerprints  [[PDF](https://arxiv.org/abs/2608.03937)]
+
+[arxiv 2026.08] MultiCompose: Multi-Concept Personalized Composition with Per-Subject Attribute Binding  [[PDF](https://arxiv.org/abs/2608.03708)]
+
+[arxiv 2026.08] Can Text-to-Image Models Draw from the Right Frame of Reference?  [[PDF](https://arxiv.org/abs/2608.03357)]
+
+[arxiv 2026.08] Test-Time Scaling for Safe Text-Guided Image Generation via Intermediate Clean Estimates  [[PDF](https://arxiv.org/abs/2608.03284)]
+
+[arxiv 2026.08] FaithIR: Rethinking Infrared Image Super-Resolution from Perceptual Sharpness to Task Relevant Fidelity  [[PDF](https://arxiv.org/abs/2608.03106)]
+
+[arxiv 2026.08] DiverseDiT++: Quantifying, Analyzing, and Promoting Representation Diversity in Diffusion Transformers  [[PDF](https://arxiv.org/abs/2608.03082)]
+
+[arxiv 2026.08] RIDGE: Re-Noising with Internal Dynamic Guidance for Image Editing  [[PDF](https://arxiv.org/abs/2608.03059)]
+
+[arxiv 2026.08] Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing  [[PDF](https://arxiv.org/abs/2608.02711),[Page](https://tencent-hunyuan.github.io/Hunyuan3D-Buffalo1.0/)]
+
+[arxiv 2026.08] Latent Reward Registers for Diffusion Preference Alignment  [[PDF](https://arxiv.org/abs/2608.03929)]
+
 
 [arxiv 2026.07] Appearance Pointers -- Multimodal Region Control of Diffusion Transformers  [[PDF](https://arxiv.org/abs/2607.19344)]
 
