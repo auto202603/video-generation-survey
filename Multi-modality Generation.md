@@ -1,4 +1,4 @@
-<!-- Added on 2026-08-05 -->
+<!-- Added on 2026-08-06 -->
 
 [arxiv 2026.08] ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs  [[PDF](https://arxiv.org/abs/2608.04010)]
 
@@ -3805,6 +3805,62 @@
 [arxiv 2026.07] FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2607.29602)]
 
 [arxiv 2026.07] TokenSwap: Benchmarking and Reducing the Modality Gap in Multimodal LLMs  [[PDF](https://arxiv.org/abs/2607.28640)]
+
+[arxiv 2026.08] CoCo-IR: Contextual Composed Image Retrieval  [[PDF](https://arxiv.org/abs/2608.05149)]
+
+[arxiv 2026.08] SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding  [[PDF](https://arxiv.org/abs/2608.05137)]
+
+[arxiv 2026.08] OPD-V: Visual On-Policy Self-Distillation with Modality Balance  [[PDF](https://arxiv.org/abs/2608.05131)]
+
+[arxiv 2026.08] Unleashing the Potential of Vision-Language Models for Generalizable AI-Generated Image Detection  [[PDF](https://arxiv.org/abs/2608.04935)]
+
+[arxiv 2026.08] Visual Representation Matters: Exploiting Temporal Differences in Video-to-Audio Generation  [[PDF](https://arxiv.org/abs/2608.04902)]
+
+[arxiv 2026.08] Trace, Verify, and Correct: A Training-Free Framework for Spatial Reasoning in Multimodal LLMs  [[PDF](https://arxiv.org/abs/2608.04759)]
+
+[arxiv 2026.08] Simile Understanding in Text-to-Image Models: An Evaluation Framework  [[PDF](https://arxiv.org/abs/2608.04750)]
+
+[arxiv 2026.08] Teaching MLLMs to Say No: Generalized Referring Expression Comprehension via Refusal Calibrated GRPO  [[PDF](https://arxiv.org/abs/2608.04698)]
+
+[arxiv 2026.08] HiSC: Hierarchical Spatial Clustering Token Compression for Efficient 3D Scene Understanding  [[PDF](https://arxiv.org/abs/2608.04610)]
+
+[arxiv 2026.08] COSMO: Consensus-Driven Shift Modulation for Source-Free Domain Adaptation  [[PDF](https://arxiv.org/abs/2608.04604)]
+
+[arxiv 2026.08] The First EgoCross Challenge at EgoVis 2026: Cross-Domain Egocentric Video Question Answering  [[PDF](https://arxiv.org/abs/2608.04589)]
+
+[arxiv 2026.08] PhysMind: From Video to Executable Worlds for Training-Free Physical Reasoning  [[PDF](https://arxiv.org/abs/2608.04575),[Page](https://physmind.github.io/)]
+
+[arxiv 2026.08] Talk2Sensors: 3D Visual Grounding in Autonomous Driving via Sensor-Adaptive Physical Cue Matching  [[PDF](https://arxiv.org/abs/2608.04568)]
+
+[arxiv 2026.08] EgoAfford: Task-Oriented Affordance Grounding via Egocentric Referring Segmentation  [[PDF](https://arxiv.org/abs/2608.04533)]
+
+[arxiv 2026.08] GeoReward: Mitigating Contextual Variable Overestimation in Vision-Language Models for Cross-Market Preference Prediction  [[PDF](https://arxiv.org/abs/2608.04504)]
+
+[arxiv 2026.08] DIVE: Dynamic Iterative Visual Evidence Construction for Efficient Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.04496)]
+
+[arxiv 2026.08] Not All Redundant Tokens Are Alike: Analyzing Visual Token Pruning through Token Roles  [[PDF](https://arxiv.org/abs/2608.04483)]
+
+[arxiv 2026.08] REZE: Recognition-Based Zero-Shot Extraction for Video Temporal Grounding  [[PDF](https://arxiv.org/abs/2608.04480)]
+
+[arxiv 2026.08] Beyond Global Routing Aggregation: Phase-Aware Expert Merging for MoE Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.04454)]
+
+[arxiv 2026.08] Q-CueGraph: Query-Conditioned Visual Evidence Graphs for Multimodal Reasoning  [[PDF](https://arxiv.org/abs/2608.04452)]
+
+[arxiv 2026.08] ReGround: Restoring Visual Grounding in Multi-Step Reasoning through Self-Diagnosis and Visual Re-Examination  [[PDF](https://arxiv.org/abs/2608.04385)]
+
+[arxiv 2026.08] SIGNPOST-Bench: Benchmarking Text-Vision Conflict Resolution in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2608.04244)]
+
+[arxiv 2026.08] TriCLE: Tri-Modal Vision-Language Reasoning for Edge-Deployed Fine-Grained Clustering  [[PDF](https://arxiv.org/abs/2608.04175)]
+
+[arxiv 2026.08] RUTA: Principled Visual Token Allocation via Rate-Utility Optimization  [[PDF](https://arxiv.org/abs/2608.04132)]
+
+[arxiv 2026.08] Radar4D-VLM: Proposal-Grounded Temporal 4D Radar Reasoning Across Frozen Language Models  [[PDF](https://arxiv.org/abs/2608.04130)]
+
+[arxiv 2026.08] Explicit Language Memory for Long-Horizon Planning in Vision-Language-Action Models  [[PDF](https://arxiv.org/abs/2608.04765)]
+
+[arxiv 2026.08] When Prompts Become Pixels: Prompt-Region Grounding for Multimodal Reasoning  [[PDF](https://arxiv.org/abs/2608.04726)]
+
+[arxiv 2026.08] Representing Visual Evidence for Item Difficulty Prediction: Visual Textualization and Image-Native Modeling  [[PDF](https://arxiv.org/abs/2608.04554)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

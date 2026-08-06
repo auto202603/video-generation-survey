@@ -1,5 +1,5 @@
 ## Dataset
-<!-- Added on 2026-07-23 -->
+<!-- Added on 2026-08-06 -->
 
 [arxiv 2026.07] FlexiAvatar: Unified 3D Gaussian Human Avatars Under Arbitrary Body Visibility  [[PDF](https://arxiv.org/abs/2607.19100)]
 
@@ -554,6 +554,10 @@
 
 [arxiv 2026.07] Split and Drive: Dual-Axis Disentanglement for Real-Time Gaussian Head Avatars  [[PDF](https://arxiv.org/abs/2607.28032)]
 [arxiv 2026.07] Forwardrobe: Garment-Aware Gaussian Avatars from a Single Image  [[PDF](https://arxiv.org/abs/2607.29106)]
+
+[arxiv 2026.08] Promptable Animal Pose Tracking Across Species  [[PDF](https://arxiv.org/abs/2608.04995)]
+
+[arxiv 2026.08] Multi-View Face and Gesture Animation with Dynamic Gaussians  [[PDF](https://arxiv.org/abs/2608.04722)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-08-05 -->
+<!-- Added on 2026-08-06 -->
 
 [arxiv 2026.08] UniWorld-Design: From Pixel Generation to Layer-Native Design  [[PDF](https://arxiv.org/abs/2608.03971),[Page](https://rabbitvis.rabbitpre.com/blog)]
 
@@ -2687,6 +2687,32 @@
 [arxiv 2026.07] FocusGS: Spatial Delta Layers for Local Repair and Deterministic Editing of Trained 3D Gaussian Assets  [[PDF](https://arxiv.org/abs/2607.28834)]
 
 [arxiv 2026.07] WaiT for the Signal: Simple Frequency-Aware Flow-Matching  [[PDF](https://arxiv.org/abs/2607.28760)]
+
+[arxiv 2026.08] Objects as Audio-Visual Modal Sound Fields  [[PDF](https://arxiv.org/abs/2608.05145),[Page](https://zisenshao.github.io/AV-MSF/)]
+
+[arxiv 2026.08] VQ-VAD: Vector-quantized Motion Representation Learning for Human-centric Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2608.05069)]
+
+[arxiv 2026.08] STEP-OPD: Rethinking Output Targets and Internal Dynamics in On-Policy Distillation for Diffusion Models  [[PDF](https://arxiv.org/abs/2608.04887)]
+
+[arxiv 2026.08] Revisiting Pose Sensitivity in Splat-based Computed Tomography under Sparse-view Reconstruction  [[PDF](https://arxiv.org/abs/2608.04752)]
+
+[arxiv 2026.08] MobileWAM: Bridging World Action Models to Mobile Manipulation with Chain-of-Foresight  [[PDF](https://arxiv.org/abs/2608.04657)]
+
+[arxiv 2026.08] DAC-Pose: Dual-Agent Collaborative Framework for Pose-Guided Human Generation  [[PDF](https://arxiv.org/abs/2608.04622),[Page](https://github.com/AIVRC/DAC-Pose)]
+
+[arxiv 2026.08] ACA-GS: Adaptive-Capacity Anchored Gaussian Splatting for Compact Dynamic Radiance Fields  [[PDF](https://arxiv.org/abs/2608.04581)]
+
+[arxiv 2026.08] Coupled Continuous-Discrete Generation for Scene Text Image Super-Resolution  [[PDF](https://arxiv.org/abs/2608.04525)]
+
+[arxiv 2026.08] When does training on downscaled images yield the same gradients?  [[PDF](https://arxiv.org/abs/2608.04448)]
+
+[arxiv 2026.08] ToolArtist: Tool-Using Unified Multimodal Models for Agentic Image Generation  [[PDF](https://arxiv.org/abs/2608.04436)]
+
+[arxiv 2026.08] UBLLIE: Unified Backlight and Low-Light Image Enhancement  [[PDF](https://arxiv.org/abs/2608.04429)]
+
+[arxiv 2026.08] Poly-OPD: Heterogeneous Multi-Teacher On-Policy Distillation for Capability-Selectable Flow Models  [[PDF](https://arxiv.org/abs/2608.04349)]
+
+[arxiv 2026.08] NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts  [[PDF](https://arxiv.org/abs/2608.04030)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

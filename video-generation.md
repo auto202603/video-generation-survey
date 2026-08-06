@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-08-05 -->
+<!-- Added on 2026-08-06 -->
 
 [arxiv 2026.08] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion  [[PDF](https://arxiv.org/abs/2608.03974),[Page](https://github.com/jd-opensource/JoyAI-Video-Edit)]
 
@@ -468,6 +468,20 @@ A reading list of video generation
 
 * **Celebv-text**
   
+[arxiv 2026.08] HelloWorld: Enabling Socially Interactive Characters in Video World Models  [[PDF](https://arxiv.org/abs/2608.05070),[Page](https://github.com/AlayaLab/HelloWorld)]
+
+[arxiv 2026.08] OmniEdit-Bench: A Comprehensive Benchmark for Instruction-based Video Editing  [[PDF](https://arxiv.org/abs/2608.05049)]
+
+[arxiv 2026.08] UniWorld-View: Large-Baseline View Synthesis via Video Diffusion Models  [[PDF](https://arxiv.org/abs/2608.04701),[Page](https://zhouhyocean.github.io/uniworld-view/)]
+
+[arxiv 2026.08] MetaVideoAgent: Automated Video-Agent Evolution for Long-Form Video Understanding  [[PDF](https://arxiv.org/abs/2608.04587),[Page](https://github.com/Alibaba-VELLDEPTH/MetaVideoAgent)]
+
+[arxiv 2026.08] muSync-GS: Physics-Synchronized Driving Video Synthesis for Weather and Geometric Road Hazards  [[PDF](https://arxiv.org/abs/2608.04412)]
+
+[arxiv 2026.08] CLIP-CC-Bench: Evaluating Paragraph-Level Video Descriptions in Video-Language Models  [[PDF](https://arxiv.org/abs/2608.04302)]
+
+[arxiv 2026.08] Perception Before Reasoning: Dynamic Latent Reasoning for Video Understanding and Question Answering  [[PDF](https://arxiv.org/abs/2608.04124)]
+
   [arxiv ]CelebV-Text: A Large-Scale Facial Text-Video Dataset [[PDF](), [Page](https://celebv-text.github.io/)]
 
 * **Youku-mPLUG**
