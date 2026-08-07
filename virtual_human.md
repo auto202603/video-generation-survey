@@ -1,5 +1,10 @@
 ## Dataset
 <!-- Added on 2026-08-06 -->
+[arxiv 2026.08] Wan-Animate-2: Pushing the Application Boundaries of Character Animation  [[PDF](https://arxiv.org/abs/2608.06009),[Page](https://humanaigc.github.io/wan-animate-2/)]
+
+[arxiv 2026.08] Ordered Diffusion for 3D Human Registration  [[PDF](https://arxiv.org/abs/2608.05804)]
+
+
 
 [arxiv 2026.07] FlexiAvatar: Unified 3D Gaussian Human Avatars Under Arbitrary Body Visibility  [[PDF](https://arxiv.org/abs/2607.19100)]
 
@@ -861,7 +866,7 @@
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 # ego
-<!-- Added on 2026-08-03 -->
+<!-- Added on 2026-08-07 -->
 [arxiv 2026.06] PointSplat: Compact Gaussian Splatting via Human-Centric Prediction  [[PDF](https://arxiv.org/abs/2606.32036),[Page](https://zju3dv.github.io/pointsplat)]
 
 [arxiv 2026.06] LUNA: Learning Universal 3D Human Animation Beyond Skinning  [[PDF](https://arxiv.org/abs/2606.31981),[Page](https://penghtyx.github.io/LUNA/)]

@@ -1,4 +1,63 @@
 <!-- Added on 2026-08-06 -->
+[arxiv 2026.08] Domain-Grounded Candidate Selection for Agentic Image Editing: A Shadow Removal Case  [[PDF](https://arxiv.org/abs/2608.06075)]
+
+[arxiv 2026.08] The Next Screenshot Knows: Gated Hindsight Distillation for Mobile GUI Agents  [[PDF](https://arxiv.org/abs/2608.06065)]
+
+[arxiv 2026.08] Learning from Failures: Retrieval-Centric CoT via Hard Negatives for Unified Multimodal Retrieval  [[PDF](https://arxiv.org/abs/2608.06060)]
+
+[arxiv 2026.08] Respect Your Zero-Shot Uncertainty: Conservative Calibration for Test-Time-Adapted Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.05945)]
+
+[arxiv 2026.08] Mapping Armenian Paris: Extracting and Geocoding Commercial Advertisements from the 20th-Century Diaspora Press  [[PDF](https://arxiv.org/abs/2608.05911)]
+
+[arxiv 2026.08] MAVISEG: Manifold Propagation and Visual Prototypes for Zero-Shot Open-Vocabulary Segmentation in Diffusion Transformers  [[PDF](https://arxiv.org/abs/2608.05878)]
+
+[arxiv 2026.08] Vorch-Omni: Multi-Task Orchestration of Sight and Sound  [[PDF](https://arxiv.org/abs/2608.05803),[Page](https://vorch-project.github.io/Vorch-Omni-project/)]
+
+[arxiv 2026.08] GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?  [[PDF](https://arxiv.org/abs/2608.05747)]
+
+[arxiv 2026.08] UniVVT: A Unified End-to-End Framework for High-Fidelity Video Virtual Try-on  [[PDF](https://arxiv.org/abs/2608.05745)]
+
+[arxiv 2026.08] TAU-Bench: From Anomaly Instance Tracking to Fine-Grained Video Anomaly Understanding  [[PDF](https://arxiv.org/abs/2608.05699)]
+
+[arxiv 2026.08] SciQNet: Two-Stage Multimodal Adaptation for Scientific Image Quality Assessment  [[PDF](https://arxiv.org/abs/2608.05691)]
+
+[arxiv 2026.08] ChronoVision: Temporal Reasoning via Latent State Reconstruction  [[PDF](https://arxiv.org/abs/2608.05631)]
+
+[arxiv 2026.08] SCI-CLIP: Segment-Centric Inference with Reference Memory for Training-Free Open-Vocabulary Segmentation  [[PDF](https://arxiv.org/abs/2608.05627)]
+
+[arxiv 2026.08] TruthLens: Object Hallucination Detection via Self-Evaluating Truthfulness Scores in LVLMs  [[PDF](https://arxiv.org/abs/2608.05616)]
+
+[arxiv 2026.08] CoordRefer: Coordinate-Aware 3D Visual Grounding from Multiview Images  [[PDF](https://arxiv.org/abs/2608.05569)]
+
+[arxiv 2026.08] From Sports to Safety: Benchmarking Proactive Risk Inference in MLLMs  [[PDF](https://arxiv.org/abs/2608.05560)]
+
+[arxiv 2026.08] OmniMech: All-in-one Multimodal Mechanical Benchmark for 3D Reconstruction  [[PDF](https://arxiv.org/abs/2608.05539)]
+
+[arxiv 2026.08] DynaPix: Can Vision-Language Models Identify the Exact Future?  [[PDF](https://arxiv.org/abs/2608.05505)]
+
+[arxiv 2026.08] A Paragraph is Worth a Thousand Captions: Rethinking Text Supervision for Vision-Language Retrieval  [[PDF](https://arxiv.org/abs/2608.05260)]
+
+[arxiv 2026.08] Innocent Panels, Hateful Stories: Evaluating and Detecting Hateful Intent in Multi-Turn Visual Story Generation  [[PDF](https://arxiv.org/abs/2608.05210)]
+
+[arxiv 2026.08] Visual Grounding in Zero-Shot Vision-Language Control  [[PDF](https://arxiv.org/abs/2608.06154)]
+
+[arxiv 2026.08] Training a Conditioned Video Game Agent on a VLM Annotated Dataset  [[PDF](https://arxiv.org/abs/2608.05954)]
+
+[arxiv 2026.08] VLMs for Videogame Data Annotation  [[PDF](https://arxiv.org/abs/2608.05949)]
+
+[arxiv 2026.08] Unified Agent: Managing Interactions across Devices  [[PDF](https://arxiv.org/abs/2608.05729)]
+
+[arxiv 2026.08] GenGA: Editable and Data-Grounded Graphical Abstract Generation for Academic Papers  [[PDF](https://arxiv.org/abs/2608.05478)]
+
+[arxiv 2026.08] World-to-Wrist: Task-Conditioned Future Wrist Modeling for Fine-Grained Robot Manipulation  [[PDF](https://arxiv.org/abs/2608.05369)]
+
+[arxiv 2026.08] Disentangling 3D Modeling from Spatial Reasoning  [[PDF](https://arxiv.org/abs/2608.05242)]
+
+[arxiv 2026.08] Coherence-Oriented Dream Scene Visualisation  [[PDF](https://arxiv.org/abs/2608.05233)]
+
+[arxiv 2026.08] VLAff: Vision-Language-Affordance Model for Unified Actionable Affordances  [[PDF](https://arxiv.org/abs/2608.05215),[Page](https://ojh6404.github.io/vlaff/)]
+
+
 
 [arxiv 2026.08] ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs  [[PDF](https://arxiv.org/abs/2608.04010)]
 

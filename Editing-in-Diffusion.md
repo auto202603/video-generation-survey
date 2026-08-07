@@ -1,5 +1,32 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-08-06 -->
+<!-- Added on 2026-08-07 -->
+[arxiv 2026.08] Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction  [[PDF](https://arxiv.org/abs/2608.06117)]
+
+[arxiv 2026.08] Controllable Clothing: Precise Labels and Generation for Virtual Try-On with Latent Diffusion Models  [[PDF](https://arxiv.org/abs/2608.05834)]
+
+[arxiv 2026.08] Energy-Guided Flow Matching  [[PDF](https://arxiv.org/abs/2608.05811),[Page](https://github.com/ysng123/EG-FM)]
+
+[arxiv 2026.08] KVAE: Family of Tokenizers for Multimodal Generative Models  [[PDF](https://arxiv.org/abs/2608.05798)]
+
+[arxiv 2026.08] Vorch-Director: Interactive World Story Model via Noise-Aware Error Rectification  [[PDF](https://arxiv.org/abs/2608.05776),[Page](https://vorch-project.github.io/Vorch-Director-project)]
+
+[arxiv 2026.08] Flow-Map Distillation on Relation Manifolds for Image Restoration  [[PDF](https://arxiv.org/abs/2608.05769)]
+
+[arxiv 2026.08] LiteKD-Net: Lightweight Knowledge-Distilled Network for Mobile Image Denoising  [[PDF](https://arxiv.org/abs/2608.05739)]
+
+[arxiv 2026.08] G$^2$ARD-GS: Geometry-Guided Anchor-Regularized Gaussian Splatting Distillation  [[PDF](https://arxiv.org/abs/2608.05704)]
+
+[arxiv 2026.08] Dual-Output Multi-Exposure HDR Reconstruction via SDR Fusion and Gain Map Inverse Tone Mapping  [[PDF](https://arxiv.org/abs/2608.05626)]
+
+[arxiv 2026.08] CDSeg: A Renderable Gaussian Carrier for Image-to-3D Label Transfer  [[PDF](https://arxiv.org/abs/2608.05482)]
+
+[arxiv 2026.08] MOSAIK: Multi-Patch Content-Aware Spatial Allocation of Image Tokens for Efficient Generation  [[PDF](https://arxiv.org/abs/2608.05450)]
+
+[arxiv 2026.08] LC-GRPO: Bridging Train-Inference Gap for Flow-Based GRPO with Langevin Correction  [[PDF](https://arxiv.org/abs/2608.05600)]
+
+[arxiv 2026.08] WorldClaw: Agentic 3D Open-World Generation at Scale  [[PDF](https://arxiv.org/abs/2608.05248)]
+
+
 
 [arxiv 2026.08] UniWorld-Design: From Pixel Generation to Layer-Native Design  [[PDF](https://arxiv.org/abs/2608.03971),[Page](https://rabbitvis.rabbitpre.com/blog)]
 

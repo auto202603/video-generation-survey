@@ -1,5 +1,28 @@
 # Video Generation Survey
-<!-- Added on 2026-08-06 -->
+<!-- Added on 2026-08-07 -->
+[arxiv 2026.08] MASS: Multiplayer World Models with Authoritative Shared State  [[PDF](https://arxiv.org/abs/2608.06257)]
+
+[arxiv 2026.08] EmoWorld: A Decoupled Affective Field for Controllable Emotional Video Generation  [[PDF](https://arxiv.org/abs/2608.06231)]
+
+[arxiv 2026.08] Diff-VF: Training-free High-quality Long Video Generation via Diffusion Model  [[PDF](https://arxiv.org/abs/2608.05976)]
+
+[arxiv 2026.08] Evidence-Driven Dynamic Visual Selector for Efficient Long Video Understanding  [[PDF](https://arxiv.org/abs/2608.05780),[Page](https://zhangbo135.github.io/EviSelect/)]
+
+[arxiv 2026.08] One Ranking, Any Budget: Matryoshka Evidence-to-Context Frame Selection for Long-Video Understanding  [[PDF](https://arxiv.org/abs/2608.05707)]
+
+[arxiv 2026.08] StreamArena: Toward Continuous, Interactive, and Long-Horizon Agentic Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2608.05703)]
+
+[arxiv 2026.08] Vorch-IR: Long-Form Unified Multimodal Identity Replacement Video Generation  [[PDF](https://arxiv.org/abs/2608.05648),[Page](https://vorch-project.github.io/Vorch-IR-project/)]
+
+[arxiv 2026.08] Beyond Frame Selection: Rethinking Long-Video Understanding with MLLMs  [[PDF](https://arxiv.org/abs/2608.05592)]
+
+[arxiv 2026.08] VideoArgus: Agentic Rubric-Grounded Unified Evaluation for Video Generation and Editing  [[PDF](https://arxiv.org/abs/2608.05485)]
+
+[arxiv 2026.08] In-Context Forcing: Uncovering Context Effects in Autoregressive Video Diffusion  [[PDF](https://arxiv.org/abs/2608.05237)]
+
+[arxiv 2026.08] GAUGE: A Measurement-Grounded Benchmark for Physical Fidelity in Simulation Engines and Video World Models  [[PDF](https://arxiv.org/abs/2608.05948)]
+
+
 
 [arxiv 2026.08] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion  [[PDF](https://arxiv.org/abs/2608.03974),[Page](https://github.com/jd-opensource/JoyAI-Video-Edit)]
 
