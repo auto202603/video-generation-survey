@@ -2741,6 +2741,30 @@
 
 [arxiv 2026.08] NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts  [[PDF](https://arxiv.org/abs/2608.04030)]
 
+[arxiv 2026.08] CANIS: Generation-Assisted 3D Canonicalization via an Image-Semantic Bridge  [[PDF](https://arxiv.org/abs/2608.07256)]
+
+[arxiv 2026.08] InstanceSplat: Instance-Aware Feed-Forward 3D Gaussian Splatting for Scene Understanding  [[PDF](https://arxiv.org/abs/2608.07144),[Page](https://jamchaos.github.io/InsSplat/)]
+
+[arxiv 2026.08] Scenix: Sparse-View 3D Scene Reconstruction via Executable Scene Programs  [[PDF](https://arxiv.org/abs/2608.07012)]
+
+[arxiv 2026.08] HRDiT: Training-Free High-Resolution Image Generation with Off-the-Shelf Diffusion Transformer Models  [[PDF](https://arxiv.org/abs/2608.07003)]
+
+[arxiv 2026.08] Local Epistemic Uncertainty Guided Active Sampling for Plug-and-play Diffusive Image Restoration  [[PDF](https://arxiv.org/abs/2608.06981)]
+
+[arxiv 2026.08] MaskFlow: Precise, Consistent and Seamless Regional Image Editing  [[PDF](https://arxiv.org/abs/2608.06929)]
+
+[arxiv 2026.08] ControlRef: Efficient Layout-Guided Multi-Instance Generation via Anchored 4D-RoPE  [[PDF](https://arxiv.org/abs/2608.06878)]
+
+[arxiv 2026.08] GOPI: Generation-Oriented 3D Pose Inference for Furniture Insertion from Single-View RGB-D Indoor Scenes  [[PDF](https://arxiv.org/abs/2608.06836)]
+
+[arxiv 2026.08] Bend the Basics: Degradation-Aware Deformable Tokenization for All-in-One Image Restoration  [[PDF](https://arxiv.org/abs/2608.06832)]
+
+[arxiv 2026.08] PAST: Prompt-Adaptive Sampling Termination for Efficient Diffusion Model  [[PDF](https://arxiv.org/abs/2608.06794)]
+
+[arxiv 2026.08] Beyond Starry Night: Shortcut-Aware Control-State Planning for Artist-Grounded Text to Image Generation  [[PDF](https://arxiv.org/abs/2608.06751)]
+
+[arxiv 2026.08] AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models  [[PDF](https://arxiv.org/abs/2608.06729)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]

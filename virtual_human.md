@@ -564,6 +564,8 @@
 
 [arxiv 2026.08] Multi-View Face and Gesture Animation with Dynamic Gaussians  [[PDF](https://arxiv.org/abs/2608.04722)]
 
+[arxiv 2026.08] SubtleTalk: Generating Controllable Weakly-correlated Facial Dynamics for 3D Talking Heads via Residual Flow Matching  [[PDF](https://arxiv.org/abs/2608.06408)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Gaussian Face 

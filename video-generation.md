@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-08-07 -->
+<!-- Added on 2026-08-10 -->
 [arxiv 2026.08] MASS: Multiplayer World Models with Authoritative Shared State  [[PDF](https://arxiv.org/abs/2608.06257)]
 
 [arxiv 2026.08] EmoWorld: A Decoupled Affective Field for Controllable Emotional Video Generation  [[PDF](https://arxiv.org/abs/2608.06231)]
@@ -60,8 +60,8 @@
 [arxiv 2026.07] SGA: Plug&amp;Play Geometric Verification for Educational Video Synthesis  [[PDF](https://arxiv.org/abs/2607.18116)]
 
 
-<!-- Added on 2026-07-30 -->
-<!-- Added on 2026-07-30 -->
+<!-- Added on 2026-08-10 -->
+<!-- Added on 2026-08-10 -->
 [arxiv 2026.07] VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding  [[PDF](https://arxiv.org/abs/2607.14935)]
 
 [arxiv 2026.07] VideoSEMA: a scalable and efficient Mamba-like attention for video understanding  [[PDF](https://arxiv.org/abs/2607.14711)]
@@ -96,12 +96,12 @@
 
 [arxiv 2026.07] Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory  [[PDF](https://arxiv.org/abs/2607.05511),[Page](https://clare-nie.github.io/Light-Omni)]
 
-<!-- Added on 2026-07-30 -->
-<!-- Added on 2026-07-30 -->
-<!-- Added on 2026-07-30 -->
-<!-- Added on 2026-07-30 -->
-<!-- Added on 2026-07-30 -->
-<!-- Added on 2026-07-30 -->
+<!-- Added on 2026-08-10 -->
+<!-- Added on 2026-08-10 -->
+<!-- Added on 2026-08-10 -->
+<!-- Added on 2026-08-10 -->
+<!-- Added on 2026-08-10 -->
+<!-- Added on 2026-08-10 -->
 [arxiv 2026.06] World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration  [[PDF](https://arxiv.org/abs/2606.31946)]
 
 [arxiv 2026.06] DriveWeaver: Point-Conditioned Video Inpainting for Controllable Vehicle Insertion in Autonomous Driving Simulation  [[PDF](https://arxiv.org/abs/2606.31918),[Page](https://github.com/LogosRoboticsGroup/DriveWeaver)]
@@ -1318,6 +1318,10 @@ A reading list of video generation
 [arxiv 2026.07] Adaptive Emotional Video Captioning via Affective Heterogeneous Graph Reasoning and Multi-task Joint Learning  [[PDF](https://arxiv.org/abs/2607.29045)]
 
 [arxiv 2026.07] ViSAGE: Constructing Self-Correcting Memories for Long-Form Video Understanding  [[PDF](https://arxiv.org/abs/2607.28678)]
+
+[arxiv 2026.08] MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation  [[PDF](https://arxiv.org/abs/2608.07463),[Page](https://youjunzhao.github.io/MirrorWorld/)]
+
+[arxiv 2026.08] Addressable Memory for Video World Models  [[PDF](https://arxiv.org/abs/2608.07408),[Page](https://research.nvidia.com/labs/sil/projects/WorldTrace/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

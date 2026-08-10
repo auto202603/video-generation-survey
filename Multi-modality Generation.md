@@ -3921,6 +3921,40 @@
 
 [arxiv 2026.08] Representing Visual Evidence for Item Difficulty Prediction: Visual Textualization and Image-Native Modeling  [[PDF](https://arxiv.org/abs/2608.04554)]
 
+[arxiv 2026.08] SABRE: Scalable and Automated Benchmarking of VLMs under Stress  [[PDF](https://arxiv.org/abs/2608.07435),[Page](https://zesearch.github.io/vlm-SABRE/)]
+
+[arxiv 2026.08] I Seek You in Videos: Identity-Conditioned Queries for Person-Centric Video Reasoning  [[PDF](https://arxiv.org/abs/2608.07417)]
+
+[arxiv 2026.08] Same Attention, Different Truths: Put Logit-Lens over Visual Attention to Detect and Mitigate LVLM Object Hallucination  [[PDF](https://arxiv.org/abs/2608.07302)]
+
+[arxiv 2026.08] Human-AI Perceptual Alignment by Playing Hues and Cues  [[PDF](https://arxiv.org/abs/2608.07141)]
+
+[arxiv 2026.08] RoRA: Role-Oriented Regional Allocation for Visual Token Pruning in MLLMs  [[PDF](https://arxiv.org/abs/2608.07088),[Page](https://github.com/LukieLuu/RoRA)]
+
+[arxiv 2026.08] Degradation-Aware Prompt Learning with Cross-Modal Compensation for Adverse Weather Removal  [[PDF](https://arxiv.org/abs/2608.06939),[Page](https://github.com/fanamber831/DCMPC-Net)]
+
+[arxiv 2026.08] Debias in Text, Believe Your Eyes: Text-Anchored Cross-Modal Transfer for Visual Counter-Commonsense Reasoning  [[PDF](https://arxiv.org/abs/2608.06938)]
+
+[arxiv 2026.08] MuST-VAD: Mutual Structured Learning for Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2608.06913)]
+
+[arxiv 2026.08] Prune Once: Retraining-Free Task-Agnostic Pruning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.06901)]
+
+[arxiv 2026.08] FedVAR: Prototype-Aligned Federated Framework for Video Anomaly Recognition  [[PDF](https://arxiv.org/abs/2608.06876)]
+
+[arxiv 2026.08] Multi-Agent Forensic Reasoning for Generalizable Deepfake Video Detection  [[PDF](https://arxiv.org/abs/2608.06865)]
+
+[arxiv 2026.08] GraphVerse: A Comprehensive Visual Graph Reasoning Benchmark for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2608.06769)]
+
+[arxiv 2026.08] Test-Time Adaptation with Online Personalized Energy-Based Cache for Fine-Grained Video Expression Recognition  [[PDF](https://arxiv.org/abs/2608.06467)]
+
+[arxiv 2026.08] WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN  [[PDF](https://arxiv.org/abs/2608.07267)]
+
+[arxiv 2026.08] An AI4AI Framework for Visual Token Pruning  [[PDF](https://arxiv.org/abs/2608.07193)]
+
+[arxiv 2026.08] AgentPatch: Coarse-to-Fine Weak-Task Repair for Merging Agentic Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2608.06699)]
+
+[arxiv 2026.08] Learning to Predict Middle-Layer Attention in MLLMs for Visual Token Prunin  [[PDF](https://arxiv.org/abs/2608.06411)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## Feedback 
