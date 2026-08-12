@@ -566,6 +566,12 @@
 
 [arxiv 2026.08] SubtleTalk: Generating Controllable Weakly-correlated Facial Dynamics for 3D Talking Heads via Residual Flow Matching  [[PDF](https://arxiv.org/abs/2608.06408)]
 
+[arxiv 2026.08] Capturing Uncertainty in Human Motion for Representation Learning in Soccer  [[PDF](https://arxiv.org/abs/2608.11203)]
+
+[arxiv 2026.08] The GENEA Challenge 2026: A Large-Scale Disentangled Evaluation of Speech-Driven Gesture Generation on the Seamless Interaction Dataset  [[PDF](https://arxiv.org/abs/2608.10839)]
+
+[arxiv 2026.08] DSAR: Dual-Stream Autoregressive Modeling of Temporal Cloth Dynamics for Photorealistic Animatable Avatars  [[PDF](https://arxiv.org/abs/2608.10500)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Gaussian Face 
@@ -868,7 +874,7 @@
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 # ego
-<!-- Added on 2026-08-07 -->
+<!-- Added on 2026-08-12 -->
 [arxiv 2026.06] PointSplat: Compact Gaussian Splatting via Human-Centric Prediction  [[PDF](https://arxiv.org/abs/2606.32036),[Page](https://zju3dv.github.io/pointsplat)]
 
 [arxiv 2026.06] LUNA: Learning Universal 3D Human Animation Beyond Skinning  [[PDF](https://arxiv.org/abs/2606.31981),[Page](https://penghtyx.github.io/LUNA/)]

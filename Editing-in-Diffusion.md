@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-08-07 -->
+<!-- Added on 2026-08-12 -->
 [arxiv 2026.08] Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction  [[PDF](https://arxiv.org/abs/2608.06117)]
 
 [arxiv 2026.08] Controllable Clothing: Precise Labels and Generation for Virtual Try-On with Latent Diffusion Models  [[PDF](https://arxiv.org/abs/2608.05834)]
@@ -2764,6 +2764,36 @@
 [arxiv 2026.08] Beyond Starry Night: Shortcut-Aware Control-State Planning for Artist-Grounded Text to Image Generation  [[PDF](https://arxiv.org/abs/2608.06751)]
 
 [arxiv 2026.08] AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models  [[PDF](https://arxiv.org/abs/2608.06729)]
+
+[arxiv 2026.08] GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2608.10938)]
+
+[arxiv 2026.08] Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization  [[PDF](https://arxiv.org/abs/2608.10798)]
+
+[arxiv 2026.08] Beyond Pixels: From Video Priors to 4D Worlds  [[PDF](https://arxiv.org/abs/2608.10744),[Page](https://hayd-zju.github.io/Beyond-Pixels)]
+
+[arxiv 2026.08] Compact Feed-Forward 3D Gaussians via Saliency-Guided Primitive Merging  [[PDF](https://arxiv.org/abs/2608.10712)]
+
+[arxiv 2026.08] Visual Geometry Foundation-Aware Gaussians for Single-Frame Surround-View Driving Reconstruction  [[PDF](https://arxiv.org/abs/2608.10682)]
+
+[arxiv 2026.08] Gaussian Sculpting: End-to-End Controllable Surface Reconstruction via Field Optimization  [[PDF](https://arxiv.org/abs/2608.10602)]
+
+[arxiv 2026.08] $π$-SUB: A Physics-Informed Synthetic Underwater Benchmark Dataset for Underwater Image Enhancement  [[PDF](https://arxiv.org/abs/2608.10589)]
+
+[arxiv 2026.08] Flow Straight to Reality: Perceptually Consistent Flow Matching for Efficient Image Restoration  [[PDF](https://arxiv.org/abs/2608.10544),[Page](https://github.com/aiimaginglab/PCFlow)]
+
+[arxiv 2026.08] Towards Color-Faithful Low-Light Image Enhancement via Adaptive Color Debiasing and Saturation Rectification  [[PDF](https://arxiv.org/abs/2608.10512)]
+
+[arxiv 2026.08] Bridging Event Streams and DiT: Event-Guided Video Frame Interpolation  [[PDF](https://arxiv.org/abs/2608.10479),[Page](https://joseph-lin-tech.github.io/BridgeEventDiT-VFI/)]
+
+[arxiv 2026.08] CasDeblurGS: Cascaded 2D-to-3D Multi-View Consistency for 3D Gaussian Splatting from Two Blurry Images  [[PDF](https://arxiv.org/abs/2608.10345),[Page](https://haeyun-choi.github.io/Cascaded2D3D_page/)]
+
+[arxiv 2026.08] TRACE-GS: On-Policy Trajectory Distillation with Privileged Geometric Conditioning for Sparse-View 3DGS Restoration  [[PDF](https://arxiv.org/abs/2608.10286)]
+
+[arxiv 2026.08] Embodied Multimodal Grounding for Open-Vocabulary Mobile Manipulation via Semantic 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2608.10756)]
+
+[arxiv 2026.08] Pre- to Post-Contrast Synthesis of Breast DCE-MRI using Latent Bridge Matching  [[PDF](https://arxiv.org/abs/2608.10000)]
+
+[arxiv 2026.08] Structural Guidance for Unified Joint Demosaicing and Denoising  [[PDF](https://arxiv.org/abs/2608.09995)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

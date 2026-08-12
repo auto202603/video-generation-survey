@@ -1,3 +1,4 @@
+<!-- Added on 2026-08-12 -->
 <!-- Added on 2026-08-06 -->
 [arxiv 2026.08] Domain-Grounded Candidate Selection for Agentic Image Editing: A Shadow Removal Case  [[PDF](https://arxiv.org/abs/2608.06075)]
 
@@ -3954,6 +3955,58 @@
 [arxiv 2026.08] AgentPatch: Coarse-to-Fine Weak-Task Repair for Merging Agentic Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2608.06699)]
 
 [arxiv 2026.08] Learning to Predict Middle-Layer Attention in MLLMs for Visual Token Prunin  [[PDF](https://arxiv.org/abs/2608.06411)]
+
+[arxiv 2026.08] Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation  [[PDF](https://arxiv.org/abs/2608.11191)]
+
+[arxiv 2026.08] MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment  [[PDF](https://arxiv.org/abs/2608.11167)]
+
+[arxiv 2026.08] CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2608.11150)]
+
+[arxiv 2026.08] PRMU: A Corpus-Free Benchmark for Person-Centric Knowledge Unlearning in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2608.11149)]
+
+[arxiv 2026.08] CapProbe: Evaluating Detailed Image Captions via Full-Scene Dense Question Answering  [[PDF](https://arxiv.org/abs/2608.11074)]
+
+[arxiv 2026.08] When Visual Signals Mislead: A Mechanistic Study of Attribute Hallucination in Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.11024)]
+
+[arxiv 2026.08] Once Poisoned, Arbitrarily Controlled: A Programmable Backdoor in VLMs  [[PDF](https://arxiv.org/abs/2608.10959)]
+
+[arxiv 2026.08] Evidence-Grounded Trustworthy Multimodal Reasoning and Evaluation Benchmark in Complex Urban Scenes  [[PDF](https://arxiv.org/abs/2608.10954)]
+
+[arxiv 2026.08] Temporally Grounded Compositional Camera Motion Understanding via Geometric Knowledge Distillation  [[PDF](https://arxiv.org/abs/2608.10932)]
+
+[arxiv 2026.08] Order Matters: LVLMs as Judges for Temporal Reasoning in Image Sequences  [[PDF](https://arxiv.org/abs/2608.10908)]
+
+[arxiv 2026.08] NullEdit: Stealthy Image Protection via VLM Condition Redirection  [[PDF](https://arxiv.org/abs/2608.10870)]
+
+[arxiv 2026.08] Multi-View Relational Distillation for Spatial Reasoning with Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.10864)]
+
+[arxiv 2026.08] PolyLayout: Hierarchical VLM-Guided Layout Generation Beyond Rectangular Rooms  [[PDF](https://arxiv.org/abs/2608.10838)]
+
+[arxiv 2026.08] UniProbe: A Learnable Token-Level Hallucination Detector for Large VLMs using Multi-Structural Internal Representations  [[PDF](https://arxiv.org/abs/2608.10835),[Page](https://research.nvidia.com/labs/par/uniprobe/)]
+
+[arxiv 2026.08] E$^3$mo-Bench: A Scalable Benchmark for Multimodal Evoked and Expressed Emotion Understanding via Bayesian Pairwise Alignment  [[PDF](https://arxiv.org/abs/2608.10796)]
+
+[arxiv 2026.08] Where To Look? : Causal Tracing of Vision Encoders in VLM  [[PDF](https://arxiv.org/abs/2608.10758)]
+
+[arxiv 2026.08] MMArt A Multi-Perspective Multimodal Dataset for Visual Art Understanding  [[PDF](https://arxiv.org/abs/2608.10706)]
+
+[arxiv 2026.08] InSight-doc: Agentic Visual Perception for Long-Document Understanding  [[PDF](https://arxiv.org/abs/2608.10628)]
+
+[arxiv 2026.08] Dynamic Context Adapters: Efficiently Infusing History into Vision-and-Language Models  [[PDF](https://arxiv.org/abs/2608.10525)]
+
+[arxiv 2026.08] SafeCap: Improving LVLM Safety with Image Captioning Reinforcement Learning  [[PDF](https://arxiv.org/abs/2608.10513),[Page](https://safe-vlm.github.io/SafeCap/)]
+
+[arxiv 2026.08] SapiensID 2.0: Aligning Human Recognition Foundation Models with Human Perception  [[PDF](https://arxiv.org/abs/2608.10497)]
+
+[arxiv 2026.08] When Vision Becomes Text: Visual Token Pruning via Cross-Modal Residual Guidance in VLMs  [[PDF](https://arxiv.org/abs/2608.10489)]
+
+[arxiv 2026.08] SeFaR: Semantic Feature-aware Robustness Testing of Deep Neural Networks  [[PDF](https://arxiv.org/abs/2608.10289)]
+
+[arxiv 2026.08] Chain of Spatial Thoughts: Modality-Agnostic Spatial Grounding for Vision Language Models  [[PDF](https://arxiv.org/abs/2608.10278)]
+
+[arxiv 2026.08] LEGO: Leveled Language Gaussian Splatting  [[PDF](https://arxiv.org/abs/2608.10057),[Page](https://pz0826.github.io/LEGO-Webpage/)]
+
+[arxiv 2026.08] VERDICT: Training-Free Step-Wise Verification of Multimodal Reasoning via Disagreement-Aware Consensus  [[PDF](https://arxiv.org/abs/2608.10665)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

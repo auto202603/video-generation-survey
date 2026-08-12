@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-08-10 -->
+<!-- Added on 2026-08-12 -->
 [arxiv 2026.08] MASS: Multiplayer World Models with Authoritative Shared State  [[PDF](https://arxiv.org/abs/2608.06257)]
 
 [arxiv 2026.08] EmoWorld: A Decoupled Affective Field for Controllable Emotional Video Generation  [[PDF](https://arxiv.org/abs/2608.06231)]
@@ -1322,6 +1322,18 @@ A reading list of video generation
 [arxiv 2026.08] MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation  [[PDF](https://arxiv.org/abs/2608.07463),[Page](https://youjunzhao.github.io/MirrorWorld/)]
 
 [arxiv 2026.08] Addressable Memory for Video World Models  [[PDF](https://arxiv.org/abs/2608.07408),[Page](https://research.nvidia.com/labs/sil/projects/WorldTrace/)]
+
+[arxiv 2026.08] Watching Synthetic Videos: Aligning Cross-modal Representations with Visual Synthesis for Zero-shot Video Captioning  [[PDF](https://arxiv.org/abs/2608.11013)]
+
+[arxiv 2026.08] StreamFlow: Dynamic Memory Flows for Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2608.10949)]
+
+[arxiv 2026.08] SafeCA: Safe Cross-Attention Localization and Regulation for Text-to-Video Jailbreak Defense  [[PDF](https://arxiv.org/abs/2608.10933)]
+
+[arxiv 2026.08] FADE: From Passive Verification to Active Discovery in Counterfactual Video Understanding  [[PDF](https://arxiv.org/abs/2608.10764)]
+
+[arxiv 2026.08] SparSTAR: Sparse Attention for SpaceTime AutoRegressive Video Synthesis  [[PDF](https://arxiv.org/abs/2608.10519)]
+
+[arxiv 2026.08] Stream Forcing: Constructing Unified Training Trajectory for Robust Streaming Video Generation  [[PDF](https://arxiv.org/abs/2608.10439)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
