@@ -1,3 +1,4 @@
+<!-- Added on 2026-08-13 -->
 <!-- Added on 2026-08-12 -->
 <!-- Added on 2026-08-06 -->
 [arxiv 2026.08] Domain-Grounded Candidate Selection for Agentic Image Editing: A Shadow Removal Case  [[PDF](https://arxiv.org/abs/2608.06075)]
@@ -4007,6 +4008,44 @@
 [arxiv 2026.08] LEGO: Leveled Language Gaussian Splatting  [[PDF](https://arxiv.org/abs/2608.10057),[Page](https://pz0826.github.io/LEGO-Webpage/)]
 
 [arxiv 2026.08] VERDICT: Training-Free Step-Wise Verification of Multimodal Reasoning via Disagreement-Aware Consensus  [[PDF](https://arxiv.org/abs/2608.10665)]
+
+[arxiv 2026.08] Diagram-MMU: A Multi-Modal Benchmark for Scientific Diagrams  [[PDF](https://arxiv.org/abs/2608.12262)]
+
+[arxiv 2026.08] SCOUT: Unlocking Enhanced Spatial Reasoning via Structured Chain-of-Thought and Multi-Objective Process Reward  [[PDF](https://arxiv.org/abs/2608.12220)]
+
+[arxiv 2026.08] Generation as Auxiliary Supervision: Enhancing Visual Understanding at Zero Inference Overhead via Decoupled Embedding Prediction  [[PDF](https://arxiv.org/abs/2608.12209)]
+
+[arxiv 2026.08] Context Blindness in DPO: Mitigating Object Hallucination in MLLMs via Context-Calibrated Preference Optimization  [[PDF](https://arxiv.org/abs/2608.12158)]
+
+[arxiv 2026.08] SCOPE-Router: Cost-Aware Open-Set VLM Routing for Execution-Oriented Tasks  [[PDF](https://arxiv.org/abs/2608.12127)]
+
+[arxiv 2026.08] Do You See What You Draw? A Semantic Closed-Loop Framework for Holistic Evaluation of Unified Multimodal Models  [[PDF](https://arxiv.org/abs/2608.11907)]
+
+[arxiv 2026.08] LookBack: Where and How to Score LVLM Responses via Visual Reference Usage  [[PDF](https://arxiv.org/abs/2608.11847),[Page](https://github.com/bscho333/LookBack)]
+
+[arxiv 2026.08] GeoBridge: Decoupled Semantic Conditioning for Generative Image Geolocalization  [[PDF](https://arxiv.org/abs/2608.11838)]
+
+[arxiv 2026.08] JieZi: A Large-Scale Expert-Audited Dataset and Benchmark for Ancient Chinese Character Exegesis  [[PDF](https://arxiv.org/abs/2608.11741)]
+
+[arxiv 2026.08] Learning from Multimodal Pseudo-Labels for Robust Open-Vocabulary Instance and Panoptic Segmentation  [[PDF](https://arxiv.org/abs/2608.11681)]
+
+[arxiv 2026.08] Motion-as-Prompt: Enhancing Motion Reasoning in Multimodal Large Language Models via Motion-Guided Cross-Frame Visual Prompting  [[PDF](https://arxiv.org/abs/2608.11655)]
+
+[arxiv 2026.08] Test-Time Hallucination Control in Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.11474)]
+
+[arxiv 2026.08] Multi-Agent Target-Existence Verification and Learned Mask Geometry Refinement: Winning Report of the MeViS-Text Track at the 8th LSVOS Challenge 2026  [[PDF](https://arxiv.org/abs/2608.11458)]
+
+[arxiv 2026.08] TangPoetryBench: A Multi-Dimensional Benchmark and Rubric-Conditioned Evaluator for Poetry-to-Image Generation  [[PDF](https://arxiv.org/abs/2608.11452)]
+
+[arxiv 2026.08] VLMs Win a Systematic Evaluation of Underwater Image Reconstruction  [[PDF](https://arxiv.org/abs/2608.11425)]
+
+[arxiv 2026.08] MBA: Multimodal Benchmark and Agents for Real-World Business Ideation  [[PDF](https://arxiv.org/abs/2608.11616),[Page](https://hchoi256.github.io/projects/mba/)]
+
+[arxiv 2026.08] Click2Poly: A VLM for vector mapping buildings and walls  [[PDF](https://arxiv.org/abs/2608.11424)]
+
+[arxiv 2026.08] Qwen-MusicAVQA-7B: A Multimodal Model for Music Audio-Visual QA  [[PDF](https://arxiv.org/abs/2608.11329),[Page](https://github.com/MKDehdashti/Qwen2-vl-audio)]
+
+[arxiv 2026.08] Glance, Scrutinize, and Think: Advancing Video Anomaly Detection from Training-Free to Agentic Reasoning  [[PDF](https://arxiv.org/abs/2608.11260)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-08-12 -->
+<!-- Added on 2026-08-13 -->
 [arxiv 2026.08] MASS: Multiplayer World Models with Authoritative Shared State  [[PDF](https://arxiv.org/abs/2608.06257)]
 
 [arxiv 2026.08] EmoWorld: A Decoupled Affective Field for Controllable Emotional Video Generation  [[PDF](https://arxiv.org/abs/2608.06231)]
@@ -1334,6 +1334,12 @@ A reading list of video generation
 [arxiv 2026.08] SparSTAR: Sparse Attention for SpaceTime AutoRegressive Video Synthesis  [[PDF](https://arxiv.org/abs/2608.10519)]
 
 [arxiv 2026.08] Stream Forcing: Constructing Unified Training Trajectory for Robust Streaming Video Generation  [[PDF](https://arxiv.org/abs/2608.10439)]
+
+[arxiv 2026.08] Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence  [[PDF](https://arxiv.org/abs/2608.12290)]
+
+[arxiv 2026.08] GeoFlow: Efficient Driving Video Generation via Geometry-Aligned Priors  [[PDF](https://arxiv.org/abs/2608.12203)]
+
+[arxiv 2026.08] LoSA: Near-Lossless Sparse Attention for Training-Free Video Diffusion Acceleration  [[PDF](https://arxiv.org/abs/2608.12032)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

@@ -572,6 +572,14 @@
 
 [arxiv 2026.08] DSAR: Dual-Stream Autoregressive Modeling of Temporal Cloth Dynamics for Photorealistic Animatable Avatars  [[PDF](https://arxiv.org/abs/2608.10500)]
 
+[arxiv 2026.08] HSTGFormer: Hyper Spatial-Temporal Graph Transformer for 3D Human Pose Estimation  [[PDF](https://arxiv.org/abs/2608.12187)]
+
+[arxiv 2026.08] TGRHuman: Text-Guided Realistic 3D Human Generation via Diffusion Renderer  [[PDF](https://arxiv.org/abs/2608.12175)]
+
+[arxiv 2026.08] Avatar-Forever: Decoupled Parallel Training for High-Quality Real-Time Infinite Avatars  [[PDF](https://arxiv.org/abs/2608.12107)]
+
+[arxiv 2026.08] LiveAnimate: Stable Long-Form Streaming Human Animation in Real-Time  [[PDF](https://arxiv.org/abs/2608.11745)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Gaussian Face 
@@ -874,7 +882,7 @@
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 # ego
-<!-- Added on 2026-08-12 -->
+<!-- Added on 2026-08-13 -->
 [arxiv 2026.06] PointSplat: Compact Gaussian Splatting via Human-Centric Prediction  [[PDF](https://arxiv.org/abs/2606.32036),[Page](https://zju3dv.github.io/pointsplat)]
 
 [arxiv 2026.06] LUNA: Learning Universal 3D Human Animation Beyond Skinning  [[PDF](https://arxiv.org/abs/2606.31981),[Page](https://penghtyx.github.io/LUNA/)]

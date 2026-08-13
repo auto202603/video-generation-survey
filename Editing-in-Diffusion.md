@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-08-12 -->
+<!-- Added on 2026-08-13 -->
 [arxiv 2026.08] Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction  [[PDF](https://arxiv.org/abs/2608.06117)]
 
 [arxiv 2026.08] Controllable Clothing: Precise Labels and Generation for Virtual Try-On with Latent Diffusion Models  [[PDF](https://arxiv.org/abs/2608.05834)]
@@ -2794,6 +2794,28 @@
 [arxiv 2026.08] Pre- to Post-Contrast Synthesis of Breast DCE-MRI using Latent Bridge Matching  [[PDF](https://arxiv.org/abs/2608.10000)]
 
 [arxiv 2026.08] Structural Guidance for Unified Joint Demosaicing and Denoising  [[PDF](https://arxiv.org/abs/2608.09995)]
+
+[arxiv 2026.08] XYZFlow:Scaling Multi dimensional Shortcut Flows for Efficient Generative Modeling  [[PDF](https://arxiv.org/abs/2608.12276)]
+
+[arxiv 2026.08] Seed2GS: Camera-Free, Training-Free Object Extraction from 3D Gaussian Scenes via a Single Reference-View Grounding  [[PDF](https://arxiv.org/abs/2608.11928)]
+
+[arxiv 2026.08] UniSwap: Streaming Audio-Visual Identity Swapping for Talking Videos  [[PDF](https://arxiv.org/abs/2608.11752)]
+
+[arxiv 2026.08] Hybrid-LUT: Channel-Aware Hybrid Lookup Table and Filtering for Efficient Image Denoising  [[PDF](https://arxiv.org/abs/2608.11646)]
+
+[arxiv 2026.08] Robustness of AI-Art Detectors under Generator Shift  [[PDF](https://arxiv.org/abs/2608.11643)]
+
+[arxiv 2026.08] Generative Video Compression Based on Hierarchical Referencing  [[PDF](https://arxiv.org/abs/2608.11618)]
+
+[arxiv 2026.08] Through Van Gogh&#39;s Eyes: Global Style Transfer with Diffusion Mod  [[PDF](https://arxiv.org/abs/2608.11546)]
+
+[arxiv 2026.08] Generative Semantic Segmentation via an Observable Semantic-Image Interface and Hierarchical Generator Evidence Alignment  [[PDF](https://arxiv.org/abs/2608.11537)]
+
+[arxiv 2026.08] HandEdit: A Unified Benchmark for Egocentric Human-to-Robot Dexterous Hand Image Editing  [[PDF](https://arxiv.org/abs/2608.12122),[Page](https://handedit.github.io/)]
+
+[arxiv 2026.08] CoQui: A Coordinate-Conditioned Quantum Implicit Generative Adversarial Network for End-to-End Image Generation  [[PDF](https://arxiv.org/abs/2608.11884)]
+
+[arxiv 2026.08] Can Frontier LLMs Match Natively Multimodal Embeddings? A Comparison on Hard-Negative Text-to-Image Retrieval  [[PDF](https://arxiv.org/abs/2608.11343)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
