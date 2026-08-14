@@ -580,6 +580,10 @@
 
 [arxiv 2026.08] LiveAnimate: Stable Long-Form Streaming Human Animation in Real-Time  [[PDF](https://arxiv.org/abs/2608.11745)]
 
+[arxiv 2026.08] Topology-Unified 2D Pose Estimation across Intact, Residual and Prosthetic Limbs  [[PDF](https://arxiv.org/abs/2608.13047)]
+
+[arxiv 2026.08] HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark  [[PDF](https://arxiv.org/abs/2608.13555)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Gaussian Face 
@@ -882,7 +886,7 @@
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 # ego
-<!-- Added on 2026-08-13 -->
+<!-- Added on 2026-08-14 -->
 [arxiv 2026.06] PointSplat: Compact Gaussian Splatting via Human-Centric Prediction  [[PDF](https://arxiv.org/abs/2606.32036),[Page](https://zju3dv.github.io/pointsplat)]
 
 [arxiv 2026.06] LUNA: Learning Universal 3D Human Animation Beyond Skinning  [[PDF](https://arxiv.org/abs/2606.31981),[Page](https://penghtyx.github.io/LUNA/)]

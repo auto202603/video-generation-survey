@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-08-13 -->
+<!-- Added on 2026-08-14 -->
 [arxiv 2026.08] MASS: Multiplayer World Models with Authoritative Shared State  [[PDF](https://arxiv.org/abs/2608.06257)]
 
 [arxiv 2026.08] EmoWorld: A Decoupled Affective Field for Controllable Emotional Video Generation  [[PDF](https://arxiv.org/abs/2608.06231)]
@@ -1340,6 +1340,26 @@ A reading list of video generation
 [arxiv 2026.08] GeoFlow: Efficient Driving Video Generation via Geometry-Aligned Priors  [[PDF](https://arxiv.org/abs/2608.12203)]
 
 [arxiv 2026.08] LoSA: Near-Lossless Sparse Attention for Training-Free Video Diffusion Acceleration  [[PDF](https://arxiv.org/abs/2608.12032)]
+
+[arxiv 2026.08] PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives  [[PDF](https://arxiv.org/abs/2608.13552),[Page](https://kxding.github.io/project/PlayWorld/)]
+
+[arxiv 2026.08] DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation  [[PDF](https://arxiv.org/abs/2608.13489),[Page](https://github.com/AMAP-ML/DreamX-Phi)]
+
+[arxiv 2026.08] Context-Matched Distillation: Teacher Causality for Autoregressive Video Distillation  [[PDF](https://arxiv.org/abs/2608.13391),[Page](https://hmrishavbandy.github.io/cmd-site/)]
+
+[arxiv 2026.08] Sign Language Video Synthesis via Loss-Guided Multi-Expert GANs  [[PDF](https://arxiv.org/abs/2608.13368)]
+
+[arxiv 2026.08] NARU: A Benchmark for NARrative Evolution and Cultural Nuance Understanding in Japanese Extreme Long Video  [[PDF](https://arxiv.org/abs/2608.13210),[Page](https://ma-labo.github.io/naru/)]
+
+[arxiv 2026.08] HPSD: Hybrid-Policy Self-Distillation for Text-Image-to-Video Diffusion Models  [[PDF](https://arxiv.org/abs/2608.13205),[Page](https://bujiazi.github.io/hpsd.github.io/)]
+
+[arxiv 2026.08] Spatially-Grounded Text-to-Video Generation via Inference-Time Gradient-Free Optimization  [[PDF](https://arxiv.org/abs/2608.13037)]
+
+[arxiv 2026.08] RGB-D Video Generation for Improving Human-to-Robot Object Handover Prediction  [[PDF](https://arxiv.org/abs/2608.13028)]
+
+[arxiv 2026.08] StrAD: A Streaming Method and Benchmark for Audio Description Generation for Long-form Videos  [[PDF](https://arxiv.org/abs/2608.12549)]
+
+[arxiv 2026.08] H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models  [[PDF](https://arxiv.org/abs/2608.13049)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

@@ -1,3 +1,4 @@
+<!-- Added on 2026-08-14 -->
 <!-- Added on 2026-08-13 -->
 <!-- Added on 2026-08-12 -->
 <!-- Added on 2026-08-06 -->
@@ -4046,6 +4047,56 @@
 [arxiv 2026.08] Qwen-MusicAVQA-7B: A Multimodal Model for Music Audio-Visual QA  [[PDF](https://arxiv.org/abs/2608.11329),[Page](https://github.com/MKDehdashti/Qwen2-vl-audio)]
 
 [arxiv 2026.08] Glance, Scrutinize, and Think: Advancing Video Anomaly Detection from Training-Free to Agentic Reasoning  [[PDF](https://arxiv.org/abs/2608.11260)]
+
+[arxiv 2026.08] GS$^{2}$CI: Robust Gaussian Splatting For Snapshot Compressive Imaging via Large Vision Model Priors  [[PDF](https://arxiv.org/abs/2608.13502)]
+
+[arxiv 2026.08] MLLM-Routed Heterogeneous Ensembles for Robust Cross-Dataset Image Classification  [[PDF](https://arxiv.org/abs/2608.13463)]
+
+[arxiv 2026.08] Edit2TikZ: A Comprehensive and Challenging Benchmark for Scientific Figure Editing with TikZ  [[PDF](https://arxiv.org/abs/2608.13441)]
+
+[arxiv 2026.08] When Is a Task Vector Enough? An Empirical Theory of Implicit Multimodal ICL  [[PDF](https://arxiv.org/abs/2608.13385)]
+
+[arxiv 2026.08] AmalthAI: An Open-Source Computer Vision Platform for Cultural Heritage  [[PDF](https://arxiv.org/abs/2608.13343)]
+
+[arxiv 2026.08] Reasoning for Social Audio-Visual Question Answering: Where Do We Stand?  [[PDF](https://arxiv.org/abs/2608.13239),[Page](https://github.com/koenv759/VanillaSFT)]
+
+[arxiv 2026.08] CoverPrune: Coverage-Driven Token Pruning for 3D VLMs via Optimal Transport  [[PDF](https://arxiv.org/abs/2608.13226)]
+
+[arxiv 2026.08] TRAPSBench: Vision-Language Models Encode but Fail to Express Epistemic Restraint  [[PDF](https://arxiv.org/abs/2608.13167)]
+
+[arxiv 2026.08] QuISE: Defense against Typographic Attacks on VLMs via Query-Irrelevant Semantic Editing  [[PDF](https://arxiv.org/abs/2608.13119)]
+
+[arxiv 2026.08] EgoMonth: A Month-Level Egocentric Video Benchmark for Long-Term Spatiotemporal Memory  [[PDF](https://arxiv.org/abs/2608.13113)]
+
+[arxiv 2026.08] TennisVAR: A Stroke-Evidence-Grounded Multimodal Large Language Model for Tactical Reasoning in Tennis Videos  [[PDF](https://arxiv.org/abs/2608.12920),[Page](https://whynotgit2025.github.io/TennisVAR/)]
+
+[arxiv 2026.08] Beyond Visual Evidence: Revealing and Mitigating Relational Privacy Leakage in Document MLLMs  [[PDF](https://arxiv.org/abs/2608.12911)]
+
+[arxiv 2026.08] NaviDC-OCR: Navigating Document Parsing Across Digital and Camera-Captured Documents  [[PDF](https://arxiv.org/abs/2608.12898)]
+
+[arxiv 2026.08] SPARED: Reasoning-Based AI-Generated Image Detection via Adversarially Edited Data  [[PDF](https://arxiv.org/abs/2608.12876)]
+
+[arxiv 2026.08] Heterogeneous Vision-Language Ensemble with Disagreement-Aware Reranking for Text-Based Person Anomaly Retrieval  [[PDF](https://arxiv.org/abs/2608.12843)]
+
+[arxiv 2026.08] Beyond Correctness: Benchmarking and Aligning Response Behaviors in Hybrid-Thinking MLLMs  [[PDF](https://arxiv.org/abs/2608.12781)]
+
+[arxiv 2026.08] Scaling Representation Diversity: Modulated Attention and Reconstructive Regularization for Visual Grounding  [[PDF](https://arxiv.org/abs/2608.12748)]
+
+[arxiv 2026.08] Dual-Stream Cross-Anchor Correction Grounding Long-Form Captions and the Domain Limits of Object-Level Anchors  [[PDF](https://arxiv.org/abs/2608.12746)]
+
+[arxiv 2026.08] VOS-Agent: The 1st Place Solution for the 8th LSVOS Challenge (MOSEv2 Track)  [[PDF](https://arxiv.org/abs/2608.12721)]
+
+[arxiv 2026.08] From Visual Widgets to UI Code: Efficient Tool-Grounded Generation  [[PDF](https://arxiv.org/abs/2608.12611)]
+
+[arxiv 2026.08] Can Vision-Language Models Assess Proxemic Risk from Egocentric Robot Images?  [[PDF](https://arxiv.org/abs/2608.12515)]
+
+[arxiv 2026.08] How Do VLMs Behave When Blind or Misled? Behavioral Evaluation of VLMs on Scientific Figures  [[PDF](https://arxiv.org/abs/2608.13267),[Page](https://scifigbench.nlp4sci.com)]
+
+[arxiv 2026.08] The Role of Natural Language Understanding in Multimodal Video-Based Dengue Diagnosis  [[PDF](https://arxiv.org/abs/2608.12677)]
+
+[arxiv 2026.08] MASCOT: Model-Aware Submodular Coverage for Composite-Attribute Text-to-Image Retrieval  [[PDF](https://arxiv.org/abs/2608.12532)]
+
+[arxiv 2026.08] Vision-Language Models are Fragile Multilingual Associators  [[PDF](https://arxiv.org/abs/2608.12333),[Page](https://ritabrata04.github.io/m2bind/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

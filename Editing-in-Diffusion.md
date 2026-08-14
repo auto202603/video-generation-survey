@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-08-13 -->
+<!-- Added on 2026-08-14 -->
 [arxiv 2026.08] Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction  [[PDF](https://arxiv.org/abs/2608.06117)]
 
 [arxiv 2026.08] Controllable Clothing: Precise Labels and Generation for Virtual Try-On with Latent Diffusion Models  [[PDF](https://arxiv.org/abs/2608.05834)]
@@ -2816,6 +2816,26 @@
 [arxiv 2026.08] CoQui: A Coordinate-Conditioned Quantum Implicit Generative Adversarial Network for End-to-End Image Generation  [[PDF](https://arxiv.org/abs/2608.11884)]
 
 [arxiv 2026.08] Can Frontier LLMs Match Natively Multimodal Embeddings? A Comparison on Hard-Negative Text-to-Image Retrieval  [[PDF](https://arxiv.org/abs/2608.11343)]
+
+[arxiv 2026.08] SCULPT: Subtractive Composition for 3D Part Generation  [[PDF](https://arxiv.org/abs/2608.13541),[Page](https://sculpt-part.github.io/)]
+
+[arxiv 2026.08] MapRoute++: Surrogate-Guided Semantic Routing for Visual Concept Unlearning  [[PDF](https://arxiv.org/abs/2608.13478)]
+
+[arxiv 2026.08] SketchSense: Learning to Interpret Imperfect Sketch Guidance for Image Inpainting  [[PDF](https://arxiv.org/abs/2608.13186)]
+
+[arxiv 2026.08] Splat-based Metal Artifact Reduction in Cone-Beam CT via Polychromatic Modeling  [[PDF](https://arxiv.org/abs/2608.13159)]
+
+[arxiv 2026.08] Towards Physics-Faithful Generation of Scientific Diagrams  [[PDF](https://arxiv.org/abs/2608.13112)]
+
+[arxiv 2026.08] PixSDS: Why Latent SDS Makes Noisy Pixels  [[PDF](https://arxiv.org/abs/2608.12997)]
+
+[arxiv 2026.08] LocusGS: Spatially Grounded Tokens for Feed-Forward 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2608.12825)]
+
+[arxiv 2026.08] Erase but Preserve: Controllable Removal of Copyrighted Animation Characters via Optimized Semantic Anchors  [[PDF](https://arxiv.org/abs/2608.12806)]
+
+[arxiv 2026.08] SCOPE: Subspace Clustering with Online Per-Head Top-K Estimation for Sparse Video Attention  [[PDF](https://arxiv.org/abs/2608.12780)]
+
+[arxiv 2026.08] From Local Mismatch to Global Impact: Optimizing Cache Reuse Policy for Efficient Diffusion  [[PDF](https://arxiv.org/abs/2608.13043)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
