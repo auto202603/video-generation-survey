@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-08-14 -->
+<!-- Added on 2026-08-17 -->
 [arxiv 2026.08] Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction  [[PDF](https://arxiv.org/abs/2608.06117)]
 
 [arxiv 2026.08] Controllable Clothing: Precise Labels and Generation for Virtual Try-On with Latent Diffusion Models  [[PDF](https://arxiv.org/abs/2608.05834)]
@@ -124,8 +124,8 @@
 [arxiv 2026.07] Points as Tori: Fast Pointwise Signed Distance for Point Clouds  [[PDF](https://arxiv.org/abs/2607.16946),[Page](https://nzfeng.github.io/research/PointsAsTori)]
 
 
-<!-- Added on 2026-07-23 -->
-<!-- Added on 2026-07-23 -->
+<!-- Added on 2026-08-17 -->
+<!-- Added on 2026-08-17 -->
 [arxiv 2026.07] QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration  [[PDF](https://arxiv.org/abs/2607.15097)]
 
 [arxiv 2026.07] RoGS: Adaptive Meshgrid Gaussian for Large-Scale Road Surface Mapping  [[PDF](https://arxiv.org/abs/2607.15048)]
@@ -188,11 +188,11 @@
 
 [arxiv 2026.07] TILDE: TILt-based Distributional Erasure for Concept Unlearning  [[PDF](https://arxiv.org/abs/2607.06432)]
 
-<!-- Added on 2026-07-23 -->
-<!-- Added on 2026-07-23 -->
-<!-- Added on 2026-07-23 -->
-<!-- Added on 2026-07-23 -->
-<!-- Added on 2026-07-23 -->
+<!-- Added on 2026-08-17 -->
+<!-- Added on 2026-08-17 -->
+<!-- Added on 2026-08-17 -->
+<!-- Added on 2026-08-17 -->
+<!-- Added on 2026-08-17 -->
 [arxiv 2026.06] GEAR: Guided End-to-End AutoRegression for Image Synthesis  [[PDF](https://arxiv.org/abs/2606.32039)]
 
 [arxiv 2026.06] SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE  [[PDF](https://arxiv.org/abs/2606.32033)]
@@ -2697,6 +2697,7 @@
 [arxiv 2026.07] ReGenVC: End-to-End Real-Time Generative Video Coding at Ultra-Low Bitrate  [[PDF](https://arxiv.org/abs/2607.28144)]
 
 [arxiv 2026.07] TSOG: A Format For Temporally And Spatially Ordered Gaussians  [[PDF](https://arxiv.org/abs/2607.28049)]
+
 [arxiv 2026.07] OASIS: Occlusion-aware Single-image Hand Avatar Reconstruction via 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2607.29633),[Page](https://mova-hand.github.io/MOVA/)] ![Code](https://img.shields.io/github/stars/ivyyy77/OASIS?style=social&label=Star)
 
 [arxiv 2026.07] CoDe-SSM: Context-Detail Decoupled State Space Model for Efficient UHD Image Restoration  [[PDF](https://arxiv.org/abs/2607.29595)]
@@ -2836,6 +2837,26 @@
 [arxiv 2026.08] SCOPE: Subspace Clustering with Online Per-Head Top-K Estimation for Sparse Video Attention  [[PDF](https://arxiv.org/abs/2608.12780)]
 
 [arxiv 2026.08] From Local Mismatch to Global Impact: Optimizing Cache Reuse Policy for Efficient Diffusion  [[PDF](https://arxiv.org/abs/2608.13043)]
+
+[arxiv 2026.08] CPI-Bench: A Comprehensive,Practical and Intelligent Benchmark for Real-World Image Editing  [[PDF](https://arxiv.org/abs/2608.14546)]
+
+[arxiv 2026.08] MagnifiQ: Patch-aware Text Guided Progressive Upscaling for High-Resolution Image Restoration  [[PDF](https://arxiv.org/abs/2608.14543)]
+
+[arxiv 2026.08] CRAFT: Constrained Reward via Attention Fine-Tuning for Subject Personalization without Composed Targets  [[PDF](https://arxiv.org/abs/2608.14403)]
+
+[arxiv 2026.08] Concept Guidance: Precise, Training-Free Latent Control for Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2608.14172)]
+
+[arxiv 2026.08] HiCo-GS: Hierarchical Context Aggregation and Geometric Consistency for Octree Gaussian Splatting  [[PDF](https://arxiv.org/abs/2608.14136)]
+
+[arxiv 2026.08] Owner3D: Ownership-Guided Style Writing for Training-Free Localized 3D Stylization  [[PDF](https://arxiv.org/abs/2608.14078)]
+
+[arxiv 2026.08] Source-Agnostic Image Translation Based on Latent Aware Adaptive Masking  [[PDF](https://arxiv.org/abs/2608.14046)]
+
+[arxiv 2026.08] RGBX-Next: Towards Realistic Generative Rendering from G-Buffers  [[PDF](https://arxiv.org/abs/2608.13929)]
+
+[arxiv 2026.08] Limitations of Synthetic Data Generation in Specialized Data-Scarce Domains  [[PDF](https://arxiv.org/abs/2608.13729)]
+
+[arxiv 2026.08] PROVE: Training-Free Prompt Recovery using Verifiable Evidence  [[PDF](https://arxiv.org/abs/2608.13671)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

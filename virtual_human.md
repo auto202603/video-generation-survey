@@ -1,5 +1,5 @@
 ## Dataset
-<!-- Added on 2026-08-06 -->
+<!-- Added on 2026-08-17 -->
 [arxiv 2026.08] Wan-Animate-2: Pushing the Application Boundaries of Character Animation  [[PDF](https://arxiv.org/abs/2608.06009),[Page](https://humanaigc.github.io/wan-animate-2/)]
 
 [arxiv 2026.08] Ordered Diffusion for 3D Human Registration  [[PDF](https://arxiv.org/abs/2608.05804)]
@@ -15,8 +15,8 @@
 [arxiv 2026.07] Articulated Humanoid Head for a Robot Receptionist Capable of Natural Human Interaction  [[PDF](https://arxiv.org/abs/2607.17042)]
 
 
-<!-- Added on 2026-07-23 -->
-<!-- Added on 2026-07-23 -->
+<!-- Added on 2026-08-17 -->
+<!-- Added on 2026-08-17 -->
 [arxiv 2026.07] Online Neural Space Time Memory for Dynamic Novel View Synthesis  [[PDF](https://arxiv.org/abs/2607.15271),[Page](https://nst-mem.github.io)]
 
 [arxiv 2026.07] An LLM-Based Automatic Sportscast Solution for Robot Soccer Matches  [[PDF](https://arxiv.org/abs/2607.14809)]
@@ -39,7 +39,7 @@
 
 [arxiv 2026.07] WristMimic: Full-Body Humanoid Control with Wrist-Guided Manipulation  [[PDF](https://arxiv.org/abs/2607.06438)]
 
-<!-- Added on 2026-07-23 -->
+<!-- Added on 2026-08-17 -->
 [arxiv 2026.06] Identifying the Unknown: Prompt-Free Open Vocabulary Anomaly Recognition for Robot-Object Interaction  [[PDF](https://arxiv.org/abs/2606.26829)]
 
 [arxiv 2026.06] PressMimic: Pressure-Guided Motion Capture and Control for Humanoid Robot Imitation  [[PDF](https://arxiv.org/abs/2606.26741)]
@@ -537,6 +537,7 @@
 [arxiv 2026.07] DETRAM: End-to-end DEtection, Tracking and Recovery of HumAn Meshes  [[PDF](https://arxiv.org/abs/2607.09089)]
 
 [arxiv 2026.07] RegHead: Non-Humanoid Head Blendshapes via Feed-Forward Registration  [[PDF](https://arxiv.org/abs/2607.12206)]
+
 [arxiv 2026.07] GaitSpan: Growing Humanoid Locomotion from Walking to Running  [[PDF](https://arxiv.org/abs/2607.12114),[Page](https://gaitspan2026.github.io/)]
 
 [arxiv 2026.07] Exo2EgoPose: Leveraging Exocentric Demonstrations for Vision-Language guided Egocentric 3D Hand Pose Forecasting  [[PDF](https://arxiv.org/abs/2607.15890)]
@@ -558,6 +559,7 @@
 [arxiv 2026.07] Speech2Grasp: Data-Efficient Transfer of Text-Conditioned Grasp Detection to Speech in Humanoid Robots  [[PDF](https://arxiv.org/abs/2607.26567)]
 
 [arxiv 2026.07] Split and Drive: Dual-Axis Disentanglement for Real-Time Gaussian Head Avatars  [[PDF](https://arxiv.org/abs/2607.28032)]
+
 [arxiv 2026.07] Forwardrobe: Garment-Aware Gaussian Avatars from a Single Image  [[PDF](https://arxiv.org/abs/2607.29106)]
 
 [arxiv 2026.08] Promptable Animal Pose Tracking Across Species  [[PDF](https://arxiv.org/abs/2608.04995)]
@@ -583,6 +585,8 @@
 [arxiv 2026.08] Topology-Unified 2D Pose Estimation across Intact, Residual and Prosthetic Limbs  [[PDF](https://arxiv.org/abs/2608.13047)]
 
 [arxiv 2026.08] HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark  [[PDF](https://arxiv.org/abs/2608.13555)]
+
+[arxiv 2026.08] Zero-Shot Skeleton-Based Action Anticipation  [[PDF](https://arxiv.org/abs/2608.14243)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -886,7 +890,7 @@
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 # ego
-<!-- Added on 2026-08-14 -->
+<!-- Added on 2026-08-17 -->
 [arxiv 2026.06] PointSplat: Compact Gaussian Splatting via Human-Centric Prediction  [[PDF](https://arxiv.org/abs/2606.32036),[Page](https://zju3dv.github.io/pointsplat)]
 
 [arxiv 2026.06] LUNA: Learning Universal 3D Human Animation Beyond Skinning  [[PDF](https://arxiv.org/abs/2606.31981),[Page](https://penghtyx.github.io/LUNA/)]
