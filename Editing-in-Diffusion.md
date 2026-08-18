@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-08-17 -->
+<!-- Added on 2026-08-18 -->
 [arxiv 2026.08] Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction  [[PDF](https://arxiv.org/abs/2608.06117)]
 
 [arxiv 2026.08] Controllable Clothing: Precise Labels and Generation for Virtual Try-On with Latent Diffusion Models  [[PDF](https://arxiv.org/abs/2608.05834)]
@@ -26,8 +26,6 @@
 
 [arxiv 2026.08] WorldClaw: Agentic 3D Open-World Generation at Scale  [[PDF](https://arxiv.org/abs/2608.05248)]
 
-
-
 [arxiv 2026.08] UniWorld-Design: From Pixel Generation to Layer-Native Design  [[PDF](https://arxiv.org/abs/2608.03971),[Page](https://rabbitvis.rabbitpre.com/blog)]
 
 [arxiv 2026.08] Progressive Learning of a Diffusion-based Inpainting Model for Separating Overlapped Fingerprints  [[PDF](https://arxiv.org/abs/2608.03937)]
@@ -47,7 +45,6 @@
 [arxiv 2026.08] Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing  [[PDF](https://arxiv.org/abs/2608.02711),[Page](https://tencent-hunyuan.github.io/Hunyuan3D-Buffalo1.0/)]
 
 [arxiv 2026.08] Latent Reward Registers for Diffusion Preference Alignment  [[PDF](https://arxiv.org/abs/2608.03929)]
-
 
 [arxiv 2026.07] Appearance Pointers -- Multimodal Region Control of Diffusion Transformers  [[PDF](https://arxiv.org/abs/2607.19344)]
 
@@ -123,9 +120,8 @@
 
 [arxiv 2026.07] Points as Tori: Fast Pointwise Signed Distance for Point Clouds  [[PDF](https://arxiv.org/abs/2607.16946),[Page](https://nzfeng.github.io/research/PointsAsTori)]
 
-
-<!-- Added on 2026-08-17 -->
-<!-- Added on 2026-08-17 -->
+<!-- Added on 2026-08-18 -->
+<!-- Added on 2026-08-18 -->
 [arxiv 2026.07] QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration  [[PDF](https://arxiv.org/abs/2607.15097)]
 
 [arxiv 2026.07] RoGS: Adaptive Meshgrid Gaussian for Large-Scale Road Surface Mapping  [[PDF](https://arxiv.org/abs/2607.15048)]
@@ -188,11 +184,11 @@
 
 [arxiv 2026.07] TILDE: TILt-based Distributional Erasure for Concept Unlearning  [[PDF](https://arxiv.org/abs/2607.06432)]
 
-<!-- Added on 2026-08-17 -->
-<!-- Added on 2026-08-17 -->
-<!-- Added on 2026-08-17 -->
-<!-- Added on 2026-08-17 -->
-<!-- Added on 2026-08-17 -->
+<!-- Added on 2026-08-18 -->
+<!-- Added on 2026-08-18 -->
+<!-- Added on 2026-08-18 -->
+<!-- Added on 2026-08-18 -->
+<!-- Added on 2026-08-18 -->
 [arxiv 2026.06] GEAR: Guided End-to-End AutoRegression for Image Synthesis  [[PDF](https://arxiv.org/abs/2606.32039)]
 
 [arxiv 2026.06] SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE  [[PDF](https://arxiv.org/abs/2606.32033)]
@@ -2857,6 +2853,68 @@
 [arxiv 2026.08] Limitations of Synthetic Data Generation in Specialized Data-Scarce Domains  [[PDF](https://arxiv.org/abs/2608.13729)]
 
 [arxiv 2026.08] PROVE: Training-Free Prompt Recovery using Verifiable Evidence  [[PDF](https://arxiv.org/abs/2608.13671)]
+
+[arxiv 2026.08] An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2608.16887)]
+
+[arxiv 2026.08] SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis  [[PDF](https://arxiv.org/abs/2608.16863)]
+
+[arxiv 2026.08] Unlocking the Potential of Image Editing via Concept Scaling and Dense Supervision  [[PDF](https://arxiv.org/abs/2608.16812)]
+
+[arxiv 2026.08] PixRestore: Unified Image Restoration via Pixel Diffusion Transformer  [[PDF](https://arxiv.org/abs/2608.16793)]
+
+[arxiv 2026.08] Revisiting Classifier-Free Guidance Methods in Latent Diffusion Models  [[PDF](https://arxiv.org/abs/2608.16786)]
+
+[arxiv 2026.08] TRACE-Bench: Decomposing and Diagnosing Multi-Reference Image Generation  [[PDF](https://arxiv.org/abs/2608.16765)]
+
+[arxiv 2026.08] Binarized High-Efficiency RAW Video Restoration and Beyond  [[PDF](https://arxiv.org/abs/2608.16756)]
+
+[arxiv 2026.08] GenRouter: Unified Workflow Routing for Agentic Image Generation  [[PDF](https://arxiv.org/abs/2608.16721),[Page](https://github.com/EnVision-Research/GenRouter)]
+
+[arxiv 2026.08] Supervising the Path to Fine Scales: GalerkinFlow for Scientific-Field and Image Super-Resolution  [[PDF](https://arxiv.org/abs/2608.16546)]
+
+[arxiv 2026.08] LaGSplat: Inferring Physics-Governed Interactive Simulation from Monocular Video Using Latent Lagrangian Gaussian Splatting  [[PDF](https://arxiv.org/abs/2608.16324),[Page](https://louenpottier.github.io/lagsplat.html)]
+
+[arxiv 2026.08] Nexus: Structured Synergy for Efficient Text-to-Image Generation using Rectified Flow Model  [[PDF](https://arxiv.org/abs/2608.16104)]
+
+[arxiv 2026.08] Beyond Similarity Matching: Structured Reasoning for Open-Vocabulary Referring Segmentation in 3DGS  [[PDF](https://arxiv.org/abs/2608.16103)]
+
+[arxiv 2026.08] TISC: A Text-Driven Image Semantic Communication System for Faithful Reconstruction  [[PDF](https://arxiv.org/abs/2608.16100)]
+
+[arxiv 2026.08] PixelControl: Fine-Grained Condition Fidelity in Text-to-Image Diffusion  [[PDF](https://arxiv.org/abs/2608.15705),[Page](https://linxin0.github.io/pixelcontrol_homepage/pixelcontrol-site/)]
+
+[arxiv 2026.08] RRFC: Recursive Refinement via Feedback Conditioning for Iterative Image-to-Image Generation  [[PDF](https://arxiv.org/abs/2608.15694)]
+
+[arxiv 2026.08] Gaussian-JEPA: Joint-Embedding Predictive Learning for 3D Gaussian Splats  [[PDF](https://arxiv.org/abs/2608.15651)]
+
+[arxiv 2026.08] PoseAdapter: Dual-Stream 2.5D Controllable Image Generation for Complex Multi-Object Scenes  [[PDF](https://arxiv.org/abs/2608.15583)]
+
+[arxiv 2026.08] Spatially-Grounded Flow Matching: Structured Source Distributions for Image Generation  [[PDF](https://arxiv.org/abs/2608.15452)]
+
+[arxiv 2026.08] HistReNeRF: Historic Image Relocalisation within Contemporary Neural Radiance Field Reconstructions  [[PDF](https://arxiv.org/abs/2608.15420)]
+
+[arxiv 2026.08] JoLT: Joint Latent Trajectories for Context-Guided High-Resolution Tiled Generation  [[PDF](https://arxiv.org/abs/2608.15395),[Page](https://obvious-research.github.io/jolt/)]
+
+[arxiv 2026.08] ENAF: A Multi-Exit Network with an Adaptive Patch Fusion for Large Image Super Resolution  [[PDF](https://arxiv.org/abs/2608.15349)]
+
+[arxiv 2026.08] Image Denoising via the Adaptive Rank-Cluster Filter  [[PDF](https://arxiv.org/abs/2608.15298)]
+
+[arxiv 2026.08] Generation of Synthetic Fingerphotos with GANs  [[PDF](https://arxiv.org/abs/2608.15029)]
+
+[arxiv 2026.08] Benchmarking Frontier Text-to-Image Models on Image-Description Prompts  [[PDF](https://arxiv.org/abs/2608.14976)]
+
+[arxiv 2026.08] Where the Cost Falls: A Deployment-Aware Adoption Order for Stability Enhancements to Cycle-Consistent Adversarial Networks  [[PDF](https://arxiv.org/abs/2608.14811)]
+
+[arxiv 2026.08] MegaParts: Scaling Part-Aware 3D Object Generation to 300 Parts via Token-Efficient Autoregressive Modeling  [[PDF](https://arxiv.org/abs/2608.14783)]
+
+[arxiv 2026.08] From Dense Prediction to Visual Editing: Structured Supervision for Unified Image and Video Creation  [[PDF](https://arxiv.org/abs/2608.14740)]
+
+[arxiv 2026.08] Do CNNs Internally Represent Real and Fake Images Differently? A Hidden-Layer Analysis  [[PDF](https://arxiv.org/abs/2608.14729)]
+
+[arxiv 2026.08] Deep Analog: Open-Set Film Emulation with Reference-Conditioned 3D LUTs  [[PDF](https://arxiv.org/abs/2608.14702),[Page](https://github.com/EtonMu/deep-analog)]
+
+[arxiv 2026.08] DriveCache: Action-Aware Caching for Driving World Model Inference  [[PDF](https://arxiv.org/abs/2608.16354)]
+
+[arxiv 2026.08] MotionGS-SLAM: Event-Modulated Gaussian Splatting for Motion-Blur Robust SLAM  [[PDF](https://arxiv.org/abs/2608.15024)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

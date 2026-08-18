@@ -1,7 +1,7 @@
-<!-- Added on 2026-08-17 -->
-<!-- Added on 2026-08-17 -->
-<!-- Added on 2026-08-17 -->
-<!-- Added on 2026-08-17 -->
+<!-- Added on 2026-08-18 -->
+<!-- Added on 2026-08-18 -->
+<!-- Added on 2026-08-18 -->
+<!-- Added on 2026-08-18 -->
 [arxiv 2026.08] Domain-Grounded Candidate Selection for Agentic Image Editing: A Shadow Removal Case  [[PDF](https://arxiv.org/abs/2608.06075)]
 
 [arxiv 2026.08] The Next Screenshot Knows: Gated Hindsight Distillation for Mobile GUI Agents  [[PDF](https://arxiv.org/abs/2608.06065)]
@@ -60,8 +60,6 @@
 
 [arxiv 2026.08] VLAff: Vision-Language-Affordance Model for Unified Actionable Affordances  [[PDF](https://arxiv.org/abs/2608.05215),[Page](https://ojh6404.github.io/vlaff/)]
 
-
-
 [arxiv 2026.08] ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs  [[PDF](https://arxiv.org/abs/2608.04010)]
 
 [arxiv 2026.08] Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent  [[PDF](https://arxiv.org/abs/2608.03979)]
@@ -114,8 +112,8 @@
 
 [arxiv 2026.08] ArtECulture: Benchmarking Culture-Conditioned Visual Emotion Understanding in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2608.03358)]
 
-<!-- Added on 2026-08-17 -->
-<!-- Added on 2026-08-17 -->
+<!-- Added on 2026-08-18 -->
+<!-- Added on 2026-08-18 -->
 
 [arxiv 2026.07] ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis  [[PDF](https://arxiv.org/abs/2607.19341)]
 
@@ -213,9 +211,9 @@
 
 [arxiv 2026.07] Self-Evolving Just-In-Time Memory for Proactive Embodied Safety  [[PDF](https://arxiv.org/abs/2607.16247)]
 
-<!-- Added on 2026-08-17 -->
-<!-- Added on 2026-08-17 -->
-<!-- Added on 2026-08-17 -->
+<!-- Added on 2026-08-18 -->
+<!-- Added on 2026-08-18 -->
+<!-- Added on 2026-08-18 -->
 [arxiv 2026.07] Hierarchical Denoising For Multi-Step Visual Reasoning  [[PDF](https://arxiv.org/abs/2607.15278)]
 
 [arxiv 2026.07] HoloGeo: Mitigating Landmark Bias in Geo-localization via Evidence-Driven Reasoning  [[PDF](https://arxiv.org/abs/2607.15255)]
@@ -274,7 +272,7 @@
 
 [arxiv 2026.07] Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment  [[PDF](https://arxiv.org/abs/2607.13429),[Page](https://github.com/dwipddalal/Anchor-Align)]
 
-<!-- Added on 2026-08-17 -->
+<!-- Added on 2026-08-18 -->
 [arxiv 2026.07] Vision as Unified Multimodal Generation  [[PDF](https://arxiv.org/abs/2607.06560)]
 
 [arxiv 2026.07] CAIRN: Cross-Room 3D Scene Understanding with Topology-Aware Large Multimodal Models  [[PDF](https://arxiv.org/abs/2607.06534),[Page](https://oceansdepp.github.io/cairn_web/)]
@@ -315,8 +313,8 @@
 
 [arxiv 2026.07] BaFCo: A Document Understanding Benchmark for Complex Bangla Form Comprehension  [[PDF](https://arxiv.org/abs/2607.05614)]
 
-<!-- Added on 2026-08-17 -->
-<!-- Added on 2026-08-17 -->
+<!-- Added on 2026-08-18 -->
+<!-- Added on 2026-08-18 -->
 [arxiv 2026.06] CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts  [[PDF](https://arxiv.org/abs/2606.31986),[Page](https://github.com/hulianyuyy/CoLT)]
 
 [arxiv 2026.06] ERA: Entropy-Guided Visual Token Pruning with Rectified Attention for Efficient MLLMs  [[PDF](https://arxiv.org/abs/2606.31982)]
@@ -4124,6 +4122,64 @@
 [arxiv 2026.08] A Pathway to General-Purpose Scientific AI: Multimodal Comprehension of Scientific Images  [[PDF](https://arxiv.org/abs/2608.14075)]
 
 [arxiv 2026.08] VLM- and LLM-Driven Multi-Agent System for PET Image Denoising  [[PDF](https://arxiv.org/abs/2608.13791)]
+
+[arxiv 2026.08] Diagnosing Dense Same-Class Attribute Misbinding in Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.16805)]
+
+[arxiv 2026.08] HarmTrace: Anchor-Calibrated Decoupled Optimization for Fine-Grained Target Identification in Harmful Memes  [[PDF](https://arxiv.org/abs/2608.16622)]
+
+[arxiv 2026.08] Matched Outcomes, Divergent Gaze: How Foveated MLLMs Search Compared to Humans  [[PDF](https://arxiv.org/abs/2608.16514)]
+
+[arxiv 2026.08] Remote-Sensing City Layout Extraction with MLLM  [[PDF](https://arxiv.org/abs/2608.16484)]
+
+[arxiv 2026.08] RISE: Roadside Infrastructure Sequence Understanding across 3D Tracking and Structured Vision-Language Reasoning  [[PDF](https://arxiv.org/abs/2608.16480)]
+
+[arxiv 2026.08] Deep Thought Alignment: Trajectory-Level Latent Distillation for Video Reasoning  [[PDF](https://arxiv.org/abs/2608.16316)]
+
+[arxiv 2026.08] TransAnyText: Translating Arbitrary Text in E-commerce Images via Structured Visual Generation  [[PDF](https://arxiv.org/abs/2608.16284)]
+
+[arxiv 2026.08] Seeing Before Answering: Training-Free Visual Layer Profiling for Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.16263)]
+
+[arxiv 2026.08] Defake-o3: From Speculative Rationales to Verifiable Evidence for Explainable AIGI Detection  [[PDF](https://arxiv.org/abs/2608.16259)]
+
+[arxiv 2026.08] GaussianDWM++: Language-Grounded 3D Gaussian Driving World Model for Unified Scene Understanding, Editing, and Multi-Modal Generation  [[PDF](https://arxiv.org/abs/2608.16234)]
+
+[arxiv 2026.08] SafeGesture: Evaluating Fine-Grained Hand Gesture Understanding in Vision-Language Models through Scenario-Conditioned Safety Interpretation  [[PDF](https://arxiv.org/abs/2608.16081),[Page](https://github.com/The-Responsible-AI-Initiative/SafeGesture)]
+
+[arxiv 2026.08] Beyond Visual CoT: Internalized Visual Thinking for Proactive Video Reasoning  [[PDF](https://arxiv.org/abs/2608.15869)]
+
+[arxiv 2026.08] PWLR: Pairwise Witness Local Rejection for Boundary-Aware Out-of-Distribution Detection  [[PDF](https://arxiv.org/abs/2608.15802)]
+
+[arxiv 2026.08] ConceptFormer: Learning Adaptive Latent Concepts for Query-Document Alignment in Visual Document Retrieval  [[PDF](https://arxiv.org/abs/2608.15698)]
+
+[arxiv 2026.08] EgoGazeLite: On-Device Egocentric Gaze Prediction for Token-Efficient Multimodal LLM Video Input  [[PDF](https://arxiv.org/abs/2608.15614)]
+
+[arxiv 2026.08] AlloEgo-VLM: Disambiguating Allocentric and Egocentric Reference Frames in Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.15605),[Page](https://github.com/CKL9001/AlloEgo-VLM)]
+
+[arxiv 2026.08] Catching Hallucinated Citations in Video-LLM Question Answering: A Self-Verification Pipeline and Verifier Ablation Study  [[PDF](https://arxiv.org/abs/2608.15574)]
+
+[arxiv 2026.08] CrossView: Can Vision-Language Models Reason Across Cameras?  [[PDF](https://arxiv.org/abs/2608.15539)]
+
+[arxiv 2026.08] GLaQ: Grounding Latent Queries in Visual Evidence for Multimodal Reasoning  [[PDF](https://arxiv.org/abs/2608.15517)]
+
+[arxiv 2026.08] NumerosityVLM: A Cognitively Inspired Benchmark for Interpreting Numerosity Representations in Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.15425)]
+
+[arxiv 2026.08] CBX-Bench: A Human-Aligned MLLM Council for Benchmarking Concept Bottleneck Model Explanations  [[PDF](https://arxiv.org/abs/2608.15404)]
+
+[arxiv 2026.08] Do Visual Grounding Decoders Need Feed-Forward Networks? A Controlled Study over Frozen Vision-Language Features  [[PDF](https://arxiv.org/abs/2608.15061),[Page](https://github.com/TarunTomar122/attention-is-all-you-need-for-vlms)]
+
+[arxiv 2026.08] MEDR: Query-Independent Frame Selection via Multi-Signal Event Modeling and Dynamic Rescoring  [[PDF](https://arxiv.org/abs/2608.15058)]
+
+[arxiv 2026.08] MOSS-VL Technical Report  [[PDF](https://arxiv.org/abs/2608.15045),[Page](https://openmoss.ai/MOSS-VL/)]
+
+[arxiv 2026.08] MetaReason: Precise Interleaved Multimodal Reasoning via Editing Meta Information for Solving Geometry Problems  [[PDF](https://arxiv.org/abs/2608.15006)]
+
+[arxiv 2026.08] Zero-MELO: Test-Time Evidence Calibration with Multimodal LLMs for Zero-Shot Micro-Gesture Recognition  [[PDF](https://arxiv.org/abs/2608.14854)]
+
+[arxiv 2026.08] OccamView: Object-Conditioned View Selection for Frame-Budgeted Active 3D Gaussian Reconstruction  [[PDF](https://arxiv.org/abs/2608.16499)]
+
+[arxiv 2026.08] SEER: Long-Context Reasoning via Selective Visual-Text Compression  [[PDF](https://arxiv.org/abs/2608.15962)]
+
+[arxiv 2026.08] FloodReasonBench: Benchmarking VLM Reasoning Segmentation for Embodied Flood Response at the Edge  [[PDF](https://arxiv.org/abs/2608.15410)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

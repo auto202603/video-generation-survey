@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-08-17 -->
+<!-- Added on 2026-08-18 -->
 [arxiv 2026.08] MASS: Multiplayer World Models with Authoritative Shared State  [[PDF](https://arxiv.org/abs/2608.06257)]
 
 [arxiv 2026.08] EmoWorld: A Decoupled Affective Field for Controllable Emotional Video Generation  [[PDF](https://arxiv.org/abs/2608.06231)]
@@ -22,8 +22,6 @@
 
 [arxiv 2026.08] GAUGE: A Measurement-Grounded Benchmark for Physical Fidelity in Simulation Engines and Video World Models  [[PDF](https://arxiv.org/abs/2608.05948)]
 
-
-
 [arxiv 2026.08] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion  [[PDF](https://arxiv.org/abs/2608.03974),[Page](https://github.com/jd-opensource/JoyAI-Video-Edit)]
 
 [arxiv 2026.08] When and Where to Look: Adaptive Visual Evidence Scheduling for Efficient Long Video Understanding  [[PDF](https://arxiv.org/abs/2608.03918)]
@@ -33,7 +31,6 @@
 [arxiv 2026.08] SUV: Future Scene Understanding as Video Generation for End-to-End Driving  [[PDF](https://arxiv.org/abs/2608.03084),[Page](https://github.com/ASH-2046/SUV)]
 
 [arxiv 2026.08] CAPE-T2V: Captioner-Anchored Prompt Enhancement toward Two-Sided Conditioning Alignment in Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2608.03046),[Page](https://github.com/yizzz927/CAPE-T2V)]
-
 
 [arxiv 2026.07] ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU  [[PDF](https://arxiv.org/abs/2607.19191)]
 
@@ -59,9 +56,8 @@
 
 [arxiv 2026.07] SGA: Plug&amp;Play Geometric Verification for Educational Video Synthesis  [[PDF](https://arxiv.org/abs/2607.18116)]
 
-
-<!-- Added on 2026-08-17 -->
-<!-- Added on 2026-08-17 -->
+<!-- Added on 2026-08-18 -->
+<!-- Added on 2026-08-18 -->
 [arxiv 2026.07] VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding  [[PDF](https://arxiv.org/abs/2607.14935)]
 
 [arxiv 2026.07] VideoSEMA: a scalable and efficient Mamba-like attention for video understanding  [[PDF](https://arxiv.org/abs/2607.14711)]
@@ -96,12 +92,12 @@
 
 [arxiv 2026.07] Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory  [[PDF](https://arxiv.org/abs/2607.05511),[Page](https://clare-nie.github.io/Light-Omni)]
 
-<!-- Added on 2026-08-17 -->
-<!-- Added on 2026-08-17 -->
-<!-- Added on 2026-08-17 -->
-<!-- Added on 2026-08-17 -->
-<!-- Added on 2026-08-17 -->
-<!-- Added on 2026-08-17 -->
+<!-- Added on 2026-08-18 -->
+<!-- Added on 2026-08-18 -->
+<!-- Added on 2026-08-18 -->
+<!-- Added on 2026-08-18 -->
+<!-- Added on 2026-08-18 -->
+<!-- Added on 2026-08-18 -->
 [arxiv 2026.06] World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration  [[PDF](https://arxiv.org/abs/2606.31946)]
 
 [arxiv 2026.06] DriveWeaver: Point-Conditioned Video Inpainting for Controllable Vehicle Insertion in Autonomous Driving Simulation  [[PDF](https://arxiv.org/abs/2606.31918),[Page](https://github.com/LogosRoboticsGroup/DriveWeaver)]
@@ -1365,6 +1361,30 @@ A reading list of video generation
 [arxiv 2026.08] Beyond Text Conditioning: A Systematic Study of MLLM-DiT Fusion for Video Generation  [[PDF](https://arxiv.org/abs/2608.14043)]
 
 [arxiv 2026.08] ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models  [[PDF](https://arxiv.org/abs/2608.14022)]
+
+[arxiv 2026.08] PersonaShot: Benchmarking Person-Centric Narrative Continuity in Multi-Shot Video Generation  [[PDF](https://arxiv.org/abs/2608.16717)]
+
+[arxiv 2026.08] SQuad: Sub-Quadratic Attention Distillation for Efficient Video Generation  [[PDF](https://arxiv.org/abs/2608.16585)]
+
+[arxiv 2026.08] MLLM-Guided Semantic Correction for Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2608.16513)]
+
+[arxiv 2026.08] GRNEdit: Efficient General Video Editing from a New Binary-Evidence Perspective in Generative Refinement Networks  [[PDF](https://arxiv.org/abs/2608.16328)]
+
+[arxiv 2026.08] StreamOPD: A Post-Training Recipe with Spatio-Temporal Cue Gating for Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2608.16320),[Page](https://unix-ai-lab.github.io/StreamOPD)]
+
+[arxiv 2026.08] KeyID: Decoupled Drafting and Keyframe Editing for Identity-Preserving Video Generation  [[PDF](https://arxiv.org/abs/2608.16154)]
+
+[arxiv 2026.08] RigidBench: Evaluating Rigid-Body Physics in Video Generation Models  [[PDF](https://arxiv.org/abs/2608.15555),[Page](https://github.com/swarnim-j/RigidBench)]
+
+[arxiv 2026.08] Qwen-Video-Edit: Instruction-Based Video Editing by Repurposing an Image Editing Model  [[PDF](https://arxiv.org/abs/2608.14790),[Page](https://yunpeng1998.github.io/Qwen-Video-Edit-Page)]
+
+[arxiv 2026.08] VideoGAIA: A Benchmark for General AI Assistants on Agentic Video Understanding  [[PDF](https://arxiv.org/abs/2608.14718)]
+
+[arxiv 2026.08] Equilibrium Forcing: Adaptive Video Generation Without Noise Conditioning  [[PDF](https://arxiv.org/abs/2608.14706),[Page](https://equilibriumforcing.github.io/)]
+
+[arxiv 2026.08] SingDance: Compositional Zero-Shot Singing-and-Dancing Video Generation with Role-Aware Audio Conditioning  [[PDF](https://arxiv.org/abs/2608.16220)]
+
+[arxiv 2026.08] AnyTalk: Speech Animation for Arbitrary Characters Leveraging a Video Generation Model  [[PDF](https://arxiv.org/abs/2608.16143),[Page](https://serin-yoon.github.io/projects/anytalk/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

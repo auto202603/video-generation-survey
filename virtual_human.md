@@ -1,10 +1,8 @@
 ## Dataset
-<!-- Added on 2026-08-17 -->
+<!-- Added on 2026-08-18 -->
 [arxiv 2026.08] Wan-Animate-2: Pushing the Application Boundaries of Character Animation  [[PDF](https://arxiv.org/abs/2608.06009),[Page](https://humanaigc.github.io/wan-animate-2/)]
 
 [arxiv 2026.08] Ordered Diffusion for 3D Human Registration  [[PDF](https://arxiv.org/abs/2608.05804)]
-
-
 
 [arxiv 2026.07] FlexiAvatar: Unified 3D Gaussian Human Avatars Under Arbitrary Body Visibility  [[PDF](https://arxiv.org/abs/2607.19100)]
 
@@ -14,9 +12,8 @@
 
 [arxiv 2026.07] Articulated Humanoid Head for a Robot Receptionist Capable of Natural Human Interaction  [[PDF](https://arxiv.org/abs/2607.17042)]
 
-
-<!-- Added on 2026-08-17 -->
-<!-- Added on 2026-08-17 -->
+<!-- Added on 2026-08-18 -->
+<!-- Added on 2026-08-18 -->
 [arxiv 2026.07] Online Neural Space Time Memory for Dynamic Novel View Synthesis  [[PDF](https://arxiv.org/abs/2607.15271),[Page](https://nst-mem.github.io)]
 
 [arxiv 2026.07] An LLM-Based Automatic Sportscast Solution for Robot Soccer Matches  [[PDF](https://arxiv.org/abs/2607.14809)]
@@ -39,7 +36,7 @@
 
 [arxiv 2026.07] WristMimic: Full-Body Humanoid Control with Wrist-Guided Manipulation  [[PDF](https://arxiv.org/abs/2607.06438)]
 
-<!-- Added on 2026-08-17 -->
+<!-- Added on 2026-08-18 -->
 [arxiv 2026.06] Identifying the Unknown: Prompt-Free Open Vocabulary Anomaly Recognition for Robot-Object Interaction  [[PDF](https://arxiv.org/abs/2606.26829)]
 
 [arxiv 2026.06] PressMimic: Pressure-Guided Motion Capture and Control for Humanoid Robot Imitation  [[PDF](https://arxiv.org/abs/2606.26741)]
@@ -588,6 +585,16 @@
 
 [arxiv 2026.08] Zero-Shot Skeleton-Based Action Anticipation  [[PDF](https://arxiv.org/abs/2608.14243)]
 
+[arxiv 2026.08] Spatial Temporal Synergy: Balancing Change and Invariance in Text Driven 3D Human Motion Editing  [[PDF](https://arxiv.org/abs/2608.16008)]
+
+[arxiv 2026.08] A Plug-and-Play 2D Motion Interface for Real-World Motion Language Models  [[PDF](https://arxiv.org/abs/2608.15984),[Page](https://github.com/irajisamurai/2D-Motion-Interface)]
+
+[arxiv 2026.08] FlowDance: Music-Driven Dance Video Generation with Parallel Pose and RGB Streams  [[PDF](https://arxiv.org/abs/2608.15818)]
+
+[arxiv 2026.08] CETalk: Continuous Valence-Arousal Control for Audio-Driven 3D Talking Head Generation  [[PDF](https://arxiv.org/abs/2608.15110)]
+
+[arxiv 2026.08] Xemo-Talker: Unlock Emotions Explicitly for Audio-Driven Talking Portrait Synthesis  [[PDF](https://arxiv.org/abs/2608.14700)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Gaussian Face 
@@ -890,7 +897,7 @@
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 # ego
-<!-- Added on 2026-08-17 -->
+<!-- Added on 2026-08-18 -->
 [arxiv 2026.06] PointSplat: Compact Gaussian Splatting via Human-Centric Prediction  [[PDF](https://arxiv.org/abs/2606.32036),[Page](https://zju3dv.github.io/pointsplat)]
 
 [arxiv 2026.06] LUNA: Learning Universal 3D Human Animation Beyond Skinning  [[PDF](https://arxiv.org/abs/2606.31981),[Page](https://penghtyx.github.io/LUNA/)]
