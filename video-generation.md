@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-08-18 -->
+<!-- Added on 2026-08-19 -->
 [arxiv 2026.08] MASS: Multiplayer World Models with Authoritative Shared State  [[PDF](https://arxiv.org/abs/2608.06257)]
 
 [arxiv 2026.08] EmoWorld: A Decoupled Affective Field for Controllable Emotional Video Generation  [[PDF](https://arxiv.org/abs/2608.06231)]
@@ -56,8 +56,8 @@
 
 [arxiv 2026.07] SGA: Plug&amp;Play Geometric Verification for Educational Video Synthesis  [[PDF](https://arxiv.org/abs/2607.18116)]
 
-<!-- Added on 2026-08-18 -->
-<!-- Added on 2026-08-18 -->
+<!-- Added on 2026-08-19 -->
+<!-- Added on 2026-08-19 -->
 [arxiv 2026.07] VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding  [[PDF](https://arxiv.org/abs/2607.14935)]
 
 [arxiv 2026.07] VideoSEMA: a scalable and efficient Mamba-like attention for video understanding  [[PDF](https://arxiv.org/abs/2607.14711)]
@@ -92,12 +92,12 @@
 
 [arxiv 2026.07] Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory  [[PDF](https://arxiv.org/abs/2607.05511),[Page](https://clare-nie.github.io/Light-Omni)]
 
-<!-- Added on 2026-08-18 -->
-<!-- Added on 2026-08-18 -->
-<!-- Added on 2026-08-18 -->
-<!-- Added on 2026-08-18 -->
-<!-- Added on 2026-08-18 -->
-<!-- Added on 2026-08-18 -->
+<!-- Added on 2026-08-19 -->
+<!-- Added on 2026-08-19 -->
+<!-- Added on 2026-08-19 -->
+<!-- Added on 2026-08-19 -->
+<!-- Added on 2026-08-19 -->
+<!-- Added on 2026-08-19 -->
 [arxiv 2026.06] World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration  [[PDF](https://arxiv.org/abs/2606.31946)]
 
 [arxiv 2026.06] DriveWeaver: Point-Conditioned Video Inpainting for Controllable Vehicle Insertion in Autonomous Driving Simulation  [[PDF](https://arxiv.org/abs/2606.31918),[Page](https://github.com/LogosRoboticsGroup/DriveWeaver)]
@@ -1385,6 +1385,16 @@ A reading list of video generation
 [arxiv 2026.08] SingDance: Compositional Zero-Shot Singing-and-Dancing Video Generation with Role-Aware Audio Conditioning  [[PDF](https://arxiv.org/abs/2608.16220)]
 
 [arxiv 2026.08] AnyTalk: Speech Animation for Arbitrary Characters Leveraging a Video Generation Model  [[PDF](https://arxiv.org/abs/2608.16143),[Page](https://serin-yoon.github.io/projects/anytalk/)]
+
+[arxiv 2026.08] Magnitude-Direction Decoupling for Fast Video Generation with Flow Matching Models  [[PDF](https://arxiv.org/abs/2608.17695)]
+
+[arxiv 2026.08] CoinVE-200K: A Large-Scale High-Quality Dataset for Compositional Instruction-Guided Video Editing  [[PDF](https://arxiv.org/abs/2608.17566),[Page](https://coinve200k.github.io)]
+
+[arxiv 2026.08] MSEditor: Toward Consistent Multi-Shot Video Editing  [[PDF](https://arxiv.org/abs/2608.17559)]
+
+[arxiv 2026.08] SemComp-Bench: Benchmarking Semantic Task Completion in Video Generation  [[PDF](https://arxiv.org/abs/2608.17426)]
+
+[arxiv 2026.08] MoE-ViE: Mixture of Experts Vision Encoder for Efficient Image and Video Understanding  [[PDF](https://arxiv.org/abs/2608.17402)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

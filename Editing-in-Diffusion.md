@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-08-18 -->
+<!-- Added on 2026-08-19 -->
 [arxiv 2026.08] Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction  [[PDF](https://arxiv.org/abs/2608.06117)]
 
 [arxiv 2026.08] Controllable Clothing: Precise Labels and Generation for Virtual Try-On with Latent Diffusion Models  [[PDF](https://arxiv.org/abs/2608.05834)]
@@ -120,8 +120,8 @@
 
 [arxiv 2026.07] Points as Tori: Fast Pointwise Signed Distance for Point Clouds  [[PDF](https://arxiv.org/abs/2607.16946),[Page](https://nzfeng.github.io/research/PointsAsTori)]
 
-<!-- Added on 2026-08-18 -->
-<!-- Added on 2026-08-18 -->
+<!-- Added on 2026-08-19 -->
+<!-- Added on 2026-08-19 -->
 [arxiv 2026.07] QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration  [[PDF](https://arxiv.org/abs/2607.15097)]
 
 [arxiv 2026.07] RoGS: Adaptive Meshgrid Gaussian for Large-Scale Road Surface Mapping  [[PDF](https://arxiv.org/abs/2607.15048)]
@@ -184,11 +184,11 @@
 
 [arxiv 2026.07] TILDE: TILt-based Distributional Erasure for Concept Unlearning  [[PDF](https://arxiv.org/abs/2607.06432)]
 
-<!-- Added on 2026-08-18 -->
-<!-- Added on 2026-08-18 -->
-<!-- Added on 2026-08-18 -->
-<!-- Added on 2026-08-18 -->
-<!-- Added on 2026-08-18 -->
+<!-- Added on 2026-08-19 -->
+<!-- Added on 2026-08-19 -->
+<!-- Added on 2026-08-19 -->
+<!-- Added on 2026-08-19 -->
+<!-- Added on 2026-08-19 -->
 [arxiv 2026.06] GEAR: Guided End-to-End AutoRegression for Image Synthesis  [[PDF](https://arxiv.org/abs/2606.32039)]
 
 [arxiv 2026.06] SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE  [[PDF](https://arxiv.org/abs/2606.32033)]
@@ -2915,6 +2915,26 @@
 [arxiv 2026.08] DriveCache: Action-Aware Caching for Driving World Model Inference  [[PDF](https://arxiv.org/abs/2608.16354)]
 
 [arxiv 2026.08] MotionGS-SLAM: Event-Modulated Gaussian Splatting for Motion-Blur Robust SLAM  [[PDF](https://arxiv.org/abs/2608.15024)]
+
+[arxiv 2026.08] From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation  [[PDF](https://arxiv.org/abs/2608.18076)]
+
+[arxiv 2026.08] EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing  [[PDF](https://arxiv.org/abs/2608.18063)]
+
+[arxiv 2026.08] AViTS: Adaptive Spatiotemporal Token Selection for Efficient Dynamic-Resolution Generation  [[PDF](https://arxiv.org/abs/2608.17995),[Page](https://github.com/QHR69/AViTS)]
+
+[arxiv 2026.08] SFMformer: A Spatial-Frequency Modulation Transformer for Lightweight Image Super-Resolution  [[PDF](https://arxiv.org/abs/2608.17966)]
+
+[arxiv 2026.08] GenRec: Knowing Where to Reconstruct and Where to Generate  [[PDF](https://arxiv.org/abs/2608.17832)]
+
+[arxiv 2026.08] TINA+: Probing Residual Visual Knowledge in Unlearned Diffusion Models via Diffusion-Consistent Text-Free Inversion  [[PDF](https://arxiv.org/abs/2608.17747),[Page](https://qianlong0502.github.io/TINA-Plus-Homepage/)]
+
+[arxiv 2026.08] Where a New Concept Must Enter: Entry Point Gates Cross-Task Usability in Unified Multimodal Models  [[PDF](https://arxiv.org/abs/2608.17564)]
+
+[arxiv 2026.08] SPVC: Structured and Panoptic Video Fixing for Cross-Dataset Driving Scene Rendering  [[PDF](https://arxiv.org/abs/2608.17420),[Page](https://li00147.github.io/SPVC-Project-Page/)]
+
+[arxiv 2026.08] Optimize Your Sampling: Tuned Diffusion Sampling with Bayesian Optimization  [[PDF](https://arxiv.org/abs/2608.18040)]
+
+[arxiv 2026.08] 3D Gaussian Accelerated Ray Tracing: Fast training through particle-based backward propagation  [[PDF](https://arxiv.org/abs/2608.17298)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
