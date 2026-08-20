@@ -1,7 +1,7 @@
-<!-- Added on 2026-08-19 -->
-<!-- Added on 2026-08-19 -->
-<!-- Added on 2026-08-19 -->
-<!-- Added on 2026-08-19 -->
+<!-- Added on 2026-08-20 -->
+<!-- Added on 2026-08-20 -->
+<!-- Added on 2026-08-20 -->
+<!-- Added on 2026-08-20 -->
 [arxiv 2026.08] Domain-Grounded Candidate Selection for Agentic Image Editing: A Shadow Removal Case  [[PDF](https://arxiv.org/abs/2608.06075)]
 
 [arxiv 2026.08] The Next Screenshot Knows: Gated Hindsight Distillation for Mobile GUI Agents  [[PDF](https://arxiv.org/abs/2608.06065)]
@@ -112,8 +112,8 @@
 
 [arxiv 2026.08] ArtECulture: Benchmarking Culture-Conditioned Visual Emotion Understanding in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2608.03358)]
 
-<!-- Added on 2026-08-19 -->
-<!-- Added on 2026-08-19 -->
+<!-- Added on 2026-08-20 -->
+<!-- Added on 2026-08-20 -->
 
 [arxiv 2026.07] ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis  [[PDF](https://arxiv.org/abs/2607.19341)]
 
@@ -211,9 +211,9 @@
 
 [arxiv 2026.07] Self-Evolving Just-In-Time Memory for Proactive Embodied Safety  [[PDF](https://arxiv.org/abs/2607.16247)]
 
-<!-- Added on 2026-08-19 -->
-<!-- Added on 2026-08-19 -->
-<!-- Added on 2026-08-19 -->
+<!-- Added on 2026-08-20 -->
+<!-- Added on 2026-08-20 -->
+<!-- Added on 2026-08-20 -->
 [arxiv 2026.07] Hierarchical Denoising For Multi-Step Visual Reasoning  [[PDF](https://arxiv.org/abs/2607.15278)]
 
 [arxiv 2026.07] HoloGeo: Mitigating Landmark Bias in Geo-localization via Evidence-Driven Reasoning  [[PDF](https://arxiv.org/abs/2607.15255)]
@@ -272,7 +272,7 @@
 
 [arxiv 2026.07] Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment  [[PDF](https://arxiv.org/abs/2607.13429),[Page](https://github.com/dwipddalal/Anchor-Align)]
 
-<!-- Added on 2026-08-19 -->
+<!-- Added on 2026-08-20 -->
 [arxiv 2026.07] Vision as Unified Multimodal Generation  [[PDF](https://arxiv.org/abs/2607.06560)]
 
 [arxiv 2026.07] CAIRN: Cross-Room 3D Scene Understanding with Topology-Aware Large Multimodal Models  [[PDF](https://arxiv.org/abs/2607.06534),[Page](https://oceansdepp.github.io/cairn_web/)]
@@ -313,8 +313,8 @@
 
 [arxiv 2026.07] BaFCo: A Document Understanding Benchmark for Complex Bangla Form Comprehension  [[PDF](https://arxiv.org/abs/2607.05614)]
 
-<!-- Added on 2026-08-19 -->
-<!-- Added on 2026-08-19 -->
+<!-- Added on 2026-08-20 -->
+<!-- Added on 2026-08-20 -->
 [arxiv 2026.06] CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts  [[PDF](https://arxiv.org/abs/2606.31986),[Page](https://github.com/hulianyuyy/CoLT)]
 
 [arxiv 2026.06] ERA: Entropy-Guided Visual Token Pruning with Rectified Attention for Efficient MLLMs  [[PDF](https://arxiv.org/abs/2606.31982)]
@@ -4198,6 +4198,34 @@
 [arxiv 2026.08] Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL  [[PDF](https://arxiv.org/abs/2608.17253)]
 
 [arxiv 2026.08] Which Source Wins? Task-Dependent Reliance in Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.17205)]
+
+[arxiv 2026.08] ReWEIGH the Evidence: Calibrating Token-Level Ordinal Visual Evidence to Mitigate Hallucinations in Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.19075)]
+
+[arxiv 2026.08] Uncertainty-Aware Art-Historical Dating with Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.18984)]
+
+[arxiv 2026.08] Vision-Language Models for Egocentric Video: From Hand-Object Interaction to Embodied AI  [[PDF](https://arxiv.org/abs/2608.18671)]
+
+[arxiv 2026.08] When Safety Overrides Vision: Exploring Dynamics between Vision Influence and Safety Alignment in Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.18628)]
+
+[arxiv 2026.08] PCQA-R1: Advancing Generalized 3D Point Cloud Quality Assessment with Reinforcement Learning  [[PDF](https://arxiv.org/abs/2608.18627)]
+
+[arxiv 2026.08] Teach a Molmo2Fish: Towards interactive fish tracking with natural language guidance  [[PDF](https://arxiv.org/abs/2608.18602)]
+
+[arxiv 2026.08] OmniHandwritingOCR: A Diagnostic Benchmark for Evaluating Multimodal LLMs in Handwritten OCR Scenarios  [[PDF](https://arxiv.org/abs/2608.18586)]
+
+[arxiv 2026.08] MR-IQA-2: Faithful Image Quality Reflection via Fine-Grained Credit Assignment  [[PDF](https://arxiv.org/abs/2608.18579)]
+
+[arxiv 2026.08] PATE-Forensics: Perception-as-Tool for Explainable Deepfake Forensics with General-Purpose MLLMs  [[PDF](https://arxiv.org/abs/2608.18573)]
+
+[arxiv 2026.08] COSTA: A Cluster-Centric Paradigm for Annotation-Free Open-Set Semantic Segmentation of Aerial Point Clouds with Domain Shifts  [[PDF](https://arxiv.org/abs/2608.18479)]
+
+[arxiv 2026.08] TTSD-FAR: Test-Time Self-Distillation with Fisher-Anchored Restoration for Missing-Modality Emotion Recognition in LVLMs  [[PDF](https://arxiv.org/abs/2608.18386)]
+
+[arxiv 2026.08] From Inference to Adaptation: A Unified Optimal Transport View of Vision Language Model  [[PDF](https://arxiv.org/abs/2608.18339)]
+
+[arxiv 2026.08] XRF-to-Optical Field-of-View Localization with Vision Language Models  [[PDF](https://arxiv.org/abs/2608.18309)]
+
+[arxiv 2026.08] LT-Mem: Volatility-Aware Spatio-Temporal Memory for Lifelong Scene Understanding  [[PDF](https://arxiv.org/abs/2608.19059)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

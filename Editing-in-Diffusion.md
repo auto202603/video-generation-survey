@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-08-19 -->
+<!-- Added on 2026-08-20 -->
 [arxiv 2026.08] Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction  [[PDF](https://arxiv.org/abs/2608.06117)]
 
 [arxiv 2026.08] Controllable Clothing: Precise Labels and Generation for Virtual Try-On with Latent Diffusion Models  [[PDF](https://arxiv.org/abs/2608.05834)]
@@ -120,8 +120,8 @@
 
 [arxiv 2026.07] Points as Tori: Fast Pointwise Signed Distance for Point Clouds  [[PDF](https://arxiv.org/abs/2607.16946),[Page](https://nzfeng.github.io/research/PointsAsTori)]
 
-<!-- Added on 2026-08-19 -->
-<!-- Added on 2026-08-19 -->
+<!-- Added on 2026-08-20 -->
+<!-- Added on 2026-08-20 -->
 [arxiv 2026.07] QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration  [[PDF](https://arxiv.org/abs/2607.15097)]
 
 [arxiv 2026.07] RoGS: Adaptive Meshgrid Gaussian for Large-Scale Road Surface Mapping  [[PDF](https://arxiv.org/abs/2607.15048)]
@@ -184,11 +184,11 @@
 
 [arxiv 2026.07] TILDE: TILt-based Distributional Erasure for Concept Unlearning  [[PDF](https://arxiv.org/abs/2607.06432)]
 
-<!-- Added on 2026-08-19 -->
-<!-- Added on 2026-08-19 -->
-<!-- Added on 2026-08-19 -->
-<!-- Added on 2026-08-19 -->
-<!-- Added on 2026-08-19 -->
+<!-- Added on 2026-08-20 -->
+<!-- Added on 2026-08-20 -->
+<!-- Added on 2026-08-20 -->
+<!-- Added on 2026-08-20 -->
+<!-- Added on 2026-08-20 -->
 [arxiv 2026.06] GEAR: Guided End-to-End AutoRegression for Image Synthesis  [[PDF](https://arxiv.org/abs/2606.32039)]
 
 [arxiv 2026.06] SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE  [[PDF](https://arxiv.org/abs/2606.32033)]
@@ -2935,6 +2935,24 @@
 [arxiv 2026.08] Optimize Your Sampling: Tuned Diffusion Sampling with Bayesian Optimization  [[PDF](https://arxiv.org/abs/2608.18040)]
 
 [arxiv 2026.08] 3D Gaussian Accelerated Ray Tracing: Fast training through particle-based backward propagation  [[PDF](https://arxiv.org/abs/2608.17298)]
+
+[arxiv 2026.08] GS-VLA: Plug-and-Play Viewpoint Canonicalization for Frozen VLA Policies via Gaussian Splatting  [[PDF](https://arxiv.org/abs/2608.19066)]
+
+[arxiv 2026.08] USR-Drive: Unified Driving Scene Representation via Joint Denoising of 3D Gaussians and Boxes  [[PDF](https://arxiv.org/abs/2608.19036)]
+
+[arxiv 2026.08] Mise-en-Scène: Implicit Layout Emergence in Diffusion Transformers for Human-AI Design Co-Creation  [[PDF](https://arxiv.org/abs/2608.19000)]
+
+[arxiv 2026.08] Dynamic SpectraFormer for Ultra-High-Definition Underwater Image Enhancement  [[PDF](https://arxiv.org/abs/2608.18662)]
+
+[arxiv 2026.08] DyG$^2$T: Modeling Object Dynamics with 3D Gaussian Temporal-Spatial Particle Graph Transformer  [[PDF](https://arxiv.org/abs/2608.18498)]
+
+[arxiv 2026.08] CoMVS-GS: Collaborative Multi-View Stereo and 3D Gaussian Splatting for Surface Reconstruction  [[PDF](https://arxiv.org/abs/2608.18413)]
+
+[arxiv 2026.08] Depth Anything V4: Dynamic 4D Scene Reconstruction via Riemannian Flow Matching on 4D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2608.18388)]
+
+[arxiv 2026.08] SemanticSlider3D: Training-Free Continuous Semantic Editing for 3D Objects  [[PDF](https://arxiv.org/abs/2608.18560)]
+
+[arxiv 2026.08] QuARC-GS: Quantized Anchored Residual Coding for Compact Dynamic Scene Streaming with Gaussian Splatting  [[PDF](https://arxiv.org/abs/2608.18285)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
