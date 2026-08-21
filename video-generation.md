@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-08-20 -->
+<!-- Added on 2026-08-21 -->
 [arxiv 2026.08] MASS: Multiplayer World Models with Authoritative Shared State  [[PDF](https://arxiv.org/abs/2608.06257)]
 
 [arxiv 2026.08] EmoWorld: A Decoupled Affective Field for Controllable Emotional Video Generation  [[PDF](https://arxiv.org/abs/2608.06231)]
@@ -56,8 +56,8 @@
 
 [arxiv 2026.07] SGA: Plug&amp;Play Geometric Verification for Educational Video Synthesis  [[PDF](https://arxiv.org/abs/2607.18116)]
 
-<!-- Added on 2026-08-20 -->
-<!-- Added on 2026-08-20 -->
+<!-- Added on 2026-08-21 -->
+<!-- Added on 2026-08-21 -->
 [arxiv 2026.07] VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding  [[PDF](https://arxiv.org/abs/2607.14935)]
 
 [arxiv 2026.07] VideoSEMA: a scalable and efficient Mamba-like attention for video understanding  [[PDF](https://arxiv.org/abs/2607.14711)]
@@ -92,12 +92,12 @@
 
 [arxiv 2026.07] Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory  [[PDF](https://arxiv.org/abs/2607.05511),[Page](https://clare-nie.github.io/Light-Omni)]
 
-<!-- Added on 2026-08-20 -->
-<!-- Added on 2026-08-20 -->
-<!-- Added on 2026-08-20 -->
-<!-- Added on 2026-08-20 -->
-<!-- Added on 2026-08-20 -->
-<!-- Added on 2026-08-20 -->
+<!-- Added on 2026-08-21 -->
+<!-- Added on 2026-08-21 -->
+<!-- Added on 2026-08-21 -->
+<!-- Added on 2026-08-21 -->
+<!-- Added on 2026-08-21 -->
+<!-- Added on 2026-08-21 -->
 [arxiv 2026.06] World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration  [[PDF](https://arxiv.org/abs/2606.31946)]
 
 [arxiv 2026.06] DriveWeaver: Point-Conditioned Video Inpainting for Controllable Vehicle Insertion in Autonomous Driving Simulation  [[PDF](https://arxiv.org/abs/2606.31918),[Page](https://github.com/LogosRoboticsGroup/DriveWeaver)]
@@ -1399,6 +1399,12 @@ A reading list of video generation
 [arxiv 2026.08] CamWorldQA: Perceptual Quality Assessment of Camera-Controlled World Video Generation  [[PDF](https://arxiv.org/abs/2608.18710)]
 
 [arxiv 2026.08] Partition the Support, Reconstruct the Residual: Training-Free Sparse Attention for Video Generation and World Models  [[PDF](https://arxiv.org/abs/2608.18484),[Page](https://pardistaghavi.github.io/SparsePR-website/)]
+
+[arxiv 2026.08] DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery  [[PDF](https://arxiv.org/abs/2608.20308),[Page](https://ggxxii.github.io/dreamhand/)]
+
+[arxiv 2026.08] VGI-BENCH: Probing Visual Intelligence in Video Generation Models  [[PDF](https://arxiv.org/abs/2608.19583)]
+
+[arxiv 2026.08] Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models  [[PDF](https://arxiv.org/abs/2608.19556)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

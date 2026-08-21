@@ -1,5 +1,5 @@
 ## Dataset
-<!-- Added on 2026-08-20 -->
+<!-- Added on 2026-08-21 -->
 [arxiv 2026.08] Wan-Animate-2: Pushing the Application Boundaries of Character Animation  [[PDF](https://arxiv.org/abs/2608.06009),[Page](https://humanaigc.github.io/wan-animate-2/)]
 
 [arxiv 2026.08] Ordered Diffusion for 3D Human Registration  [[PDF](https://arxiv.org/abs/2608.05804)]
@@ -12,8 +12,8 @@
 
 [arxiv 2026.07] Articulated Humanoid Head for a Robot Receptionist Capable of Natural Human Interaction  [[PDF](https://arxiv.org/abs/2607.17042)]
 
-<!-- Added on 2026-08-20 -->
-<!-- Added on 2026-08-20 -->
+<!-- Added on 2026-08-21 -->
+<!-- Added on 2026-08-21 -->
 [arxiv 2026.07] Online Neural Space Time Memory for Dynamic Novel View Synthesis  [[PDF](https://arxiv.org/abs/2607.15271),[Page](https://nst-mem.github.io)]
 
 [arxiv 2026.07] An LLM-Based Automatic Sportscast Solution for Robot Soccer Matches  [[PDF](https://arxiv.org/abs/2607.14809)]
@@ -36,7 +36,7 @@
 
 [arxiv 2026.07] WristMimic: Full-Body Humanoid Control with Wrist-Guided Manipulation  [[PDF](https://arxiv.org/abs/2607.06438)]
 
-<!-- Added on 2026-08-20 -->
+<!-- Added on 2026-08-21 -->
 [arxiv 2026.06] Identifying the Unknown: Prompt-Free Open Vocabulary Anomaly Recognition for Robot-Object Interaction  [[PDF](https://arxiv.org/abs/2606.26829)]
 
 [arxiv 2026.06] PressMimic: Pressure-Guided Motion Capture and Control for Humanoid Robot Imitation  [[PDF](https://arxiv.org/abs/2606.26741)]
@@ -605,6 +605,16 @@
 
 [arxiv 2026.08] CL4D: Contrastive Language-4D Pretraining for Vision-Language Reasoning in Dynamic Scenes  [[PDF](https://arxiv.org/abs/2608.18734)]
 
+[arxiv 2026.08] Inter-X++: A Comprehensive Benchmark for Multimodal Human-Human Interaction Analysis  [[PDF](https://arxiv.org/abs/2608.20312)]
+
+[arxiv 2026.08] STEP: Score-Based Temporal Energy for Human Pose Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2608.19987),[Page](https://jakubmicorek.github.io/STEP-demo)]
+
+[arxiv 2026.08] AvatarDynamizer: From Static to Dynamic Human Avatars via Generative Dynamic Textures  [[PDF](https://arxiv.org/abs/2608.19900),[Page](https://vcai.mpi-inf.mpg.de/projects/AvatarDynamizer)]
+
+[arxiv 2026.08] VideoRun2D Demo: Markerless Body Tracking for Biomechanical Analysis of Running  [[PDF](https://arxiv.org/abs/2608.19480)]
+
+[arxiv 2026.08] An Inclusive and Lightweight Approach to Federated Continual Learning for Cultural Heritage  [[PDF](https://arxiv.org/abs/2608.20038)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Gaussian Face 
@@ -907,7 +917,7 @@
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 # ego
-<!-- Added on 2026-08-20 -->
+<!-- Added on 2026-08-21 -->
 [arxiv 2026.06] PointSplat: Compact Gaussian Splatting via Human-Centric Prediction  [[PDF](https://arxiv.org/abs/2606.32036),[Page](https://zju3dv.github.io/pointsplat)]
 
 [arxiv 2026.06] LUNA: Learning Universal 3D Human Animation Beyond Skinning  [[PDF](https://arxiv.org/abs/2606.31981),[Page](https://penghtyx.github.io/LUNA/)]

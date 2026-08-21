@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-08-20 -->
+<!-- Added on 2026-08-21 -->
 [arxiv 2026.08] Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction  [[PDF](https://arxiv.org/abs/2608.06117)]
 
 [arxiv 2026.08] Controllable Clothing: Precise Labels and Generation for Virtual Try-On with Latent Diffusion Models  [[PDF](https://arxiv.org/abs/2608.05834)]
@@ -120,8 +120,8 @@
 
 [arxiv 2026.07] Points as Tori: Fast Pointwise Signed Distance for Point Clouds  [[PDF](https://arxiv.org/abs/2607.16946),[Page](https://nzfeng.github.io/research/PointsAsTori)]
 
-<!-- Added on 2026-08-20 -->
-<!-- Added on 2026-08-20 -->
+<!-- Added on 2026-08-21 -->
+<!-- Added on 2026-08-21 -->
 [arxiv 2026.07] QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration  [[PDF](https://arxiv.org/abs/2607.15097)]
 
 [arxiv 2026.07] RoGS: Adaptive Meshgrid Gaussian for Large-Scale Road Surface Mapping  [[PDF](https://arxiv.org/abs/2607.15048)]
@@ -184,11 +184,11 @@
 
 [arxiv 2026.07] TILDE: TILt-based Distributional Erasure for Concept Unlearning  [[PDF](https://arxiv.org/abs/2607.06432)]
 
-<!-- Added on 2026-08-20 -->
-<!-- Added on 2026-08-20 -->
-<!-- Added on 2026-08-20 -->
-<!-- Added on 2026-08-20 -->
-<!-- Added on 2026-08-20 -->
+<!-- Added on 2026-08-21 -->
+<!-- Added on 2026-08-21 -->
+<!-- Added on 2026-08-21 -->
+<!-- Added on 2026-08-21 -->
+<!-- Added on 2026-08-21 -->
 [arxiv 2026.06] GEAR: Guided End-to-End AutoRegression for Image Synthesis  [[PDF](https://arxiv.org/abs/2606.32039)]
 
 [arxiv 2026.06] SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE  [[PDF](https://arxiv.org/abs/2606.32033)]
@@ -2953,6 +2953,26 @@
 [arxiv 2026.08] SemanticSlider3D: Training-Free Continuous Semantic Editing for 3D Objects  [[PDF](https://arxiv.org/abs/2608.18560)]
 
 [arxiv 2026.08] QuARC-GS: Quantized Anchored Residual Coding for Compact Dynamic Scene Streaming with Gaussian Splatting  [[PDF](https://arxiv.org/abs/2608.18285)]
+
+[arxiv 2026.08] WithEveryone: Unified Planning and Identity Grounding for Group Image Generation  [[PDF](https://arxiv.org/abs/2608.20336),[Page](http://doby-xu.github.io/WithEveryone/)]
+
+[arxiv 2026.08] 4DAnyone: Create Anyone in 4D from a Casual Monocular Video  [[PDF](https://arxiv.org/abs/2608.20335),[Page](https://4danyone.github.io)]
+
+[arxiv 2026.08] Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models  [[PDF](https://arxiv.org/abs/2608.20334)]
+
+[arxiv 2026.08] Ultra-High-Definition Restoration Transformers with Correlation Matching Transformation  [[PDF](https://arxiv.org/abs/2608.20263)]
+
+[arxiv 2026.08] Unwarping the Lens: A Physics-Grounded Approach to Video Glasses Removal  [[PDF](https://arxiv.org/abs/2608.20212)]
+
+[arxiv 2026.08] Point-Based 3D Reconstruction from Sparse Views under Known Illumination  [[PDF](https://arxiv.org/abs/2608.20000)]
+
+[arxiv 2026.08] Scale-Separated Conditioning for Style-Encoder-Free Diffusion Stylization  [[PDF](https://arxiv.org/abs/2608.19719)]
+
+[arxiv 2026.08] TextRefine: Improving Textual Fidelity, Spatial Placement, and Glyph Rendering for Text Editing in Product Posters  [[PDF](https://arxiv.org/abs/2608.19637)]
+
+[arxiv 2026.08] Block3D: Efficient Text-to-3D Generation via Block-Wise Diffusion  [[PDF](https://arxiv.org/abs/2608.19567),[Page](https://alexandertsui.github.io/block3d/)]
+
+[arxiv 2026.08] A Plug-in Interpretation of Conditioning in Score-Based Diffusion Models  [[PDF](https://arxiv.org/abs/2608.19504)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
