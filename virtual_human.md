@@ -615,6 +615,10 @@
 
 [arxiv 2026.08] An Inclusive and Lightweight Approach to Federated Continual Learning for Cultural Heritage  [[PDF](https://arxiv.org/abs/2608.20038)]
 
+[arxiv 2026.08] Gaussian-Mixture Latent Flow for Stochastic 3D Human Motion Prediction  [[PDF](https://arxiv.org/abs/2608.21093)]
+
+[arxiv 2026.08] DiGS-Avatar: Single-Image Animatable 3D Human Reconstruction via UV-Space Diffusion  [[PDF](https://arxiv.org/abs/2608.20759)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Gaussian Face 

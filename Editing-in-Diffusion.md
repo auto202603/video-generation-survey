@@ -2974,6 +2974,18 @@
 
 [arxiv 2026.08] A Plug-in Interpretation of Conditioning in Score-Based Diffusion Models  [[PDF](https://arxiv.org/abs/2608.19504)]
 
+[arxiv 2026.08] Anchoring Instruction Outside Mask: Exact Reference Caching for Efficient In-Context Diffusion Transformers  [[PDF](https://arxiv.org/abs/2608.21229)]
+
+[arxiv 2026.08] EviRank: Structured Relevance Evidence for Multimodal Image Re-ranking  [[PDF](https://arxiv.org/abs/2608.20886)]
+
+[arxiv 2026.08] Bridging Language and Spherical Space: Object-Centric Control for Text-to-Panorama Generation  [[PDF](https://arxiv.org/abs/2608.20691)]
+
+[arxiv 2026.08] TopoSurfel: Closing the Loop between Gaussian Surfels and Meshes for Surface Reconstruction  [[PDF](https://arxiv.org/abs/2608.20687)]
+
+[arxiv 2026.08] Scaling Muon for Diffusion Transformers  [[PDF](https://arxiv.org/abs/2608.20818)]
+
+[arxiv 2026.08] Sparse Light Field Sampling Improves Casual 3D and 4D Reconstruction  [[PDF](https://arxiv.org/abs/2608.20602),[Page](https://shamus.li/lightfield-gaussian-splatting)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]

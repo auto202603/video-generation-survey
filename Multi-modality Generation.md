@@ -4255,6 +4255,46 @@
 
 [arxiv 2026.08] When Irrelevant Text Matters: Affine Margin Shifts in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2608.19208)]
 
+[arxiv 2026.08] Re$^3$Cap: Retrieval-Guided Refinement for Image Captioning Enhancement via Reinforcement Learning  [[PDF](https://arxiv.org/abs/2608.21305)]
+
+[arxiv 2026.08] Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models  [[PDF](https://arxiv.org/abs/2608.21247)]
+
+[arxiv 2026.08] A VLM Answer Is Not an Anomaly Score: Rank Compression in Training-Free Video Anomaly Detection  [[PDF](https://arxiv.org/abs/2608.21244)]
+
+[arxiv 2026.08] Is Visual Prompting All You Need? Studying VLM Spatial Reasoning under Progressive Visual Scaffolds  [[PDF](https://arxiv.org/abs/2608.21170)]
+
+[arxiv 2026.08] Llama-Mobile: Efficient 2.7-Bit Quantization of VLMs  [[PDF](https://arxiv.org/abs/2608.21134)]
+
+[arxiv 2026.08] COMET: Contrastive Motion-Enhanced Temporal Reasoning for Video Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2608.21030)]
+
+[arxiv 2026.08] Recognition-Conditioned Reasoning: A Training-Free Multimodal-LLM Pipeline for Fine-Grained Micro-Action Understanding  [[PDF](https://arxiv.org/abs/2608.21022)]
+
+[arxiv 2026.08] Latent Ordinal Evidence, Misaligned Outputs: Inference-Time Ordinal Lens Alignment for Multimodal LLMs  [[PDF](https://arxiv.org/abs/2608.20999)]
+
+[arxiv 2026.08] OccluRank: Controllable Occlusion-Aware Layout-to-Image Generation by Adding Just an Ordinal Rank  [[PDF](https://arxiv.org/abs/2608.20932),[Page](https://github.com/Wenyang-hong/OccluRank)]
+
+[arxiv 2026.08] A Collaborative Multi-Modality Interaction for VLA-based End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2608.20890)]
+
+[arxiv 2026.08] Identify, Locate, Link: End-to-End Key-Value Extraction from Document Images  [[PDF](https://arxiv.org/abs/2608.20868)]
+
+[arxiv 2026.08] CARD: Diagnosing Belief to Action Routing Failures in Vision Language Models  [[PDF](https://arxiv.org/abs/2608.20763)]
+
+[arxiv 2026.08] Vis-Poison: Poisoning Visual Knowledge in Multimodal Retrieval-Augmented Generation  [[PDF](https://arxiv.org/abs/2608.20756)]
+
+[arxiv 2026.08] AffordAny: Open-World 3D Affordance Grounding from Monocular RGB Images via Vision-Language-Guided Geometric Reasoning  [[PDF](https://arxiv.org/abs/2608.20720),[Page](https://github.com/lzlfwow/AffordAny)]
+
+[arxiv 2026.08] AGIDefect-4K: A Richly Annotated Dataset for AI-Generated Image Defect Detection, Localization and Explanation  [[PDF](https://arxiv.org/abs/2608.20713)]
+
+[arxiv 2026.08] ArtiMo: Agent-Driven Articulated Mesh Animation  [[PDF](https://arxiv.org/abs/2608.20699)]
+
+[arxiv 2026.08] Annotations as Rollouts: Efficient and Scalable Reinforcement Learning for Video MLLMs  [[PDF](https://arxiv.org/abs/2608.20492),[Page](https://orarl.github.io/)]
+
+[arxiv 2026.08] TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming  [[PDF](https://arxiv.org/abs/2608.20958)]
+
+[arxiv 2026.08] StateSight: Benchmarking Latent Spatial-State Reconstruction in Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.20414)]
+
+[arxiv 2026.08] Decoupled Vision-Language System for Multimodal Understanding and Generation  [[PDF](https://arxiv.org/abs/2608.20382)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## Feedback 

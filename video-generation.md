@@ -1406,6 +1406,18 @@ A reading list of video generation
 
 [arxiv 2026.08] Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models  [[PDF](https://arxiv.org/abs/2608.19556)]
 
+[arxiv 2026.08] InfinityEdit: Infinite Video Editing with a Lightweight Edit-Ignition Adapter  [[PDF](https://arxiv.org/abs/2608.20910)]
+
+[arxiv 2026.08] Enhancing Localized Reasoning for Long Video Understanding via Efficient Segment-to-Video Supervision  [[PDF](https://arxiv.org/abs/2608.20814)]
+
+[arxiv 2026.08] Routing Before Looking: Query-Adaptive Evidence Acquisition for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2608.20805)]
+
+[arxiv 2026.08] Identity-Preserving Text-to-Video Generation via Agentic Enhancement and Semantic Repair  [[PDF](https://arxiv.org/abs/2608.20749)]
+
+[arxiv 2026.08] Grounded-Exo2Ego: Structured Semantic Grounding for Robust Exocentric-to-Egocentric Video Generation  [[PDF](https://arxiv.org/abs/2608.20534),[Page](https://research.nvidia.com/labs/amri/projects/grounded-exo2ego/)]
+
+[arxiv 2026.08] DiffVC-ONE: Diffusion-based Generative Video Compression with One-Step Video Diffusion Transformer  [[PDF](https://arxiv.org/abs/2608.20515)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## VAE
