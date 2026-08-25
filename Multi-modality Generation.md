@@ -1,7 +1,7 @@
-<!-- Added on 2026-08-21 -->
-<!-- Added on 2026-08-21 -->
-<!-- Added on 2026-08-21 -->
-<!-- Added on 2026-08-21 -->
+<!-- Added on 2026-08-25 -->
+<!-- Added on 2026-08-25 -->
+<!-- Added on 2026-08-25 -->
+<!-- Added on 2026-08-25 -->
 [arxiv 2026.08] Domain-Grounded Candidate Selection for Agentic Image Editing: A Shadow Removal Case  [[PDF](https://arxiv.org/abs/2608.06075)]
 
 [arxiv 2026.08] The Next Screenshot Knows: Gated Hindsight Distillation for Mobile GUI Agents  [[PDF](https://arxiv.org/abs/2608.06065)]
@@ -112,8 +112,8 @@
 
 [arxiv 2026.08] ArtECulture: Benchmarking Culture-Conditioned Visual Emotion Understanding in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2608.03358)]
 
-<!-- Added on 2026-08-21 -->
-<!-- Added on 2026-08-21 -->
+<!-- Added on 2026-08-25 -->
+<!-- Added on 2026-08-25 -->
 
 [arxiv 2026.07] ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis  [[PDF](https://arxiv.org/abs/2607.19341)]
 
@@ -211,9 +211,9 @@
 
 [arxiv 2026.07] Self-Evolving Just-In-Time Memory for Proactive Embodied Safety  [[PDF](https://arxiv.org/abs/2607.16247)]
 
-<!-- Added on 2026-08-21 -->
-<!-- Added on 2026-08-21 -->
-<!-- Added on 2026-08-21 -->
+<!-- Added on 2026-08-25 -->
+<!-- Added on 2026-08-25 -->
+<!-- Added on 2026-08-25 -->
 [arxiv 2026.07] Hierarchical Denoising For Multi-Step Visual Reasoning  [[PDF](https://arxiv.org/abs/2607.15278)]
 
 [arxiv 2026.07] HoloGeo: Mitigating Landmark Bias in Geo-localization via Evidence-Driven Reasoning  [[PDF](https://arxiv.org/abs/2607.15255)]
@@ -272,7 +272,7 @@
 
 [arxiv 2026.07] Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment  [[PDF](https://arxiv.org/abs/2607.13429),[Page](https://github.com/dwipddalal/Anchor-Align)]
 
-<!-- Added on 2026-08-21 -->
+<!-- Added on 2026-08-25 -->
 [arxiv 2026.07] Vision as Unified Multimodal Generation  [[PDF](https://arxiv.org/abs/2607.06560)]
 
 [arxiv 2026.07] CAIRN: Cross-Room 3D Scene Understanding with Topology-Aware Large Multimodal Models  [[PDF](https://arxiv.org/abs/2607.06534),[Page](https://oceansdepp.github.io/cairn_web/)]
@@ -313,8 +313,8 @@
 
 [arxiv 2026.07] BaFCo: A Document Understanding Benchmark for Complex Bangla Form Comprehension  [[PDF](https://arxiv.org/abs/2607.05614)]
 
-<!-- Added on 2026-08-21 -->
-<!-- Added on 2026-08-21 -->
+<!-- Added on 2026-08-25 -->
+<!-- Added on 2026-08-25 -->
 [arxiv 2026.06] CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts  [[PDF](https://arxiv.org/abs/2606.31986),[Page](https://github.com/hulianyuyy/CoLT)]
 
 [arxiv 2026.06] ERA: Entropy-Guided Visual Token Pruning with Rectified Attention for Efficient MLLMs  [[PDF](https://arxiv.org/abs/2606.31982)]
@@ -4294,6 +4294,100 @@
 [arxiv 2026.08] StateSight: Benchmarking Latent Spatial-State Reconstruction in Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.20414)]
 
 [arxiv 2026.08] Decoupled Vision-Language System for Multimodal Understanding and Generation  [[PDF](https://arxiv.org/abs/2608.20382)]
+
+[arxiv 2026.08] Investigating Relational Reasoning in VLMs  [[PDF](https://arxiv.org/abs/2608.23518)]
+
+[arxiv 2026.08] Action-Aligned Retrieval with Pairwise Multimodal Reranking for Text-Based Person Anomaly Search  [[PDF](https://arxiv.org/abs/2608.23503)]
+
+[arxiv 2026.08] Towards Comprehensive Basketball Understanding  [[PDF](https://arxiv.org/abs/2608.23435)]
+
+[arxiv 2026.08] IntentQA: Intent Question Answering in Videos by Cognitive Context Reasoning  [[PDF](https://arxiv.org/abs/2608.23330)]
+
+[arxiv 2026.08] Grounding Free-Form Instructions for Fashion Complementary Image Generation  [[PDF](https://arxiv.org/abs/2608.23302)]
+
+[arxiv 2026.08] Dual-Grained Agent Memory and Shapley Context Attribution for Multimodal Agentic Learner  [[PDF](https://arxiv.org/abs/2608.23268)]
+
+[arxiv 2026.08] E2S-Pruner: Progressive Two-Stage Evidence Fusion for Visual Token Pruning in Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.23253)]
+
+[arxiv 2026.08] MLLM-Assisted Audio VOS: A 3rd Place Report for the MeViS-Audio Track, 8th LSVOS Challenge  [[PDF](https://arxiv.org/abs/2608.23234)]
+
+[arxiv 2026.08] Training-Free Pseudo-Fusion for Composed Image Retrieval with Diffusion Models and Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2608.23102)]
+
+[arxiv 2026.08] Grounding Isn&#39;t Knowing: Do VLMs Need Object Localization for Spatial Reasoning?  [[PDF](https://arxiv.org/abs/2608.23074)]
+
+[arxiv 2026.08] Cultural Moment Benchmark: Evaluating Video Cultural Reasoning and Grounding in Southeast Asia  [[PDF](https://arxiv.org/abs/2608.23065),[Page](https://culturalmoment-benchmark.github.io/)]
+
+[arxiv 2026.08] Coarse Indexing, Fine Evidence: Decoupling Temporal Granularity in Long-Video RAG  [[PDF](https://arxiv.org/abs/2608.23011)]
+
+[arxiv 2026.08] ENCORE: Entropy-Guided Cropping and Attention Regularization for Robust Vision--Language Understanding  [[PDF](https://arxiv.org/abs/2608.22996)]
+
+[arxiv 2026.08] WildHandBench: A Benchmark for Handwritten Text Understanding that Challenges MLLMs and Humans  [[PDF](https://arxiv.org/abs/2608.22959)]
+
+[arxiv 2026.08] WADE: A Reasoning-Annotated Benchmark for Multi-Instance Floating-Waste Grounding with Compact Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.22950)]
+
+[arxiv 2026.08] DRAgent: Discriminative Reasoning Agent for Referring Expression Segmentation  [[PDF](https://arxiv.org/abs/2608.22885)]
+
+[arxiv 2026.08] FOVEA: Focused On-Demand Visual Evidence Adaptation for Cache-Friendly Multimodal Speculative Decoding  [[PDF](https://arxiv.org/abs/2608.22883)]
+
+[arxiv 2026.08] Can We Perform Online RL for Image Editing without Editing Rewards?  [[PDF](https://arxiv.org/abs/2608.22780)]
+
+[arxiv 2026.08] Object-Uni: A Unified Model for Object-Centric Spatial Understanding and Controllable Generation  [[PDF](https://arxiv.org/abs/2608.22757)]
+
+[arxiv 2026.08] OmniCAD: A Large-Scale Benchmark for 3D Spatial Reasoning in Robotics Assemblies  [[PDF](https://arxiv.org/abs/2608.22637)]
+
+[arxiv 2026.08] Vision-Language Models for Occupational Physical Exposure Assessment: Estimating External Hand Forces in Manual Material Handling Tasks from RGB Video  [[PDF](https://arxiv.org/abs/2608.22586)]
+
+[arxiv 2026.08] Learning Sample-wise Rank-aware Interpolation Weights for Composed Visual Data Retrieval  [[PDF](https://arxiv.org/abs/2608.22500)]
+
+[arxiv 2026.08] LiST: Local-Simplex Test-Time LoRA Fusion  [[PDF](https://arxiv.org/abs/2608.22370)]
+
+[arxiv 2026.08] When Do VLMs Help Arabic Manuscript OCR? A Cross-Dataset Study  [[PDF](https://arxiv.org/abs/2608.22366)]
+
+[arxiv 2026.08] Pre-Decoding Acoustic Triage for Budgeted Vision-Language Captioning of Untrimmed Egocentric Video  [[PDF](https://arxiv.org/abs/2608.22359),[Page](https://github.com/masjalayer/PreDecoding-AcousticTriage)]
+
+[arxiv 2026.08] OVIBench: Benchmarking Online Video Question Answering under Interruption  [[PDF](https://arxiv.org/abs/2608.22279)]
+
+[arxiv 2026.08] Training-Free VLM Personalization via Calibrated Residual Decoding  [[PDF](https://arxiv.org/abs/2608.22263)]
+
+[arxiv 2026.08] VIG: Visual Information Gain as a Reward Signal for Multimodal Chain-of-Thought Compression  [[PDF](https://arxiv.org/abs/2608.21883)]
+
+[arxiv 2026.08] PatchGate: Narrowing the Verbalization Gap with Intrinsic Object Inventories in Frozen Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.21819)]
+
+[arxiv 2026.08] SAFE-G: Structure-aware Faithful Evidence-guided Generation for Knowledge-based Visual Question Answering  [[PDF](https://arxiv.org/abs/2608.21796)]
+
+[arxiv 2026.08] Learning to Look Again: Loss-Gap Supervision for Free-form Crop Routing in Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.21762)]
+
+[arxiv 2026.08] The Plan, Not the Decoder: Diagnosing and Repairing Compositional Failure in Reasoning-Augmented Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2608.21713)]
+
+[arxiv 2026.08] Perturb the Thought, Not the Pixels: Latent-Space Rollout Diversification for Reinforcement Learning of Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.21595)]
+
+[arxiv 2026.08] presto: Efficient, Training-free, and Open-world Object Placement via Imaginary Search  [[PDF](https://arxiv.org/abs/2608.21543)]
+
+[arxiv 2026.08] TASSO: TAsk-Specific Subspace Optimization for Continual Learning of Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.21487)]
+
+[arxiv 2026.08] EXPL-FR: Explaining Face Recognition Models via Vision-Language Alignment  [[PDF](https://arxiv.org/abs/2608.21486)]
+
+[arxiv 2026.08] FigmaTrace: Capturing Creative Nuances in Human Figma Design Workflows  [[PDF](https://arxiv.org/abs/2608.21460),[Page](https://huggingface.co/datasets/PatronusAI/figmatrace)]
+
+[arxiv 2026.08] Beyond Visual Similarity: Entity-Aligned Retrieval for Knowledge-Based Visual Question Answering  [[PDF](https://arxiv.org/abs/2608.21450)]
+
+[arxiv 2026.08] DesignAgent3D: Interactive 3D Scene Editing via Designer-like Multimodal Reasoning  [[PDF](https://arxiv.org/abs/2608.21438)]
+
+[arxiv 2026.08] Boosting Knowledge-based Visual Question Answering with Structured Context Reasoning  [[PDF](https://arxiv.org/abs/2608.21431),[Page](https://github.com/WISLab-GDUT/SCoRe)]
+
+[arxiv 2026.08] What&#39;s the Catch? Evaluating Temporal Consistency in Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.23474)]
+
+[arxiv 2026.08] OptiSight: Bridging Semantic Reasoning and Geometric Control for Embodied Navigation  [[PDF](https://arxiv.org/abs/2608.23354)]
+
+[arxiv 2026.08] CaRGo-T: Causal Reasoning Graph-of-Thought improves Multimodal Humor Comprehension  [[PDF](https://arxiv.org/abs/2608.23172)]
+
+[arxiv 2026.08] Pointing-VLA: Typed Spatial Grounding Interfaces for Vision-Language-Action Manipulation  [[PDF](https://arxiv.org/abs/2608.23138)]
+
+[arxiv 2026.08] Beyond What Meets the Eye: Unveiling Situational Illusions for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2608.22232)]
+
+[arxiv 2026.08] From Subjective Judgments to Auditable Standards:Protocol-Guided AI Auditing of Website Redundancy  [[PDF](https://arxiv.org/abs/2608.21476)]
+
+[arxiv 2026.08] Evaluating Multimodal Narrative Understanding of Popular Hollywood Films  [[PDF](https://arxiv.org/abs/2608.21430)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

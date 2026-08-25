@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-08-21 -->
+<!-- Added on 2026-08-25 -->
 [arxiv 2026.08] Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction  [[PDF](https://arxiv.org/abs/2608.06117)]
 
 [arxiv 2026.08] Controllable Clothing: Precise Labels and Generation for Virtual Try-On with Latent Diffusion Models  [[PDF](https://arxiv.org/abs/2608.05834)]
@@ -120,8 +120,8 @@
 
 [arxiv 2026.07] Points as Tori: Fast Pointwise Signed Distance for Point Clouds  [[PDF](https://arxiv.org/abs/2607.16946),[Page](https://nzfeng.github.io/research/PointsAsTori)]
 
-<!-- Added on 2026-08-21 -->
-<!-- Added on 2026-08-21 -->
+<!-- Added on 2026-08-25 -->
+<!-- Added on 2026-08-25 -->
 [arxiv 2026.07] QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration  [[PDF](https://arxiv.org/abs/2607.15097)]
 
 [arxiv 2026.07] RoGS: Adaptive Meshgrid Gaussian for Large-Scale Road Surface Mapping  [[PDF](https://arxiv.org/abs/2607.15048)]
@@ -184,11 +184,11 @@
 
 [arxiv 2026.07] TILDE: TILt-based Distributional Erasure for Concept Unlearning  [[PDF](https://arxiv.org/abs/2607.06432)]
 
-<!-- Added on 2026-08-21 -->
-<!-- Added on 2026-08-21 -->
-<!-- Added on 2026-08-21 -->
-<!-- Added on 2026-08-21 -->
-<!-- Added on 2026-08-21 -->
+<!-- Added on 2026-08-25 -->
+<!-- Added on 2026-08-25 -->
+<!-- Added on 2026-08-25 -->
+<!-- Added on 2026-08-25 -->
+<!-- Added on 2026-08-25 -->
 [arxiv 2026.06] GEAR: Guided End-to-End AutoRegression for Image Synthesis  [[PDF](https://arxiv.org/abs/2606.32039)]
 
 [arxiv 2026.06] SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE  [[PDF](https://arxiv.org/abs/2606.32033)]
@@ -2985,6 +2985,52 @@
 [arxiv 2026.08] Scaling Muon for Diffusion Transformers  [[PDF](https://arxiv.org/abs/2608.20818)]
 
 [arxiv 2026.08] Sparse Light Field Sampling Improves Casual 3D and 4D Reconstruction  [[PDF](https://arxiv.org/abs/2608.20602),[Page](https://shamus.li/lightfield-gaussian-splatting)]
+
+[arxiv 2026.08] FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors  [[PDF](https://arxiv.org/abs/2608.23549),[Page](https://fix-anything.github.io)]
+
+[arxiv 2026.08] Photorealistic Novel View Synthesis of Human Faces using Next-Scale Transformers  [[PDF](https://arxiv.org/abs/2608.23410)]
+
+[arxiv 2026.08] Mover360: Controllable Object Manipulation in 360° Panoramic Images  [[PDF](https://arxiv.org/abs/2608.23238)]
+
+[arxiv 2026.08] Learning Spherical Occupancy Profiles for Multi-View 3D Reconstruction and Generation  [[PDF](https://arxiv.org/abs/2608.23206)]
+
+[arxiv 2026.08] MIVIFI: Bridging Perspective and Fisheye Domains for Training Multi-View Fisheye Image Generation Models  [[PDF](https://arxiv.org/abs/2608.23140)]
+
+[arxiv 2026.08] AquaFlow: A Monocular Gaussian Splatting SLAM for Underwater Streaming Reconstruction  [[PDF](https://arxiv.org/abs/2608.22906)]
+
+[arxiv 2026.08] NemoSplat: Feed-Forward 4D Gaussian Splatting for Media-Aware Underwater Reconstruction  [[PDF](https://arxiv.org/abs/2608.22888)]
+
+[arxiv 2026.08] LagrangeGS: Non-Conservative Lagrangian System on Dynamic 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2608.22773)]
+
+[arxiv 2026.08] Seeing the Unseen: Semantic-in-Gaussian for Sparse-View 3D Generalization  [[PDF](https://arxiv.org/abs/2608.22740)]
+
+[arxiv 2026.08] VISTA: Test-Time Compositional Alignment for Visual Autoregressive Generation  [[PDF](https://arxiv.org/abs/2608.22521)]
+
+[arxiv 2026.08] M$^3$ISR: A Multi-Modal Multi-View Benchmark for 3D/4D Gaussian Splatting and Feedforward Compression  [[PDF](https://arxiv.org/abs/2608.22465)]
+
+[arxiv 2026.08] Fast and Compact 3D Gaussian Splatting with Polarized Opacity Prior  [[PDF](https://arxiv.org/abs/2608.22344)]
+
+[arxiv 2026.08] On the Choice of Tensor Estimation for Corner Detection, Optical Flow and Denoising  [[PDF](https://arxiv.org/abs/2608.22314)]
+
+[arxiv 2026.08] On Tensor-Based PDEs and their Corresponding Variational Formulations with Application to Color Image Denoising  [[PDF](https://arxiv.org/abs/2608.22302)]
+
+[arxiv 2026.08] GAN-Diff : Coupling Pretrained WGAN-GP Features with Conditional Diffusion U-Nets  [[PDF](https://arxiv.org/abs/2608.22272)]
+
+[arxiv 2026.08] Learning Implicit Constitutive Laws for Dynamic 3D Gaussian Splatting from Monocular Videos  [[PDF](https://arxiv.org/abs/2608.22102)]
+
+[arxiv 2026.08] Robust Global Structure-from-Motion via View Graph Pruning  [[PDF](https://arxiv.org/abs/2608.22054)]
+
+[arxiv 2026.08] BC-IHV: Conditioning the Color Space for Stable Rectified-Flow Low-Light Enhancement  [[PDF](https://arxiv.org/abs/2608.21847)]
+
+[arxiv 2026.08] Towards Alias-Free 4D Gaussian Representations with Motion-Aware Filtering  [[PDF](https://arxiv.org/abs/2608.21828),[Page](https://maaf-4dgs.github.io/)]
+
+[arxiv 2026.08] DefaultShift: Auditing Semantic Default Shift in Accelerated Text-to-Image Models  [[PDF](https://arxiv.org/abs/2608.21784)]
+
+[arxiv 2026.08] SpatialDiff: 3D-Aware Object Movement via Implicit Spatial Modeling  [[PDF](https://arxiv.org/abs/2608.21776)]
+
+[arxiv 2026.08] Calibrate What You SHIP: Post-Selection Risk Control for Verifier-Guided Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2608.21748)]
+
+[arxiv 2026.08] ReART: Reference-Guided Retrieval and Refinement for Emotion-Aware Art Generation  [[PDF](https://arxiv.org/abs/2608.22329)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
