@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-08-25 -->
+<!-- Added on 2026-08-27 -->
 [arxiv 2026.08] MASS: Multiplayer World Models with Authoritative Shared State  [[PDF](https://arxiv.org/abs/2608.06257)]
 
 [arxiv 2026.08] EmoWorld: A Decoupled Affective Field for Controllable Emotional Video Generation  [[PDF](https://arxiv.org/abs/2608.06231)]
@@ -56,8 +56,8 @@
 
 [arxiv 2026.07] SGA: Plug&amp;Play Geometric Verification for Educational Video Synthesis  [[PDF](https://arxiv.org/abs/2607.18116)]
 
-<!-- Added on 2026-08-25 -->
-<!-- Added on 2026-08-25 -->
+<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-27 -->
 [arxiv 2026.07] VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding  [[PDF](https://arxiv.org/abs/2607.14935)]
 
 [arxiv 2026.07] VideoSEMA: a scalable and efficient Mamba-like attention for video understanding  [[PDF](https://arxiv.org/abs/2607.14711)]
@@ -92,12 +92,12 @@
 
 [arxiv 2026.07] Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory  [[PDF](https://arxiv.org/abs/2607.05511),[Page](https://clare-nie.github.io/Light-Omni)]
 
-<!-- Added on 2026-08-25 -->
-<!-- Added on 2026-08-25 -->
-<!-- Added on 2026-08-25 -->
-<!-- Added on 2026-08-25 -->
-<!-- Added on 2026-08-25 -->
-<!-- Added on 2026-08-25 -->
+<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-27 -->
 [arxiv 2026.06] World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration  [[PDF](https://arxiv.org/abs/2606.31946)]
 
 [arxiv 2026.06] DriveWeaver: Point-Conditioned Video Inpainting for Controllable Vehicle Insertion in Autonomous Driving Simulation  [[PDF](https://arxiv.org/abs/2606.31918),[Page](https://github.com/LogosRoboticsGroup/DriveWeaver)]
@@ -1431,6 +1431,18 @@ A reading list of video generation
 [arxiv 2026.08] Aligning Human Sense: Calibrated Distributional Reward Learning for Video Generation  [[PDF](https://arxiv.org/abs/2608.21425)]
 
 [arxiv 2026.08] EditStream: A Unified Autoregressive Framework for Interactive Video Generation and Editing  [[PDF](https://arxiv.org/abs/2608.21424),[Page](https://real-time-video-research.github.io/editstream/)]
+
+[arxiv 2026.08] RefVideo-6M: A Reliable Reference-Based Dataset for Instructional Video Editing  [[PDF](https://arxiv.org/abs/2608.26101)]
+
+[arxiv 2026.08] Code World Model: Coding Agent as World Brain  [[PDF](https://arxiv.org/abs/2608.25927),[Page](https://buaacyw.github.io/cwm/)]
+
+[arxiv 2026.08] LongVU-TTT: Causal Test-Time Training for Visual Resampling in Long Video Understanding  [[PDF](https://arxiv.org/abs/2608.25729)]
+
+[arxiv 2026.08] Video-IFBench: Evaluating Instruction Following of Multimodal LLMs in Video Understanding Scenarios  [[PDF](https://arxiv.org/abs/2608.25529)]
+
+[arxiv 2026.08] 4DStreamCtrl: Interactive Video Generation with Online 4D Control  [[PDF](https://arxiv.org/abs/2608.25479)]
+
+[arxiv 2026.08] Where to Look Matters: On-Policy Self-Distillation for Long-Video Understanding  [[PDF](https://arxiv.org/abs/2608.25356)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

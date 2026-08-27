@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-08-25 -->
+<!-- Added on 2026-08-27 -->
 [arxiv 2026.08] Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction  [[PDF](https://arxiv.org/abs/2608.06117)]
 
 [arxiv 2026.08] Controllable Clothing: Precise Labels and Generation for Virtual Try-On with Latent Diffusion Models  [[PDF](https://arxiv.org/abs/2608.05834)]
@@ -120,8 +120,8 @@
 
 [arxiv 2026.07] Points as Tori: Fast Pointwise Signed Distance for Point Clouds  [[PDF](https://arxiv.org/abs/2607.16946),[Page](https://nzfeng.github.io/research/PointsAsTori)]
 
-<!-- Added on 2026-08-25 -->
-<!-- Added on 2026-08-25 -->
+<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-27 -->
 [arxiv 2026.07] QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration  [[PDF](https://arxiv.org/abs/2607.15097)]
 
 [arxiv 2026.07] RoGS: Adaptive Meshgrid Gaussian for Large-Scale Road Surface Mapping  [[PDF](https://arxiv.org/abs/2607.15048)]
@@ -184,11 +184,11 @@
 
 [arxiv 2026.07] TILDE: TILt-based Distributional Erasure for Concept Unlearning  [[PDF](https://arxiv.org/abs/2607.06432)]
 
-<!-- Added on 2026-08-25 -->
-<!-- Added on 2026-08-25 -->
-<!-- Added on 2026-08-25 -->
-<!-- Added on 2026-08-25 -->
-<!-- Added on 2026-08-25 -->
+<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-27 -->
 [arxiv 2026.06] GEAR: Guided End-to-End AutoRegression for Image Synthesis  [[PDF](https://arxiv.org/abs/2606.32039)]
 
 [arxiv 2026.06] SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE  [[PDF](https://arxiv.org/abs/2606.32033)]
@@ -3031,6 +3031,30 @@
 [arxiv 2026.08] Calibrate What You SHIP: Post-Selection Risk Control for Verifier-Guided Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2608.21748)]
 
 [arxiv 2026.08] ReART: Reference-Guided Retrieval and Refinement for Emotion-Aware Art Generation  [[PDF](https://arxiv.org/abs/2608.22329)]
+
+[arxiv 2026.08] Uncertainty-Guided Latent Diffusion Models for Faithful Super Resolution  [[PDF](https://arxiv.org/abs/2608.25998)]
+
+[arxiv 2026.08] 4DGS-WAM: Bridging Past and Future with an Object-Centric World Action Model based on 4D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2608.25956)]
+
+[arxiv 2026.08] When Composition Doesn&#39;t Add Up: Humans Identifying Defects in AI-Generated Images  [[PDF](https://arxiv.org/abs/2608.25933)]
+
+[arxiv 2026.08] Learning Late, Guiding Early: Timestep-Decoupled Semantic Guidance for Fair Face Generation  [[PDF](https://arxiv.org/abs/2608.25862)]
+
+[arxiv 2026.08] Diffusion Transformers for Roof Graph Synthesis and Reconstruction  [[PDF](https://arxiv.org/abs/2608.25652)]
+
+[arxiv 2026.08] Gaussian Splatting Underwater: A Controlled Cross-Regime Study  [[PDF](https://arxiv.org/abs/2608.25483)]
+
+[arxiv 2026.08] PAGS: Autofocusing Photoacoustic Tomography via Speed-of-Sound-Adaptive Gaussian Splatting  [[PDF](https://arxiv.org/abs/2608.25472)]
+
+[arxiv 2026.08] Efficient Training with Foresight: Multi-Token Auxiliary Supervision for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2608.25386)]
+
+[arxiv 2026.08] FlashNormal: Detailed Surface Normal Estimation from Flash and No-Flash Images  [[PDF](https://arxiv.org/abs/2608.25360)]
+
+[arxiv 2026.08] GraftSR: Grafting Authentic Textures for Real-World Image Super-Resolution via Identical-Instance Guidance  [[PDF](https://arxiv.org/abs/2608.25334)]
+
+[arxiv 2026.08] Learning spatially varying regularisation parameters of low regularity for image reconstruction  [[PDF](https://arxiv.org/abs/2608.25127)]
+
+[arxiv 2026.08] GaussVLA: Geometry-Aware Spatial Reasoning for Vision-Language-Action Model  [[PDF](https://arxiv.org/abs/2608.24959)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

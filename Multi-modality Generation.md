@@ -1,7 +1,7 @@
-<!-- Added on 2026-08-25 -->
-<!-- Added on 2026-08-25 -->
-<!-- Added on 2026-08-25 -->
-<!-- Added on 2026-08-25 -->
+<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-27 -->
 [arxiv 2026.08] Domain-Grounded Candidate Selection for Agentic Image Editing: A Shadow Removal Case  [[PDF](https://arxiv.org/abs/2608.06075)]
 
 [arxiv 2026.08] The Next Screenshot Knows: Gated Hindsight Distillation for Mobile GUI Agents  [[PDF](https://arxiv.org/abs/2608.06065)]
@@ -112,8 +112,8 @@
 
 [arxiv 2026.08] ArtECulture: Benchmarking Culture-Conditioned Visual Emotion Understanding in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2608.03358)]
 
-<!-- Added on 2026-08-25 -->
-<!-- Added on 2026-08-25 -->
+<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-27 -->
 
 [arxiv 2026.07] ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis  [[PDF](https://arxiv.org/abs/2607.19341)]
 
@@ -211,9 +211,9 @@
 
 [arxiv 2026.07] Self-Evolving Just-In-Time Memory for Proactive Embodied Safety  [[PDF](https://arxiv.org/abs/2607.16247)]
 
-<!-- Added on 2026-08-25 -->
-<!-- Added on 2026-08-25 -->
-<!-- Added on 2026-08-25 -->
+<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-27 -->
 [arxiv 2026.07] Hierarchical Denoising For Multi-Step Visual Reasoning  [[PDF](https://arxiv.org/abs/2607.15278)]
 
 [arxiv 2026.07] HoloGeo: Mitigating Landmark Bias in Geo-localization via Evidence-Driven Reasoning  [[PDF](https://arxiv.org/abs/2607.15255)]
@@ -272,7 +272,7 @@
 
 [arxiv 2026.07] Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment  [[PDF](https://arxiv.org/abs/2607.13429),[Page](https://github.com/dwipddalal/Anchor-Align)]
 
-<!-- Added on 2026-08-25 -->
+<!-- Added on 2026-08-27 -->
 [arxiv 2026.07] Vision as Unified Multimodal Generation  [[PDF](https://arxiv.org/abs/2607.06560)]
 
 [arxiv 2026.07] CAIRN: Cross-Room 3D Scene Understanding with Topology-Aware Large Multimodal Models  [[PDF](https://arxiv.org/abs/2607.06534),[Page](https://oceansdepp.github.io/cairn_web/)]
@@ -313,8 +313,8 @@
 
 [arxiv 2026.07] BaFCo: A Document Understanding Benchmark for Complex Bangla Form Comprehension  [[PDF](https://arxiv.org/abs/2607.05614)]
 
-<!-- Added on 2026-08-25 -->
-<!-- Added on 2026-08-25 -->
+<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-27 -->
 [arxiv 2026.06] CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts  [[PDF](https://arxiv.org/abs/2606.31986),[Page](https://github.com/hulianyuyy/CoLT)]
 
 [arxiv 2026.06] ERA: Entropy-Guided Visual Token Pruning with Rectified Attention for Efficient MLLMs  [[PDF](https://arxiv.org/abs/2606.31982)]
@@ -4388,6 +4388,36 @@
 [arxiv 2026.08] From Subjective Judgments to Auditable Standards:Protocol-Guided AI Auditing of Website Redundancy  [[PDF](https://arxiv.org/abs/2608.21476)]
 
 [arxiv 2026.08] Evaluating Multimodal Narrative Understanding of Popular Hollywood Films  [[PDF](https://arxiv.org/abs/2608.21430)]
+
+[arxiv 2026.08] VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning  [[PDF](https://arxiv.org/abs/2608.26105),[Page](https://video-reason.com/)]
+
+[arxiv 2026.08] A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training  [[PDF](https://arxiv.org/abs/2608.26095)]
+
+[arxiv 2026.08] Towards Purified Multi-Label Test-Time Adaptation of Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.25653)]
+
+[arxiv 2026.08] V-Rubrics: Visual Faithfulness via Rubric-Based Reinforcement Learning  [[PDF](https://arxiv.org/abs/2608.25580),[Page](https://shulin16.github.io/v-rubrics/)]
+
+[arxiv 2026.08] MLLMCLIP: Feature-Level Distillation of MLLM for Robust Vision-Language Representations  [[PDF](https://arxiv.org/abs/2608.25575)]
+
+[arxiv 2026.08] SMART: MLLM-guided Temporal Alignment for Unifying Sign Language Recognition and Spotting  [[PDF](https://arxiv.org/abs/2608.25493)]
+
+[arxiv 2026.08] VGA-BenchV2: An Expanded Unified Benchmark and Multi-Model Framework for Evaluating Video Aesthetics and Generation Quality  [[PDF](https://arxiv.org/abs/2608.25452)]
+
+[arxiv 2026.08] Not All Attention Heads Contribute to Critical Visual Token Selection: Head-Aware Pruning Matters More  [[PDF](https://arxiv.org/abs/2608.25332)]
+
+[arxiv 2026.08] PointRL: Learning Point-Level Vision-Language Grounding from Verifiable Annotation Evidence  [[PDF](https://arxiv.org/abs/2608.25299)]
+
+[arxiv 2026.08] RefLAM: A Reference-Grounded Line Annotation Pipeline for Historical Arabic Manuscripts  [[PDF](https://arxiv.org/abs/2608.25140)]
+
+[arxiv 2026.08] Targeting the Attention Heads Behind Object Hallucination in LLaVA  [[PDF](https://arxiv.org/abs/2608.24966)]
+
+[arxiv 2026.08] A Lightweight Multimodal Vision-Language Framework for Early-Stage Anatomical Green Fruit Classification in Commercial Orchards  [[PDF](https://arxiv.org/abs/2608.24935)]
+
+[arxiv 2026.08] Fusing Perceptual Vision Experts with Multimodal Large Language Models for Explainable Plant Disease Diagnosis: From Benchmark Imagery to Real-World Robotic Field Validation  [[PDF](https://arxiv.org/abs/2608.24934)]
+
+[arxiv 2026.08] Do Vision-Language Models Agree on the Affective Qualities of Shape? A Cross-Model Audit for Generative Design Interfaces  [[PDF](https://arxiv.org/abs/2608.25876)]
+
+[arxiv 2026.08] GGSS: Geodesic-Gated Spherical Steering for Inference-Time Debiasing of Generative Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.25375)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
