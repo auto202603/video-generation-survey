@@ -1,5 +1,16 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-28 -->
+[arxiv 2026.08] KnockGS:interaction-Grounded Calibrationof Physical Gaussian Representations  [[PDF](https://arxiv.org/abs/2608.27365)]
+[arxiv 2026.08] Vision-centric generative AI models: A software-hardware perspective  [[PDF](https://arxiv.org/abs/2608.27199)]
+[arxiv 2026.08] Per-View Gaussian Predictions Enable Training-Free Distractor Filtering in Feed-Forward 3DGS  [[PDF](https://arxiv.org/abs/2608.26951)]
+[arxiv 2026.08] KISS-GS: 3D Gaussian Splatting Compression Kept Simple  [[PDF](https://arxiv.org/abs/2608.26948)]
+[arxiv 2026.08] CGS-SLAM: Collaborative Gaussian Splatting based SLAM for Multi-Agent Reconstruction  [[PDF](https://arxiv.org/abs/2608.26868)]
+[arxiv 2026.08] CoGeo-GS: Concept-Driven and Geometry-Aware Multi-Object Removal in 3D Scenes  [[PDF](https://arxiv.org/abs/2608.26656)]
+[arxiv 2026.08] Text-to-seed generation: Training-free open-vocabulary seeded semantic segmentation via re-purposing diffusion as text-guided seed generator  [[PDF](https://arxiv.org/abs/2608.26624)]
+[arxiv 2026.08] Zero-Shot Video Restoration and Enhancement with Text-to-Image Latent Diffusion Models and Multi-Modal References  [[PDF](https://arxiv.org/abs/2608.26476)]
+[arxiv 2026.08] Comparative Evaluation of 3D Reconstruction Methods for Immersive Visualization of Laboratory Objects  [[PDF](https://arxiv.org/abs/2608.27301)]
+
+
 [arxiv 2026.08] Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction  [[PDF](https://arxiv.org/abs/2608.06117)]
 
 [arxiv 2026.08] Controllable Clothing: Precise Labels and Generation for Virtual Try-On with Latent Diffusion Models  [[PDF](https://arxiv.org/abs/2608.05834)]

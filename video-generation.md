@@ -1,5 +1,15 @@
 # Video Generation Survey
-<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-28 -->
+[arxiv 2026.08] R2M-Bench: Evaluating Revisit Memory via Relative Consistency in Interactive Video World Models  [[PDF](https://arxiv.org/abs/2608.27328),[Page](https://github.com/AMAP-ML/R2MBench)]
+[arxiv 2026.08] EditaLive! Unified Character Video Editing for Live Streaming  [[PDF](https://arxiv.org/abs/2608.27123)]
+[arxiv 2026.08] TempJail: Temporal Jailbreak Attacks against Image-to-Video Generation Models  [[PDF](https://arxiv.org/abs/2608.26971)]
+[arxiv 2026.08] Tether the Subject, Release the Scene: Query-Aware Memory Routing for Long-Horizon Autoregressive Video Generation  [[PDF](https://arxiv.org/abs/2608.26902)]
+[arxiv 2026.08] Thinking on Shots: Consistent Multi-Shot Video Editing with Agentic Reasoning  [[PDF](https://arxiv.org/abs/2608.26809),[Page](https://wucy0519.github.io/MMLVE/)]
+[arxiv 2026.08] Ring Forcing: Towards Precise Long-Term Memory for Autoregressive Video Diffusion  [[PDF](https://arxiv.org/abs/2608.26794),[Page](https://ringforcing.com)]
+[arxiv 2026.08] RECAP-Forcing: Retaining Content Appearances for Long Video Generation  [[PDF](https://arxiv.org/abs/2608.26671),[Page](https://xxuhaiyang.github.io/RECAP-Forcing/)]
+[arxiv 2026.08] StreamAV-Bench: A Comprehensive Benchmark for Streaming Audio-Video Generation  [[PDF](https://arxiv.org/abs/2608.26336)]
+
+
 [arxiv 2026.08] MASS: Multiplayer World Models with Authoritative Shared State  [[PDF](https://arxiv.org/abs/2608.06257)]
 
 [arxiv 2026.08] EmoWorld: A Decoupled Affective Field for Controllable Emotional Video Generation  [[PDF](https://arxiv.org/abs/2608.06231)]

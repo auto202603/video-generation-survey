@@ -1,7 +1,26 @@
+<!-- Added on 2026-08-28 -->
 <!-- Added on 2026-08-27 -->
 <!-- Added on 2026-08-27 -->
 <!-- Added on 2026-08-27 -->
-<!-- Added on 2026-08-27 -->
+[arxiv 2026.08] UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City  [[PDF](https://arxiv.org/abs/2608.27456),[Page](https://urbanground.github.io)]
+[arxiv 2026.08] Retrieval Heads Meet Vision: Uncovering How VLMs Locate and Extract Visual Information  [[PDF](https://arxiv.org/abs/2608.27417)]
+[arxiv 2026.08] Ancient-Bench: A Comprehensive Multi-millennial, Multi-medium, and Multi-script Benchmark for Ancient Chinese Artifact Text Recognition  [[PDF](https://arxiv.org/abs/2608.27169)]
+[arxiv 2026.08] ReViCo: Unveiling the Limitations of VLMs in Visual Text Understanding via Error Correction  [[PDF](https://arxiv.org/abs/2608.27154)]
+[arxiv 2026.08] Aphanta: Diagnosing Task-Aligned Image-Edited Intermediates for Multimodal Reasoning  [[PDF](https://arxiv.org/abs/2608.26993)]
+[arxiv 2026.08] RubricRM: Generative Reward Modeling via Dynamic Rubrics for Image Generation and Editing  [[PDF](https://arxiv.org/abs/2608.26956)]
+[arxiv 2026.08] Order Matters: A Chinese Multi-Panel Meme Benchmark for Vision-Language Reasoning  [[PDF](https://arxiv.org/abs/2608.26866)]
+[arxiv 2026.08] LLaVAFlow: Preserving Latent Alignment Flow for Parameter-Efficient Multimodal Fine-Tuning  [[PDF](https://arxiv.org/abs/2608.26820)]
+[arxiv 2026.08] Multi-Image Visual Token Pruning in Large Visual Language Models  [[PDF](https://arxiv.org/abs/2608.26806)]
+[arxiv 2026.08] G2D: Generative-to-Discriminative Collaborative Inference for Zero-Shot Image Classification  [[PDF](https://arxiv.org/abs/2608.26744)]
+[arxiv 2026.08] Beyond Atomic Layouts: Compositional Design Understanding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.26716)]
+[arxiv 2026.08] AesCanvas: A Large-Scale Dataset and Benchmark for Aesthetic Critique and Contextual Suitability  [[PDF](https://arxiv.org/abs/2608.26713)]
+[arxiv 2026.08] Who Remains, What Changes: Identity Anchored Composed Gait Retrieval  [[PDF](https://arxiv.org/abs/2608.26632)]
+[arxiv 2026.08] Visual Information-Guided Parallel Decoding for Diffusion Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2608.26580)]
+[arxiv 2026.08] Finding the Right Evidence: Factor-Guided Coarse-to-Fine Reasoning for Long Videos  [[PDF](https://arxiv.org/abs/2608.26355)]
+[arxiv 2026.08] Modality Maturity Index: A benchmark for assessing multimodal capabilities of omni models  [[PDF](https://arxiv.org/abs/2608.26317)]
+[arxiv 2026.08] 4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation  [[PDF](https://arxiv.org/abs/2608.26947)]
+
+
 [arxiv 2026.08] Domain-Grounded Candidate Selection for Agentic Image Editing: A Shadow Removal Case  [[PDF](https://arxiv.org/abs/2608.06075)]
 
 [arxiv 2026.08] The Next Screenshot Knows: Gated Hindsight Distillation for Mobile GUI Agents  [[PDF](https://arxiv.org/abs/2608.06065)]

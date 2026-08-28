@@ -1,5 +1,10 @@
 ## Dataset
-<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-28 -->
+[arxiv 2026.08] Reconstructing Humans and Objects in Interaction using Large Reconstruction Models  [[PDF](https://arxiv.org/abs/2608.27407),[Page](https://ac5113.github.io/MILO)]
+[arxiv 2026.08] Multi-Person Human Motion Forecasting in Complex Scenes  [[PDF](https://arxiv.org/abs/2608.27039)]
+[arxiv 2026.08] CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators  [[PDF](https://arxiv.org/abs/2608.27406)]
+
+
 [arxiv 2026.08] Wan-Animate-2: Pushing the Application Boundaries of Character Animation  [[PDF](https://arxiv.org/abs/2608.06009),[Page](https://humanaigc.github.io/wan-animate-2/)]
 
 [arxiv 2026.08] Ordered Diffusion for 3D Human Registration  [[PDF](https://arxiv.org/abs/2608.05804)]
