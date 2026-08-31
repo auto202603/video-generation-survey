@@ -1,7 +1,41 @@
-<!-- Added on 2026-08-28 -->
-<!-- Added on 2026-08-27 -->
-<!-- Added on 2026-08-27 -->
-<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-31 -->
+<!-- Added on 2026-08-31 -->
+[arxiv 2026.08] Post-Training VLMs for Video Mistake Detection  [[PDF](https://arxiv.org/abs/2608.28406)]
+
+[arxiv 2026.08] AIM: Anchor Identity Features, Then Match for Multimodal Large Language Model Unlearning  [[PDF](https://arxiv.org/abs/2608.28312)]
+
+[arxiv 2026.08] Synth-JDoc: Synthesizing a Japanese Document Image Dataset for OCR with Diverse Layouts and Embedded Images  [[PDF](https://arxiv.org/abs/2608.28248)]
+
+[arxiv 2026.08] Focus Where It Counts: A Salience-Driven Vision-Language Model for Low Vision Assistance  [[PDF](https://arxiv.org/abs/2608.28218)]
+
+[arxiv 2026.08] WALDO: One-Shot Exemplar-Conditioned Object Detection in Cluttered Scenes  [[PDF](https://arxiv.org/abs/2608.28216)]
+
+[arxiv 2026.08] Locate Anything in Videos: Rethinking Efficient Generative Spatio-Temporal Video Grounding  [[PDF](https://arxiv.org/abs/2608.28192)]
+
+[arxiv 2026.08] Dual-Stream Semantic Guidance with Prototype Anchor Calibration for Source-Fully-Free Adaptation of Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.28145)]
+
+[arxiv 2026.08] Token-Budget Distillation: Transferring Full-Token Semantics to Compressed Video Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.28138)]
+
+[arxiv 2026.08] Dynamic Alignment Compensation for Hallucination Mitigation in Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.28058)]
+
+[arxiv 2026.08] Visual Token Coding for Video Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2608.28008)]
+
+[arxiv 2026.08] A-PAIR: A Benchmark and Identity-Consistent Grounding Framework for Air-Ground Cross-View Referring Person Detection  [[PDF](https://arxiv.org/abs/2608.27997)]
+
+[arxiv 2026.08] CommerceVibe: Learning to Design E-Commerce Creatives as Executable Visual Code via Dual-Feedback Reinforcement Learning  [[PDF](https://arxiv.org/abs/2608.27893)]
+
+[arxiv 2026.08] Iron: Intent-Aligned and Retrospective Dual Learning Framework for Enhancing Generalist Virtual Agents  [[PDF](https://arxiv.org/abs/2608.27866)]
+
+[arxiv 2026.08] From Perspective to Fisheye Depth Estimation and Open-Vocabulary Segmentation  [[PDF](https://arxiv.org/abs/2608.27860)]
+
+[arxiv 2026.08] What Can Low Resource Languages Learn From Each Other?  [[PDF](https://arxiv.org/abs/2608.27753)]
+
+[arxiv 2026.08] Code as Worlds: Agentic Discovery of Executable World Representations for Physical Reasoning  [[PDF](https://arxiv.org/abs/2608.27549),[Page](https://mirros-lab.github.io/code-as-world)]
+
+[arxiv 2026.08] Fully Unleashing the Multimodal Attacker: Meta-Adaptive Jailbreaking of Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.27531)]
+
+<!-- Added on 2026-08-31 -->
+<!-- Added on 2026-08-31 -->
 [arxiv 2026.08] UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City  [[PDF](https://arxiv.org/abs/2608.27456),[Page](https://urbanground.github.io)]
 [arxiv 2026.08] Retrieval Heads Meet Vision: Uncovering How VLMs Locate and Extract Visual Information  [[PDF](https://arxiv.org/abs/2608.27417)]
 [arxiv 2026.08] Ancient-Bench: A Comprehensive Multi-millennial, Multi-medium, and Multi-script Benchmark for Ancient Chinese Artifact Text Recognition  [[PDF](https://arxiv.org/abs/2608.27169)]
@@ -131,8 +165,8 @@
 
 [arxiv 2026.08] ArtECulture: Benchmarking Culture-Conditioned Visual Emotion Understanding in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2608.03358)]
 
-<!-- Added on 2026-08-27 -->
-<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-31 -->
+<!-- Added on 2026-08-31 -->
 
 [arxiv 2026.07] ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis  [[PDF](https://arxiv.org/abs/2607.19341)]
 
@@ -230,9 +264,9 @@
 
 [arxiv 2026.07] Self-Evolving Just-In-Time Memory for Proactive Embodied Safety  [[PDF](https://arxiv.org/abs/2607.16247)]
 
-<!-- Added on 2026-08-27 -->
-<!-- Added on 2026-08-27 -->
-<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-31 -->
+<!-- Added on 2026-08-31 -->
+<!-- Added on 2026-08-31 -->
 [arxiv 2026.07] Hierarchical Denoising For Multi-Step Visual Reasoning  [[PDF](https://arxiv.org/abs/2607.15278)]
 
 [arxiv 2026.07] HoloGeo: Mitigating Landmark Bias in Geo-localization via Evidence-Driven Reasoning  [[PDF](https://arxiv.org/abs/2607.15255)]
@@ -291,7 +325,7 @@
 
 [arxiv 2026.07] Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment  [[PDF](https://arxiv.org/abs/2607.13429),[Page](https://github.com/dwipddalal/Anchor-Align)]
 
-<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-31 -->
 [arxiv 2026.07] Vision as Unified Multimodal Generation  [[PDF](https://arxiv.org/abs/2607.06560)]
 
 [arxiv 2026.07] CAIRN: Cross-Room 3D Scene Understanding with Topology-Aware Large Multimodal Models  [[PDF](https://arxiv.org/abs/2607.06534),[Page](https://oceansdepp.github.io/cairn_web/)]
@@ -332,8 +366,8 @@
 
 [arxiv 2026.07] BaFCo: A Document Understanding Benchmark for Complex Bangla Form Comprehension  [[PDF](https://arxiv.org/abs/2607.05614)]
 
-<!-- Added on 2026-08-27 -->
-<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-31 -->
+<!-- Added on 2026-08-31 -->
 [arxiv 2026.06] CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts  [[PDF](https://arxiv.org/abs/2606.31986),[Page](https://github.com/hulianyuyy/CoLT)]
 
 [arxiv 2026.06] ERA: Entropy-Guided Visual Token Pruning with Rectified Attention for Efficient MLLMs  [[PDF](https://arxiv.org/abs/2606.31982)]

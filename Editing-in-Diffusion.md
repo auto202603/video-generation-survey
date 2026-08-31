@@ -1,5 +1,23 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-08-28 -->
+<!-- Added on 2026-08-31 -->
+[arxiv 2026.08] Abstract4D: A Large-Scale Dataset and Framework for Understanding the Visual Language of Abstract Art  [[PDF](https://arxiv.org/abs/2608.28339)]
+
+[arxiv 2026.08] Non-Uniform Quantisation for 3DGS Compression  [[PDF](https://arxiv.org/abs/2608.28272)]
+
+[arxiv 2026.08] WilLaGS: Latent-Conditional 3D Appearance Fields for Robust Gaussian Splatting In-the-Wild  [[PDF](https://arxiv.org/abs/2608.28240)]
+
+[arxiv 2026.08] NumBench: Diagnosing Counting Failures in Text-to-Image Models  [[PDF](https://arxiv.org/abs/2608.28206)]
+
+[arxiv 2026.08] Attribute Token Arithmetic: Disentangled and Continuous Semantic Control for Visual Autoregressive Models  [[PDF](https://arxiv.org/abs/2608.28082)]
+
+[arxiv 2026.08] Cyc3D: Evaluating Cyclic Structural Stability and Asset Usability in Image-to-3D Generation  [[PDF](https://arxiv.org/abs/2608.28080)]
+
+[arxiv 2026.08] VersaGauss: A Versatile Framework for Generating Multiphase Dynamics with 3D Gaussians  [[PDF](https://arxiv.org/abs/2608.28069)]
+
+[arxiv 2026.08] 3D-USE: From Image-Level to Scene-Level Underwater Enhancement  [[PDF](https://arxiv.org/abs/2608.28020),[Page](https://bilityniu.github.io/3D-USE/)]
+
+[arxiv 2026.08] ABCD: Alpha-Composited Block Coordinate Descent: Constant-VRAM Training for Large Radiance Fields  [[PDF](https://arxiv.org/abs/2608.27735)]
+
 [arxiv 2026.08] KnockGS:interaction-Grounded Calibrationof Physical Gaussian Representations  [[PDF](https://arxiv.org/abs/2608.27365)]
 [arxiv 2026.08] Vision-centric generative AI models: A software-hardware perspective  [[PDF](https://arxiv.org/abs/2608.27199)]
 [arxiv 2026.08] Per-View Gaussian Predictions Enable Training-Free Distractor Filtering in Feed-Forward 3DGS  [[PDF](https://arxiv.org/abs/2608.26951)]
@@ -131,8 +149,8 @@
 
 [arxiv 2026.07] Points as Tori: Fast Pointwise Signed Distance for Point Clouds  [[PDF](https://arxiv.org/abs/2607.16946),[Page](https://nzfeng.github.io/research/PointsAsTori)]
 
-<!-- Added on 2026-08-27 -->
-<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-31 -->
+<!-- Added on 2026-08-31 -->
 [arxiv 2026.07] QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration  [[PDF](https://arxiv.org/abs/2607.15097)]
 
 [arxiv 2026.07] RoGS: Adaptive Meshgrid Gaussian for Large-Scale Road Surface Mapping  [[PDF](https://arxiv.org/abs/2607.15048)]
@@ -195,11 +213,11 @@
 
 [arxiv 2026.07] TILDE: TILt-based Distributional Erasure for Concept Unlearning  [[PDF](https://arxiv.org/abs/2607.06432)]
 
-<!-- Added on 2026-08-27 -->
-<!-- Added on 2026-08-27 -->
-<!-- Added on 2026-08-27 -->
-<!-- Added on 2026-08-27 -->
-<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-31 -->
+<!-- Added on 2026-08-31 -->
+<!-- Added on 2026-08-31 -->
+<!-- Added on 2026-08-31 -->
+<!-- Added on 2026-08-31 -->
 [arxiv 2026.06] GEAR: Guided End-to-End AutoRegression for Image Synthesis  [[PDF](https://arxiv.org/abs/2606.32039)]
 
 [arxiv 2026.06] SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE  [[PDF](https://arxiv.org/abs/2606.32033)]

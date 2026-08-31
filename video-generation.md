@@ -1,5 +1,17 @@
 # Video Generation Survey
-<!-- Added on 2026-08-28 -->
+<!-- Added on 2026-08-31 -->
+[arxiv 2026.08] LayerRecall: A State-Conditioned Memory Router for Long-Horizon Consistency in Video Generation  [[PDF](https://arxiv.org/abs/2608.28460)]
+
+[arxiv 2026.08] How Far Can 5,500 Hours of Driving Take You? A Scaling Law Analysis of Video Diffusion Models  [[PDF](https://arxiv.org/abs/2608.28404)]
+
+[arxiv 2026.08] Training-Free Temporal Abstraction for General Video Understanding  [[PDF](https://arxiv.org/abs/2608.27929)]
+
+[arxiv 2026.08] DensityKV: Density-Guided KV Cache Compression for Long Video Generation  [[PDF](https://arxiv.org/abs/2608.27922),[Page](https://github.com/ZhaoWQQ/DensityKV)]
+
+[arxiv 2026.08] StreamEMS: Streaming Video Understanding with Self-Evolving Memory Scheme for Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.27881)]
+
+[arxiv 2026.08] Temporal Tree of Thought: Reasoning-Guided Visual Cue Search for Long-Video Understanding  [[PDF](https://arxiv.org/abs/2608.27871)]
+
 [arxiv 2026.08] R2M-Bench: Evaluating Revisit Memory via Relative Consistency in Interactive Video World Models  [[PDF](https://arxiv.org/abs/2608.27328),[Page](https://github.com/AMAP-ML/R2MBench)]
 [arxiv 2026.08] EditaLive! Unified Character Video Editing for Live Streaming  [[PDF](https://arxiv.org/abs/2608.27123)]
 [arxiv 2026.08] TempJail: Temporal Jailbreak Attacks against Image-to-Video Generation Models  [[PDF](https://arxiv.org/abs/2608.26971)]
@@ -66,8 +78,8 @@
 
 [arxiv 2026.07] SGA: Plug&amp;Play Geometric Verification for Educational Video Synthesis  [[PDF](https://arxiv.org/abs/2607.18116)]
 
-<!-- Added on 2026-08-27 -->
-<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-31 -->
+<!-- Added on 2026-08-31 -->
 [arxiv 2026.07] VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding  [[PDF](https://arxiv.org/abs/2607.14935)]
 
 [arxiv 2026.07] VideoSEMA: a scalable and efficient Mamba-like attention for video understanding  [[PDF](https://arxiv.org/abs/2607.14711)]
@@ -102,12 +114,12 @@
 
 [arxiv 2026.07] Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory  [[PDF](https://arxiv.org/abs/2607.05511),[Page](https://clare-nie.github.io/Light-Omni)]
 
-<!-- Added on 2026-08-27 -->
-<!-- Added on 2026-08-27 -->
-<!-- Added on 2026-08-27 -->
-<!-- Added on 2026-08-27 -->
-<!-- Added on 2026-08-27 -->
-<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-31 -->
+<!-- Added on 2026-08-31 -->
+<!-- Added on 2026-08-31 -->
+<!-- Added on 2026-08-31 -->
+<!-- Added on 2026-08-31 -->
+<!-- Added on 2026-08-31 -->
 [arxiv 2026.06] World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration  [[PDF](https://arxiv.org/abs/2606.31946)]
 
 [arxiv 2026.06] DriveWeaver: Point-Conditioned Video Inpainting for Controllable Vehicle Insertion in Autonomous Driving Simulation  [[PDF](https://arxiv.org/abs/2606.31918),[Page](https://github.com/LogosRoboticsGroup/DriveWeaver)]

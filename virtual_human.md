@@ -1,5 +1,11 @@
 ## Dataset
-<!-- Added on 2026-08-28 -->
+<!-- Added on 2026-08-31 -->
+[arxiv 2026.08] GraspHOI: Full-Body 3D Human-Object Reconstruction with Finger-Level Grasps from a Single In-the-Wild Image  [[PDF](https://arxiv.org/abs/2608.28386)]
+
+[arxiv 2026.08] RASA: Disentangled Spatial-Motional Priors for Cross-Identity Character Animation  [[PDF](https://arxiv.org/abs/2608.28219)]
+
+[arxiv 2026.08] Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models  [[PDF](https://arxiv.org/abs/2608.27550),[Page](https://starvla.github.io/VLAct)]
+
 [arxiv 2026.08] Reconstructing Humans and Objects in Interaction using Large Reconstruction Models  [[PDF](https://arxiv.org/abs/2608.27407),[Page](https://ac5113.github.io/MILO)]
 [arxiv 2026.08] Multi-Person Human Motion Forecasting in Complex Scenes  [[PDF](https://arxiv.org/abs/2608.27039)]
 [arxiv 2026.08] CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators  [[PDF](https://arxiv.org/abs/2608.27406)]
@@ -17,8 +23,8 @@
 
 [arxiv 2026.07] Articulated Humanoid Head for a Robot Receptionist Capable of Natural Human Interaction  [[PDF](https://arxiv.org/abs/2607.17042)]
 
-<!-- Added on 2026-08-27 -->
-<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-31 -->
+<!-- Added on 2026-08-31 -->
 [arxiv 2026.07] Online Neural Space Time Memory for Dynamic Novel View Synthesis  [[PDF](https://arxiv.org/abs/2607.15271),[Page](https://nst-mem.github.io)]
 
 [arxiv 2026.07] An LLM-Based Automatic Sportscast Solution for Robot Soccer Matches  [[PDF](https://arxiv.org/abs/2607.14809)]
@@ -41,7 +47,7 @@
 
 [arxiv 2026.07] WristMimic: Full-Body Humanoid Control with Wrist-Guided Manipulation  [[PDF](https://arxiv.org/abs/2607.06438)]
 
-<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-31 -->
 [arxiv 2026.06] Identifying the Unknown: Prompt-Free Open Vocabulary Anomaly Recognition for Robot-Object Interaction  [[PDF](https://arxiv.org/abs/2606.26829)]
 
 [arxiv 2026.06] PressMimic: Pressure-Guided Motion Capture and Control for Humanoid Robot Imitation  [[PDF](https://arxiv.org/abs/2606.26741)]
@@ -940,7 +946,7 @@
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 # ego
-<!-- Added on 2026-08-27 -->
+<!-- Added on 2026-08-31 -->
 [arxiv 2026.06] PointSplat: Compact Gaussian Splatting via Human-Centric Prediction  [[PDF](https://arxiv.org/abs/2606.32036),[Page](https://zju3dv.github.io/pointsplat)]
 
 [arxiv 2026.06] LUNA: Learning Universal 3D Human Animation Beyond Skinning  [[PDF](https://arxiv.org/abs/2606.31981),[Page](https://penghtyx.github.io/LUNA/)]
