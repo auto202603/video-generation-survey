@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-08-31 -->
+<!-- Added on 2026-09-02 -->
 [arxiv 2026.08] LayerRecall: A State-Conditioned Memory Router for Long-Horizon Consistency in Video Generation  [[PDF](https://arxiv.org/abs/2608.28460)]
 
 [arxiv 2026.08] How Far Can 5,500 Hours of Driving Take You? A Scaling Law Analysis of Video Diffusion Models  [[PDF](https://arxiv.org/abs/2608.28404)]
@@ -1465,6 +1465,14 @@ A reading list of video generation
 [arxiv 2026.08] 4DStreamCtrl: Interactive Video Generation with Online 4D Control  [[PDF](https://arxiv.org/abs/2608.25479)]
 
 [arxiv 2026.08] Where to Look Matters: On-Policy Self-Distillation for Long-Video Understanding  [[PDF](https://arxiv.org/abs/2608.25356)]
+
+[arxiv 2026.09] MeRoPE: Metric Rotary Position Embedding for Camera-Controlled Video Generation  [[PDF](https://arxiv.org/abs/2609.01252),[Page](https://qiaozhijian.github.io/merope/)]
+
+[arxiv 2026.09] Physically Plausible Video Generation via Visual-Semantic Chain-of-Events Conditioning  [[PDF](https://arxiv.org/abs/2609.00656)]
+
+[arxiv 2026.09] Streaming4D: Accelerate 4D World Models via Block-wise Video Generation and Incremental Reconstruction  [[PDF](https://arxiv.org/abs/2609.00610)]
+
+[arxiv 2026.09] StreamScout: Learning When to Look Deeper for Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2609.00291)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

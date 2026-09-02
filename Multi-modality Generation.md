@@ -1,4 +1,4 @@
-<!-- Added on 2026-08-31 -->
+<!-- Added on 2026-09-02 -->
 <!-- Added on 2026-08-31 -->
 [arxiv 2026.08] Post-Training VLMs for Video Mistake Detection  [[PDF](https://arxiv.org/abs/2608.28406)]
 
@@ -4471,6 +4471,64 @@
 [arxiv 2026.08] Do Vision-Language Models Agree on the Affective Qualities of Shape? A Cross-Model Audit for Generative Design Interfaces  [[PDF](https://arxiv.org/abs/2608.25876)]
 
 [arxiv 2026.08] GGSS: Geodesic-Gated Spherical Steering for Inference-Time Debiasing of Generative Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.25375)]
+
+[arxiv 2026.09] IntroConformal: Conformal Factuality Guarantees for Large Vision-Language Models via Introspective Signals  [[PDF](https://arxiv.org/abs/2609.01375)]
+
+[arxiv 2026.09] Reliability Challenges in Diffusion Vision-Language Models  [[PDF](https://arxiv.org/abs/2609.01318)]
+
+[arxiv 2026.09] S$^2$Prune: Spatially Structured Visual Token Pruning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2609.01224),[Page](https://github.com/yuanyuanjia71-spec/S2Prune)]
+
+[arxiv 2026.09] Dotting the Eye: An Intent-Driven Image Retouching Agent for Visual Focus Enhancement  [[PDF](https://arxiv.org/abs/2609.01148)]
+
+[arxiv 2026.09] On the Design Fundamentals of Pixel Text Representation Learning  [[PDF](https://arxiv.org/abs/2609.01147)]
+
+[arxiv 2026.09] Dyn-3D: Unveiling and Resolving Ego-Motion Ambiguity in Vision-Language Models  [[PDF](https://arxiv.org/abs/2609.01059)]
+
+[arxiv 2026.09] Fi-ImageNet-1k: An OOD Benchmark From the Inside of the ImageNet-1k Validation Set  [[PDF](https://arxiv.org/abs/2609.01027)]
+
+[arxiv 2026.09] SinkPruner: Sink-Free Visual Token Pruning for Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2609.01004)]
+
+[arxiv 2026.09] From Terminology to Diagrams: Visual-Instruction Generation for Scientific Diagram Understanding  [[PDF](https://arxiv.org/abs/2609.00948)]
+
+[arxiv 2026.09] The Visual Insensitivity Gap: Diagnosing When Vision-Language Models Fail to Use Visual Evidence  [[PDF](https://arxiv.org/abs/2609.00868)]
+
+[arxiv 2026.09] Visual Attention Faithfulness in Vision-Language Models is Heterogeneous  [[PDF](https://arxiv.org/abs/2609.00830)]
+
+[arxiv 2026.09] Controllable Image Captioning with Prompt-Conditioned Scene Rewards  [[PDF](https://arxiv.org/abs/2609.00709),[Page](https://focus-emnlp2026.github.io/)]
+
+[arxiv 2026.09] Separating perception from reasoning in vision-language models: a model-free render ceiling for crystal structures  [[PDF](https://arxiv.org/abs/2609.00663)]
+
+[arxiv 2026.09] Teaching Vision-Language Models to Use the Scale They Are Given: Label-Free Equivariance Training for Metric Physical Reasoning  [[PDF](https://arxiv.org/abs/2609.00658)]
+
+[arxiv 2026.09] You Cannot Photograph the Same Street Twice: Reliability Limits in Vision-Language Measurement of Urban Change  [[PDF](https://arxiv.org/abs/2609.00649)]
+
+[arxiv 2026.09] A Glance Is All You Need: Single-Pass Fine-Grained Image Captioning with SimLoss  [[PDF](https://arxiv.org/abs/2609.00591)]
+
+[arxiv 2026.09] Less Is More: Balancing Positive and Negative Space in Visual Concept Blending  [[PDF](https://arxiv.org/abs/2609.00476)]
+
+[arxiv 2026.09] FoldingAgent: Inferring Parametric Origami Procedures from Demonstration Videos  [[PDF](https://arxiv.org/abs/2609.00377),[Page](https://maya-moriya.github.io/origami-page/)]
+
+[arxiv 2026.09] Beyond Blind Compliance: Benchmarking Task Verification in OCR Reasoning  [[PDF](https://arxiv.org/abs/2609.00232)]
+
+[arxiv 2026.09] Beyond Language Priors: Diagnosing and Fixing Visual-Origin Hallucinations in Multimodal LLM  [[PDF](https://arxiv.org/abs/2609.00231)]
+
+[arxiv 2026.09] Distributed Implicit Harm: A Compositional Safety Blind Spot in MLLM-Based Video Moderation  [[PDF](https://arxiv.org/abs/2609.00206)]
+
+[arxiv 2026.09] Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving  [[PDF](https://arxiv.org/abs/2609.00111),[Page](https://github.com/QwenLM/Qwen-Drive-1.0)]
+
+[arxiv 2026.09] EdiTikZ: Scientific Figure Editing from Revision Trajectories  [[PDF](https://arxiv.org/abs/2609.01409)]
+
+[arxiv 2026.09] InSight: A Benchmark for Agentic Claim Verification in Interactive Visualizations  [[PDF](https://arxiv.org/abs/2609.01383)]
+
+[arxiv 2026.09] MIDR: Enrichment-Augmented Indexing for Multimodal Document Retrieval  [[PDF](https://arxiv.org/abs/2609.01316)]
+
+[arxiv 2026.09] From Saliency to Discriminability: Rank-Preserving Visual Token Pruning for VLM Rerankers  [[PDF](https://arxiv.org/abs/2609.00667)]
+
+[arxiv 2026.09] ExpArt-KG: Artwork Image Description Generation through Iterative Exploration of Knowledge Graphs  [[PDF](https://arxiv.org/abs/2609.00629)]
+
+[arxiv 2026.09] Vision Is Not Overhead: One-Pass Block Drafting for Lossless Speculative Decoding in Vision-Language Models  [[PDF](https://arxiv.org/abs/2609.00355),[Page](https://github.com/js-lee-AI/GLANCE)]
+
+[arxiv 2026.09] SCAFFOLD: A Large-Scale Structured Dataset of Computer Science Research Figures with Diagram QA and Chain-of-Thought Reasoning Traces  [[PDF](https://arxiv.org/abs/2609.00018)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

@@ -1,5 +1,5 @@
 ## Dataset
-<!-- Added on 2026-08-31 -->
+<!-- Added on 2026-09-02 -->
 [arxiv 2026.08] GraspHOI: Full-Body 3D Human-Object Reconstruction with Finger-Level Grasps from a Single In-the-Wild Image  [[PDF](https://arxiv.org/abs/2608.28386)]
 
 [arxiv 2026.08] RASA: Disentangled Spatial-Motional Priors for Cross-Identity Character Animation  [[PDF](https://arxiv.org/abs/2608.28219)]
@@ -643,6 +643,10 @@
 [arxiv 2026.08] V-Link: Recovering Lost Visual Representations in Action DiT for Vision-Language-Action Models  [[PDF](https://arxiv.org/abs/2608.25308)]
 
 [arxiv 2026.08] Super Star: Towards Streaming Real-time Interactive Agents for Digital Humans  [[PDF](https://arxiv.org/abs/2608.24909),[Page](https://super-star-2026.github.io/)]
+
+[arxiv 2026.09] CQF-HMR: Continuous Quaternion Flows for Probabilistic 3D Human Mesh Recovery from a Single Image  [[PDF](https://arxiv.org/abs/2609.00995)]
+
+[arxiv 2026.09] Feed-Forward Multi-view Multi-person Reconstruction with Contrastive Human-Aware 3D Representation  [[PDF](https://arxiv.org/abs/2609.00745)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-08-31 -->
+<!-- Added on 2026-09-02 -->
 [arxiv 2026.08] Abstract4D: A Large-Scale Dataset and Framework for Understanding the Visual Language of Abstract Art  [[PDF](https://arxiv.org/abs/2608.28339)]
 
 [arxiv 2026.08] Non-Uniform Quantisation for 3DGS Compression  [[PDF](https://arxiv.org/abs/2608.28272)]
@@ -3084,6 +3084,36 @@
 [arxiv 2026.08] Learning spatially varying regularisation parameters of low regularity for image reconstruction  [[PDF](https://arxiv.org/abs/2608.25127)]
 
 [arxiv 2026.08] GaussVLA: Geometry-Aware Spatial Reasoning for Vision-Language-Action Model  [[PDF](https://arxiv.org/abs/2608.24959)]
+
+[arxiv 2026.09] SpatialGuard: Harness-Guided Verifiable Spatial Reasoning for Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2609.01582)]
+
+[arxiv 2026.09] DualDiff3D: Dual Structure-Appearance Diffusion Priors for Reliability-Enhanced 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2609.01516)]
+
+[arxiv 2026.09] CameraEditor: Camera-Controlled Image Editing via Video-Prior Sequential Modeling  [[PDF](https://arxiv.org/abs/2609.01479)]
+
+[arxiv 2026.09] Gaussian Core LoRA: Distribution-Aware Dynamic Adaptation for Broad Concept Erasure  [[PDF](https://arxiv.org/abs/2609.01433)]
+
+[arxiv 2026.09] P-PatchDiff: Progressive Patch Diffusion Models for Low-light Image Enhancement  [[PDF](https://arxiv.org/abs/2609.01123)]
+
+[arxiv 2026.09] EvoGS: Modeling Deformation Evolution for Dynamic Gaussian Splatting  [[PDF](https://arxiv.org/abs/2609.00994)]
+
+[arxiv 2026.09] ReFlowSET: Representation-Aligned Latent Flow Matching for SAR-to-EO Image Translation  [[PDF](https://arxiv.org/abs/2609.00968),[Page](https://kaist-viclab.github.io/ReFlowSET_site)]
+
+[arxiv 2026.09] ASSERT: Adaptive Stochastic Sampling for Robust Diffusion Models on Analog Compute-in-Memory Hardware  [[PDF](https://arxiv.org/abs/2609.00955)]
+
+[arxiv 2026.09] Training-Free Inpainting Across Domains with a Frozen Text-to-Image Diffusion Model  [[PDF](https://arxiv.org/abs/2609.00862)]
+
+[arxiv 2026.09] Advanced Pixel Diffusion Model with Guided Sparse Global Refinement  [[PDF](https://arxiv.org/abs/2609.00798),[Page](https://github.com/CVL-UESTC/PixSGR)]
+
+[arxiv 2026.09] GenScale: A Benchmark for Relative Object Scale in Image Generation and Editing  [[PDF](https://arxiv.org/abs/2609.00525)]
+
+[arxiv 2026.09] A Cone-Constrained Bilinear Decomposition for Total Scaled-Gradient Variation Models  [[PDF](https://arxiv.org/abs/2609.00036)]
+
+[arxiv 2026.09] Denoising Diffusion Generative Models Secretly Calculate Attentions  [[PDF](https://arxiv.org/abs/2609.00885)]
+
+[arxiv 2026.09] Visual Framing for News Stance Detection via Image Generation  [[PDF](https://arxiv.org/abs/2609.00685)]
+
+[arxiv 2026.09] Inverse Rendering for Modeling with Line Primitives  [[PDF](https://arxiv.org/abs/2609.00625),[Page](https://kenji-tojo.github.io/sa26-line-primitives/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
