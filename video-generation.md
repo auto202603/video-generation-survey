@@ -1474,6 +1474,13 @@ A reading list of video generation
 
 [arxiv 2026.09] StreamScout: Learning When to Look Deeper for Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2609.00291)]
 
+<!-- Added on 2026-09-03 -->
+[arxiv 2026.09] SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models  [[PDF](https://arxiv.org/abs/2609.02886),[Page](https://junchao-cs.github.io/SolarWM-Web/)]
+
+[arxiv 2026.09] ShallowStream: Index Shallow then Answer Deep for Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2609.02780)]
+
+[arxiv 2026.09] The Missing Temporal Link: Temporal Context Routing for Script-Driven Audio-Video Generation  [[PDF](https://arxiv.org/abs/2609.02367)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## VAE

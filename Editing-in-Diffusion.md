@@ -3115,6 +3115,47 @@
 
 [arxiv 2026.09] Inverse Rendering for Modeling with Line Primitives  [[PDF](https://arxiv.org/abs/2609.00625),[Page](https://kenji-tojo.github.io/sa26-line-primitives/)]
 
+<!-- Added on 2026-09-03 -->
+[arxiv 2026.09] RoGe: Novel View Synthesis via End-to-End Implicit Reconstruction and Generation  [[PDF](https://arxiv.org/abs/2609.02847)]
+
+[arxiv 2026.09] GDB-Reward: From Evaluation Metrics to Training Rewards for Graphic Design  [[PDF](https://arxiv.org/abs/2609.02813)]
+
+[arxiv 2026.09] Multi-Tool Image Editing Attribution in Facial Forgery  [[PDF](https://arxiv.org/abs/2609.02751)]
+
+[arxiv 2026.09] InceptionGS: Generative Bootstrapping for Large-Scale Gaussian Splatting under Unstructured View Sampling  [[PDF](https://arxiv.org/abs/2609.02747)]
+
+[arxiv 2026.09] Query Rewriting for Complex Object Segmentation in 4D Gaussian Representations  [[PDF](https://arxiv.org/abs/2609.02664)]
+
+[arxiv 2026.09] AffectDelta: Beyond Emotion Labels for Image Editing  [[PDF](https://arxiv.org/abs/2609.02616)]
+
+[arxiv 2026.09] Spatially Aware World Action Model via Geometric Latent Diffusion  [[PDF](https://arxiv.org/abs/2609.02531)]
+
+[arxiv 2026.09] Fine-Grained Anomaly Perception in Wild UGC-Enhanced Images: A Comprehensive Dataset and Difference-Fusion Framework  [[PDF](https://arxiv.org/abs/2609.02529)]
+
+[arxiv 2026.09] SR-Edit: Region-Aware Image Editing via Self-Refinement  [[PDF](https://arxiv.org/abs/2609.02504)]
+
+[arxiv 2026.09] UnCapsTSR: An Unsupervised Transformer-based Image Super-Resolution Approach for Capsule Endoscopy Images  [[PDF](https://arxiv.org/abs/2609.02476)]
+
+[arxiv 2026.09] ProSR: Semantic-Prototype-Guided Discrete Modeling for Physically Consistent SAR Super-Resolution  [[PDF](https://arxiv.org/abs/2609.02377)]
+
+[arxiv 2026.09] GlyphAnchor: Enhancing Visual Text Rendering via Position-Anchored Glyph Priors  [[PDF](https://arxiv.org/abs/2609.02349)]
+
+[arxiv 2026.09] Domain shift-robust object detection with GenAI image editing  [[PDF](https://arxiv.org/abs/2609.02299)]
+
+[arxiv 2026.09] Diffusion-Encoding Gaussian Field for Joint k-q dMRI Reconstruction  [[PDF](https://arxiv.org/abs/2609.02288)]
+
+[arxiv 2026.09] T2LSC-Bench: Benchmarking Localized Semantic Control in Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2609.02255)]
+
+[arxiv 2026.09] CC-4DGS: Computational Deformation and Point-Cloud Compression for Storage-Efficient Dynamic Gaussian Splatting  [[PDF](https://arxiv.org/abs/2609.02184),[Page](https://github.com/KyungdaePark/CC-4DGS)]
+
+[arxiv 2026.09] LaST-SR: Laplace-Inspired Steady-Transient Complex-Frequency Decomposition for Single Image Super-Resolution  [[PDF](https://arxiv.org/abs/2609.02063)]
+
+[arxiv 2026.09] Linear Fusion MultiDiffusion for Fast Training-Free Spherical Panorama Generation  [[PDF](https://arxiv.org/abs/2609.01997)]
+
+[arxiv 2026.09] Automated Maize Ear Phenotyping Using 3D Reconstructions  [[PDF](https://arxiv.org/abs/2609.01921)]
+
+[arxiv 2026.09] SliceBridge: context-consistent repair of corrupted slice intervals in T1-weighted MRI  [[PDF](https://arxiv.org/abs/2609.01827)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.03] End-to-End QGAN-Based Image Synthesis via Neural Noise Encoding and Intensity Calibration  [[PDF](https://arxiv.org/abs/2603.18554)]

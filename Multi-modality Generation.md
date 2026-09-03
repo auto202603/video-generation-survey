@@ -4530,6 +4530,55 @@
 
 [arxiv 2026.09] SCAFFOLD: A Large-Scale Structured Dataset of Computer Science Research Figures with Diagram QA and Chain-of-Thought Reasoning Traces  [[PDF](https://arxiv.org/abs/2609.00018)]
 
+<!-- Added on 2026-09-03 -->
+[arxiv 2026.09] Thinking in Pictures: A Systematic Benchmark for Reasoning-driven Image Generation  [[PDF](https://arxiv.org/abs/2609.02864)]
+
+[arxiv 2026.09] RVSD: Retrieval Vision Sparse Decoding for Mitigating Visual Hallucinations in Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2609.02731)]
+
+[arxiv 2026.09] Deeply Interleaved Text-Image Contexts for Multimodal LLMs Assessment  [[PDF](https://arxiv.org/abs/2609.02573)]
+
+[arxiv 2026.09] MARS: What Retrieval Signals Are Hidden in Multimodal Large Language Models for Text-Video Retrieval?  [[PDF](https://arxiv.org/abs/2609.02565)]
+
+[arxiv 2026.09] Beauty is in the AI of the beholder: MLLMs systematically overrate facial attractiveness  [[PDF](https://arxiv.org/abs/2609.02512)]
+
+[arxiv 2026.09] Blending Concepts: Benchmarking Visual Metaphor Generation in Text-to-Image Models  [[PDF](https://arxiv.org/abs/2609.02502)]
+
+[arxiv 2026.09] CA-OPD: Confidence-Aware On-Policy Distillation for Structured Visual Prediction  [[PDF](https://arxiv.org/abs/2609.02401)]
+
+[arxiv 2026.09] TempoGround: State-Aware Streaming Visual Grounding with Vision-Language Models  [[PDF](https://arxiv.org/abs/2609.02359)]
+
+[arxiv 2026.09] LookStep: Efficient Vision-Language Navigation with Linguistic Foresight and Event Driven Memory  [[PDF](https://arxiv.org/abs/2609.02350)]
+
+[arxiv 2026.09] Towards Zero-Shot Transfer Across Embodiments For Driving VLAs  [[PDF](https://arxiv.org/abs/2609.02341)]
+
+[arxiv 2026.09] YesTrack: Referring Multi-Object Tracking via MLLM-based Yes/No Verification  [[PDF](https://arxiv.org/abs/2609.02318)]
+
+[arxiv 2026.09] LeakageBench: Document-Level Leakage Risk for Redacting Personally Identifiable Information in Document Images  [[PDF](https://arxiv.org/abs/2609.02207)]
+
+[arxiv 2026.09] Lightweight Adaptation of General-Purpose VLMs for Multispectral and SAR Image Understanding  [[PDF](https://arxiv.org/abs/2609.02187)]
+
+[arxiv 2026.09] Evidence-Guided Detection, Localization and Explanation for Text-Centric Image Forensics  [[PDF](https://arxiv.org/abs/2609.02097)]
+
+[arxiv 2026.09] Rendering-in-the-Loop: An Execution-Driven Agent for Interactive Web Development  [[PDF](https://arxiv.org/abs/2609.02088)]
+
+[arxiv 2026.09] Detecting Object Hallucinations in Large Vision-Language Models via Cross-Modal Attention Drifts and Mask-Based Verification  [[PDF](https://arxiv.org/abs/2609.02028)]
+
+[arxiv 2026.09] Who Drives the Probability Game of VLMs? A Temporal Causal Drive Evaluation Framework  [[PDF](https://arxiv.org/abs/2609.02000)]
+
+[arxiv 2026.09] Does Playing it Safe Count as Faithfulness? Reassessing LVLM Hallucination Mitigation Methods  [[PDF](https://arxiv.org/abs/2609.01888)]
+
+[arxiv 2026.09] Video2Reaction: Training Foundation Video Models to Predict Audience Reaction  [[PDF](https://arxiv.org/abs/2609.01816)]
+
+[arxiv 2026.09] FairLens: Benchmarking Fairness in Vision-Language Models for High-Stakes Decision-Making  [[PDF](https://arxiv.org/abs/2609.01691),[Page](https://vectorinstitute.github.io/fairlens)]
+
+[arxiv 2026.09] ViSAR: Training-Free Adaptive-$k$ Retrieval for Visual Document Question Answering  [[PDF](https://arxiv.org/abs/2609.02486)]
+
+[arxiv 2026.09] DocHop: Benchmarking Out-of-domain Multi-hop Reasoning in Information-Dense Documents  [[PDF](https://arxiv.org/abs/2609.02059)]
+
+[arxiv 2026.09] MemeCULT-1K: Benchmarking South Asian Cultural Context and Humor Understanding of Multimodal Models  [[PDF](https://arxiv.org/abs/2609.01772)]
+
+[arxiv 2026.09] NeoMME: A Single-Tower Multimodal-Native Multilingual Foundation Encoder for Efficient Fine-Tuning and Inference  [[PDF](https://arxiv.org/abs/2609.01657)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## Feedback 

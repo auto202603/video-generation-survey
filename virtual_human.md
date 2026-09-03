@@ -648,6 +648,13 @@
 
 [arxiv 2026.09] Feed-Forward Multi-view Multi-person Reconstruction with Contrastive Human-Aware 3D Representation  [[PDF](https://arxiv.org/abs/2609.00745)]
 
+<!-- Added on 2026-09-03 -->
+[arxiv 2026.09] TAPVid-MV: A Benchmark for Tracking Any Point in 3D Across Multiple Views  [[PDF](https://arxiv.org/abs/2609.01899)]
+
+[arxiv 2026.09] Kirin: Animal Motion Generation from In-the-Wild Video  [[PDF](https://arxiv.org/abs/2609.01823)]
+
+[arxiv 2026.09] Designing Versatile Samples for Learned Trajectory Scoring  [[PDF](https://arxiv.org/abs/2609.01799)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Gaussian Face 
