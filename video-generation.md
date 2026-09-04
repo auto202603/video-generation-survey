@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-09-02 -->
+<!-- Added on 2026-09-04 -->
 [arxiv 2026.08] LayerRecall: A State-Conditioned Memory Router for Long-Horizon Consistency in Video Generation  [[PDF](https://arxiv.org/abs/2608.28460)]
 
 [arxiv 2026.08] How Far Can 5,500 Hours of Driving Take You? A Scaling Law Analysis of Video Diffusion Models  [[PDF](https://arxiv.org/abs/2608.28404)]
@@ -13,12 +13,19 @@
 [arxiv 2026.08] Temporal Tree of Thought: Reasoning-Guided Visual Cue Search for Long-Video Understanding  [[PDF](https://arxiv.org/abs/2608.27871)]
 
 [arxiv 2026.08] R2M-Bench: Evaluating Revisit Memory via Relative Consistency in Interactive Video World Models  [[PDF](https://arxiv.org/abs/2608.27328),[Page](https://github.com/AMAP-ML/R2MBench)]
+
 [arxiv 2026.08] EditaLive! Unified Character Video Editing for Live Streaming  [[PDF](https://arxiv.org/abs/2608.27123)]
+
 [arxiv 2026.08] TempJail: Temporal Jailbreak Attacks against Image-to-Video Generation Models  [[PDF](https://arxiv.org/abs/2608.26971)]
+
 [arxiv 2026.08] Tether the Subject, Release the Scene: Query-Aware Memory Routing for Long-Horizon Autoregressive Video Generation  [[PDF](https://arxiv.org/abs/2608.26902)]
+
 [arxiv 2026.08] Thinking on Shots: Consistent Multi-Shot Video Editing with Agentic Reasoning  [[PDF](https://arxiv.org/abs/2608.26809),[Page](https://wucy0519.github.io/MMLVE/)]
+
 [arxiv 2026.08] Ring Forcing: Towards Precise Long-Term Memory for Autoregressive Video Diffusion  [[PDF](https://arxiv.org/abs/2608.26794),[Page](https://ringforcing.com)]
+
 [arxiv 2026.08] RECAP-Forcing: Retaining Content Appearances for Long Video Generation  [[PDF](https://arxiv.org/abs/2608.26671),[Page](https://xxuhaiyang.github.io/RECAP-Forcing/)]
+
 [arxiv 2026.08] StreamAV-Bench: A Comprehensive Benchmark for Streaming Audio-Video Generation  [[PDF](https://arxiv.org/abs/2608.26336)]
 
 
@@ -78,8 +85,8 @@
 
 [arxiv 2026.07] SGA: Plug&amp;Play Geometric Verification for Educational Video Synthesis  [[PDF](https://arxiv.org/abs/2607.18116)]
 
-<!-- Added on 2026-08-31 -->
-<!-- Added on 2026-08-31 -->
+<!-- Added on 2026-09-04 -->
+<!-- Added on 2026-09-04 -->
 [arxiv 2026.07] VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding  [[PDF](https://arxiv.org/abs/2607.14935)]
 
 [arxiv 2026.07] VideoSEMA: a scalable and efficient Mamba-like attention for video understanding  [[PDF](https://arxiv.org/abs/2607.14711)]
@@ -114,12 +121,12 @@
 
 [arxiv 2026.07] Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory  [[PDF](https://arxiv.org/abs/2607.05511),[Page](https://clare-nie.github.io/Light-Omni)]
 
-<!-- Added on 2026-08-31 -->
-<!-- Added on 2026-08-31 -->
-<!-- Added on 2026-08-31 -->
-<!-- Added on 2026-08-31 -->
-<!-- Added on 2026-08-31 -->
-<!-- Added on 2026-08-31 -->
+<!-- Added on 2026-09-04 -->
+<!-- Added on 2026-09-04 -->
+<!-- Added on 2026-09-04 -->
+<!-- Added on 2026-09-04 -->
+<!-- Added on 2026-09-04 -->
+<!-- Added on 2026-09-04 -->
 [arxiv 2026.06] World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration  [[PDF](https://arxiv.org/abs/2606.31946)]
 
 [arxiv 2026.06] DriveWeaver: Point-Conditioned Video Inpainting for Controllable Vehicle Insertion in Autonomous Driving Simulation  [[PDF](https://arxiv.org/abs/2606.31918),[Page](https://github.com/LogosRoboticsGroup/DriveWeaver)]
@@ -1474,12 +1481,26 @@ A reading list of video generation
 
 [arxiv 2026.09] StreamScout: Learning When to Look Deeper for Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2609.00291)]
 
-<!-- Added on 2026-09-03 -->
+<!-- Added on 2026-09-04 -->
 [arxiv 2026.09] SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models  [[PDF](https://arxiv.org/abs/2609.02886),[Page](https://junchao-cs.github.io/SolarWM-Web/)]
 
 [arxiv 2026.09] ShallowStream: Index Shallow then Answer Deep for Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2609.02780)]
 
 [arxiv 2026.09] The Missing Temporal Link: Temporal Context Routing for Script-Driven Audio-Video Generation  [[PDF](https://arxiv.org/abs/2609.02367)]
+
+[arxiv 2026.09] One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing  [[PDF](https://arxiv.org/abs/2609.04190),[Page](https://plan-lab.github.io/editvid)]
+
+[arxiv 2026.09] Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning  [[PDF](https://arxiv.org/abs/2609.04183)]
+
+[arxiv 2026.09] Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2609.04131)]
+
+[arxiv 2026.09] DSAQuant: Denoising-Stage-Aligned Quantization-Aware Training for Video Generation  [[PDF](https://arxiv.org/abs/2609.04031),[Page](https://robbyant-research.github.io/DSAQuant/)]
+
+[arxiv 2026.09] OctWorld: Long-Range World-Consistent Video Generation with Octree-Based 3D Mapping  [[PDF](https://arxiv.org/abs/2609.03919),[Page](https://maxtirerror.github.io/octworldpage/)]
+
+[arxiv 2026.09] A Reverse Sign Language Dictionary: Open-Vocabulary Sign Recognition from Continuous Signing via Video Captioning and Description Retrieval  [[PDF](https://arxiv.org/abs/2609.03788)]
+
+[arxiv 2026.09] CoFiE: Coarse-to-Fine Evidence Selection for Efficient Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2609.03675)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

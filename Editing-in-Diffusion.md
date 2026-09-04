@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-09-02 -->
+<!-- Added on 2026-09-04 -->
 [arxiv 2026.08] Abstract4D: A Large-Scale Dataset and Framework for Understanding the Visual Language of Abstract Art  [[PDF](https://arxiv.org/abs/2608.28339)]
 
 [arxiv 2026.08] Non-Uniform Quantisation for 3DGS Compression  [[PDF](https://arxiv.org/abs/2608.28272)]
@@ -19,13 +19,21 @@
 [arxiv 2026.08] ABCD: Alpha-Composited Block Coordinate Descent: Constant-VRAM Training for Large Radiance Fields  [[PDF](https://arxiv.org/abs/2608.27735)]
 
 [arxiv 2026.08] KnockGS:interaction-Grounded Calibrationof Physical Gaussian Representations  [[PDF](https://arxiv.org/abs/2608.27365)]
+
 [arxiv 2026.08] Vision-centric generative AI models: A software-hardware perspective  [[PDF](https://arxiv.org/abs/2608.27199)]
+
 [arxiv 2026.08] Per-View Gaussian Predictions Enable Training-Free Distractor Filtering in Feed-Forward 3DGS  [[PDF](https://arxiv.org/abs/2608.26951)]
+
 [arxiv 2026.08] KISS-GS: 3D Gaussian Splatting Compression Kept Simple  [[PDF](https://arxiv.org/abs/2608.26948)]
+
 [arxiv 2026.08] CGS-SLAM: Collaborative Gaussian Splatting based SLAM for Multi-Agent Reconstruction  [[PDF](https://arxiv.org/abs/2608.26868)]
+
 [arxiv 2026.08] CoGeo-GS: Concept-Driven and Geometry-Aware Multi-Object Removal in 3D Scenes  [[PDF](https://arxiv.org/abs/2608.26656)]
+
 [arxiv 2026.08] Text-to-seed generation: Training-free open-vocabulary seeded semantic segmentation via re-purposing diffusion as text-guided seed generator  [[PDF](https://arxiv.org/abs/2608.26624)]
+
 [arxiv 2026.08] Zero-Shot Video Restoration and Enhancement with Text-to-Image Latent Diffusion Models and Multi-Modal References  [[PDF](https://arxiv.org/abs/2608.26476)]
+
 [arxiv 2026.08] Comparative Evaluation of 3D Reconstruction Methods for Immersive Visualization of Laboratory Objects  [[PDF](https://arxiv.org/abs/2608.27301)]
 
 
@@ -149,8 +157,8 @@
 
 [arxiv 2026.07] Points as Tori: Fast Pointwise Signed Distance for Point Clouds  [[PDF](https://arxiv.org/abs/2607.16946),[Page](https://nzfeng.github.io/research/PointsAsTori)]
 
-<!-- Added on 2026-08-31 -->
-<!-- Added on 2026-08-31 -->
+<!-- Added on 2026-09-04 -->
+<!-- Added on 2026-09-04 -->
 [arxiv 2026.07] QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration  [[PDF](https://arxiv.org/abs/2607.15097)]
 
 [arxiv 2026.07] RoGS: Adaptive Meshgrid Gaussian for Large-Scale Road Surface Mapping  [[PDF](https://arxiv.org/abs/2607.15048)]
@@ -213,11 +221,11 @@
 
 [arxiv 2026.07] TILDE: TILt-based Distributional Erasure for Concept Unlearning  [[PDF](https://arxiv.org/abs/2607.06432)]
 
-<!-- Added on 2026-08-31 -->
-<!-- Added on 2026-08-31 -->
-<!-- Added on 2026-08-31 -->
-<!-- Added on 2026-08-31 -->
-<!-- Added on 2026-08-31 -->
+<!-- Added on 2026-09-04 -->
+<!-- Added on 2026-09-04 -->
+<!-- Added on 2026-09-04 -->
+<!-- Added on 2026-09-04 -->
+<!-- Added on 2026-09-04 -->
 [arxiv 2026.06] GEAR: Guided End-to-End AutoRegression for Image Synthesis  [[PDF](https://arxiv.org/abs/2606.32039)]
 
 [arxiv 2026.06] SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE  [[PDF](https://arxiv.org/abs/2606.32033)]
@@ -3115,7 +3123,7 @@
 
 [arxiv 2026.09] Inverse Rendering for Modeling with Line Primitives  [[PDF](https://arxiv.org/abs/2609.00625),[Page](https://kenji-tojo.github.io/sa26-line-primitives/)]
 
-<!-- Added on 2026-09-03 -->
+<!-- Added on 2026-09-04 -->
 [arxiv 2026.09] RoGe: Novel View Synthesis via End-to-End Implicit Reconstruction and Generation  [[PDF](https://arxiv.org/abs/2609.02847)]
 
 [arxiv 2026.09] GDB-Reward: From Evaluation Metrics to Training Rewards for Graphic Design  [[PDF](https://arxiv.org/abs/2609.02813)]
@@ -3155,6 +3163,38 @@
 [arxiv 2026.09] Automated Maize Ear Phenotyping Using 3D Reconstructions  [[PDF](https://arxiv.org/abs/2609.01921)]
 
 [arxiv 2026.09] SliceBridge: context-consistent repair of corrupted slice intervals in T1-weighted MRI  [[PDF](https://arxiv.org/abs/2609.01827)]
+
+[arxiv 2026.09] Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations  [[PDF](https://arxiv.org/abs/2609.04174),[Page](https://akola-mbey-denis.github.io/Z3D-page/)]
+
+[arxiv 2026.09] Editable Visual Design  [[PDF](https://arxiv.org/abs/2609.04034)]
+
+[arxiv 2026.09] Sparse auto-regressive modeling for scene generation from multi-view images  [[PDF](https://arxiv.org/abs/2609.03931)]
+
+[arxiv 2026.09] SPARK: Input-Conditioned Sparse Activation Modulation for Frozen DiT-based Super-Resolution  [[PDF](https://arxiv.org/abs/2609.03813)]
+
+[arxiv 2026.09] LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes  [[PDF](https://arxiv.org/abs/2609.03796)]
+
+[arxiv 2026.09] ToPO: Token-Conditioned Preference Routing for Attention-Based Latent Diffusion Models  [[PDF](https://arxiv.org/abs/2609.03688)]
+
+[arxiv 2026.09] Rethinking 3D Noise: Learning 3D-Aware Video Priors via Optimization-Free Morphological Perturbations  [[PDF](https://arxiv.org/abs/2609.03657)]
+
+[arxiv 2026.09] Stabilizing Camera-Controlled Novel View Synthesis at Inference Time  [[PDF](https://arxiv.org/abs/2609.03639)]
+
+[arxiv 2026.09] Text2Thermal: Physics-Aware Thermal Image Synthesis from Textual Priors  [[PDF](https://arxiv.org/abs/2609.03585)]
+
+[arxiv 2026.09] TruncGradGS: Improved 3D Gaussian Splatting via Truncated Gradient Updates  [[PDF](https://arxiv.org/abs/2609.03534)]
+
+[arxiv 2026.09] SafeRestore: Detector-Relative Risk Certificates for Selective Industrial Image Restoration  [[PDF](https://arxiv.org/abs/2609.03475)]
+
+[arxiv 2026.09] STARS-GS: Structure-Aware Regularized Gaussian Splatting for Large-Scale Aerial Surface Reconstruction  [[PDF](https://arxiv.org/abs/2609.03447)]
+
+[arxiv 2026.09] Mudragen: Geometrically Supervised Generation of Interacting Two-Hand Mudras for Preserving Indian Classical Dance Heritage  [[PDF](https://arxiv.org/abs/2609.03415)]
+
+[arxiv 2026.09] P-CORE: Self-Supervised Surface Consistency for Point-Based Neural Editing  [[PDF](https://arxiv.org/abs/2609.03349),[Page](https://zvict.github.io/p-core/)]
+
+[arxiv 2026.09] PointGT: Simultaneous Geometry and Texture Editing for Point-Based Representations  [[PDF](https://arxiv.org/abs/2609.03341),[Page](https://zvict.github.io/pointgt/)]
+
+[arxiv 2026.09] Laplacian Frequency Hierarchies for Efficient 3D Gaussian Splatting Training  [[PDF](https://arxiv.org/abs/2609.03334),[Page](https://sorenzhang574.github.io/Laplacian-GS/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
