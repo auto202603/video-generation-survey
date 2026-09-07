@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-09-04 -->
+<!-- Added on 2026-09-07 -->
 [arxiv 2026.08] Abstract4D: A Large-Scale Dataset and Framework for Understanding the Visual Language of Abstract Art  [[PDF](https://arxiv.org/abs/2608.28339)]
 
 [arxiv 2026.08] Non-Uniform Quantisation for 3DGS Compression  [[PDF](https://arxiv.org/abs/2608.28272)]
@@ -157,8 +157,8 @@
 
 [arxiv 2026.07] Points as Tori: Fast Pointwise Signed Distance for Point Clouds  [[PDF](https://arxiv.org/abs/2607.16946),[Page](https://nzfeng.github.io/research/PointsAsTori)]
 
-<!-- Added on 2026-09-04 -->
-<!-- Added on 2026-09-04 -->
+<!-- Added on 2026-09-07 -->
+<!-- Added on 2026-09-07 -->
 [arxiv 2026.07] QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration  [[PDF](https://arxiv.org/abs/2607.15097)]
 
 [arxiv 2026.07] RoGS: Adaptive Meshgrid Gaussian for Large-Scale Road Surface Mapping  [[PDF](https://arxiv.org/abs/2607.15048)]
@@ -221,11 +221,11 @@
 
 [arxiv 2026.07] TILDE: TILt-based Distributional Erasure for Concept Unlearning  [[PDF](https://arxiv.org/abs/2607.06432)]
 
-<!-- Added on 2026-09-04 -->
-<!-- Added on 2026-09-04 -->
-<!-- Added on 2026-09-04 -->
-<!-- Added on 2026-09-04 -->
-<!-- Added on 2026-09-04 -->
+<!-- Added on 2026-09-07 -->
+<!-- Added on 2026-09-07 -->
+<!-- Added on 2026-09-07 -->
+<!-- Added on 2026-09-07 -->
+<!-- Added on 2026-09-07 -->
 [arxiv 2026.06] GEAR: Guided End-to-End AutoRegression for Image Synthesis  [[PDF](https://arxiv.org/abs/2606.32039)]
 
 [arxiv 2026.06] SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE  [[PDF](https://arxiv.org/abs/2606.32033)]
@@ -3123,7 +3123,7 @@
 
 [arxiv 2026.09] Inverse Rendering for Modeling with Line Primitives  [[PDF](https://arxiv.org/abs/2609.00625),[Page](https://kenji-tojo.github.io/sa26-line-primitives/)]
 
-<!-- Added on 2026-09-04 -->
+<!-- Added on 2026-09-07 -->
 [arxiv 2026.09] RoGe: Novel View Synthesis via End-to-End Implicit Reconstruction and Generation  [[PDF](https://arxiv.org/abs/2609.02847)]
 
 [arxiv 2026.09] GDB-Reward: From Evaluation Metrics to Training Rewards for Graphic Design  [[PDF](https://arxiv.org/abs/2609.02813)]
@@ -3195,6 +3195,28 @@
 [arxiv 2026.09] PointGT: Simultaneous Geometry and Texture Editing for Point-Based Representations  [[PDF](https://arxiv.org/abs/2609.03341),[Page](https://zvict.github.io/pointgt/)]
 
 [arxiv 2026.09] Laplacian Frequency Hierarchies for Efficient 3D Gaussian Splatting Training  [[PDF](https://arxiv.org/abs/2609.03334),[Page](https://sorenzhang574.github.io/Laplacian-GS/)]
+
+[arxiv 2026.09] UniMate: One Unified Model to Animate Diverse Skeletons  [[PDF](https://arxiv.org/abs/2609.05415),[Page](https://linzhanmou.com/unimate/)]
+
+[arxiv 2026.09] Reflection-aware Generative Novel View Synthesis  [[PDF](https://arxiv.org/abs/2609.05382),[Page](https://kim-geonu.github.io/Ref-GeNVS/)]
+
+[arxiv 2026.09] Learning Spatial-Spectral Refinement and Calibrating Complementary Observations for Hyperspectral Image Super-Resolution  [[PDF](https://arxiv.org/abs/2609.05303)]
+
+[arxiv 2026.09] WeAgent-MMGenEdit: A Full-Stack Recipe for Multimodal Agentic Image Generation and Editing  [[PDF](https://arxiv.org/abs/2609.05171)]
+
+[arxiv 2026.09] RefDiT: Local Attribute Guidance in Reference-Based Image Generation  [[PDF](https://arxiv.org/abs/2609.04976)]
+
+[arxiv 2026.09] LensStyle: Learning the Optical Aesthetics for Controllable Stylized Lens Effect Rendering  [[PDF](https://arxiv.org/abs/2609.04939)]
+
+[arxiv 2026.09] PAPT++: Risk-Aware Adversarial Tuning and Generation for Single Domain Generalization  [[PDF](https://arxiv.org/abs/2609.04837)]
+
+[arxiv 2026.09] Importance-Aware Low-Rank Distillation of Diffusion Transformers  [[PDF](https://arxiv.org/abs/2609.04646)]
+
+[arxiv 2026.09] An Evaluation Framework for Generating Multi-View Images of a Person in a Scene  [[PDF](https://arxiv.org/abs/2609.04603)]
+
+[arxiv 2026.09] Where Appearance Fails, Geometry Recognizes: A CAD-Free 3D Shape Prior That Complements Vision Foundation Models  [[PDF](https://arxiv.org/abs/2609.04381)]
+
+[arxiv 2026.09] Step Back to Move Forward: Reflection-Aware Preference Optimization for Visual Generation  [[PDF](https://arxiv.org/abs/2609.04282)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
