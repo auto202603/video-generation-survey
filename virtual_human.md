@@ -1365,3 +1365,13 @@
 [arxiv 2026.06] Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking  [[PDF](https://arxiv.org/abs/2606.03985)]
 
 [arxiv 2026.06] MARIO: Motion-Augmented Real-Time Multi-Sensor Inertial Odometry  [[PDF](https://arxiv.org/abs/2606.02996)]
+
+[arxiv 2026.09] Field Converter: Geometry-Initialized Temporal Residual Refinement for World-Grounded Player Pose Estimation from Soccer Broadcasts  [[PDF](https://arxiv.org/abs/2609.10498),[Page](https://github.com/KhanSimon/field_converter)]
+
+[arxiv 2026.09] PACE: Perceived-Latency-Aware Cascading Service Routing and Filler Control for QoE-Efficient Retrieval-Augmented Dialogue Serving  [[PDF](https://arxiv.org/abs/2609.10372)]
+
+[arxiv 2026.09] Decoupled Self-Forcing Distillation for Streaming Talking Head Generation  [[PDF](https://arxiv.org/abs/2609.10317)]
+
+[arxiv 2026.09] Multimodal Emotion Recognition in Conversations via Class-Wise Adaptive Modality Fusion and Affective Geometry  [[PDF](https://arxiv.org/abs/2609.09924)]
+
+[arxiv 2026.09] The Living Library: Transforming Archival Collections into Conversational Knowledge Systems -- Lessons from the Theodore Roosevelt Presidential Library  [[PDF](https://arxiv.org/abs/2609.09368)]

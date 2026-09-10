@@ -9707,3 +9707,23 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.06] BEAST3D: Animal behavioral analysis and neural encoding from multi-view video via Gaussian splatting  [[PDF](https://arxiv.org/abs/2606.02937)]
 
 [arxiv 2026.06] PaintBench: Deterministic Evaluation of Precise Visual Editing  [[PDF](https://arxiv.org/abs/2606.00188),[Page](https://paintbench.github.io/)]
+
+[arxiv 2026.09] Guiding Image-to-3D Generation with Test-Time Partial Observations  [[PDF](https://arxiv.org/abs/2609.10531)]
+
+[arxiv 2026.09] Shape-guided Gaussian Splatting for Sparse-View X-ray 3D Reconstruction  [[PDF](https://arxiv.org/abs/2609.10376)]
+
+[arxiv 2026.09] LinearMask-GS: Stable-Mask Importance Pruning for Compact 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2609.10095)]
+
+[arxiv 2026.09] Interpreting Object-Dependent Concept Brittleness in Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2609.09909)]
+
+[arxiv 2026.09] StreetDiff: Multi-view Street Scenes Generation via Cross-view Consistent Multi-view Stable Diffusion with Structure Prompts  [[PDF](https://arxiv.org/abs/2609.09890)]
+
+[arxiv 2026.09] RouteBridge: Reliability-Routed Bidirectional Distillation Between Neural Radiance Fields and 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2609.09606)]
+
+[arxiv 2026.09] AnimalLift: Reconstructing Animatable 3D Animals from a Single Image by Learning Canonical Shape, Texture, and Fur Maps  [[PDF](https://arxiv.org/abs/2609.09513)]
+
+[arxiv 2026.09] View-Structured Conformal Prediction for 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2609.10307)]
+
+[arxiv 2026.09] RealSimLoop: Online Real-to-Sim Adaptation via Differentiable Reduced-Order Simulation with Vision Feedback  [[PDF](https://arxiv.org/abs/2609.09828)]
+
+[arxiv 2026.09] Efficient Fairness Auditing Across Guidance Scales in Text-to-Image Diffusion Models via Causal Abstraction  [[PDF](https://arxiv.org/abs/2609.09486)]

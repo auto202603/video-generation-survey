@@ -7154,3 +7154,25 @@
 [arxiv 2026.06] SCOPE: Real-Time Natural Language Camera Agent at the Edge  [[PDF](https://arxiv.org/abs/2606.02951),[Page](https://github.com/HindsboNikolaj/SCOPE)]
 
 [arxiv 2026.06] BYORn: Bootstrap Your Own Responses to Defend Large Vision-Language Models Against Backdoor Attacks  [[PDF](https://arxiv.org/abs/2606.02947)]
+
+[arxiv 2026.09] Spot-the-shift: Evaluating Grounded Image Difference Captioning of Long-term Changes  [[PDF](https://arxiv.org/abs/2609.10356)]
+
+[arxiv 2026.09] Beyond One-Size-Fits-All: Sample-Adaptive Strategy Routing for Vision Token Pruning in MLLMs  [[PDF](https://arxiv.org/abs/2609.10346)]
+
+[arxiv 2026.09] UOT-Gap: A Variational Principle for the Modality Gap in Vision-Language Models via Unbalanced Optimal Transport  [[PDF](https://arxiv.org/abs/2609.10224)]
+
+[arxiv 2026.09] Beyond Similarity: Foundation Models as an Efficient Backbone for Training-Free Composed Video Retrieval  [[PDF](https://arxiv.org/abs/2609.10008)]
+
+[arxiv 2026.09] LogiScope-VQA: Benchmarking Vision-Language Models for Logistics Hazard Identification in Industrial Scenarios  [[PDF](https://arxiv.org/abs/2609.09790)]
+
+[arxiv 2026.09] Low-Rank Prompt Learning for Vision-Language Models with Fixed-Token Bases  [[PDF](https://arxiv.org/abs/2609.09462)]
+
+[arxiv 2026.09] Vision-language models know more about agriculture than they show and rubric-grounded verifications close the gap  [[PDF](https://arxiv.org/abs/2609.09417)]
+
+[arxiv 2026.09] VANTAGE-Bench: Evaluating the Infrastructure AI Gap in Vision-Language Models  [[PDF](https://arxiv.org/abs/2609.09396),[Page](https://vantage-bench.org/)]
+
+[arxiv 2026.09] MLLMs Hallucinate when Information Distribution Drifts in Synergy Heads  [[PDF](https://arxiv.org/abs/2609.09206)]
+
+[arxiv 2026.09] Evidence-Order Calibration for Selective Visual Reasoning under Progressive Loss of Question-Critical Evidence  [[PDF](https://arxiv.org/abs/2609.09184),[Page](https://github.com/aacaas5/evidence-order-calibration-vlm)]
+
+[arxiv 2026.09] Show-Harness: Just a VLM Agent Can Play Robots  [[PDF](https://arxiv.org/abs/2609.10522),[Page](https://showlab.github.io/Show-Harness)]
