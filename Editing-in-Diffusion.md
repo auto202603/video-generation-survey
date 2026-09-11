@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-09-07 -->
+<!-- Added on 2026-09-11 -->
 [arxiv 2026.08] Abstract4D: A Large-Scale Dataset and Framework for Understanding the Visual Language of Abstract Art  [[PDF](https://arxiv.org/abs/2608.28339)]
 
 [arxiv 2026.08] Non-Uniform Quantisation for 3DGS Compression  [[PDF](https://arxiv.org/abs/2608.28272)]
@@ -157,8 +157,8 @@
 
 [arxiv 2026.07] Points as Tori: Fast Pointwise Signed Distance for Point Clouds  [[PDF](https://arxiv.org/abs/2607.16946),[Page](https://nzfeng.github.io/research/PointsAsTori)]
 
-<!-- Added on 2026-09-07 -->
-<!-- Added on 2026-09-07 -->
+<!-- Added on 2026-09-11 -->
+<!-- Added on 2026-09-11 -->
 [arxiv 2026.07] QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration  [[PDF](https://arxiv.org/abs/2607.15097)]
 
 [arxiv 2026.07] RoGS: Adaptive Meshgrid Gaussian for Large-Scale Road Surface Mapping  [[PDF](https://arxiv.org/abs/2607.15048)]
@@ -221,11 +221,11 @@
 
 [arxiv 2026.07] TILDE: TILt-based Distributional Erasure for Concept Unlearning  [[PDF](https://arxiv.org/abs/2607.06432)]
 
-<!-- Added on 2026-09-07 -->
-<!-- Added on 2026-09-07 -->
-<!-- Added on 2026-09-07 -->
-<!-- Added on 2026-09-07 -->
-<!-- Added on 2026-09-07 -->
+<!-- Added on 2026-09-11 -->
+<!-- Added on 2026-09-11 -->
+<!-- Added on 2026-09-11 -->
+<!-- Added on 2026-09-11 -->
+<!-- Added on 2026-09-11 -->
 [arxiv 2026.06] GEAR: Guided End-to-End AutoRegression for Image Synthesis  [[PDF](https://arxiv.org/abs/2606.32039)]
 
 [arxiv 2026.06] SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE  [[PDF](https://arxiv.org/abs/2606.32033)]
@@ -3123,7 +3123,7 @@
 
 [arxiv 2026.09] Inverse Rendering for Modeling with Line Primitives  [[PDF](https://arxiv.org/abs/2609.00625),[Page](https://kenji-tojo.github.io/sa26-line-primitives/)]
 
-<!-- Added on 2026-09-07 -->
+<!-- Added on 2026-09-11 -->
 [arxiv 2026.09] RoGe: Novel View Synthesis via End-to-End Implicit Reconstruction and Generation  [[PDF](https://arxiv.org/abs/2609.02847)]
 
 [arxiv 2026.09] GDB-Reward: From Evaluation Metrics to Training Rewards for Graphic Design  [[PDF](https://arxiv.org/abs/2609.02813)]
@@ -3217,6 +3217,28 @@
 [arxiv 2026.09] Where Appearance Fails, Geometry Recognizes: A CAD-Free 3D Shape Prior That Complements Vision Foundation Models  [[PDF](https://arxiv.org/abs/2609.04381)]
 
 [arxiv 2026.09] Step Back to Move Forward: Reflection-Aware Preference Optimization for Visual Generation  [[PDF](https://arxiv.org/abs/2609.04282)]
+
+[arxiv 2026.09] 3D Point Splatting for mmWave Radar Novel View Synthesis  [[PDF](https://arxiv.org/abs/2609.11894)]
+
+[arxiv 2026.09] Logit Refiner: Improving Visual Autoregressive Models via Intra-Scale Dependency Modeling  [[PDF](https://arxiv.org/abs/2609.11804)]
+
+[arxiv 2026.09] Multimodal Taxonomic Conditioning for Generative Plankton Imagery  [[PDF](https://arxiv.org/abs/2609.11673)]
+
+[arxiv 2026.09] Mi-Ripple: Restoring Images Degraded by Iterative AI Editing  [[PDF](https://arxiv.org/abs/2609.11317)]
+
+[arxiv 2026.09] Tri-DehazeGS: Scene--Medium Decoupled Gaussian Splatting with Transmittance-Aware Optimization  [[PDF](https://arxiv.org/abs/2609.11223)]
+
+[arxiv 2026.09] A Multi-View and Confusion-Guided Ensemble Framework for Robust Synthetic Image Attribution  [[PDF](https://arxiv.org/abs/2609.11188)]
+
+[arxiv 2026.09] Overpainting: Localized Context-aware Diffusion Image Editing  [[PDF](https://arxiv.org/abs/2609.10811)]
+
+[arxiv 2026.09] Shedding Light: A Benchmark for Evaluating Lighting Understanding in Generative Image Models  [[PDF](https://arxiv.org/abs/2609.10787)]
+
+[arxiv 2026.09] GRADE: Single-Frame Generative Radar Depth Estimation Under Visual Degradation  [[PDF](https://arxiv.org/abs/2609.10756)]
+
+[arxiv 2026.09] AcFlow: Controlling Text-to-Image Diffusion Transformers via Learned Conditional Activation Flow  [[PDF](https://arxiv.org/abs/2609.10723)]
+
+[arxiv 2026.09] Hologram Representation via Quadratic Phase Gaussian Splatting  [[PDF](https://arxiv.org/abs/2609.11434)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
