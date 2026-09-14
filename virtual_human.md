@@ -1,5 +1,8 @@
 ## Dataset
-<!-- Added on 2026-09-11 -->
+<!-- Added on 2026-09-14 -->
+
+[arxiv 2026.09] UniMo: Unifying Human and Animal Motion Generation  [[PDF](https://arxiv.org/abs/2609.12342)]
+
 [arxiv 2026.08] GraspHOI: Full-Body 3D Human-Object Reconstruction with Finger-Level Grasps from a Single In-the-Wild Image  [[PDF](https://arxiv.org/abs/2608.28386)]
 
 [arxiv 2026.08] RASA: Disentangled Spatial-Motional Priors for Cross-Identity Character Animation  [[PDF](https://arxiv.org/abs/2608.28219)]

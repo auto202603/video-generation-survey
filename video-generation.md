@@ -1,5 +1,14 @@
 # Video Generation Survey
-<!-- Added on 2026-09-11 -->
+<!-- Added on 2026-09-14 -->
+
+[arxiv 2026.09] Physics-Aware Video Generation via Agentic Planning and Graph-Guided Optimization  [[PDF](https://arxiv.org/abs/2609.13006)]
+
+[arxiv 2026.09] VideoTok4D: A 4D-Aware Video Tokenizer for Compact World Representation  [[PDF](https://arxiv.org/abs/2609.12874)]
+
+[arxiv 2026.09] Online Video Agent Harness for Long Video Understanding  [[PDF](https://arxiv.org/abs/2609.12818)]
+
+[arxiv 2026.09] Does Video Memory Use What It Retrieves? A Causal Audit of Memory Specificity  [[PDF](https://arxiv.org/abs/2609.12090)]
+
 [arxiv 2026.08] LayerRecall: A State-Conditioned Memory Router for Long-Horizon Consistency in Video Generation  [[PDF](https://arxiv.org/abs/2608.28460)]
 
 [arxiv 2026.08] How Far Can 5,500 Hours of Driving Take You? A Scaling Law Analysis of Video Diffusion Models  [[PDF](https://arxiv.org/abs/2608.28404)]

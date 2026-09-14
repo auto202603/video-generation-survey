@@ -1,5 +1,16 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-09-11 -->
+<!-- Added on 2026-09-14 -->
+
+[arxiv 2026.09] Balancing Emotional Alignment and Semantic Consistency in Image Generation via Reinforcement Learning with Valence-Arousal Anchoring  [[PDF](https://arxiv.org/abs/2609.12830),[Page](https://github.com/ramon-alana/eit-with-anchor-and-grpo)]
+
+[arxiv 2026.09] GRACE: Adaptive Concept Erasure with Geometry-Guided Retention in Diffusion Models  [[PDF](https://arxiv.org/abs/2609.12731)]
+
+[arxiv 2026.09] NOVA-GS: Noise-Aware View-Consistent Gaussian Splatting for Low-Light Novel View Synthesis  [[PDF](https://arxiv.org/abs/2609.12682)]
+
+[arxiv 2026.09] LettuceVisSim: A Simulator That Generates Lettuce Image Time-series for Vision-Based Reinforcement Learning  [[PDF](https://arxiv.org/abs/2609.12505)]
+
+[arxiv 2026.09] VS-Splat: Voxel-Selective feed-forward Gaussian Splatting for end-to-end 3D object reconstruction from sparse-views  [[PDF](https://arxiv.org/abs/2609.12343)]
+
 [arxiv 2026.08] Abstract4D: A Large-Scale Dataset and Framework for Understanding the Visual Language of Abstract Art  [[PDF](https://arxiv.org/abs/2608.28339)]
 
 [arxiv 2026.08] Non-Uniform Quantisation for 3DGS Compression  [[PDF](https://arxiv.org/abs/2608.28272)]

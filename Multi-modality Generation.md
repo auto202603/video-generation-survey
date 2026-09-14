@@ -1,4 +1,29 @@
-<!-- Added on 2026-09-11 -->
+<!-- Added on 2026-09-14 -->
+
+[arxiv 2026.09] Pixel Decodability Is Not a Compression Signal: Causally Evaluating Importance Proxies for Visual KV-Cache Eviction  [[PDF](https://arxiv.org/abs/2609.13012)]
+
+[arxiv 2026.09] Pre-Trained Low-Rank Tensor Decomposition for Multi-Dimensional Image Recovery  [[PDF](https://arxiv.org/abs/2609.12843)]
+
+[arxiv 2026.09] Semantically Aligned Gradient-Driven Context-Preserving Image Editing  [[PDF](https://arxiv.org/abs/2609.12691)]
+
+[arxiv 2026.09] Detecting and Explaining Fake News Short Videos with Multimodal Content and Real-World Evidence  [[PDF](https://arxiv.org/abs/2609.12678)]
+
+[arxiv 2026.09] RelateAnything: Real-Time Open-Vocabulary Relation Prediction From Any Inputs  [[PDF](https://arxiv.org/abs/2609.12552)]
+
+[arxiv 2026.09] One Skill Does Not Fit All: Automatic Discovery and Taxonomy-Guided Routing of Frame-Selection Skills for Long-Video Question Answering  [[PDF](https://arxiv.org/abs/2609.12517)]
+
+[arxiv 2026.09] ChitraMiti: Benchmarking Visual Grounding and Modality Reliance in Bengali Geometric Reasoning  [[PDF](https://arxiv.org/abs/2609.12509)]
+
+[arxiv 2026.09] UFO: Chain-of-Evaluation for Omni-Condition Alignment in Multi-Modal Image Generation  [[PDF](https://arxiv.org/abs/2609.12397)]
+
+[arxiv 2026.09] QuPAINT: Physics-Aware Multimodal Reasoning for Quantum Material Characterization  [[PDF](https://arxiv.org/abs/2609.12202)]
+
+[arxiv 2026.09] USPLIT-VQA: U-Shaped Split Learning for Visual Question Answering with Contribution-Aware Weighted Aggregation  [[PDF](https://arxiv.org/abs/2609.12168)]
+
+[arxiv 2026.09] What Did the MLLM Hear? Token-Level Spectro-Temporal Grounding for Audio MLLM Explainability  [[PDF](https://arxiv.org/abs/2609.12663)]
+
+[arxiv 2026.09] AnchorVLN: Geometry-Anchored Vision-Language Grounding Reasoning for Open-Vocabulary Navigation  [[PDF](https://arxiv.org/abs/2609.12285)]
+
 <!-- Added on 2026-09-11 -->
 [arxiv 2026.08] Post-Training VLMs for Video Mistake Detection  [[PDF](https://arxiv.org/abs/2608.28406)]
 
