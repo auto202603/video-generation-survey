@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-09-14 -->
+<!-- Added on 2026-09-16 -->
 
 [arxiv 2026.09] Balancing Emotional Alignment and Semantic Consistency in Image Generation via Reinforcement Learning with Valence-Arousal Anchoring  [[PDF](https://arxiv.org/abs/2609.12830),[Page](https://github.com/ramon-alana/eit-with-anchor-and-grpo)]
 
@@ -168,8 +168,8 @@
 
 [arxiv 2026.07] Points as Tori: Fast Pointwise Signed Distance for Point Clouds  [[PDF](https://arxiv.org/abs/2607.16946),[Page](https://nzfeng.github.io/research/PointsAsTori)]
 
-<!-- Added on 2026-09-11 -->
-<!-- Added on 2026-09-11 -->
+<!-- Added on 2026-09-16 -->
+<!-- Added on 2026-09-16 -->
 [arxiv 2026.07] QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration  [[PDF](https://arxiv.org/abs/2607.15097)]
 
 [arxiv 2026.07] RoGS: Adaptive Meshgrid Gaussian for Large-Scale Road Surface Mapping  [[PDF](https://arxiv.org/abs/2607.15048)]
@@ -232,11 +232,11 @@
 
 [arxiv 2026.07] TILDE: TILt-based Distributional Erasure for Concept Unlearning  [[PDF](https://arxiv.org/abs/2607.06432)]
 
-<!-- Added on 2026-09-11 -->
-<!-- Added on 2026-09-11 -->
-<!-- Added on 2026-09-11 -->
-<!-- Added on 2026-09-11 -->
-<!-- Added on 2026-09-11 -->
+<!-- Added on 2026-09-16 -->
+<!-- Added on 2026-09-16 -->
+<!-- Added on 2026-09-16 -->
+<!-- Added on 2026-09-16 -->
+<!-- Added on 2026-09-16 -->
 [arxiv 2026.06] GEAR: Guided End-to-End AutoRegression for Image Synthesis  [[PDF](https://arxiv.org/abs/2606.32039)]
 
 [arxiv 2026.06] SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE  [[PDF](https://arxiv.org/abs/2606.32033)]
@@ -3134,7 +3134,7 @@
 
 [arxiv 2026.09] Inverse Rendering for Modeling with Line Primitives  [[PDF](https://arxiv.org/abs/2609.00625),[Page](https://kenji-tojo.github.io/sa26-line-primitives/)]
 
-<!-- Added on 2026-09-11 -->
+<!-- Added on 2026-09-16 -->
 [arxiv 2026.09] RoGe: Novel View Synthesis via End-to-End Implicit Reconstruction and Generation  [[PDF](https://arxiv.org/abs/2609.02847)]
 
 [arxiv 2026.09] GDB-Reward: From Evaluation Metrics to Training Rewards for Graphic Design  [[PDF](https://arxiv.org/abs/2609.02813)]
@@ -3250,6 +3250,26 @@
 [arxiv 2026.09] AcFlow: Controlling Text-to-Image Diffusion Transformers via Learned Conditional Activation Flow  [[PDF](https://arxiv.org/abs/2609.10723)]
 
 [arxiv 2026.09] Hologram Representation via Quadratic Phase Gaussian Splatting  [[PDF](https://arxiv.org/abs/2609.11434)]
+
+[arxiv 2026.09] ORCA: Occlusion-Aware Refinement and Completion for Novel View Synthesis  [[PDF](https://arxiv.org/abs/2609.17450)]
+
+[arxiv 2026.09] SlotDiT: Object-Centric Representations for Diffusion Transformers  [[PDF](https://arxiv.org/abs/2609.17414),[Page](https://slot-dit.github.io/)]
+
+[arxiv 2026.09] PanoGS-SLAM: Panoramic 3D Gaussian Splatting SLAM  [[PDF](https://arxiv.org/abs/2609.17387)]
+
+[arxiv 2026.09] DecoGS: Adaptive Static-Dynamic Decoupling of 3D Gaussians for Free-Viewpoint Video Streaming  [[PDF](https://arxiv.org/abs/2609.17230)]
+
+[arxiv 2026.09] Bi-FlowGS: Bridging Generative View Completion and Gaussian Geometry through Bidirectional Flow Co-Refinement  [[PDF](https://arxiv.org/abs/2609.17039)]
+
+[arxiv 2026.09] FRPSS: Feature Rearrangement in Pre-Shape Space for Single-Image Generation  [[PDF](https://arxiv.org/abs/2609.16594)]
+
+[arxiv 2026.09] GraLoD: Graphics-Inspired Continuous Level-of-Detail Learning for Image Restoration  [[PDF](https://arxiv.org/abs/2609.16578)]
+
+[arxiv 2026.09] Efficient Text-to-Image Generation: An Adaptive Step Schedule Controller for Diffusion Models  [[PDF](https://arxiv.org/abs/2609.16572)]
+
+[arxiv 2026.09] Quantum-Inspired Trainable and Parameter-Efficient Tensor Networks for Image Inpainting  [[PDF](https://arxiv.org/abs/2609.17298)]
+
+[arxiv 2026.09] The Neverwhere Visual Parkour Benchmark Suite  [[PDF](https://arxiv.org/abs/2609.16443),[Page](https://ziyc.github.io/neverwhere-bench/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

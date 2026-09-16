@@ -1,5 +1,5 @@
 ## Dataset
-<!-- Added on 2026-09-14 -->
+<!-- Added on 2026-09-16 -->
 
 [arxiv 2026.09] UniMo: Unifying Human and Animal Motion Generation  [[PDF](https://arxiv.org/abs/2609.12342)]
 
@@ -28,8 +28,8 @@
 
 [arxiv 2026.07] Articulated Humanoid Head for a Robot Receptionist Capable of Natural Human Interaction  [[PDF](https://arxiv.org/abs/2607.17042)]
 
-<!-- Added on 2026-09-11 -->
-<!-- Added on 2026-09-11 -->
+<!-- Added on 2026-09-16 -->
+<!-- Added on 2026-09-16 -->
 [arxiv 2026.07] Online Neural Space Time Memory for Dynamic Novel View Synthesis  [[PDF](https://arxiv.org/abs/2607.15271),[Page](https://nst-mem.github.io)]
 
 [arxiv 2026.07] An LLM-Based Automatic Sportscast Solution for Robot Soccer Matches  [[PDF](https://arxiv.org/abs/2607.14809)]
@@ -52,7 +52,7 @@
 
 [arxiv 2026.07] WristMimic: Full-Body Humanoid Control with Wrist-Guided Manipulation  [[PDF](https://arxiv.org/abs/2607.06438)]
 
-<!-- Added on 2026-09-11 -->
+<!-- Added on 2026-09-16 -->
 [arxiv 2026.06] Identifying the Unknown: Prompt-Free Open Vocabulary Anomaly Recognition for Robot-Object Interaction  [[PDF](https://arxiv.org/abs/2606.26829)]
 
 [arxiv 2026.06] PressMimic: Pressure-Guided Motion Capture and Control for Humanoid Robot Imitation  [[PDF](https://arxiv.org/abs/2606.26741)]
@@ -653,7 +653,7 @@
 
 [arxiv 2026.09] Feed-Forward Multi-view Multi-person Reconstruction with Contrastive Human-Aware 3D Representation  [[PDF](https://arxiv.org/abs/2609.00745)]
 
-<!-- Added on 2026-09-11 -->
+<!-- Added on 2026-09-16 -->
 [arxiv 2026.09] TAPVid-MV: A Benchmark for Tracking Any Point in 3D Across Multiple Views  [[PDF](https://arxiv.org/abs/2609.01899)]
 
 [arxiv 2026.09] Kirin: Animal Motion Generation from In-the-Wild Video  [[PDF](https://arxiv.org/abs/2609.01823)]
@@ -974,7 +974,7 @@
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 # ego
-<!-- Added on 2026-09-11 -->
+<!-- Added on 2026-09-16 -->
 [arxiv 2026.06] PointSplat: Compact Gaussian Splatting via Human-Centric Prediction  [[PDF](https://arxiv.org/abs/2606.32036),[Page](https://zju3dv.github.io/pointsplat)]
 
 [arxiv 2026.06] LUNA: Learning Universal 3D Human Animation Beyond Skinning  [[PDF](https://arxiv.org/abs/2606.31981),[Page](https://penghtyx.github.io/LUNA/)]

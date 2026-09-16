@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-09-14 -->
+<!-- Added on 2026-09-16 -->
 
 [arxiv 2026.09] Physics-Aware Video Generation via Agentic Planning and Graph-Guided Optimization  [[PDF](https://arxiv.org/abs/2609.13006)]
 
@@ -94,8 +94,8 @@
 
 [arxiv 2026.07] SGA: Plug&amp;Play Geometric Verification for Educational Video Synthesis  [[PDF](https://arxiv.org/abs/2607.18116)]
 
-<!-- Added on 2026-09-11 -->
-<!-- Added on 2026-09-11 -->
+<!-- Added on 2026-09-16 -->
+<!-- Added on 2026-09-16 -->
 [arxiv 2026.07] VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding  [[PDF](https://arxiv.org/abs/2607.14935)]
 
 [arxiv 2026.07] VideoSEMA: a scalable and efficient Mamba-like attention for video understanding  [[PDF](https://arxiv.org/abs/2607.14711)]
@@ -130,12 +130,12 @@
 
 [arxiv 2026.07] Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory  [[PDF](https://arxiv.org/abs/2607.05511),[Page](https://clare-nie.github.io/Light-Omni)]
 
-<!-- Added on 2026-09-11 -->
-<!-- Added on 2026-09-11 -->
-<!-- Added on 2026-09-11 -->
-<!-- Added on 2026-09-11 -->
-<!-- Added on 2026-09-11 -->
-<!-- Added on 2026-09-11 -->
+<!-- Added on 2026-09-16 -->
+<!-- Added on 2026-09-16 -->
+<!-- Added on 2026-09-16 -->
+<!-- Added on 2026-09-16 -->
+<!-- Added on 2026-09-16 -->
+<!-- Added on 2026-09-16 -->
 [arxiv 2026.06] World Narrative Model for Highly Controllable Video Generation: A Paradigm Shift from Pixel Sampling to Physical World Orchestration  [[PDF](https://arxiv.org/abs/2606.31946)]
 
 [arxiv 2026.06] DriveWeaver: Point-Conditioned Video Inpainting for Controllable Vehicle Insertion in Autonomous Driving Simulation  [[PDF](https://arxiv.org/abs/2606.31918),[Page](https://github.com/LogosRoboticsGroup/DriveWeaver)]
@@ -1490,7 +1490,7 @@ A reading list of video generation
 
 [arxiv 2026.09] StreamScout: Learning When to Look Deeper for Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2609.00291)]
 
-<!-- Added on 2026-09-11 -->
+<!-- Added on 2026-09-16 -->
 [arxiv 2026.09] SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models  [[PDF](https://arxiv.org/abs/2609.02886),[Page](https://junchao-cs.github.io/SolarWM-Web/)]
 
 [arxiv 2026.09] ShallowStream: Index Shallow then Answer Deep for Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2609.02780)]
@@ -1532,6 +1532,12 @@ A reading list of video generation
 [arxiv 2026.09] Uncertainty DMD: Restoring Diversity in Few-Step Autoregressive Video Distillation  [[PDF](https://arxiv.org/abs/2609.11265)]
 
 [arxiv 2026.09] BodyCam-VQA: Enhanced Body-Worn Camera Video Captioning via Multimodal Reasoning and Probe Question Generation  [[PDF](https://arxiv.org/abs/2609.10815)]
+
+[arxiv 2026.09] PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control  [[PDF](https://arxiv.org/abs/2609.17521)]
+
+[arxiv 2026.09] MDN-Control: Mask-Depth-Noise Guided Region Control for Multi-Subject Video Editing  [[PDF](https://arxiv.org/abs/2609.16475)]
+
+[arxiv 2026.09] VideoMM: Adaptive Macro-Micro Inference for Efficient Video MLLMs  [[PDF](https://arxiv.org/abs/2609.16722)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
