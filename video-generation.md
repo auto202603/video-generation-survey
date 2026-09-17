@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-09-16 -->
+<!-- Added on 2026-09-17 -->
 
 [arxiv 2026.09] Physics-Aware Video Generation via Agentic Planning and Graph-Guided Optimization  [[PDF](https://arxiv.org/abs/2609.13006)]
 
@@ -1538,6 +1538,10 @@ A reading list of video generation
 [arxiv 2026.09] MDN-Control: Mask-Depth-Noise Guided Region Control for Multi-Subject Video Editing  [[PDF](https://arxiv.org/abs/2609.16475)]
 
 [arxiv 2026.09] VideoMM: Adaptive Macro-Micro Inference for Efficient Video MLLMs  [[PDF](https://arxiv.org/abs/2609.16722)]
+
+[arxiv 2026.09] StrucPhysVideo: Learning Physical Dynamics from Structured Captions and Robot Actions  [[PDF](https://arxiv.org/abs/2609.18430),[Page](https://westlakedi-awomo.github.io/StrucPhysVideo-Page/)]
+
+[arxiv 2026.09] MSR: Multiple Subject Reference for Video Generation  [[PDF](https://arxiv.org/abs/2609.18393)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

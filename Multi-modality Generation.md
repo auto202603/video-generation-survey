@@ -1,4 +1,4 @@
-<!-- Added on 2026-09-16 -->
+<!-- Added on 2026-09-17 -->
 
 [arxiv 2026.09] Pixel Decodability Is Not a Compression Signal: Causally Evaluating Importance Proxies for Visual KV-Cache Eviction  [[PDF](https://arxiv.org/abs/2609.13012)]
 
@@ -4739,6 +4739,32 @@
 [arxiv 2026.09] OPD-Aha: From Linguistic Momentum to Visual Reflection in Multimodal On-Policy Distillation  [[PDF](https://arxiv.org/abs/2609.16459)]
 
 [arxiv 2026.09] EMODY Flow: Emotion-Aware Audio-Driven Full-Body Motion Generation  [[PDF](https://arxiv.org/abs/2609.16011)]
+
+[arxiv 2026.09] PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection  [[PDF](https://arxiv.org/abs/2609.19143)]
+
+[arxiv 2026.09] In-Context Robot Learning with VLM Agents  [[PDF](https://arxiv.org/abs/2609.19138),[Page](https://cheng-haha.github.io/GPT-Policy)]
+
+[arxiv 2026.09] PhysVGGT: Feed-Forward Dense Physical Property Estimation from A Single Image  [[PDF](https://arxiv.org/abs/2609.18920)]
+
+[arxiv 2026.09] Decodable but Misrouted: Sparse Features Uncover a Readout Gap in Vision-Language Models for Harmful Meme Detection  [[PDF](https://arxiv.org/abs/2609.18860)]
+
+[arxiv 2026.09] RankGround: Efficient High-Resolution GUI Grounding via Lightweight Reranker-Guided Crop Selection  [[PDF](https://arxiv.org/abs/2609.18690)]
+
+[arxiv 2026.09] Vocabulary-Guided Gait Recognition  [[PDF](https://arxiv.org/abs/2609.18413)]
+
+[arxiv 2026.09] Visual Input and Its Framing Affect Attribute-based Descriptions Produced by Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2609.18345)]
+
+[arxiv 2026.09] EDCT-Bench: Uncovering Faithfulness Gaps in VLMs via Explanation-Driven Counterfactual Testing  [[PDF](https://arxiv.org/abs/2609.17953)]
+
+[arxiv 2026.09] Can VLMs Reliably Assess Sidewalk Accessibility Attributes from Pedestrian-Level Imagery?  [[PDF](https://arxiv.org/abs/2609.17882)]
+
+[arxiv 2026.09] AgenTeeth: A Model-Agnostic Framework for Suppressing Hallucination in Frozen Vision-Language Models on Dental X-Rays via Tool Evidence Injection  [[PDF](https://arxiv.org/abs/2609.17800)]
+
+[arxiv 2026.09] Not All Patches Are Equally Forgettable: Spatially Localized Domain Unlearning in Vision-Language Models  [[PDF](https://arxiv.org/abs/2609.17790)]
+
+[arxiv 2026.09] MUSE: Benchmarking Large Vision-Language Models on Multi-Modal Understanding in Situated Education  [[PDF](https://arxiv.org/abs/2609.19088)]
+
+[arxiv 2026.09] CapMem: A Benchmark for Caption-Based Episodic Memory in Egocentric Video  [[PDF](https://arxiv.org/abs/2609.17688)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

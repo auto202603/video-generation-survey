@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-09-16 -->
+<!-- Added on 2026-09-17 -->
 
 [arxiv 2026.09] Balancing Emotional Alignment and Semantic Consistency in Image Generation via Reinforcement Learning with Valence-Arousal Anchoring  [[PDF](https://arxiv.org/abs/2609.12830),[Page](https://github.com/ramon-alana/eit-with-anchor-and-grpo)]
 
@@ -3270,6 +3270,24 @@
 [arxiv 2026.09] Quantum-Inspired Trainable and Parameter-Efficient Tensor Networks for Image Inpainting  [[PDF](https://arxiv.org/abs/2609.17298)]
 
 [arxiv 2026.09] The Neverwhere Visual Parkour Benchmark Suite  [[PDF](https://arxiv.org/abs/2609.16443),[Page](https://ziyc.github.io/neverwhere-bench/)]
+
+[arxiv 2026.09] NormLift: From Lifted Features To Semantic Reliability In 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2609.18898)]
+
+[arxiv 2026.09] Geometry beneath the Waves: Dense Priors for Sparse-View Underwater 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2609.18737)]
+
+[arxiv 2026.09] Learning A Unified Template for Gait Recognition  [[PDF](https://arxiv.org/abs/2609.18490)]
+
+[arxiv 2026.09] CADSplat: Sparse-View 3D Gaussian Splatting Aided by CAD Models for Robust, Photorealistic Digital-Twin Reconstruction  [[PDF](https://arxiv.org/abs/2609.18473)]
+
+[arxiv 2026.09] vidax: A Unified JAX Framework for Video Generative Models on Accelerator Meshes  [[PDF](https://arxiv.org/abs/2609.18077)]
+
+[arxiv 2026.09] IRIS: Implicit Rendering Matters for Pose-Free Novel View Synthesis  [[PDF](https://arxiv.org/abs/2609.18034)]
+
+[arxiv 2026.09] Newer Is Not Fairer: Gender Stereotyping in Text-to-Image AI Across Model Generations  [[PDF](https://arxiv.org/abs/2609.18007)]
+
+[arxiv 2026.09] GazeDiT: Gaze-Accurate Diffusion Image Generation for Eye Tracking via Spatial Conditioning  [[PDF](https://arxiv.org/abs/2609.17814)]
+
+[arxiv 2026.09] Wind on Trees: Testing Physical Grounding in Dynamic 4D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2609.17810)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

@@ -1,5 +1,5 @@
 ## Dataset
-<!-- Added on 2026-09-16 -->
+<!-- Added on 2026-09-17 -->
 
 [arxiv 2026.09] UniMo: Unifying Human and Animal Motion Generation  [[PDF](https://arxiv.org/abs/2609.12342)]
 
@@ -671,6 +671,16 @@
 [arxiv 2026.09] Enhancing Multimodal Emotion Recognition via Multi-Feature Encoding and Attention-Based Fusion  [[PDF](https://arxiv.org/abs/2609.04690)]
 
 [arxiv 2026.09] Revisiting Avatar-As-Image: High-Fidelity Registration is All You Need  [[PDF](https://arxiv.org/abs/2609.11722)]
+
+[arxiv 2026.09] KDTwin: Task-Aware Knowledge Distillation for Lightweight Multi-Task Driving Scene Segmentation  [[PDF](https://arxiv.org/abs/2609.18955)]
+
+[arxiv 2026.09] DiT-Garment: Garment Dynamics with Diffusion Transformers  [[PDF](https://arxiv.org/abs/2609.18510)]
+
+[arxiv 2026.09] Prosthesis-Aware 3D Human Pose Estimation: A Dataset and Benchmark for RSP Users  [[PDF](https://arxiv.org/abs/2609.18406),[Page](https://ut-vision.github.io/RSP3D/)]
+
+[arxiv 2026.09] Pose2Muscle: Structured Spatio-Temporal Decoding for Discrete Muscle Activity Estimation from Human Pose  [[PDF](https://arxiv.org/abs/2609.18336)]
+
+[arxiv 2026.09] A Comprehensive Review of Generative Physical Artificial Intelligence  [[PDF](https://arxiv.org/abs/2609.18111)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
