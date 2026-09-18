@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-09-17 -->
+<!-- Added on 2026-09-18 -->
 
 [arxiv 2026.09] Balancing Emotional Alignment and Semantic Consistency in Image Generation via Reinforcement Learning with Valence-Arousal Anchoring  [[PDF](https://arxiv.org/abs/2609.12830),[Page](https://github.com/ramon-alana/eit-with-anchor-and-grpo)]
 
@@ -168,8 +168,8 @@
 
 [arxiv 2026.07] Points as Tori: Fast Pointwise Signed Distance for Point Clouds  [[PDF](https://arxiv.org/abs/2607.16946),[Page](https://nzfeng.github.io/research/PointsAsTori)]
 
-<!-- Added on 2026-09-16 -->
-<!-- Added on 2026-09-16 -->
+<!-- Added on 2026-09-18 -->
+<!-- Added on 2026-09-18 -->
 [arxiv 2026.07] QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration  [[PDF](https://arxiv.org/abs/2607.15097)]
 
 [arxiv 2026.07] RoGS: Adaptive Meshgrid Gaussian for Large-Scale Road Surface Mapping  [[PDF](https://arxiv.org/abs/2607.15048)]
@@ -232,11 +232,11 @@
 
 [arxiv 2026.07] TILDE: TILt-based Distributional Erasure for Concept Unlearning  [[PDF](https://arxiv.org/abs/2607.06432)]
 
-<!-- Added on 2026-09-16 -->
-<!-- Added on 2026-09-16 -->
-<!-- Added on 2026-09-16 -->
-<!-- Added on 2026-09-16 -->
-<!-- Added on 2026-09-16 -->
+<!-- Added on 2026-09-18 -->
+<!-- Added on 2026-09-18 -->
+<!-- Added on 2026-09-18 -->
+<!-- Added on 2026-09-18 -->
+<!-- Added on 2026-09-18 -->
 [arxiv 2026.06] GEAR: Guided End-to-End AutoRegression for Image Synthesis  [[PDF](https://arxiv.org/abs/2606.32039)]
 
 [arxiv 2026.06] SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE  [[PDF](https://arxiv.org/abs/2606.32033)]
@@ -3134,7 +3134,7 @@
 
 [arxiv 2026.09] Inverse Rendering for Modeling with Line Primitives  [[PDF](https://arxiv.org/abs/2609.00625),[Page](https://kenji-tojo.github.io/sa26-line-primitives/)]
 
-<!-- Added on 2026-09-16 -->
+<!-- Added on 2026-09-18 -->
 [arxiv 2026.09] RoGe: Novel View Synthesis via End-to-End Implicit Reconstruction and Generation  [[PDF](https://arxiv.org/abs/2609.02847)]
 
 [arxiv 2026.09] GDB-Reward: From Evaluation Metrics to Training Rewards for Graphic Design  [[PDF](https://arxiv.org/abs/2609.02813)]
@@ -3288,6 +3288,42 @@
 [arxiv 2026.09] GazeDiT: Gaze-Accurate Diffusion Image Generation for Eye Tracking via Spatial Conditioning  [[PDF](https://arxiv.org/abs/2609.17814)]
 
 [arxiv 2026.09] Wind on Trees: Testing Physical Grounding in Dynamic 4D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2609.17810)]
+
+[arxiv 2026.09] SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos  [[PDF](https://arxiv.org/abs/2609.20818),[Page](https://niko-creater.github.io/splashsplat-web/)]
+
+[arxiv 2026.09] Paint-Anything: Unified Any-Color Control for Image Generation and Editing  [[PDF](https://arxiv.org/abs/2609.20816)]
+
+[arxiv 2026.09] Refinement Is Inherently Editable: Training-Free Prompt-to-Prompt Image Editing with Generative Refinement Network  [[PDF](https://arxiv.org/abs/2609.20633)]
+
+[arxiv 2026.09] PhGS: Post-Hoc Pruning and Refinement of Single-View Feed-Forward 3D Gaussian Reconstructions  [[PDF](https://arxiv.org/abs/2609.20623)]
+
+[arxiv 2026.09] RawSLAM: Online HDR Gaussian SLAM from Linear Radiance  [[PDF](https://arxiv.org/abs/2609.20589)]
+
+[arxiv 2026.09] MM-Future: Multi-Mode Joint World-Action Modeling for Autonomous Driving  [[PDF](https://arxiv.org/abs/2609.20377)]
+
+[arxiv 2026.09] EliGSiR: Continual RGB-D Mapping with Gaussian Splatting under Bounded Compute  [[PDF](https://arxiv.org/abs/2609.20348)]
+
+[arxiv 2026.09] A Two-Stage Multi-Scale Attention-Based Network for Weakly Supervised Cataract Fundus Image Enhancement  [[PDF](https://arxiv.org/abs/2609.20222)]
+
+[arxiv 2026.09] Beyond the Foreground: FOV-Aware Polyp Image Synthesis via Lesion-Guided Adaptive Mucosal Context Propagation  [[PDF](https://arxiv.org/abs/2609.19966)]
+
+[arxiv 2026.09] GS-PI: An Optimization-Decoupled Appearance Decomposition Approach for Generating PBR Gaussian Assets  [[PDF](https://arxiv.org/abs/2609.19907)]
+
+[arxiv 2026.09] GAPrompt++: Multi-Granular Geometry-Aware Point Cloud Prompt for 3D Vision Model  [[PDF](https://arxiv.org/abs/2609.19716),[Page](https://github.com/PKU-OV3-LAB/GAPromptPlus.git)]
+
+[arxiv 2026.09] Understanding and Exploiting Diagonal Attention Sparsity in Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2609.19702)]
+
+[arxiv 2026.09] VGGT-GS SLAM: Uncalibrated Monocular Gaussian Splatting SLAM with Feed-Forward Priors  [[PDF](https://arxiv.org/abs/2609.19628)]
+
+[arxiv 2026.09] ParticleSplat: Self-supervised Object-centric Latent Particle Splatting  [[PDF](https://arxiv.org/abs/2609.19463),[Page](https://lyuxinghe.github.io/ParticleSplat-website/)]
+
+[arxiv 2026.09] RGS: Reflection-aware Gaussian Splatting via Learning Geometry Continuity for Reflective Objects  [[PDF](https://arxiv.org/abs/2609.19421),[Page](https://xiaobiaodu.github.io/reflectivegs/)]
+
+[arxiv 2026.09] CoRef-GS: Cooperative Referring Gaussian Splatting for Multi-Agent Scene Understanding  [[PDF](https://arxiv.org/abs/2609.20586),[Page](https://github.com/ruojiruoli17/CoRef-GS.git)]
+
+[arxiv 2026.09] LapaTrack-3D: 6 DoF pre-operative shape tracking for laparoscopic surgery  [[PDF](https://arxiv.org/abs/2609.19954)]
+
+[arxiv 2026.09] Printing the Underdetermined: Materializing Multi-solutionness in Figurative Paintings  [[PDF](https://arxiv.org/abs/2609.19782)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

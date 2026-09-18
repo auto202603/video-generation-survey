@@ -1,4 +1,4 @@
-<!-- Added on 2026-09-17 -->
+<!-- Added on 2026-09-18 -->
 
 [arxiv 2026.09] Pixel Decodability Is Not a Compression Signal: Causally Evaluating Importance Proxies for Visual KV-Cache Eviction  [[PDF](https://arxiv.org/abs/2609.13012)]
 
@@ -24,7 +24,7 @@
 
 [arxiv 2026.09] AnchorVLN: Geometry-Anchored Vision-Language Grounding Reasoning for Open-Vocabulary Navigation  [[PDF](https://arxiv.org/abs/2609.12285)]
 
-<!-- Added on 2026-09-16 -->
+<!-- Added on 2026-09-18 -->
 [arxiv 2026.08] Post-Training VLMs for Video Mistake Detection  [[PDF](https://arxiv.org/abs/2608.28406)]
 
 [arxiv 2026.08] AIM: Anchor Identity Features, Then Match for Multimodal Large Language Model Unlearning  [[PDF](https://arxiv.org/abs/2608.28312)]
@@ -59,8 +59,8 @@
 
 [arxiv 2026.08] Fully Unleashing the Multimodal Attacker: Meta-Adaptive Jailbreaking of Vision-Language Models  [[PDF](https://arxiv.org/abs/2608.27531)]
 
-<!-- Added on 2026-09-16 -->
-<!-- Added on 2026-09-16 -->
+<!-- Added on 2026-09-18 -->
+<!-- Added on 2026-09-18 -->
 [arxiv 2026.08] UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City  [[PDF](https://arxiv.org/abs/2608.27456),[Page](https://urbanground.github.io)]
 
 [arxiv 2026.08] Retrieval Heads Meet Vision: Uncovering How VLMs Locate and Extract Visual Information  [[PDF](https://arxiv.org/abs/2608.27417)]
@@ -206,8 +206,8 @@
 
 [arxiv 2026.08] ArtECulture: Benchmarking Culture-Conditioned Visual Emotion Understanding in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2608.03358)]
 
-<!-- Added on 2026-09-16 -->
-<!-- Added on 2026-09-16 -->
+<!-- Added on 2026-09-18 -->
+<!-- Added on 2026-09-18 -->
 
 [arxiv 2026.07] ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis  [[PDF](https://arxiv.org/abs/2607.19341)]
 
@@ -305,9 +305,9 @@
 
 [arxiv 2026.07] Self-Evolving Just-In-Time Memory for Proactive Embodied Safety  [[PDF](https://arxiv.org/abs/2607.16247)]
 
-<!-- Added on 2026-09-16 -->
-<!-- Added on 2026-09-16 -->
-<!-- Added on 2026-09-16 -->
+<!-- Added on 2026-09-18 -->
+<!-- Added on 2026-09-18 -->
+<!-- Added on 2026-09-18 -->
 [arxiv 2026.07] Hierarchical Denoising For Multi-Step Visual Reasoning  [[PDF](https://arxiv.org/abs/2607.15278)]
 
 [arxiv 2026.07] HoloGeo: Mitigating Landmark Bias in Geo-localization via Evidence-Driven Reasoning  [[PDF](https://arxiv.org/abs/2607.15255)]
@@ -366,7 +366,7 @@
 
 [arxiv 2026.07] Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment  [[PDF](https://arxiv.org/abs/2607.13429),[Page](https://github.com/dwipddalal/Anchor-Align)]
 
-<!-- Added on 2026-09-16 -->
+<!-- Added on 2026-09-18 -->
 [arxiv 2026.07] Vision as Unified Multimodal Generation  [[PDF](https://arxiv.org/abs/2607.06560)]
 
 [arxiv 2026.07] CAIRN: Cross-Room 3D Scene Understanding with Topology-Aware Large Multimodal Models  [[PDF](https://arxiv.org/abs/2607.06534),[Page](https://oceansdepp.github.io/cairn_web/)]
@@ -407,8 +407,8 @@
 
 [arxiv 2026.07] BaFCo: A Document Understanding Benchmark for Complex Bangla Form Comprehension  [[PDF](https://arxiv.org/abs/2607.05614)]
 
-<!-- Added on 2026-09-16 -->
-<!-- Added on 2026-09-16 -->
+<!-- Added on 2026-09-18 -->
+<!-- Added on 2026-09-18 -->
 [arxiv 2026.06] CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts  [[PDF](https://arxiv.org/abs/2606.31986),[Page](https://github.com/hulianyuyy/CoLT)]
 
 [arxiv 2026.06] ERA: Entropy-Guided Visual Token Pruning with Rectified Attention for Efficient MLLMs  [[PDF](https://arxiv.org/abs/2606.31982)]
@@ -4571,7 +4571,7 @@
 
 [arxiv 2026.09] SCAFFOLD: A Large-Scale Structured Dataset of Computer Science Research Figures with Diagram QA and Chain-of-Thought Reasoning Traces  [[PDF](https://arxiv.org/abs/2609.00018)]
 
-<!-- Added on 2026-09-16 -->
+<!-- Added on 2026-09-18 -->
 [arxiv 2026.09] Thinking in Pictures: A Systematic Benchmark for Reasoning-driven Image Generation  [[PDF](https://arxiv.org/abs/2609.02864)]
 
 [arxiv 2026.09] RVSD: Retrieval Vision Sparse Decoding for Mitigating Visual Hallucinations in Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2609.02731)]
@@ -4765,6 +4765,36 @@
 [arxiv 2026.09] MUSE: Benchmarking Large Vision-Language Models on Multi-Modal Understanding in Situated Education  [[PDF](https://arxiv.org/abs/2609.19088)]
 
 [arxiv 2026.09] CapMem: A Benchmark for Caption-Based Episodic Memory in Egocentric Video  [[PDF](https://arxiv.org/abs/2609.17688)]
+
+[arxiv 2026.09] DocAttriBench: Benchmarking Answer Grounding in Document Visual Question Answering  [[PDF](https://arxiv.org/abs/2609.20574)]
+
+[arxiv 2026.09] AgriScope: Pixel-Grounded Multimodal Understanding for Agricultural Images  [[PDF](https://arxiv.org/abs/2609.20325)]
+
+[arxiv 2026.09] Cross-Modal Attention Acts as a Frequency Filter: Why Verbose Prompts Improve Robustness in Vision-Language Models  [[PDF](https://arxiv.org/abs/2609.20139)]
+
+[arxiv 2026.09] A Free Lunch? Adapting PP-OCRv6 for Historical Text Recognition  [[PDF](https://arxiv.org/abs/2609.20064)]
+
+[arxiv 2026.09] AVTrace: Diagnosing Audio-Visual Temporal Reasoning in Omni Models  [[PDF](https://arxiv.org/abs/2609.19991)]
+
+[arxiv 2026.09] QCPruner: Query-Conditioned Population Coverage for Visual Token Pruning  [[PDF](https://arxiv.org/abs/2609.19990)]
+
+[arxiv 2026.09] SnapPhysics: A Physics-Aware Scene Graph from a Single View for Interactive Mixed Reality Scenes  [[PDF](https://arxiv.org/abs/2609.19815)]
+
+[arxiv 2026.09] Absence is Presence: Understanding Visual Scene Negative Events Under Safety Cognitive Constraint  [[PDF](https://arxiv.org/abs/2609.19812)]
+
+[arxiv 2026.09] Benchmarking MLLMs via Cognitive Expected Scene Graph for Safety-Critical Visual Negation Understanding  [[PDF](https://arxiv.org/abs/2609.19767)]
+
+[arxiv 2026.09] Region-Level Policy Optimization for Fine-grained MLLM Perception  [[PDF](https://arxiv.org/abs/2609.19745)]
+
+[arxiv 2026.09] SCOUT: Sim-to-Real Text-Based Person Retrieval by Embedding-Space Prediction over Frozen Video Features  [[PDF](https://arxiv.org/abs/2609.19483),[Page](https://github.com/abtraore/SCOUT-ECCV)]
+
+[arxiv 2026.09] Efficient Unified Multimodal Understanding (EUMU): Winning Solution for the MUMU Track at the 8th LSVOS Challenge  [[PDF](https://arxiv.org/abs/2609.19451)]
+
+[arxiv 2026.09] MiX: Micro-Inverted-Scaling for End-to-End Low-Bit Vision-Language Model Acceleration  [[PDF](https://arxiv.org/abs/2609.19683)]
+
+[arxiv 2026.09] VABench: Measuring Embodied Spatial Intelligence through Visual Demonstrations, Active Perception, and Metric Control  [[PDF](https://arxiv.org/abs/2609.19554)]
+
+[arxiv 2026.09] From Models to Systems: A Comprehensive Survey of Efficient Multimodal Learning  [[PDF](https://arxiv.org/abs/2609.19445)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
