@@ -1,5 +1,5 @@
 ## Dataset
-<!-- Added on 2026-09-18 -->
+<!-- Added on 2026-09-23 -->
 
 [arxiv 2026.09] UniMo: Unifying Human and Animal Motion Generation  [[PDF](https://arxiv.org/abs/2609.12342)]
 
@@ -691,6 +691,10 @@
 [arxiv 2026.09] Can Vision-Language Models Judge Olympic Diving? From Reasoning to Scores in Zero-Shot Action Quality Assessment  [[PDF](https://arxiv.org/abs/2609.19354)]
 
 [arxiv 2026.09] DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation  [[PDF](https://arxiv.org/abs/2609.20649)]
+
+[arxiv 2026.09] Latent Dataset Distillation for Human Motion Prediction  [[PDF](https://arxiv.org/abs/2609.26430)]
+
+[arxiv 2026.09] Sample, Simulate, Select: Physics-in-the-Loop Text-to-Motion for Humanoids Without Training  [[PDF](https://arxiv.org/abs/2609.26420)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

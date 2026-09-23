@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-09-18 -->
+<!-- Added on 2026-09-23 -->
 
 [arxiv 2026.09] Physics-Aware Video Generation via Agentic Planning and Graph-Guided Optimization  [[PDF](https://arxiv.org/abs/2609.13006)]
 
@@ -1548,6 +1548,16 @@ A reading list of video generation
 [arxiv 2026.09] Recency Forcing: Bridging the Long-Horizon Gap in Autoregressive Video Generation  [[PDF](https://arxiv.org/abs/2609.19729)]
 
 [arxiv 2026.09] VideoResearcher: Self-Improving Tool Design for Long-Video Understanding  [[PDF](https://arxiv.org/abs/2609.19664)]
+
+[arxiv 2026.09] Code Plans, Diffusion Renders: Open-Ended Generative World Modeling  [[PDF](https://arxiv.org/abs/2609.26458),[Page](https://becauseimbatman0.github.io/CoDeR)]
+
+[arxiv 2026.09] QuantWM: Temporally Consistent 2-Bit KV Cache Quantization for World Models and Video Generation  [[PDF](https://arxiv.org/abs/2609.26425)]
+
+[arxiv 2026.09] The Temporal Moderation Gap: Text-to-Video Safety Filters Are Blind to Harm in Motion  [[PDF](https://arxiv.org/abs/2609.26233)]
+
+[arxiv 2026.09] Test-time Reinforcement Learning for Anomalous Video Understanding  [[PDF](https://arxiv.org/abs/2609.26099)]
+
+[arxiv 2026.09] GameDirector: Decoupling Gameplay Logic from Rendering for Player-Configurable Game World Models  [[PDF](https://arxiv.org/abs/2609.25652),[Page](https://jimntu.github.io/gamedirector/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

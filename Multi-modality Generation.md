@@ -1,4 +1,4 @@
-<!-- Added on 2026-09-18 -->
+<!-- Added on 2026-09-23 -->
 
 [arxiv 2026.09] Pixel Decodability Is Not a Compression Signal: Causally Evaluating Importance Proxies for Visual KV-Cache Eviction  [[PDF](https://arxiv.org/abs/2609.13012)]
 
@@ -4795,6 +4795,38 @@
 [arxiv 2026.09] VABench: Measuring Embodied Spatial Intelligence through Visual Demonstrations, Active Perception, and Metric Control  [[PDF](https://arxiv.org/abs/2609.19554)]
 
 [arxiv 2026.09] From Models to Systems: A Comprehensive Survey of Efficient Multimodal Learning  [[PDF](https://arxiv.org/abs/2609.19445)]
+
+[arxiv 2026.09] Evaluating the Semantic-to-Geometric Gap in Adversarial Defenses Against Vision-Language Model-Based Plagiarism  [[PDF](https://arxiv.org/abs/2609.26733)]
+
+[arxiv 2026.09] Semantically-Guided Domain Randomization for Industrial Object Detection in Low-Image-Budget Regimes  [[PDF](https://arxiv.org/abs/2609.26505)]
+
+[arxiv 2026.09] From Token Importance to Conditional Removability: Rethinking Visual Token Pruning in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2609.26484)]
+
+[arxiv 2026.09] LLaVA-Assessor: Building the Foundation LMM For Visual Quality Assessment  [[PDF](https://arxiv.org/abs/2609.26205)]
+
+[arxiv 2026.09] RECAP: Relation Evidence Calibration for Detecting Spatial Relation Hallucinations in Vision-Language Models  [[PDF](https://arxiv.org/abs/2609.26093),[Page](https://github.com/SouthWinter/RECAP)]
+
+[arxiv 2026.09] CricRAG: Retrieval Augmented Vision-Language Models for Personalized Cricket Coaching  [[PDF](https://arxiv.org/abs/2609.26056)]
+
+[arxiv 2026.09] BAS-OPD: Budget-Aware Selective On-Policy Self-Distillation for Fine-Grained Multimodal Perception  [[PDF](https://arxiv.org/abs/2609.25891)]
+
+[arxiv 2026.09] Metric-Bench: Exploring In-context Spatial Metric Reasoning in VLMs for Indoor Scenes  [[PDF](https://arxiv.org/abs/2609.25841)]
+
+[arxiv 2026.09] Reading Right, Answering Wrong: How Visual Configuration Changes Affect Evidence Use in VLMs  [[PDF](https://arxiv.org/abs/2609.25770)]
+
+[arxiv 2026.09] Shallow to Deep: Aligning Token Pruning with Stage-wise Roles in LVLMs  [[PDF](https://arxiv.org/abs/2609.25635)]
+
+[arxiv 2026.09] RGSQ: Riemannian Geometry-Sensitive Quantization for Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2609.25492)]
+
+[arxiv 2026.09] Diffusion Drafts, AR Verifies: Accelerating Document OCR with Self-Speculative Decoding  [[PDF](https://arxiv.org/abs/2609.26638)]
+
+[arxiv 2026.09] One Domain, Many Tongues: Composing Domain and Language LoRAs for Cross-Lingual Remote-Sensing MLLMs without Paired Data  [[PDF](https://arxiv.org/abs/2609.26097)]
+
+[arxiv 2026.09] TV-AudioRemover: Joint Text-Visual Guided Sound Removal with Multi-Task Hard-Mixture Curriculum  [[PDF](https://arxiv.org/abs/2609.25864)]
+
+[arxiv 2026.09] Qwen3.8-Omni: Towards Native Omni-Modal Agents  [[PDF](https://arxiv.org/abs/2609.25611)]
+
+[arxiv 2026.09] BananaVLM: A Domain-Adapted Vision Language Model for Banana Crop Disease Diagnosis  [[PDF](https://arxiv.org/abs/2609.25040)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-09-18 -->
+<!-- Added on 2026-09-23 -->
 
 [arxiv 2026.09] Balancing Emotional Alignment and Semantic Consistency in Image Generation via Reinforcement Learning with Valence-Arousal Anchoring  [[PDF](https://arxiv.org/abs/2609.12830),[Page](https://github.com/ramon-alana/eit-with-anchor-and-grpo)]
 
@@ -3324,6 +3324,34 @@
 [arxiv 2026.09] LapaTrack-3D: 6 DoF pre-operative shape tracking for laparoscopic surgery  [[PDF](https://arxiv.org/abs/2609.19954)]
 
 [arxiv 2026.09] Printing the Underdetermined: Materializing Multi-solutionness in Figurative Paintings  [[PDF](https://arxiv.org/abs/2609.19782)]
+
+[arxiv 2026.09] StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training  [[PDF](https://arxiv.org/abs/2609.26774),[Page](https://tt-day.github.io/StableVQ/)]
+
+[arxiv 2026.09] ASTRA-SR: Atmospheric Seeing and Turbulence Restoration for Astronomical Image Super-Resolution  [[PDF](https://arxiv.org/abs/2609.26731)]
+
+[arxiv 2026.09] KwaiMind Technical Report  [[PDF](https://arxiv.org/abs/2609.26375)]
+
+[arxiv 2026.09] ForeDrive: Foresight-Guided End-to-End Autonomous Driving with a Planning-Relevant Latent World Model  [[PDF](https://arxiv.org/abs/2609.26299)]
+
+[arxiv 2026.09] Vorch-Human: Unified Multi-Task Human-Centric Generation via Long-Horizon Continuation  [[PDF](https://arxiv.org/abs/2609.26117),[Page](https://vorch-project.github.io/Vorch-Human-Project/)]
+
+[arxiv 2026.09] NaCR: Visual Localization via NeRF-aided Camera Ray Regression  [[PDF](https://arxiv.org/abs/2609.25907)]
+
+[arxiv 2026.09] Delving into Asymmetric Information Dynamics for High-Fidelity Virtual Try-On  [[PDF](https://arxiv.org/abs/2609.25881)]
+
+[arxiv 2026.09] Ultra-fast Neural Inference for Stochastic Gaussian Splatting Denoising  [[PDF](https://arxiv.org/abs/2609.25604),[Page](https://youtu.be/avWpgs4P1s8)]
+
+[arxiv 2026.09] ImIR: Image-Instruction Tuning for All-in-One Image Restoration  [[PDF](https://arxiv.org/abs/2609.25267)]
+
+[arxiv 2026.09] ϕ-RIE: From Photorealistic Reconstruction to Interactive Environments  [[PDF](https://arxiv.org/abs/2609.26795)]
+
+[arxiv 2026.09] TTTIR: Unlocking Instance-Specific State Evolution via Test-Time Training for Image Restoration  [[PDF](https://arxiv.org/abs/2609.26151)]
+
+[arxiv 2026.09] LoRango: It Takes Two LoRAs to Unlock Hidden Behaviors in Diffusion Models  [[PDF](https://arxiv.org/abs/2609.25884)]
+
+[arxiv 2026.09] Dual Covariance Gaussian Splatting SLAM: Decoupling Rendering and Registration for Robust Real-Time Tracking  [[PDF](https://arxiv.org/abs/2609.25746)]
+
+[arxiv 2026.09] Robust, Estimator-Agnostic Dynamic 3DGS Compression  [[PDF](https://arxiv.org/abs/2609.25633)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
