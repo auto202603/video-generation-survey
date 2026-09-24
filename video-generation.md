@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-09-23 -->
+<!-- Added on 2026-09-24 -->
 
 [arxiv 2026.09] Physics-Aware Video Generation via Agentic Planning and Graph-Guided Optimization  [[PDF](https://arxiv.org/abs/2609.13006)]
 
@@ -1558,6 +1558,14 @@ A reading list of video generation
 [arxiv 2026.09] Test-time Reinforcement Learning for Anomalous Video Understanding  [[PDF](https://arxiv.org/abs/2609.26099)]
 
 [arxiv 2026.09] GameDirector: Decoupling Gameplay Logic from Rendering for Player-Configurable Game World Models  [[PDF](https://arxiv.org/abs/2609.25652),[Page](https://jimntu.github.io/gamedirector/)]
+
+[arxiv 2026.09] The Past Frames the Future: Memory for Autoregressive Video Generation  [[PDF](https://arxiv.org/abs/2609.28466)]
+
+[arxiv 2026.09] MotionSpec: Spectral Trajectory Supervision for Motion-Consistent Video Generation  [[PDF](https://arxiv.org/abs/2609.28095)]
+
+[arxiv 2026.09] Prompt, Probe, Train, or Annotate? Single-camera sports video understanding in amateur settings  [[PDF](https://arxiv.org/abs/2609.28049)]
+
+[arxiv 2026.09] All modalities are equal, but video is more equal: Closing the Cross-Attention Gap in Joint Video Generation  [[PDF](https://arxiv.org/abs/2609.27901)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

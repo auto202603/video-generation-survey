@@ -1,5 +1,5 @@
 ## Dataset
-<!-- Added on 2026-09-23 -->
+<!-- Added on 2026-09-24 -->
 
 [arxiv 2026.09] UniMo: Unifying Human and Animal Motion Generation  [[PDF](https://arxiv.org/abs/2609.12342)]
 
@@ -695,6 +695,8 @@
 [arxiv 2026.09] Latent Dataset Distillation for Human Motion Prediction  [[PDF](https://arxiv.org/abs/2609.26430)]
 
 [arxiv 2026.09] Sample, Simulate, Select: Physics-in-the-Loop Text-to-Motion for Humanoids Without Training  [[PDF](https://arxiv.org/abs/2609.26420)]
+
+[arxiv 2026.09] AWM-VLA: AlignedWorld Modeling for Efficient and Explainable Vision-Language-Action Policies  [[PDF](https://arxiv.org/abs/2609.27753)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

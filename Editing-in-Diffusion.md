@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-09-23 -->
+<!-- Added on 2026-09-24 -->
 
 [arxiv 2026.09] Balancing Emotional Alignment and Semantic Consistency in Image Generation via Reinforcement Learning with Valence-Arousal Anchoring  [[PDF](https://arxiv.org/abs/2609.12830),[Page](https://github.com/ramon-alana/eit-with-anchor-and-grpo)]
 
@@ -3352,6 +3352,34 @@
 [arxiv 2026.09] Dual Covariance Gaussian Splatting SLAM: Decoupling Rendering and Registration for Robust Real-Time Tracking  [[PDF](https://arxiv.org/abs/2609.25746)]
 
 [arxiv 2026.09] Robust, Estimator-Agnostic Dynamic 3DGS Compression  [[PDF](https://arxiv.org/abs/2609.25633)]
+
+[arxiv 2026.09] On the Diffusibility of High-Dimensional Latents  [[PDF](https://arxiv.org/abs/2609.28473),[Page](https://cfeng16.github.io/on_the_diffusibility/)]
+
+[arxiv 2026.09] Zero-Shot Object Removal via Attention Masking, Latent Anchoring, and Refinement  [[PDF](https://arxiv.org/abs/2609.28342),[Page](https://github.com/arman-taghizadeh/zero-shot-diffusion-object-removal)]
+
+[arxiv 2026.09] Field-of-View Extension in Dental Cone-Beam CT via Implicit Neural Representations and Diffusion Model-Based Refinement  [[PDF](https://arxiv.org/abs/2609.28110)]
+
+[arxiv 2026.09] TopoGS: Topology-Aware Anchor Feature Aggregation for Large-Scale 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2609.27868),[Page](https://github.com/WZ-CS/TopoGS)]
+
+[arxiv 2026.09] GaussianDS: Depth-supervised Semantic Gaussian Splatting for Scene Understanding  [[PDF](https://arxiv.org/abs/2609.27850)]
+
+[arxiv 2026.09] Fusion-Aware Direct 3D Gaussian Generation with Structured Patch Latent Flows  [[PDF](https://arxiv.org/abs/2609.27779)]
+
+[arxiv 2026.09] Visibility-Guided Structured Measure Flow for Class-Conditioned 3D Gaussian Generation  [[PDF](https://arxiv.org/abs/2609.27778)]
+
+[arxiv 2026.09] InGuard: Towards Generalized Inner Guardrail for Safe Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2609.27620)]
+
+[arxiv 2026.09] GaussPDE: Graph-Based Partial Differential Equation-Driven Rendering for 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2609.27264)]
+
+[arxiv 2026.09] MINER: Multi-crop INference-time Enhancement for Rare-Object Retrieval with Frozen Dual Encoders  [[PDF](https://arxiv.org/abs/2609.27142)]
+
+[arxiv 2026.09] Super-Resolution of Solar Magnetograms via Adaptive Stratified Ensemble Learning with Uncertainty Estimation  [[PDF](https://arxiv.org/abs/2609.27131)]
+
+[arxiv 2026.09] Anatomy-Aware Synthesis of Post-Contrast Breast MRI from Pre-Contrast Images  [[PDF](https://arxiv.org/abs/2609.27015)]
+
+[arxiv 2026.09] Image Denoising Using Lower Semi-Frames  [[PDF](https://arxiv.org/abs/2609.27893)]
+
+[arxiv 2026.09] WTF?! Simulation-Free Reinforcement Learning with Wasserstein-Tilted Flow Maps  [[PDF](https://arxiv.org/abs/2609.27033)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

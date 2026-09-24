@@ -1,4 +1,4 @@
-<!-- Added on 2026-09-23 -->
+<!-- Added on 2026-09-24 -->
 
 [arxiv 2026.09] Pixel Decodability Is Not a Compression Signal: Causally Evaluating Importance Proxies for Visual KV-Cache Eviction  [[PDF](https://arxiv.org/abs/2609.13012)]
 
@@ -4827,6 +4827,36 @@
 [arxiv 2026.09] Qwen3.8-Omni: Towards Native Omni-Modal Agents  [[PDF](https://arxiv.org/abs/2609.25611)]
 
 [arxiv 2026.09] BananaVLM: A Domain-Adapted Vision Language Model for Banana Crop Disease Diagnosis  [[PDF](https://arxiv.org/abs/2609.25040)]
+
+[arxiv 2026.09] AnchorReasoning: A Visual Grounding and Causal Reasoning Dataset in Long-Tail Autonomous Driving Scenarios  [[PDF](https://arxiv.org/abs/2609.28366)]
+
+[arxiv 2026.09] EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks  [[PDF](https://arxiv.org/abs/2609.28236)]
+
+[arxiv 2026.09] From Alignment to Fusion in 3D Vision-Language  [[PDF](https://arxiv.org/abs/2609.28222)]
+
+[arxiv 2026.09] VIVAS: Vitalizing Visual Perception in VLM Pre-training via Vision-language Unified Autoregressive Supervision  [[PDF](https://arxiv.org/abs/2609.27948)]
+
+[arxiv 2026.09] UVU: Improving Multimodal Understanding via Vision-Language Unified Autoregressive Paradigm  [[PDF](https://arxiv.org/abs/2609.27915)]
+
+[arxiv 2026.09] RelCheck: Dual-Evidence Spatial Grounding for VLM Hallucination Correction  [[PDF](https://arxiv.org/abs/2609.27890)]
+
+[arxiv 2026.09] Groundbench: Multi-Resolution Polygon Grounding Exposes the Geometry Gap in Vision-Language Models  [[PDF](https://arxiv.org/abs/2609.27821),[Page](https://co-minder.github.io/Groundbench)]
+
+[arxiv 2026.09] Gender Bias in Vision-Language In-Context Learning  [[PDF](https://arxiv.org/abs/2609.27682)]
+
+[arxiv 2026.09] Invisible in Space, Visible in Time: Motion Vision CAPTCHA against GUI Agents  [[PDF](https://arxiv.org/abs/2609.27461)]
+
+[arxiv 2026.09] What Looks Like a Capability Limit in Vision-Language Models Is a Readout Limit  [[PDF](https://arxiv.org/abs/2609.27408)]
+
+[arxiv 2026.09] Can Vision-Language Models Analyze Human-Centered Video? Mapping Model Capabilities and Human-AI Collaborative Workflows  [[PDF](https://arxiv.org/abs/2609.27327)]
+
+[arxiv 2026.09] Feed the Panel Dimensions, Not Verdicts: Rubric-Decomposed Fusion of Vision-Language Aesthetic Judges  [[PDF](https://arxiv.org/abs/2609.27110)]
+
+[arxiv 2026.09] Pro-Bench: Prompt-Robust Open-Vocabulary Visual Grounding Across Real-World Heterogeneous Environments  [[PDF](https://arxiv.org/abs/2609.27076)]
+
+[arxiv 2026.09] When Visual Quality Misleads: Intent Recognition under Rendered Avatar Distortions  [[PDF](https://arxiv.org/abs/2609.27560)]
+
+[arxiv 2026.09] What Converges in the Platonic Representation Hypothesis? Structure over Geometry  [[PDF](https://arxiv.org/abs/2609.27252)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
