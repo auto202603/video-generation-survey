@@ -1,5 +1,5 @@
 # Video Generation Survey
-<!-- Added on 2026-09-24 -->
+<!-- Added on 2026-09-25 -->
 
 [arxiv 2026.09] Physics-Aware Video Generation via Agentic Planning and Graph-Guided Optimization  [[PDF](https://arxiv.org/abs/2609.13006)]
 
@@ -1566,6 +1566,18 @@ A reading list of video generation
 [arxiv 2026.09] Prompt, Probe, Train, or Annotate? Single-camera sports video understanding in amateur settings  [[PDF](https://arxiv.org/abs/2609.28049)]
 
 [arxiv 2026.09] All modalities are equal, but video is more equal: Closing the Cross-Attention Gap in Joint Video Generation  [[PDF](https://arxiv.org/abs/2609.27901)]
+
+[arxiv 2026.09] WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2609.30221)]
+
+[arxiv 2026.09] Accelerating Video Diffusion via Training-Free Trajectory Routing  [[PDF](https://arxiv.org/abs/2609.30096)]
+
+[arxiv 2026.09] AV-GRPO: Modality-Anchored Decoupling Diffusion Reinforcement Learning for Joint Audio-Video Generation  [[PDF](https://arxiv.org/abs/2609.29816)]
+
+[arxiv 2026.09] SALI: Shot-Aware Late Interaction for Cross-Shot Relation Matching in Text-to-Video Retrieval using Film-Grammar Knowledge  [[PDF](https://arxiv.org/abs/2609.29721)]
+
+[arxiv 2026.09] Beneath the Scores: Rethinking Hallucination Evaluation for Video Understanding Models  [[PDF](https://arxiv.org/abs/2609.28991)]
+
+[arxiv 2026.09] ViRDM: Taming Representation Distribution Matching for Few-Step Causal Video Generation  [[PDF](https://arxiv.org/abs/2609.28923)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

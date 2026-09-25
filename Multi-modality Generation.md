@@ -1,4 +1,4 @@
-<!-- Added on 2026-09-24 -->
+<!-- Added on 2026-09-25 -->
 
 [arxiv 2026.09] Pixel Decodability Is Not a Compression Signal: Causally Evaluating Importance Proxies for Visual KV-Cache Eviction  [[PDF](https://arxiv.org/abs/2609.13012)]
 
@@ -4857,6 +4857,48 @@
 [arxiv 2026.09] When Visual Quality Misleads: Intent Recognition under Rendered Avatar Distortions  [[PDF](https://arxiv.org/abs/2609.27560)]
 
 [arxiv 2026.09] What Converges in the Platonic Representation Hypothesis? Structure over Geometry  [[PDF](https://arxiv.org/abs/2609.27252)]
+
+[arxiv 2026.09] OmniFabric: Coherent UV Space Texture Synthesis for 3D Garment Reconstruction  [[PDF](https://arxiv.org/abs/2609.30234),[Page](https://humansensinglab.github.io/OmniFabric/)]
+
+[arxiv 2026.09] The Alignment Illusion in Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2609.30210)]
+
+[arxiv 2026.09] Multimodal Thinking with Renderable Programs  [[PDF](https://arxiv.org/abs/2609.30130)]
+
+[arxiv 2026.09] Can Frozen Hyperspherical Features Guide the Selection of Pseudo Masks?  [[PDF](https://arxiv.org/abs/2609.30080)]
+
+[arxiv 2026.09] GHOST-Q: Towards Studying Grounding Hallucinations Overlooked Under Same-score TradeOffs in Quantized VLMS  [[PDF](https://arxiv.org/abs/2609.29999)]
+
+[arxiv 2026.09] Mind What Matters for Reasoning: Aligning Cross-Modal Attention via Selective Probability Mass Concentration  [[PDF](https://arxiv.org/abs/2609.29940)]
+
+[arxiv 2026.09] STRAND: Benchmarking and Improving Object-Centric Spatio-Temporal Monitoring in Video Large Language Models  [[PDF](https://arxiv.org/abs/2609.29607)]
+
+[arxiv 2026.09] Industrial Anomaly Detection via Defect-Grounded Reasoning in Visual Latent Space  [[PDF](https://arxiv.org/abs/2609.29457)]
+
+[arxiv 2026.09] Domain Recentering and Confidence-Weighted Prior Calibration for Vision-Language Models  [[PDF](https://arxiv.org/abs/2609.29358)]
+
+[arxiv 2026.09] IronViT: Toward Efficient Generalist Visual Representation Learning  [[PDF](https://arxiv.org/abs/2609.29252)]
+
+[arxiv 2026.09] Med-AR: Autoregressive Vision-Language Pretraining for Long-Tailed Chest X-Ray Classification and Uncertainty-Aware Evaluation  [[PDF](https://arxiv.org/abs/2609.29156)]
+
+[arxiv 2026.09] Seeing Is Not Measuring: Tool-Augmented Metric Spatial Reasoning for Vision-Language Models  [[PDF](https://arxiv.org/abs/2609.29073)]
+
+[arxiv 2026.09] Where Hallucinations Live: A Cross-Architecture Circuit in VQ-Tokenized Vision-Language Models  [[PDF](https://arxiv.org/abs/2609.29048),[Page](https://shamanthak-hegde.github.io/where-hallucinations-live)]
+
+[arxiv 2026.09] MoVISA: Multi-Token Reasoning for Video Object Segmentation  [[PDF](https://arxiv.org/abs/2609.28956)]
+
+[arxiv 2026.09] Exploiting Target Knowledge from MLLMs for Robust Few-Shot Segmentation  [[PDF](https://arxiv.org/abs/2609.28949)]
+
+[arxiv 2026.09] MEVL-STP: Multi-Encoder and Vision Language Model for Arbitrarily Shaped Scene Text Spotting  [[PDF](https://arxiv.org/abs/2609.28857),[Page](https://github.com/doubleblind-afk/MEVL-STP)]
+
+[arxiv 2026.09] CinematicVQA: Benchmarking Film-Grammar Reasoning in Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2609.28813)]
+
+[arxiv 2026.09] Small yet Assistive: Spatially-Aware Post-Training for Low Vision  [[PDF](https://arxiv.org/abs/2609.28757)]
+
+[arxiv 2026.09] An Empirical Study of VLM Pipelines for Long-Document QA  [[PDF](https://arxiv.org/abs/2609.29933)]
+
+[arxiv 2026.09] Free the Language Model From the Vision Encoder: Semantic Serialization as a Perception Interface for Small Language Models  [[PDF](https://arxiv.org/abs/2609.29601)]
+
+[arxiv 2026.09] Pistis Technical Report  [[PDF](https://arxiv.org/abs/2609.28554)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

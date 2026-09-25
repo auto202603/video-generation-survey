@@ -1,5 +1,5 @@
 ## Dataset
-<!-- Added on 2026-09-24 -->
+<!-- Added on 2026-09-25 -->
 
 [arxiv 2026.09] UniMo: Unifying Human and Animal Motion Generation  [[PDF](https://arxiv.org/abs/2609.12342)]
 
@@ -697,6 +697,12 @@
 [arxiv 2026.09] Sample, Simulate, Select: Physics-in-the-Loop Text-to-Motion for Humanoids Without Training  [[PDF](https://arxiv.org/abs/2609.26420)]
 
 [arxiv 2026.09] AWM-VLA: AlignedWorld Modeling for Efficient and Explainable Vision-Language-Action Policies  [[PDF](https://arxiv.org/abs/2609.27753)]
+
+[arxiv 2026.09] Ego-Exo4D Human Meshes Dataset: 4D Human Motion Reconstruction for Ego-Exo Captures  [[PDF](https://arxiv.org/abs/2609.30187),[Page](https://abhiram824.github.io/egoexo4d_human_meshes)]
+
+[arxiv 2026.09] Rolling-WAM: World Action Models with Rolling Imagination  [[PDF](https://arxiv.org/abs/2609.30247),[Page](https://rolling-wam.github.io/)]
+
+[arxiv 2026.09] BeyondRetarget: Learning Executable Humanoid Motions Directly from Monocular Video  [[PDF](https://arxiv.org/abs/2609.29850)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 

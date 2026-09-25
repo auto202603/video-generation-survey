@@ -1,5 +1,5 @@
 # Image Editing In Diffusion 
-<!-- Added on 2026-09-24 -->
+<!-- Added on 2026-09-25 -->
 
 [arxiv 2026.09] Balancing Emotional Alignment and Semantic Consistency in Image Generation via Reinforcement Learning with Valence-Arousal Anchoring  [[PDF](https://arxiv.org/abs/2609.12830),[Page](https://github.com/ramon-alana/eit-with-anchor-and-grpo)]
 
@@ -3380,6 +3380,34 @@
 [arxiv 2026.09] Image Denoising Using Lower Semi-Frames  [[PDF](https://arxiv.org/abs/2609.27893)]
 
 [arxiv 2026.09] WTF?! Simulation-Free Reinforcement Learning with Wasserstein-Tilted Flow Maps  [[PDF](https://arxiv.org/abs/2609.27033)]
+
+[arxiv 2026.09] Towards Practical Compression of 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2609.30245)]
+
+[arxiv 2026.09] OceanXL: Large-scale Underwater 3D Gaussian Splatting via Block Partitioning and Adaptive Pruning  [[PDF](https://arxiv.org/abs/2609.29985)]
+
+[arxiv 2026.09] ADATEX4D: adaptive texture capacity allocation for 4D gaussian splatting  [[PDF](https://arxiv.org/abs/2609.29963)]
+
+[arxiv 2026.09] EndoFSA: Endoscopic Few-Shot Image Generation via Rank-Constrained Parameter Adaptation  [[PDF](https://arxiv.org/abs/2609.29930)]
+
+[arxiv 2026.09] SplatLabel: Pseudo-Labelling through 4D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2609.29836)]
+
+[arxiv 2026.09] SpectralCTGaussians: Projection-Domain Reconstruction and Basis Material Decomposition for Spectral CT using 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2609.29638)]
+
+[arxiv 2026.09] AdaPilot: Towards Scene-Adaptive Policy Learning for Cross-Generator Text-to-Image Quality Optimization  [[PDF](https://arxiv.org/abs/2609.29517)]
+
+[arxiv 2026.09] TOLA: Text-aware One-Step Latent Adaptation for Diffusion-based Text Image Super-Resolution  [[PDF](https://arxiv.org/abs/2609.29240)]
+
+[arxiv 2026.09] Spectral Amplitude Purification in Distribution Matching for Diffusion Distillation  [[PDF](https://arxiv.org/abs/2609.29116)]
+
+[arxiv 2026.09] Only What Was Seen: Observation-Gram Compaction of View-Dependent Appearance in 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2609.28997)]
+
+[arxiv 2026.09] PlenoCI: Plenoptic CharacterIstics for View Dependence Aware Change Classification  [[PDF](https://arxiv.org/abs/2609.28930)]
+
+[arxiv 2026.09] PePESeg3D: Perception Prior Enhances Multi-Scale Segmentation for 3D Gaussian Splatting  [[PDF](https://arxiv.org/abs/2609.28645)]
+
+[arxiv 2026.09] M3GD: Multi-Modal Multi-View Geometric Diffusion for Camera--LiDAR Novel View Synthesis  [[PDF](https://arxiv.org/abs/2609.30056)]
+
+[arxiv 2026.09] CARE: Condition-Aware Representation Regularization for Diffusion Models  [[PDF](https://arxiv.org/abs/2609.28561)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
